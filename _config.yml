@@ -1,5 +1,7 @@
 theme: jekyll-theme-slate
-name: Illegible Semantics
+title: Illegible Semantics
+tagline: Companion Page
+description: 
 show_downloads: false
 github:
   is_project_page: false
