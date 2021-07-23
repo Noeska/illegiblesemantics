@@ -1,23 +1,55 @@
 ---
-layout: compress
 ---
-<!doctype html>
-<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
-<head>
-	{% include _head.html %}
-</head>
-<body id="top-of-page" class="{{ layout.format }}">
-	{% unless page.skip_boilerplate %}
-	{% include _navigation.html %}
-	{% endunless %}
 
-	{% include _masthead.html %}
-	{{ content }}
+<!DOCTYPE html>
+<html class="">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.data.settings.seo.description }}">
+    <meta rel="author" href="{{ site.data.settings.seo.rel-author }}">
+    <meta rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:image" content="{{ site.url }}/assets/img/projects/proj-3/Toucan.jpg">
 
-	{% unless page.skip_boilerplate %}
-	{% include _footer.html %}
-	{% endunless %}
+    <meta property="og:image:width" content="600" />
+    <meta property="og:image:height" content="400" />
 
-	{% include _footer_scripts.html %}
-</body>
+    <title>
+      {% if page.title == "Home" %}
+        {{ site.title }}
+      {% else %}
+        {{ page.title }} | {{ site.title }}
+      {% endif %}
+    </title>
+    <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <!-- Use Atom -->
+    {% feed_meta %}
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+    <!-- Use Jekyll SEO plugin -->   
+    {% seo %}
+
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}  
+  {% endif %}
+  </head>
+  <body>
+    <div class="site-container">
+      {% include header.html %}
+      {{ content }}
+      {% include footer.html %}
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  </body>
 </html>

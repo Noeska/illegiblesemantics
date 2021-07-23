@@ -1,0 +1,59 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Materials', url: ''}
+# - {name: 'Blog',     url: 'blog'}
+- {name: 'Authors',    url: 'about'}
+# - {name: 'Work With Me',  url: 'work'}
+- {name: 'Contact',  url: 'contact'}
+
+#-------------------------------
+# Projects Section
+
+projects:
+- {name: 'Dimensions',   url: 'proj-1'}
+- {name: 'Samples', url: 'proj-2'}
+- {name: 'MetalVis Tool',   url: 'proj-3'}
+#- {name: 'Project Four',  url: 'proj-4'}
+#- {name: 'Project Five',  url: 'proj-5'}
+
+#-------------------------------
+# Contact Section
+social:
+ - {icon: 'instagram', link: 'https://instagram.com/tundratoucan'}
+ - {icon: 'behance', link: 'https://behance.net/tundratoucan'}
+ - {icon: 'facebook', link: 'https://facebook.com/gerrit.rijken'}
+ - {icon: 'twitter',   link: 'https://twitter.com/tundratoucan'}
+ - {icon: 'envelope',  link: 'mailto:gerrit.rijken@gmail.com'}
+ 
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Illegible Semantics: companion page to alt.vis paper submission' 
+  rel-author: ''
+  rel-publisher: ''
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-analytics-ua: ''
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: ''
