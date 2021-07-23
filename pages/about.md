@@ -9,7 +9,7 @@ Meet the authors and learn more about their metal credentials!
 
 
 ## Gerrit Rijken
-<div style="float:left;margin:5px 5px 5px 5px;display: block;" markdown="1"><img src="\illegiblesemantics\assets\img\members\gerrit.jpg"/>
+<div style="float:left;margin:5px 5px 5px 5px;display: block;" markdown="1"><img src="\illegiblesemantics\assets\img\members\Gerrit.jpg"/>
 </div>
 Gerrit Rijken never dreamed of becoming a metal designer. He only got into it after being snubbed by a local band from the Netherlands who felt his work was not symmetrical enough to be labeled ‘trve’. Once got the opportunity to redesign Deicide’s logo, which got printed on two shirts before they went back to their old logo! Now listening to Darkthrone’s Natassja in Eternal Sleep. Not because he likes lo-fi black metal all that much; it’s just that the D follows the C of Chvrches in his sorted playlist. He is so metal, he’s only happy when it rains.
 
