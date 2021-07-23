@@ -6,4 +6,4 @@ permalink: /contact
 
 # Contact
 
-You may contact me [through my email](mailto:gerrit.rijken@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40tundratoucan). 
+Get in touch with lead author Gerrit Rijken [through his email](mailto:gerrit.rijken@gmail.com) or by [tweeting in his general direction](https://twitter.com/intent/tweet?text=%40tundratoucan). 
