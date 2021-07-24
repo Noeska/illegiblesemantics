@@ -15,7 +15,7 @@ But I'd say generally, as opposed to other the (sub)genres that we discuss in th
 ![Heavy Metal](..\assets\img\projects\proj-2\heavy.png)
 
 ## NWOBHM
-GR: With respect to the New Wave of British Heavy Metal<sup>1</sup>, a rather specific subset of Heavy Metal that emerged, as the already denotes, in the United Kingdom, the above also applies here. 
+GR: With respect to the New Wave of British Heavy Metal<sup>1</sup>, a rather specific subset of Heavy Metal that emerged, as the name already denotes, in the United Kingdom, the above also applies here. 
 
 Here, I purposely decided to do a logo in the vein of Judas Priest's logo -- well, one of them at least --, because I felt it'd make for an interesting comparison with specifically Teutonic Thrash Metal logos, which can be found further down. The key words here: **industrial**, **tight**, and **laser-like**.
 ##### [1] Simon Poole, 'Retro Rock and Heavy History', *Global Metal Music and Culture: Current Directions in Metal Studies*, 302-303.
@@ -59,7 +59,7 @@ This extreme subgenre was originally inspired by and birthed out of the (crust-)
 
 ## Technical Death Metal
 #### 1990s 
-A hard-and-fast rule in metal logo design is that the more technical the music, the less sophisticated the logo. This is examplified in Technical Death Metal, a genre whose artists mix "fast, virtuosic guitar riffs and solos of vatying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>2</sup> It's usually easy to recognize bands playing in this genre. They often have what **looks like a Black Metal logo**, except it's not -- it's **not nearly as sophisticated**. Either that or they have a **type-only logo**, sometimes **superimposed over over an earlier logo** -- usually one of these "Black Metal-like" logos. 
+A hard-and-fast rule in metal logo design is that the more technical the music, the less sophisticated the logo. This is examplified in Technical Death Metal, a genre whose artists mix "fast, virtuosic guitar riffs and solos of varying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>2</sup> It's usually easy to recognize bands playing in this genre. They often have what **looks like a Black Metal logo**, except it's not -- it's **not nearly as sophisticated**. Either that or they have a **type-only logo**, sometimes **superimposed over over an earlier logo** -- usually one of these "Black Metal-like" logos. 
 ##### [2] Simon Poole, 'M. Unger, *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, 20.
 ![Technical Death Metal](..\assets\img\projects\proj-2\tech90.jpg)
 
@@ -79,11 +79,11 @@ What does "Progressive" mean in the context of Extreme Metal? Who knows? I sure 
 ![Black Metal](..\assets\img\projects\proj-2\black4.jpg)
 
 ## Pagan Black Metal
-Pagan Black Metal is one of many off-shoots of traditional "mainstream" Black Metal; but whereas it can be difficult to differentiate one subgenres of Black Metal from another, it is very easy to pick recognize a Pagan Black Metal logo. The one thing that sets them apart from all other subgenres is a high level of "on-the-noseness," with figurative, arty, romantic graphics accompanying the logo that spell out "pro-Pagan romanticism," stopping short of actually spelling out "This is a Pagan Black Metal" band.
-
+Pagan Black Metal is one of many off-shoots of traditional "mainstream" Black Metal; but whereas it can be difficult to differentiate one subgenres of Black Metal from another, it is very easy to pick recognize a Pagan Black Metal logo. The one thing that sets them apart from all other subgenres is a high level of **"on-the-noseness,"** with **figurative, arty, romantic graphics** accompanying logos that spell out **"pro-Pagan romanticism,"** stopping short of actually spelling out "We put Paganism on a pedestal."
 ![Pagan Black Metal](..\assets\img\projects\proj-2\pagan.jpg)
 
 ## Folk Metal
+Closely related to the above is Folk Metal. Where they differ is that Pagan Black Metal still kinda has the cool factor of Black Metal, Folk Metal has little to no coolness at all, and this shows in the logos. They often take their inspiration from Black Metal aesthetics, with logos made of **lowercase blackletters** or some **Celtic type**, with only **some degree of symmetry** on both opposite ends of the logo if at all, and even then usually through silly **decorative curls** rather than through cool letter design.   
 ![Folk Metal](..\assets\img\projects\proj-2\folk.jpg)
 
 # Crossover
@@ -99,6 +99,11 @@ Blackened Death Metal is usually straight-up Death Metal, but with lyrics that d
 ![Grindcore](..\assets\img\projects\proj-2\grind.jpg)
 
 #### Deathgrind
+* Person A: "Are they a Black Metal band?" 
+* Person B: "No, silly. They're a Deathgrind band."
+
+If you are anything like Person A, don't feel bad. It's is a very common misconception to mistake a Deathgrind logo for a Black Metal logo. But once you know what to look for and how to interpret it, things becase as clear as day to you. For starters, Black Metal logos are typically black and (inverted) white in color; this one is colored **green**, a color that is often used by Grindcore (and adjacent) bands. Another key thing to look out for are signs of **compositional design** -- or, perhaps rather, **lack thereof**. If a logo features a design of intricate, meticulous linework, it's probably *not* a Deathgrind logo.
+
 ![Deathgrind](..\assets\img\projects\proj-2\deathgrind1.jpg)
 ![Deathgrind](..\assets\img\projects\proj-2\deathgrind2.jpg)
 
