@@ -69,7 +69,7 @@ It's fairly easy to recognize a post-2000s Technical Death band from a 1990s ban
 ![Technical Death Metal](..\assets\img\projects\proj-2\tech00.jpg)
 
 ## Progressive Metal
-What does "Progressive" mean in the context of Extreme Metal? Who knows? I sure as hell don't. It could mean anything from "We brought in a saxophonist to record a Metal album with us" to a more general "We march to our own beat" -- which is often to be taken literally: Progressive bands seem to have a weird thing for syncopation. The question then is how to best represent this visually? It may seem daunting but it is actually quite easy: (1.) the letters need to be **tight and bold** and (2.) the letters need to be **missing parts**, because this says thing about the band's music: "Our music is tight and bold! And it's often difficult to follow and may even end abruptly."
+What does "Progressive" mean in the context of Extreme Metal? Who knows? I sure as hell don't. It could mean anything from "We brought in a saxophonist to record a Metal album with us" to a more general "We march to our own beat" -- which is often to be taken literally: Progressive bands seem to have a weird thing for syncopation. The question then is how to best represent this visually? It may seem daunting but it is actually quite easy: (1.) the letters need to be **tight and bold** and (2.) the letters need to be **missing parts**, because this says something about the band's music: "Our music is tight and bold! And it's often difficult to follow and may even end abruptly."
 ![Progressive Metal](..\assets\img\projects\proj-2\progressive.jpg)
 
 # Black Metal
