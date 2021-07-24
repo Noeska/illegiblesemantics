@@ -55,6 +55,9 @@ This extreme subgenre was originally inspired by and birthed out of the (crust-)
 ![Swedish Doom-Death Metal](..\assets\img\projects\proj-2\swedish.jpg)
 
 ## Melodic Death Metal
+Melodic Death Metal was first pioneered in the United Kingdom and arguably especially in Sweden, specifically in Gothenburg. As a genre, it took its inspiration from Prog Rock
+
+Initially, in the early 1990s, Melodic Death logos were very diverse in style, with some (seemingly) taking their inspiration from "mainstream" Death Metal logos (In Flames), others had intricate custom designs (At the Gates), while still others opted for a distorated and deformed Celtic type (Dark Tranquility). In later and more recent years, however, most bands in this genre have **higly-readable wordmarks** that are sometimes "touched up" or "filled in" with a **dirt brush**.
 ![Melodic Death Metal](..\assets\img\projects\proj-2\gothenburg.jpg)
 
 ## Technical Death Metal
@@ -83,7 +86,7 @@ Pagan Black Metal is one of many off-shoots of traditional "mainstream" Black Me
 ![Pagan Black Metal](..\assets\img\projects\proj-2\pagan.jpg)
 
 ## Folk Metal
-Closely related to the above is Folk Metal. Where they differ is that Pagan Black Metal still kinda has the cool factor of Black Metal, Folk Metal has little to no coolness at all, and this shows in the logos. They often take their inspiration from Black Metal aesthetics, with logos made of **lowercase blackletters** or some **Celtic type**, with only **some degree of symmetry** on both opposite ends of the logo if at all, and even then usually through silly **decorative curls** rather than through cool letter design.   
+Closely related to the above is Folk Metal. Where they differ is that while Pagan Black Metal still kinda has the cool factor of Black Metal, Folk Metal has little to no coolness at all, and this shows in the logos. They often take their inspiration from Black Metal aesthetics, with logos made of **lowercase blackletters** or some **Celtic type**, with only **some degree of symmetry** on both opposite ends of the logo, if at all, and even then usually through silly **decorative curls** rather than through cool letter design.   
 ![Folk Metal](..\assets\img\projects\proj-2\folk.jpg)
 
 # Crossover
@@ -96,6 +99,7 @@ Blackened Death Metal is usually straight-up Death Metal, but with lyrics that d
 ![Blackened Death Metal](..\assets\img\projects\proj-2\blackened2.jpg)
 
 # Grindcore
+Grindcore fuses elements of Heavy Metal with Punk Hardcore, creating a negative synergy where one plus one arguably equals less than two. No wonder, then, that Grindcore logos look **crude and unfinished** at best. But all is not bad either, for great (to some) is the genre's fondness for puerile humor and disgusting aesthetics, with visual **references to scathology and other bodily functions**. In short, think of Grindcore aesthetics as the typographic equivalent of a schoolboy's fantasies. This may also help explain the heavy usage of **color and texture**. (Kids love color. Right? I wouldn't know, I'm not a father.)
 ![Grindcore](..\assets\img\projects\proj-2\grind.jpg)
 
 #### Deathgrind
