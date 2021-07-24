@@ -46,14 +46,20 @@ GR: Power Metal takes its inspiration from both traditional Heavy Metal and Spee
 
 ## Brutal Death Metal
 
-## Doom-Death Metal
+## Death-Doom 
+This extreme subgenre combines the slow tempos and pessimistic, or merely depressive, melodies of Doom Metal with the low, grunting vocals of Death Metal. Typically, a Death-Doom logo is basically Blackletter(-like) wordmark surrounded with a white, sometimes jaggy, halo.
 ![Swedish Doom-Death Metal](..\assets\img\projects\proj-2\swedish.jpg)
 
 ## Melodic Death Metal
 ![Melodic Death Metal](..\assets\img\projects\proj-2\gothenburg.jpg)
 
 ## Technical Death Metal
+#### 1990s 
 ![Technical Death Metal](..\assets\img\projects\proj-2\tech90.jpg)
+
+#### Post-2000s
+It's fairly easy to recognize a post-2000s Tech Death band from a 1990s band in the same genre. For some reason wholly unknown to me, the former is likely to have a logo that they proudly put on their shirts -- even though it doesn't really look good. It's always like these logos were done by a novice who played with **Illustrator** and who is not quite familiar yet with Illustrator's **Pen tool**. The result inevitably is that all these logos have a **"Bézier" look** to them; and this is the reason they *never* look good. 
+
 ![Technical Death Metal](..\assets\img\projects\proj-2\tech00.jpg)
 
 ## Progressive Death Metal
@@ -72,11 +78,13 @@ GR: Power Metal takes its inspiration from both traditional Heavy Metal and Spee
 ![Folk Metal](..\assets\img\projects\proj-2\folk.jpg)
 
 # Crossover
-#### Blackened Death
+#### Blackened Thrash Metal
+Blackened Thrash Metal is what you get when Black Metallers want to play something "thrashy." When this happens, nine out of ten times they commission someone to basically design them a Death-Doom-like logo, but one that features bat wings. 
 ![Blackened Thrash Metal](..\assets\img\projects\proj-2\blackened.jpg)
 
-#### Blackened Thrash
-![Blackened Thrash Metal](..\assets\img\projects\proj-2\blackened2.jpg)
+#### Blackened Death
+Blackened Death Metal is usually straight-up Death Metal, but with lyrics that deal with Satanism and the occult. The logos reflect just that: often these are standard Death logos, with the only difference being the inclusion of, say, an inverted cross.
+![Blackened Death Metal](..\assets\img\projects\proj-2\blackened2.jpg)
 
 # Grindcore
 ![Grindcore](..\assets\img\projects\proj-2\grind.jpg)
