@@ -1,5 +1,5 @@
 ---
 layout: post
-title: 'MetalVis Tools'
+title: 'MetalVis Tool'
 ---
-Explore thousands of real band logos interactively!
+Explore thousands of real band logos interactively <a href="https://renecutura.eu/metalvis" target="_blank">here</a>! 
