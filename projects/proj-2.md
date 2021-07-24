@@ -34,7 +34,7 @@ GR: Power Metal takes its inspiration from both traditional Heavy Metal and Spee
 ![Thrash Metal](..\assets\img\projects\proj-2\thrash.jpg)
 
 ## Teutonic Thrash Metal 
-As a genre, Teutonic Thrash Metal has a distinct German character, and a few notable exceptions aside, this is reflected in the kind of logos bands in this genre have. Like 1980s U.S. Trash logos, Teutonic Thrash logos are extremely angular, wth fixed angles, but with way less emphasis on symmetry, and the letters are generally more blocky in shape.
+As a genre, Teutonic Thrash Metal has a distinct German character, and a few notable exceptions aside, this is reflected in the kind of logos bands in this genre have. Like 1980s U.S. Trash logos, Teutonic Thrash logos are **extremely angular, wth fixed angles**, but with way **less emphasis on symmetry**, and the letters are generally **more blocky in shape**.
 
 ![Teutonic Thrash Metal](..\assets\img\projects\proj-2\teutonic.jpg)
 
@@ -55,9 +55,9 @@ This extreme subgenre was originally inspired by and birthed out of the (crust-)
 ![Swedish Doom-Death Metal](..\assets\img\projects\proj-2\swedish.jpg)
 
 ## Melodic Death Metal
-Melodic Death Metal was first pioneered in the United Kingdom and arguably especially in Sweden, specifically in Gothenburg. As a genre, it took its inspiration from Prog Rock
+Melodic Death Metal was arguably first pioneered in the United Kingdom, but the genre really came into its own in Sweden, specifically in Gothenburg. As a genre, it took its inspiration from a wide range of styles, from Death Metal to NWOBHM to Progressive Rock, with certain elements from these reference styles more predominant in one band's music than another's, which may help explain why it is difficult to think of a quintessential Melodic Death logo. 
 
-Initially, in the early 1990s, Melodic Death logos were very diverse in style, with some (seemingly) taking their inspiration from "mainstream" Death Metal logos (In Flames), others had intricate custom designs (At the Gates), while still others opted for a distorated and deformed Celtic type (Dark Tranquility). In later and more recent years, however, most bands in this genre have **higly-readable wordmarks** that are sometimes "touched up" or "filled in" with a **dirt brush**.
+Initially, indeed, in the early 1990s, Melodic Death logos were very diverse in style, with some (seemingly) taking their inspiration from "mainstream" Death Metal logos (In Flames), others had intricate custom designs (At the Gates), while still others opted for a distorted and deformed Celtic type (Dark Tranquility). In later and more recent years, however, most bands in this genre have **highly-readable wordmarks** that are sometimes "touched up" or "filled in" with a **dirt brush**.
 ![Melodic Death Metal](..\assets\img\projects\proj-2\gothenburg.jpg)
 
 ## Technical Death Metal
@@ -82,7 +82,7 @@ What does "Progressive" mean in the context of Extreme Metal? Who knows? I sure 
 ![Black Metal](..\assets\img\projects\proj-2\black4.jpg)
 
 ## Pagan Black Metal
-Pagan Black Metal is one of many off-shoots of traditional "mainstream" Black Metal; but whereas it can be difficult to differentiate one subgenres of Black Metal from another, it is very easy to recognize a Pagan Black Metal logo. The one thing that sets them apart from all other subgenres is a high level of **"on-the-noseness,"** with **figurative, arty, romantic graphics** accompanying logos that spell out **"pro-Pagan romanticism,"** stopping short of actually spelling out "We put Paganism on a pedestal."
+Pagan Black Metal is one of many off-shoots of traditional "mainstream" Black Metal; but whereas it can be difficult to differentiate one subgenre of Black Metal from another, it is very easy to recognize a Pagan Black Metal logo. The one thing that sets them apart from all other subgenres is a high level of **"on-the-noseness,"** with **figurative, arty, romantic graphics** accompanying logos that spell out **"pro-Pagan romanticism,"** stopping short of actually spelling out "We put Paganism on a pedestal."
 ![Pagan Black Metal](..\assets\img\projects\proj-2\pagan.jpg)
 
 ## Folk Metal
