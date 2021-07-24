@@ -59,7 +59,7 @@ This extreme subgenre was originally inspired by and birthed out of the (crust-)
 
 ## Technical Death Metal
 #### 1990s 
-A hard-and-fast rule in metal logo design is that the more technical the music, the less sophisticated the logo. This is examplified in Technical Death Metal, a genre whose artists mix "fast, virtuosic guitar riffs and solos of varying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>2</sup> It's usually easy to recognize bands playing in this genre. They often have what **looks like a Black Metal logo**, except it's not -- it's **not nearly as sophisticated**. Either that or they have a **type-only logo**, sometimes **superimposed over over an earlier logo** -- usually one of these "Black Metal-like" logos. 
+A hard-and-fast rule in metal logo design is that the more technical the music, the less sophisticated the logo. This is exemplified in Technical Death Metal, a genre whose artists mix "fast, virtuosic guitar riffs and solos of varying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>2</sup> It's usually easy to recognize bands playing in this genre. They often have what **looks like a Black Metal logo**, except it's not -- it's **not nearly as sophisticated**. Either that or they have a **type-only logo**, sometimes **superimposed over over an earlier logo** -- usually one of these "Black Metal-like" logos. 
 ##### [2] Simon Poole, 'M. Unger, *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, 20.
 ![Technical Death Metal](..\assets\img\projects\proj-2\tech90.jpg)
 
