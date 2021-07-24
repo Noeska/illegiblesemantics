@@ -98,11 +98,15 @@ Blackened Death Metal is usually straight-up Death Metal, but with lyrics that d
 
 # Doom Metal
 
-## Psychedelic Doom
+## Psychedelic Doom Metal
+Nothing says stoner and psychedelia like a **hazy** or **cloud-like logo**. To make it further clear that this music is good for intense couch-sitting and bong-ripping, **greens** and **purples** are often used.
 ![Psychedelic Doom](..\assets\img\projects\proj-2\psychedelic.jpg)
 
 ## Funeral Doom
+Funeral Doom is characterized by its sloooooow tempos. The letters are spaced miles apart from each other so as to visually convey the sense of mind-numbing slowness. And because the music doesn't inspire anyone to come up a custom design, Funeral Doom bands often have to settle for a wordmark (i.e., a type-only logo) with maybe some decorative curls.   
+
 ![Funeral Doom](..\assets\img\projects\proj-2\funeral.jpg)
+
 
 ## Gothic Metal
 ![Gothic-Doom Metal](..\assets\img\projects\proj-2\gothic.jpg)
