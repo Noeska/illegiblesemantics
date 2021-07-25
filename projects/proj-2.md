@@ -8,26 +8,26 @@ Here you can see samples of logo designs covering a broad range of metal genres 
 
 
 # Heavy Metal
-GR: I struggled to find a quintessential example of a pure, heavy metal rock logo that I could use as inspiration, because these types of logos are kinda all over the place style-wise, from rough, sketchy logos (Skid Row) to type-only (or type-like) logos (Whitesnake) that have a "Saturday-morning cartoon" feel to them (Winger) -- which I do not mean in a pejorative sense. 
+I struggled to find a quintessential example of a pure, heavy metal rock logo that I could use as inspiration, because these types of logos are kinda all over the place style-wise, from rough, sketchy logos (Skid Row) to type-only (or type-like) logos (Whitesnake) that have a "Saturday-morning cartoon" feel to them (Winger) -- which I do not mean in a pejorative sense. 
 
 But I'd say generally, as opposed to other the (sub)genres that we discuss in the paper, Heavy Metal logos take their cues from **biker aesthetics** and have a **blocky feel to them**. They're also often **colorful in terms of hues and tinges**.
 
 ![Heavy Metal](..\assets\img\projects\proj-2\heavy.png)
 
 ## NWOBHM
-GR: With respect to the New Wave of British Heavy Metal<sup>1</sup>, a rather specific subset of Heavy Metal that emerged, as the name already denotes, in the United Kingdom, the above also applies here. 
+With respect to the New Wave of British Heavy Metal<sup>1</sup>, a rather specific subset of Heavy Metal that emerged, as the name already denotes, in the United Kingdom, the above also applies here. 
 
 Here, I purposely decided to do a logo in the vein of Judas Priest's logo -- well, one of them at least --, because I felt it'd make for an interesting comparison with specifically Teutonic Thrash Metal logos, which can be found further down. The key words here: **industrial**, **tight**, and **laser-like**.
 ##### [1] Simon Poole, 'Retro Rock and Heavy History', *Global Metal Music and Culture: Current Directions in Metal Studies*, 302-303.
 ![NWOBHM](..\assets\img\projects\proj-2\nwobhm.png)
 
 #### Speed Metal
-GR: Speed Metal has its roots in NWOBHM and would lay the lay the foundation for later extreme metal genres. As the the name already suggests, it's all about speed. In this it is much like Thrash Metal -- which is probably why Speed logos can easily be mistaken for Thrash logos --, but it's lyrically less abrasive and musically more melodic. So what sets these apart from the rest? I'd say these logos, more than others, convey a visual sense of speed, which is why often the letters are designed in a **cursive style** and **drawn together**, or if not that at least **packed closely together**.
+Speed Metal has its roots in NWOBHM and would lay the lay the foundation for later extreme metal genres. As the the name already suggests, it's all about speed. In this it is much like Thrash Metal -- which is probably why Speed logos can easily be mistaken for Thrash logos --, but it's lyrically less abrasive and musically more melodic. So what sets these apart from the rest? I'd say these logos, more than others, convey a visual sense of speed, which is why often the letters are designed in a **cursive style** and **drawn together**, or if not that at least **packed closely together**.
 
 ![Speed Metal](..\assets\img\projects\proj-2\speed.png)
 
 #### Power Metal
-GR: Power Metal takes its inspiration from both traditional Heavy Metal and Speed Metal and fuses this with theatrics and bombast in an effort to create something emotionally impactful and powerful. (More often, however, the result is *bathos*. But that's just me talking.) This may be why Power logos are often **rendered in full 3D**, with a **metallic** or **stony texture**. Because, you know, Power Metal is that deep and powerful! Like metal or stone!
+Power Metal takes its inspiration from both traditional Heavy Metal and Speed Metal and fuses this with theatrics and bombast in an effort to create something emotionally impactful and powerful. (More often, however, the result is *bathos*. But that's just me talking.) This may be why Power logos are often **rendered in full 3D**, with a **metallic** or **stony texture**. Because, you know, Power Metal is that deep and powerful! Like metal or stone!
 ![Power Metal](..\assets\img\projects\proj-2\power.jpg)
 
 # Thrash Metal
@@ -123,8 +123,7 @@ In the mid-1980s, and especially in the early 1990s, there were created a few lo
 ![Black Metal](..\assets\img\projects\proj-2\black1.jpg)
 4. And the logo is often **unreadable** and purposely made to resemble a **lump of tree roots**. 
 ![Black Metal](..\assets\img\projects\proj-2\black3.jpg)
-5. Though not included in these samples, Black Metal logos also often incorporate (background) **graphics of medieval weapons** (swords, axes, maces, flails, shields).
-
+5. Though not included in these samples, Black Metal logos also often incorporate (background) **graphics of medieval weapons** (swords, axes, maces, flails, shields). It's most likely done to ground the band in History, with a capital H. It's the Black Metal equivalent of opening a new restaurant in 2021 and hanging up a sign that says, "In business since 1991."
 
 ## Pagan Black Metal
 Pagan Black Metal is one of many off-shoots of traditional "mainstream" Black Metal; but whereas it can be difficult to differentiate one subgenre of Black Metal from another, it is very easy to recognize a Pagan Black Metal logo. The one thing that sets them apart from all other subgenres is a high level of **"on-the-noseness,"** with **figurative, arty, romantic graphics** accompanying logos that spell out **"pro-Pagan romanticism,"** stopping short of actually spelling out "We put Paganism on a pedestal."
@@ -182,7 +181,7 @@ Gothic Metal is a broadly defined genre, comprising of two main subgenres: on th
 ![Gothic-Doom Metal](..\assets\img\projects\proj-2\gothic.jpg)
 
 # Avant-Garde Metal
-The term "avant-garde" is often used synomously with "sophisticated." And, certainly, this label holds true for (most) bands playing in this nebulous genre that compromises a range of different (sub)genres. In fact, it comprises of so many heterogenous (sub)genres that "avant-garde" as a genre label has very little meaning aside from, "These guys and women really know how to play their instruments!"
+The term "avant-garde" is often used synomously with "sophisticated." And, certainly, this label holds true for (most) bands playing in this nebulous genre that compromises a range of different (sub)genres. In fact, it comprises of so many heterogenous (sub)genres that "avant-garde" as a genre label has very little meaning aside from, "These guys and gals really know how to play their instruments!"
 
 Funnily enough however, whilst avant-garde bands most likely, definitely, absolutely display technical virtuosity, they tend to have the least inspired, let alone sophisticated, logos. More than often they have **plain wordmarks**. Even more damning is that they seemingly have an inexplicable preference for the **Abaddon type** (or something very close to it). 
 
