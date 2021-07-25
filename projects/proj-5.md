@@ -10,5 +10,7 @@ While work on this timeline is far from complete and may have many names and log
 
 *Full disclosure: I know well that other authors (most notably, Mark Riddick and Christophe Szpajdel) have already put out books that deal with this very subject, but I have yet to read those. So, yes, this may well be a pointless, self-indulgent waste. But perhaps it will contribute to a better understanding of global Extreme Metal aesthetics. So I will continue digging ...* 
 
+-- Gerrit
+
 # The Early Days
 (To be continued)

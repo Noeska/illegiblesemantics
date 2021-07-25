@@ -2,13 +2,18 @@
 layout: post
 title: 'Logo Samples'
 ---
-Here you can see samples of logo designs covering a broad range of metal genres and extreme subgenres with some tongue-in-cheek commentary by Gerrit Rijken. 
+<!-- Here you can see samples of logo designs covering a broad range of metal genres and extreme subgenres with some tongue-in-cheek commentary by Gerrit Rijken. -->
 
+In our paper we explore the "design space" of Metal logos; and when we say "Metal," we refer to Heavy Metal and its Extreme Metal subgenres -- and the subgenres within those. Each of these has its own visual aesthetics and codes that govern how genre logos can or should look like, generally. Here things can get weirdly specific. For example, bands in a genre often have the same kind of logos, but depending on subgenre, bands may have a different kind of logo, and a logo style can even depend on a given band's locality. 
 
+As you can imagine, it can get complicated fairly quickly when you're trying to get a handle on what's what and how does it visually, concretely, and pratically play out -- especially if you're not in the know. In order to facilitate understanding I created close to 30 logos, covering a broad range of genres and subgenres of Heavy Metal music. I then added some tongue-in-cheek commentary to give you some insight into the design process. 
 
+*Full disclosure: With these genre samples I tried to represent as faithfully as possible a broad range of genres, based on my own years of experience in designing Metal logos and studying up on genres that I'm not too familiar with. I then had them checked by several musicians and artists in the Metal scene to confirm style accuracy and coverage. (The list of names can be found in the paper.) But, ultimately, these remain interpretations. It may well be that you have other ideas on how these logos are supposed to look like. Maybe you don't think my comments are clever or helpful or funny. In that case, drop me a line on Twitter, and tell me what needs improving.* 
+
+-- Gerrit
 
 # Heavy Metal
-I struggled to find a quintessential example of a pure, heavy metal rock logo that I could use as inspiration, because these types of logos are kinda all over the place style-wise, from rough, sketchy logos (Skid Row) to type-only (or type-like) logos (Whitesnake) that have a "Saturday-morning cartoon" feel to them (Winger) -- which I do not mean in a pejorative sense. 
+I struggled to find a quintessential example of a pure, heavy metal rock logo that I could use as inspiration, because these types of logos are kinda all over the place style-wise, from rough, sketchy logos (**Skid Row**) to type-only (or type-like) logos (**Whitesnake**) that have a "Saturday-morning cartoon" feel to them (**Winger**) -- which I do not mean in a pejorative sense. 
 
 But I'd say generally, as opposed to other the (sub)genres that we discuss in the paper, Heavy Metal logos take their cues from **biker aesthetics** and have a **blocky feel to them**. They're also often **colorful in terms of hues and tinges**.
 
@@ -47,7 +52,7 @@ For logos, many bands within the Bay Area scene had a more "do it yourself"-arti
 
 The logo below was based on Dark Angel's logo. Though technically not a band from the Bay Area -- though still from California -- , I feel their logo captures best the look of the U.S. Thrash genre. -->
 
-It can be difficult to differentiate between a U.S. Thrash band and a German one; perhaps the only clue is that U.S. Thrash are more likely to have a hint or element of **symmetry** to them. Come to think of it, they may also have more likelihood of having an **outline** or **"halo"** surrounding the the letters. 
+It can be difficult to differentiate between a U.S. Thrash band and a German one; perhaps the only clue is that U.S. Thrash are more likely to have hints or elements of **symmetry** and **interconnectedness** to them. Come to think of it, they may also have more likelihood of having an **outline** or **"halo"** surrounding the the letters. 
 ![Thrash Metal](..\assets\img\projects\proj-2\thrash.jpg)
 
 #### Bay Area Thrash Metal
