@@ -27,14 +27,37 @@ GR: Speed Metal has its roots in NWOBHM and would lay the lay the foundation for
 ![Speed Metal](..\assets\img\projects\proj-2\speed.png)
 
 #### Power Metal
-GR: Power Metal takes its inspiration from both traditional Heavy Metal and Speed Metal and fuses this with theatrics and bombast in an effort to create something emotionally impactful and powerful. (More often, however, the result is bathos. But that's just me talking.) This may be why Power logos are often **rendered in full 3D**, with a **metallic** or **stony texture**. Because, you know, Power Metal is that deep and powerful!
+GR: Power Metal takes its inspiration from both traditional Heavy Metal and Speed Metal and fuses this with theatrics and bombast in an effort to create something emotionally impactful and powerful. (More often, however, the result is *bathos*. But that's just me talking.) This may be why Power logos are often **rendered in full 3D**, with a **metallic** or **stony texture**. Because, you know, Power Metal is that deep and powerful! Like metal or stone!
 ![Power Metal](..\assets\img\projects\proj-2\power.jpg)
 
 # Thrash Metal
+Abrasive. Loud. Extremely fast yet still precise, with impeccable sense of timing. If judging by these words alone, it may sound like I'm describing a Dutch olympian -- a speed skater or a cyclist, perhaps. But we're talking music, aren't we? I'm talking Thrash Metal, of course, which means I'm talking yet another extreme subgenre of Heavy Metal. And yes, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash logos tend to have **straight, sharp edges** which reflect the tightness and controlled nature of the music's rhythms.<sup>2</sup> Indeed, some exceptions aside, there is no softness to be found in them whatsoever -- there is only hardness.
+
+
+
+## U.S. Thrash Metal
+<!--In the U.S., Thrash Metal emerged against the backdrop of Reagan conservatism and the concurrent emergence and rise in popularity of the more mainstream friendly Glam Metal genre. This context proved extremely fertile ground for a new kind of sound, and for some reason especially in California, especially in the San Francisco Bay Area. 
+
+It is important to stress here that this is not a hard-and-fast rule for U.S. Thrash aesthetics. Ed Repka, an American graphic artist, for example, has been an instrumental figure in definining said aesthetics. 
+
+And what's really interesting here is that the aesthetics of the Bay Area scene was characterized by a "do-it-yourself" ethos, as opposed to the Metal bands of yore who often used already established fonts.<sup>2</sup> 
+
+##### Billboard, 14. apr. 2004, p. 24
+For logos, many bands within the Bay Area scene had a more "do it yourself"-artistic approach[32] compared to the older metal bands using an already established font.
+
+The logo below was based on Dark Angel's logo. Though technically not a band from the Bay Area -- though still from California -- , I feel their logo captures best the look of the U.S. Thrash genre. -->
+
+It can be difficult to differentiate between a U.S. Thrash band and a German one; perhaps the only clue is that U.S. Thrash are more likely to have a hint or element of **symmetry** to them. Come to think of it, they may also have more likelihood of having an **outline** or **"halo"** surrounding the the letters. 
 ![Thrash Metal](..\assets\img\projects\proj-2\thrash.jpg)
 
+#### Bay Area Thrash Metal
+If we are to distinguish further among U.S. Thrash Metal bands and we continue differentiating, then the early-1980s San Francisco Bay Area scene surely deserves some attention from everyone! What's interesting here is that the aesthetics of said scene were largely characterized by a "do-it-yourself" ethos, as opposed to the aesthetics of the then already established Metal bands who often used established fonts for their logos (see **Iron Maiden**, for example). Arguably the most famous example of this is **Metallica**'s logo which was drawn up by none other than James Hetfield himself. This may be why certain U.S. Thrash logos, or part of these logos, **look a bit off**; because they were not always done by trained graphical designers who are familiar with rulers and with drawing and measuring segments.
+
+Another thing to point out here is that in Bay Area Thrash logos you can often find a **juxtaposition of straight lines with round shapes** or **straight lines against curved lines**. To refer back to the example of Metallica, the C is rounded, but the first and last letters are sharp and italicized. 
+
 ## Teutonic Thrash Metal 
-As a genre, Teutonic Thrash Metal has a distinct German character, and a few notable exceptions aside, this is reflected in the kind of logos bands in this genre have. Like 1980s U.S. Trash logos, Teutonic Thrash logos are **extremely angular, wth fixed angles**, but with way **less emphasis on symmetry**, and the letters are generally **more blocky in shape**.
+As a genre, Teutonic Thrash Metal has a distinct German character, and a few notable exceptions aside, this is reflected in the kind of logos bands in this genre have. Like 1980s U.S. Trash logos, Teutonic Thrash logos are **extremely angular, wth fixed angles**, but with way **less emphasis on symmetry**, and the letters are generally **more blocky in shape**. With this, they seem to be saying, "We believe in substance over style, and function over form." Which is all fine and dandy until you try to put a cube through a round hole. It's probably why you've never heard of **Kreator** ... while you no doubt own a copy of the **"Black"** album.
+
 
 ![Teutonic Thrash Metal](..\assets\img\projects\proj-2\teutonic.jpg)
 
@@ -62,9 +85,12 @@ Initially, indeed, in the early 1990s, Melodic Death logos were very diverse in 
 
 ## Technical Death Metal
 #### 1990s 
-A hard-and-fast rule in metal logo design is that the more technical the music, the less sophisticated the logo. This is exemplified in Technical Death Metal, a genre whose artists mix "fast, virtuosic guitar riffs and solos of varying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>2</sup> It's usually easy to recognize bands playing in this genre. They often have what **looks like a Black Metal logo**, except it's not -- it's **not nearly as sophisticated**. Either that or they have a **type-only logo**, sometimes **superimposed over over an earlier logo** -- usually one of these "Black Metal-like" logos. 
-##### [2] Simon Poole, 'M. Unger, *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, 20.
+A hard-and-fast rule in metal logo design is that the more technical the music, the less sophisticated the logo. This is exemplified in Technical Death Metal, a genre whose artists mix "fast, virtuosic guitar riffs and solos of varying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>2</sup> It's usually easy to recognize bands playing in this genre. They often have what **looks like a Black Metal logo**, except it's not -- it's **not nearly as sophisticated**.
 ![Technical Death Metal](..\assets\img\projects\proj-2\tech90.jpg)
+If they're still active to this day, they now probably have a **type-only logo**, one that is most likely **superimposed** over an earlier "Black Metal-like" logo.
+![Technical Death Metal](..\assets\img\projects\proj-2\tech901.jpg)
+##### [2] Simon Poole, 'M. Unger, *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, 20.
+
 
 #### Post-2000s
 It's fairly easy to recognize a post-2000s Technical Death band from a 1990s band in the same genre. For some reason wholly unknown to me, the former is likely to have a logo that they proudly put on their shirts -- even though it doesn't really look good. It's always like these logos were done by a novice who played with **Illustrator** and who is not quite familiar yet with Illustrator's **Pen tool**. The result inevitably is that all these logos have a **"Bézier" look** to them; and this is the reason they *never* look good. 
@@ -72,7 +98,7 @@ It's fairly easy to recognize a post-2000s Technical Death band from a 1990s ban
 ![Technical Death Metal](..\assets\img\projects\proj-2\tech00.jpg)
 
 ## Progressive Metal
-What does "Progressive" mean in the context of Extreme Metal? Who knows? I sure as hell don't. It could mean anything from "We brought in a saxophonist to record a Metal album with us" to a more general "We march to our own beat" -- which is often to be taken literally: Progressive bands seem to have a weird thing for syncopation. The question then is how to best represent this visually? It may seem daunting but it is actually quite easy: (1.) the letters need to be **tight and bold** and (2.) the letters need to be **missing parts**, because this says something about the band's music: "Our music is tight and bold! And it's often difficult to follow and may even end abruptly."
+What does "Progressive" mean in the context of Extreme Metal? Who knows? I sure as hell don't. It could mean anything from "We brought in a saxophonist to record a Metal album with us" to a more general "We march to our own beat" -- which is often to be taken literally: Progressive bands seem to have a weird thing for *syncopation*. The question then is how to best represent this visually? It may seem daunting but it is actually quite easy: (1.) the letters need to be **tight and bold** and (2.) the letters need to be **missing parts**, because this says something about the band's music: "Our music is tight and bold! And it's often difficult to follow and may even end abruptly."
 ![Progressive Metal](..\assets\img\projects\proj-2\progressive.jpg)
 
 # Black Metal
@@ -117,18 +143,22 @@ If you are anything like Person A, don't feel bad. It's is a very common misconc
 # Doom Metal
 
 ## Psychedelic Doom
-Nothing says stoner and psychedelia like a **hazy** or **cloud-like logo**. To make it further clear that this music is good for intense couch-sitting and bong-ripping, **greens** and **purples** are often used.
+Nothing says stoner and psychedelia like a **hazy** or **cloud-like** logo. To make it further clear that this music is good for intense couch-sitting and bong-ripping, **greens** and **purples** are often used.
 ![Psychedelic Doom](..\assets\img\projects\proj-2\psychedelic.jpg)
 
 ## Funeral Doom
-Funeral Doom is characterized by its sloooooow tempos. The letters are spaced **miles apart** from each other so as to visually convey the sense of mind-numbing slowness. And because the music doesn't inspire anyone to come up a custom design, Funeral Doom bands often have to settle for a **wordmark** with maybe some **decorative curls**.   
+Funeral Doom is characterized by its sloooooow tempos. The letters are spaced **miles apart** from each other so as to visually convey the sense of mind-numbing slowness. And because the music doesn't inspire anyone to come up a cool custom design, Funeral Doom bands often have to settle for a **wordmark** with maybe some **decorative curls**.   
 ![Funeral Doom](..\assets\img\projects\proj-2\funeral.jpg)
 
 # Gothic Metal
 Gothic Metal is a broadly defined genre, comprising of two main subgenres: on the one hand there's bands that grew out of the Death-Doom genre, favoring gloomy, introspective atmosphere over outward bombast, and on the other hand there's melodic symphonic bands that emerged instead from the more uplifting Power Metal. Below is an example of the former. It probably speaks for itself: The lettering style is inspired by a **Gothic blackletter type**. To add a touch of melancholia, I added some **flowery curls**.
 ![Gothic-Doom Metal](..\assets\img\projects\proj-2\gothic.jpg)
 
-# Avant-Garde 
+# Avant-Garde Metal
+The term "avant-garde" is often used synomously with "sophisticated." And, certainly, this label holds true for (most) bands playing in this nebulous genre that compromises a range of different (sub)genres. In fact, it comprises of so many heterogenous (sub)genres that "avant-garde" as a genre label has very little meaning aside from, "These guys and women really know how to play their instruments!"
+
+Funnily enough however, whilst avant-garde bands most likely, definitely, absolutely display technical virtuosity, they tend to have the least inspired, let alone sophisticated, logos. More than often they have **plain wordmarks**. Even more damning is that they seemingly have an inexplicable preference for the **Abaddon type** (or something very close to it). 
+
 ![Avant-Garde Metal](..\assets\img\projects\proj-2\avant.jpg)
 
 # Nu Metal
