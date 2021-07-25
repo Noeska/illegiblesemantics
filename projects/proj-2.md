@@ -140,15 +140,15 @@ Closely related to the above is Folk Metal. Where they differ is that while Paga
 ![Folk Metal](..\assets\img\projects\proj-2\folk.jpg)
 
 # Crossover Genres
-#### Blackened Thrash Metal
+## Blackened Thrash Metal
 Blackened Thrash Metal is what you get when Black Metallers want to play something "thrashy." When this happens, nine out of ten times they commission someone to basically design them a **Death-Doom-like** logo, but one that features **bat wings** and maybe a **pentagram**, too. 
 ![Blackened Thrash Metal](..\assets\img\projects\proj-2\blackened.jpg)
 
-#### Blackened Death
+## Blackened Death
 Blackened Death Metal is usually straight-up Death Metal, but with lyrics that deal with Satanism and the occult. The logos reflect just that: often these are **standard Death** logos, with the only difference being the inclusion of, say, an **inverted cross**.
 ![Blackened Death Metal](..\assets\img\projects\proj-2\blackened2.jpg)
 
-#### Deathgrind
+## Deathgrind
 Deathgrind takes the complexity of Death Metal and fuses it with the intensity, speed, and brevity of grindcore; so therefore it makes sense that Deathgrind logos sit somewhere between Death and Grind logos. More concretely, picture stripped-down, simplistic **Death letters**, overlaid with **splatters and spatters**.  
 ![Deathgrind](..\assets\img\projects\proj-2\deathgrind2.jpg)
 
