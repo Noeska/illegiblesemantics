@@ -167,28 +167,12 @@ Though I suppose it could just as well mean that someone downloaded a really coo
 
 
 # Doom Metal
-GR:
+Doom Metal is the last major mode of Heavy Metal music. For those not in the know, unlike the other (sub)genres, Doom doesn't really have any unique genre requirements except for this one thing: it has to be ultra-slow.<sup>4</sup> If it's uptempo, it can't be Doom. But it can anything else. It's as simple as that. Just as simple as that. The idea behind this tempo thing is to create a sense of doom or despair. Or, perhaps rather, despairing boredom. 
+
+This is what makes Doom logo extremely challenging -- challenging for me at least to come up with a genre logo; because it can be so many things depending on a band's specific interests and themes, and they can range anywhere from a dying bride to ... to what exactly? (It's always about some tragic loss of life, isn't it?) To put it flatly, usually it comes down to throwing shit at a wall and hope something sticks. (But this is just me talking ... what do I know? I've only worked with a small number of Doom bands.)
 
 
-Regardless of the specific 
-they all have one thing in common:
-ultra-slow tempos.
-That's basically it.
-Besides that it can be 
-Other than that it can be anything  from 
-
-at least one necessary condition, namely ultra-slow tempos.<sup>4</sup>
 ##### William Irwin, *Black Sabbath and Philosophy: Mastering Reality*, p. 79.
-
-This is what makes designing a Doom logo extremely challenging. 
-
-Challenging for me at least to 
-It is challenging for me at least
-
-To put it flatly, often it comes to throwing shit at a wall and hope something sticks.
-But this is just me talking ... what do I know? I've only worked with a small number of Doom bands.
-
-
 
 
 ## Psychedelic Doom
