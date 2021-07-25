@@ -13,7 +13,7 @@ As you can imagine, it can get complicated fairly quickly when you're trying to 
 -- Gerrit
 
 # Heavy Metal
-I struggled to find a quintessential example of a pure, heavy metal rock logo that I could use as inspiration, because these types of logos are kinda all over the place style-wise, from rough, sketchy logos (**Skid Row**) to type-only (or type-like) logos (**Whitesnake**) that have a "Saturday-morning cartoon" feel to them (**Winger**) -- which I do not mean in a pejorative sense. 
+I struggled to find a quintessential example of a pure, heavy metal rock logo that I could use as inspiration, because these types of logos are kinda all over the place style-wise, from rough, sketchy logos (**Skid Row**) to type-only (or type-like) logos (**Whitesnake**) to logos that have a "Saturday-morning cartoon" feel to them (**Winger**) -- which I do not mean in a pejorative sense. 
 
 But I'd say generally, as opposed to other the (sub)genres that we discuss in the paper, Heavy Metal logos take their cues from **biker aesthetics** and have a **blocky feel to them**. They're also often **colorful in terms of hues and tinges**.
 
