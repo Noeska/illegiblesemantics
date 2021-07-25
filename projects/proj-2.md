@@ -32,7 +32,7 @@ GR: Power Metal takes its inspiration from both traditional Heavy Metal and Spee
 
 # Thrash Metal
 Abrasive. Loud. Extremely fast yet still precise, with impeccable sense of timing. If judging by these words alone, it may sound like I'm describing a Dutch olympian -- a speed skater or a cyclist, perhaps. But we're talking music, aren't we? I'm talking Thrash Metal, of course, which means I'm talking yet another extreme subgenre of Heavy Metal. And yes, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash logos tend to have **straight, sharp edges** which reflect the tightness and controlled nature of the music's rhythms.<sup>2</sup> Indeed, some exceptions aside, there is no softness to be found in them whatsoever -- there is only hardness.
-
+##### [2]
 
 
 ## U.S. Thrash Metal
@@ -86,11 +86,11 @@ Initially, indeed, in the early 1990s, Melodic Death logos were very diverse in 
 
 ## Technical Death Metal
 #### 1990s 
-A hard-and-fast rule in Death Metal aesthetics is that the more technical the music, the less sophisticated the logo. This is exemplified in Technical Death Metal, a genre whose artists mix "fast, virtuosic guitar riffs and solos of varying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>2</sup> It's usually easy to recognize bands playing in this genre. They often have what **looks like a Black Metal logo**, except it's not -- it's **not nearly as sophisticated**.
+A hard-and-fast rule in Death Metal aesthetics is that the more technical the music, the less sophisticated the logo. This is exemplified in Technical Death Metal, a genre whose artists mix "fast, virtuosic guitar riffs and solos of varying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>3</sup> It's usually easy to recognize bands playing in this genre. They often have what **looks like a Black Metal logo**, except it's not -- it's **not nearly as sophisticated**.
 ![Technical Death Metal](..\assets\img\projects\proj-2\tech90.jpg)
 If they're still active to this day, they now probably have a **type-only logo**, one that is most likely **superimposed** over an earlier "Black Metal-like" logo.
 ![Technical Death Metal](..\assets\img\projects\proj-2\tech901.jpg)
-##### [2] Simon Poole, 'M. Unger, *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, 20.
+##### [3] Simon Poole, 'M. Unger, *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, 20.
 
 #### Post-2000s
 It's fairly easy to recognize a post-2000s Technical Death band from a 1990s band in the same genre. For some reason wholly unknown to me, the former is likely to have a logo that they proudly put on their shirts -- even though it doesn't really look good. It's always like these logos were done by a novice who played with **Illustrator** and who is not quite familiar yet with Illustrator's **Pen tool**. The result inevitably is that all these logos have a **"Bézier" look** to them; and this is the reason they *never* look good. 
@@ -107,25 +107,21 @@ Grindcore fuses elements of Heavy Metal with Punk Hardcore, creating a negative 
 
 
 # Black Metal
-Black Metal first emerged in the 
-who by the way coined the genre label.
-in the late 1980s, 
-the genre came to the fore
+Black Metal is one of the more extreme subgenres of Heavy Metal music, not just in terms of music but equally in terms of commitment and attitude. Very early since its inception, artists and fans alike have taken things to extremes, committing acts of self-maiming, suicide, arson, grave-robbing, and in some cases even murder; though these days it's really just another music genre that's out there. 
 
-at that time, Death Metal was the dominant extreme mode.
-at the time, these first bands didn't call themselves as such
-but they would 
+While there are many subgenres of Black Metal, they all, or most of them, share common traits. These include fast tempos, shrieking vocals, heavily distorted guitars, lo-fi recording, and a strong emphasis on atmosphere. 
 
-A few seminal designs would determine the visual style for years to come. Regardless of the specific 
-they (tend to) share a couple of common characteristics: 
+Lyrically and thematically, songs often deal with the occult, Satanism, and diabolic perversion. Sometimes, it's about following the "left-hand path" rather than the "right-hand way;" sometimes it's just plain raging against religion, or at least Christianity. Other times, it's about exploring Nietzsche's Zarathustra; still other times, it's about black crows on a tombstone.  
 
-1. The logos often display a **high level of symmetry**; 
+In the mid-1980s, and especially in the early 1990s, there were created a few logos that proved seminal in the years to come, most notably the logos of Mayhem and Emperor. Basically, every Black Metal logo created now takes its cues from both of these. Which is why, regardless of subgenre, Black Metal logos tend to look alike. Indeed, they all share a couple of logo and letter design traits: 
+
+1. The logos often display a **high degree of symmetry**; 
 ![Black Metal](..\assets\img\projects\proj-2\black2.jpg)
-2. The logos often feature **abstract Satanic, occult, or anti-Christian imagery**: inverted crosses, (Baphomet) pentagrams;
+2. The logos often feature either **abstract Satanic, occult, or anti-Christian imagery** (inverted crosses, pentagrams, demon and magick sigils) or **figurative graphics pertaining to the dark arts** (candles, wolf heads, goat heads, dragons, daggers, crescents moons) or sometimes both;
 ![Black Metal](..\assets\img\projects\proj-2\black4.jpg)
-3. The letters are often in **"blackletter" form**, either in lowercase or uppercase; <!-- Flourishes and exaggerated are commonplace, "with extaneous strokes running parallel, rather than one single stroke." -->
+3. The letters are often in **blackletter(-like) form**, either in lowercase or uppercase, with **flourishes (curls and spikes)** and **exaggerated edges**; <!-- Flourishes and exaggerated are commonplace, "with extaneous strokes running parallel, rather than one single stroke." -->
 ![Black Metal](..\assets\img\projects\proj-2\black1.jpg)
-4. And the logo is often **unreadable**. 
+4. And the logo is often **unreadable** and purposely made to resemble a **lump of tree roots**. 
 ![Black Metal](..\assets\img\projects\proj-2\black3.jpg)
 
 ## Pagan Black Metal
@@ -165,14 +161,13 @@ As the name suggests, Industrial Metal fuses Heavy Metal and Industrial music, w
 Though I suppose it could just as well mean that someone downloaded a really cool **sci-fi movie font family** that is in actuality a poor derivative of someone's hard work. 
 
 
-
 # Doom Metal
 Doom Metal is the last major mode of Heavy Metal music. For those not in the know, unlike the other (sub)genres, Doom doesn't really have any unique genre requirements except for this one thing: it has to be ultra-slow.<sup>4</sup> If it's uptempo, it can't be Doom. But it can anything else. It's as simple as that. Just as simple as that. Anyway, the idea behind this tempo thing is to create a sense of doom or despair. (More like, despairing boredom, amirite?)
 
 This is what makes Doom logo extremely challenging -- challenging for me at least to come up with a genre logo; because it can be so many things depending on a band's specific interests and themes, and they can range anywhere from a dying bride to ... to what exactly? (It's always about some tragic loss of life, isn't it?) To put it flatly, usually it comes down to throwing shit at a wall and hope something sticks. (But this is just me talking ... what do I know? I've only worked with a small number of Doom bands.)
 
 
-##### William Irwin, *Black Sabbath and Philosophy: Mastering Reality*, p. 79.
+##### [4] William Irwin, *Black Sabbath and Philosophy: Mastering Reality*, p. 79.
 
 
 ## Psychedelic Doom
