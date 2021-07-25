@@ -26,10 +26,21 @@ Here, I purposely decided to do a logo in the vein of Judas Priest's logo -- wel
 ##### [1] Simon Poole, 'Retro Rock and Heavy History', *Global Metal Music and Culture: Current Directions in Metal Studies*, 302-303.
 ![NWOBHM](..\assets\img\projects\proj-2\nwobhm.png)
 
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/7og9p3oxMOILD2hth9uz7t?si=db18841ea8d74e63" target="_blank" rel="noopener"><span>Diamond Head</span></a>
+- <a href="https://open.spotify.com/track/0S90LE5Z8FOdbui3tLak6t?si=99afac34017c4753" target="_blank" rel="noopener"><span>Iron Maiden</span></a>
+- <a href="https://open.spotify.com/track/056MbLQC2tKWakXhs4T2Ac?si=bc40ef6b02e944c8" target="_blank" rel="noopener"><span>Saxon</span></a>
+
 #### Speed Metal
 Speed Metal has its roots in NWOBHM and would lay the lay the foundation for later extreme metal genres. As the the name already suggests, it's all about speed. In this it is much like Thrash Metal -- which is probably why Speed logos can easily be mistaken for Thrash logos --, but it's lyrically less abrasive and musically more melodic. So what sets these apart from the rest? I'd say these logos, more than others, convey a visual sense of speed, which is why often the letters are designed in a **cursive style** and **drawn together**, or if not that at least **packed closely together**.
 
 ![Speed Metal](..\assets\img\projects\proj-2\speed.png)
+
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/7vhN8nkLJKIlQIfhp6gkuE?si=107cca2baa76465c" target="_blank" rel="noopener"><span>Agent Steel</span></a>
+- <a href="https://open.spotify.com/track/4hfpMRkHOW3xGt8zE8ogFk?si=661da78bf8464886" target="_blank" rel="noopener"><span>Running Wild</span></a>
+- <a href="https://open.spotify.com/track/2HcMXZJ8TR0CFiePEqhHLW?si=c251205f845c48a6" target="_blank" rel="noopener"><span>Exciter</span></a>
+
 
 #### Power Metal
 Power Metal takes its inspiration from both traditional Heavy Metal and Speed Metal and fuses this with theatrics and bombast in an effort to create something emotionally impactful and powerful. (More often, however, the result is *bathos*. But that's just me talking.) This may be why Power logos are often **rendered in full 3D**, with a **metallic** or **stony texture**. Because, you know, Power Metal is that deep and powerful! Like metal or stone!
@@ -38,7 +49,6 @@ Power Metal takes its inspiration from both traditional Heavy Metal and Speed Me
 # Thrash Metal
 Abrasive. Loud. Extremely fast yet still precise, with impeccable sense of timing. If judging by these words alone, it may sound like I'm describing a Dutch olympian -- a speed skater or a cyclist, perhaps. But we're talking music, aren't we? I'm talking Thrash Metal, of course, which means I'm talking yet another extreme subgenre of Heavy Metal. And yes, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash logos tend to have **straight, sharp edges** which reflect the tightness and controlled nature of the music's rhythms.<sup>2</sup> Indeed, some exceptions aside, there is no softness to be found in them whatsoever -- there is only hardness.
 ##### [2]
-
 
 ## U.S. Thrash Metal
 <!--In the U.S., Thrash Metal emerged against the backdrop of Reagan conservatism and the concurrent emergence and rise in popularity of the more mainstream friendly Glam Metal genre. This context proved extremely fertile ground for a new kind of sound, and for some reason especially in California, especially in the San Francisco Bay Area. 
@@ -55,15 +65,29 @@ The logo below was based on Dark Angel's logo. Though technically not a band fro
 It can be difficult to differentiate between a U.S. Thrash band and a German one; perhaps the only clue is that U.S. Thrash are more likely to have hints or elements of **symmetry** and **interconnectedness** to them. Come to think of it, they may also have more likelihood of having an **outline** or **"halo"** surrounding the the letters. 
 ![Thrash Metal](..\assets\img\projects\proj-2\thrash.jpg)
 
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/4d50VgYqfw1Rd0knRRL3qv?si=68181319926147c5" target="_blank" rel="noopener"><span>Metallica</span></a>
+- <a href="https://open.spotify.com/track/3090goAxG6IlpCifA8m9xB?si=f5d0203473a6459b" target="_blank" rel="noopener"><span>Megadeth</span></a>
+- <a href="https://open.spotify.com/track/5ohfpKB5tt275f4Y4lQ9F7?si=5cc2cc0fa80d4925" target="_blank" rel="noopener"><span>Slayer</span></a>
+
 #### Bay Area Thrash Metal
 If we are to distinguish further among U.S. Thrash Metal bands and we continue differentiating, then the early-1980s San Francisco Bay Area scene surely deserves some attention from everyone! What's interesting here is that the aesthetics of said scene were largely characterized by a "do-it-yourself" ethos, as opposed to the aesthetics of the then already established Metal bands who often used established fonts for their logos (see **Iron Maiden**, for example). Arguably the most famous example of this is **Metallica**'s logo which was drawn up by none other than James Hetfield himself. This may be why certain U.S. Thrash logos, or part of these logos, **look a bit off**; because they were not always done by trained graphical designers who are familiar with rulers and with drawing and measuring segments.
 
 Another thing to point out here is that in Bay Area Thrash logos you can often find a **juxtaposition of straight lines with round shapes** or **straight lines against curved lines**. To refer back to the example of Metallica's logo, the C is rounded, but the first and last letters are sharp and italicized. 
 
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/5ZOOjqoCaUydmo8bxSdosj?si=4f8728e9b6094c85" target="_blank" rel="noopener"><span>Exodus</span></a>
+- <a href="https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj?si=e87ef00d97334129" target="_blank" rel="noopener"><span>Testament</span></a>
+- <a href="https://open.spotify.com/track/20bJTQOaoHqeCHBhqIgcTl?si=345e2ba29df54623" target="_blank" rel="noopener"><span>Death Angel</span></a>
+
 ## Teutonic Thrash Metal 
 As a genre, Teutonic Thrash Metal has a distinct German character, and a few notable exceptions aside, this is reflected in the kind of logos bands in this genre have. Like 1980s U.S. Thrash logos, Teutonic Thrash logos are **extremely angular, with fixed angles**, but with **less emphasis on symmetry**, and the letters are generally **more blocky in shape**. With this, they seem to be saying, "We believe in substance over style, and function over form." Which is all fine and dandy until you try to put a cube through a round hole. It's probably why you've never heard of **Kreator** ... while you no doubt own a copy of the **"Black"** album.
-
 ![Teutonic Thrash Metal](..\assets\img\projects\proj-2\teutonic.jpg)
+
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/712ukvLX20rwHuTWg7Gcjb?si=b8ad6738e0f24100" target="_blank" rel="noopener"><span>Kreator</span></a>
+- <a href="https://open.spotify.com/track/1VHQF5TWJ8i0KCsMLhOaNI?si=533c93dc86f94abb" target="_blank" rel="noopener"><span>Destruction</span></a>
+- <a href="https://open.spotify.com/track/3lMVtX2zN22nm30jGVoOpT?si=d42d94d609184209" target="_blank" rel="noopener"><span>Sodom</span></a>
 
 # Death Metal
 Death Metal at large is one of the major "mainstream" modes of extreme metal. It's typically characterized by low-tuned, heavily distorted guitars, aggressive, thumping drumming (featuring double-kicks and blast-beats), deep growling vocals, abrupt and complex changes in tempo and time signature ... As a genre, it is very broad, encompassing a great deal of diversity. Indeed, it has spawned several subgenres since its inception in the mid- to late-1980s, all with their own specific iconography. Here I will be covering only some of them. 
@@ -166,11 +190,16 @@ As the name suggests, Industrial Metal fuses Heavy Metal and Industrial music, w
 
 Though I suppose it could just as well mean that someone downloaded a really cool **sci-fi movie font family** that is in actuality a poor derivative of someone's hard work. 
 
+
 # Doom Metal
 Doom Metal is the last major mode of Heavy Metal music. For those not in the know, unlike the other (sub)genres, Doom doesn't really have any unique genre requirements except for this one thing: it has to be ultra-slow.<sup>4</sup> If it's uptempo, it can't be Doom. But it can be anything else. It's as simple as that. Just as simple as that. Anyway, the idea behind this tempo thing is to create a sense of doom or despair. (More like, despairing boredom, amirite?)
 
 This is what makes Doom logo extremely challenging -- challenging for me at least to come up with a genre logo; because it can be so many things depending on a band's specific interests and themes, and they can range anywhere from a dying bride to ... to what exactly? (It's always about some tragic loss of life, isn't it?) To put it flatly, usually it comes down to throwing shit at a wall and hope something sticks. (But this is just me talking ... what do I know? I've only worked with a small number of Doom bands.)
 
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/5oVSFQUi1hBYYRiNeOwfWy?si=94cd02de61b344fb" target="_blank" rel="noopener"><span>My Dying Bride</span></a>
+- <a href="https://open.spotify.com/track/0jQxDAN0CBuIdAqbR4OnzV?si=6638488daee940d2" target="_blank" rel="noopener"><span>Anathema</span></a>
+- <a href="https://open.spotify.com/track/3MFnMeC4sw77jnZAVRECOa?si=67dafa4b443e4956" target="_blank" rel="noopener"><span>Saint Vitus</span></a>
 
 ##### [4] William Irwin, *Black Sabbath and Philosophy: Mastering Reality*, p. 79.
 
@@ -178,13 +207,29 @@ This is what makes Doom logo extremely challenging -- challenging for me at leas
 Nothing says stoner and psychedelia like a **hazy** or **cloud-like** logo. To make it further clear that this music is good for intense couch-sitting and bong-ripping, **greens** and **purples** are often used.
 ![Psychedelic Doom](..\assets\img\projects\proj-2\psychedelic.jpg)
 
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/1vhvheW4R0KbK6Kr3NFplW?si=2ab145ffb269412e" target="_blank" rel="noopener"><span>Sleep</span></a>
+- <a href="https://open.spotify.com/track/1q36lfxjmHC3KZcJ1KKBUN?si=5d3d10162493498e" target="_blank" rel="noopener"><span>Dark Buddha Rising</span></a>
+- <a href="https://open.spotify.com/track/79An4wFdv8Os8ad3SCrQlb?si=ac5bc7aa357c462b" target="_blank" rel="noopener"><span>Ufomammut</span></a>
+
 ## Funeral Doom
 Funeral Doom is characterized by its sloooooow tempos -- slow even for Doom standards. The letters are spaced **miles apart** from each other so as to visually convey the sense of mind-numbing slowness. And because the music doesn't inspire anyone to come up a cool custom design, Funeral Doom bands often have to settle for a **wordmark** with maybe some **decorative curls**.   
 ![Funeral Doom](..\assets\img\projects\proj-2\funeral.jpg)
 
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/4g0gpUMOHc7BSFyOEn0sVa?si=17b8afb41dcb44b8" target="_blank" rel="noopener"><span>Esoteric</span></a>
+- <a href="https://open.spotify.com/track/0lOkhYlyP1Nhg3pRyMgIHF?si=f835afe287b04342" target="_blank" rel="noopener"><span>Thergothon</span></a>
+- <a href="https://open.spotify.com/track/5EBaNMzBzBF6M4h3rmRSk4?si=25769d1695ef48c4" target="_blank" rel="noopener"><span>Skepticism</span></a>
+
+
 # Gothic Metal
 Gothic Metal is a broadly defined genre, comprising of two main subgenres: on the one hand there's bands that grew out of the Death-Doom genre, favoring gloomy, introspective atmosphere over outward bombast, and on the other hand there's melodic symphonic bands that emerged instead from the more uplifting Power Metal. Below is an example of the former. It probably speaks for itself: The lettering style is inspired by a **Gothic blackletter type**. To add a touch of melancholia, I added some **flowery curls**.
 ![Gothic-Doom Metal](..\assets\img\projects\proj-2\gothic.jpg)
+
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/2HPdHcJpQ1pbw3ud0ii4Nc?si=7a8ce9dd640d488e" target="_blank" rel="noopener"><span>Theatre of Tragedy</span></a>
+- <a href="https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p?si=05ce6cfcc97c4caa" target="_blank" rel="noopener"><span>Type O Negative</span></a>
+- <a href="https://open.spotify.com/track/27ZuGlwpjafRzKOquXVNP8?si=1a9c92e777f446c8" target="_blank" rel="noopener"><span>Paradise Lost</span></a>
 
 # Avant-Garde Metal
 The term "avant-garde" is often used synomously with "sophisticated." And, certainly, this label holds true for (most) bands playing in this nebulous genre that compromises a range of different (sub)genres. In fact, it comprises of so many heterogenous (sub)genres that "avant-garde" as a genre label has very little meaning aside from, "These guys and gals really know how to play their instruments!"
@@ -193,10 +238,20 @@ Funnily enough however, whilst avant-garde bands most likely, definitely, absolu
 
 ![Avant-Garde Metal](..\assets\img\projects\proj-2\avant.jpg)
 
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/3H2tTKsEdhEvBAyrHSg6eJ?si=14a287451fbb4bce" target="_blank" rel="noopener"><span>Sigh</span></a>
+- <a href="https://open.spotify.com/track/7J4yQt7P7XExNeljWEvt2D?si=053aa5c386994127" target="_blank" rel="noopener"><span>Meshuggah</span></a>
+- <a href="https://open.spotify.com/track/1772QdJFvRknwSio6u950p?si=570bc2c4a4514551" target="_blank" rel="noopener"><span>Gorguts</span></a>
+
 # Faux Metal
 ## Nu Metal
 What is there to say about Nu logos that has not yet been said by now? They are **puerile in design** and **clumsily drawn**. To its credit in that respect, they convey well what the music is all about.  
 ![Nu Metal](..\assets\img\projects\proj-2\nu.jpg)
+
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu?si=19e629b7824e4f56" target="_blank" rel="noopener"><span>Korn</span></a>
+- <a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3?si=d915708d07e0496d" target="_blank" rel="noopener"><span>Slipknot</span></a>
+- <a href="https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj?si=d503405470454b40" target="_blank" rel="noopener"><span>Limp Bizkit</span></a>
 
 ## Metalcore
 Metalcore is another one of those "negative synergy" fusion genres that combines the worst elements of extreme metal and hardcore punk. Still it's what all the cool kids -- and only kids -- are listening to these days so I don't know. (Really, don't ask me why. I'm probably getting old.)
@@ -204,3 +259,7 @@ Metalcore is another one of those "negative synergy" fusion genres that combines
 Anyway, the design process of a Metalcore logo can best be described as follows: After a band commissions you to do a logo, you do some preliminary sketching, to get a feel of the band's name, and at some point you probably send them out for approval. Now usually these **preliminary sketches** serve both as the scaffolding upon which the definitive lettering is superimposed and as a guide for any additional typographic style information. But with Metalcore logos, you leave the sketches **"as is."** There is no further work done on the logo. 
 ![Metalcore](..\assets\img\projects\proj-2\metalcore.jpg)
 
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/0fmwyv8VP8Jh71e87oCHv1?si=e6a28e6ec2a54f7a" target="_blank" rel="noopener"><span>As I Lay Dying</span></a>
+- <a href="https://open.spotify.com/track/2fnbCZHLXyrSdWhaRlBwQP?si=14c42beefb0644ee" target="_blank" rel="noopener"><span>Shadows Fall</span></a>
+- <a href="https://open.spotify.com/track/05NRKMTDuXA5ehLLe0wtL0?si=e744c5291c2a402a" target="_blank" rel="noopener"><span>The Devil Wears Prada</span></a>
