@@ -128,11 +128,11 @@ In the mid-1980s, and especially in the early 1990s, there were created a few lo
 Pagan Black Metal is one of many off-shoots of traditional "mainstream" Black Metal; but whereas it can be difficult to differentiate one subgenre of Black Metal from another, it is very easy to recognize a Pagan Black Metal logo. The one thing that sets them apart from all other subgenres is a high level of **"on-the-noseness,"** with **figurative, arty, romantic graphics** accompanying logos that spell out **"pro-Pagan romanticism,"** stopping short of actually spelling out "We put Paganism on a pedestal."
 ![Pagan Black Metal](..\assets\img\projects\proj-2\pagan.jpg)
 
-## Folk Metal
+# Folk Metal
 Closely related to the above is Folk Metal. Where they differ is that while Pagan Black Metal still kinda has the cool factor of Black Metal, Folk Metal has little to no coolness at all, and this shows in the logos. They often take their inspiration from Black Metal aesthetics, with logos made of **lowercase blackletters** or some **Celtic type**, with only **some degree of symmetry** on both opposite ends of the logo, if at all, and even then usually through **decorative curls** rather than through cool letter design.   
 ![Folk Metal](..\assets\img\projects\proj-2\folk.jpg)
 
-# Crossover
+# Crossover Genres
 #### Blackened Thrash Metal
 Blackened Thrash Metal is what you get when Black Metallers want to play something "thrashy." When this happens, nine out of ten times they commission someone to basically design them a **Death-Doom-like** logo, but one that features **bat wings** and maybe a **pentagram**, too. 
 ![Blackened Thrash Metal](..\assets\img\projects\proj-2\blackened.jpg)
@@ -153,13 +153,11 @@ Deathgrind takes the complexity of Death Metal and fuses it with the intensity, 
 
 If you are anything like Person A, don't feel bad. It's is a very common misconception to mistake a Deathgrind logo for a Black Metal logo. But once you know what to look for and how to interpret it, things becase as clear as day to you. For starters, Black Metal logos are typically black and (inverted) white in color; this one is colored **green**, a color that is often used by Grindcore (and adjacent) bands. Another key thing to look out for are signs of **compositional design** -- or, perhaps rather, **lack thereof**. If a logo features a design of intricate, meticulous linework, it's probably *not* a Deathgrind logo.
 
-
 # Industrial Metal
 As the name suggests, Industrial Metal fuses Heavy Metal and Industrial music, which in itself as fusion of Rock and Electronic music. This is all very interesting, of course; but what it means for anyone interested in metal logos is that in this genre bands' logos typically have a mechanical look to them. When I say "mechanical," I mean that that alone -- **"lifeless, inorganic" letters** (i.e. sharp-edged, blocky, perfectly spaced) that are sometimes (but rarely) tilted 90° degrees to the left from the horizontal.
 ![Industrial Metal](..\assets\img\projects\proj-2\industrial.jpg)
 
 Though I suppose it could just as well mean that someone downloaded a really cool **sci-fi movie font family** that is in actuality a poor derivative of someone's hard work. 
-
 
 # Doom Metal
 Doom Metal is the last major mode of Heavy Metal music. For those not in the know, unlike the other (sub)genres, Doom doesn't really have any unique genre requirements except for this one thing: it has to be ultra-slow.<sup>4</sup> If it's uptempo, it can't be Doom. But it can anything else. It's as simple as that. Just as simple as that. Anyway, the idea behind this tempo thing is to create a sense of doom or despair. (More like, despairing boredom, amirite?)
@@ -168,7 +166,6 @@ This is what makes Doom logo extremely challenging -- challenging for me at leas
 
 
 ##### [4] William Irwin, *Black Sabbath and Philosophy: Mastering Reality*, p. 79.
-
 
 ## Psychedelic Doom
 Nothing says stoner and psychedelia like a **hazy** or **cloud-like** logo. To make it further clear that this music is good for intense couch-sitting and bong-ripping, **greens** and **purples** are often used.
@@ -189,11 +186,14 @@ Funnily enough however, whilst avant-garde bands most likely, definitely, absolu
 
 ![Avant-Garde Metal](..\assets\img\projects\proj-2\avant.jpg)
 
-# Nu Metal
+# Faux Metal
+## Nu Metal
 What is there to say about Nu logos that has not yet been said by now? They are **puerile in design** and **clumsily drawn**. To its credit in that respect, they convey well what the music is all about.  
 ![Nu Metal](..\assets\img\projects\proj-2\nu.jpg)
 
-# Metalcore
-The design process of a Metalcore logo can best be described as follows: After a band commissions you to do a logo, you do some preliminary sketching, to get a feel of the band's name, and at some point you probably send them out for approval. Now usually these **preliminary sketches** serve both as the scaffolding upon which the definitive lettering is superimposed and as a guide for any additional typographic style information. But with Metalcore logos, you leave the sketches **"as is."** There is no further work done on the logo. 
+## Metalcore
+Metalcore is another one of those "negative synergy" fusion genres that combines the worst elements of extreme metal and hardcore punk. Still it's what all the cool kids -- and only kids -- are listening to these days so I don't know. (Really, don't ask me why. I'm probably getting old.)
+
+Anyway, the design process of a Metalcore logo can best be described as follows: After a band commissions you to do a logo, you do some preliminary sketching, to get a feel of the band's name, and at some point you probably send them out for approval. Now usually these **preliminary sketches** serve both as the scaffolding upon which the definitive lettering is superimposed and as a guide for any additional typographic style information. But with Metalcore logos, you leave the sketches **"as is."** There is no further work done on the logo. 
 ![Metalcore](..\assets\img\projects\proj-2\metalcore.jpg)
 
