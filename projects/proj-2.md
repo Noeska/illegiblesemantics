@@ -41,10 +41,14 @@ Speed Metal has its roots in NWOBHM and would lay the lay the foundation for lat
 - <a href="https://open.spotify.com/track/4hfpMRkHOW3xGt8zE8ogFk?si=661da78bf8464886" target="_blank" rel="noopener"><span>Running Wild</span></a>
 - <a href="https://open.spotify.com/track/2HcMXZJ8TR0CFiePEqhHLW?si=c251205f845c48a6" target="_blank" rel="noopener"><span>Exciter</span></a>
 
-
 #### Power Metal
 Power Metal takes its inspiration from both traditional Heavy Metal and Speed Metal and fuses this with theatrics and bombast in an effort to create something emotionally impactful and powerful. (More often, however, the result is *bathos*. But that's just me talking.) This may be why Power logos are often **rendered in full 3D**, with a **metallic** or **stony texture**. Because, you know, Power Metal is that deep and powerful! Like metal or stone!
 ![Power Metal](..\assets\img\projects\proj-2\power.jpg)
+
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/71gch62Dn5dvX9Rvz9hhDf?si=52ff759667774b6e" target="_blank" rel="noopener"><span>Grave Digger</span></a>
+- <a href="https://open.spotify.com/track/18S33odAheWBHbVAefiRLM?si=e779b549484945d6" target="_blank" rel="noopener"><span>Hammerfall</span></a>
+- <a href="https://open.spotify.com/track/0cajnv3diwVnb2KXv7hLVs?si=9e076d5d959c417c" target="_blank" rel="noopener"><span>Sabaton</span></a>
 
 # Thrash Metal
 Abrasive. Loud. Extremely fast yet still precise, with impeccable sense of timing. If judging by these words alone, it may sound like I'm describing a Dutch olympian -- a speed skater or a cyclist, perhaps. But we're talking music, aren't we? I'm talking Thrash Metal, of course, which means I'm talking yet another extreme subgenre of Heavy Metal. And yes, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash logos tend to have **straight, sharp edges** which reflect the tightness and controlled nature of the music's rhythms.<sup>2</sup> Indeed, some exceptions aside, there is no softness to be found in them whatsoever -- there is only hardness.
@@ -94,24 +98,49 @@ Death Metal at large is one of the major "mainstream" modes of extreme metal. It
 
 As a general rule it can be observed that in this genre the letters making up the logos tend to be **thick** and **bold** as opposed to, say, the letters making up just your average Black Metal logo. The latter tend to be thin and sometimes somewhat shaky. And, contrary to Thrash logos, Death logos tend to have more **"soft" elements**.
 
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/5hmek3mrSYvfSElBsPNbxo?si=af7965fd57ef484a" target="_blank" rel="noopener"><span>Morbid Angel</span></a>
+- <a href="https://open.spotify.com/track/1aXslcXXFxPB9nDlya7Ge0?si=6b33b0ecf7274c11" target="_blank" rel="noopener"><span>Vader</span></a>
+- <a href="https://open.spotify.com/track/4prktP6Enwbko8fTRX4wsp?si=4ae00f58bd474d90" target="_blank" rel="noopener"><span>Hypocrisy</span></a>
+
 ## Brutal Death Metal
 Brutal Death Metal emerged most notably from the 1980s New York Hardcore movement. It's characterized by its thumping heaviness, high-speed power chording and riffing, and overall complex rhythms. As a rule, their lyrics deal with slasher movies and True Crime, and this is often reflected in their choice of logos. These typically incorporate **gore elements** (e.g., bones, intestines, and blood), sometimes to the point where the entire logo exactly resembles like a jigsaw puzzle of bones dripping blood. 
 ![Brutal Death Metal](..\assets\img\projects\proj-2\death.jpg)
 
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/7qvTHdpc9qu4TMPur5vs9w?si=7aefd18dc97f4c89" target="_blank" rel="noopener"><span>Suffocation</span></a>
+- <a href="https://open.spotify.com/track/3PBMlvAlOkdzhrvZMOk9nP?si=71a34c98618d4424" target="_blank" rel="noopener"><span>Autopsy</span></a>
+- <a href="https://open.spotify.com/track/4pFC6tuWErxbO61oFFq3BQ?si=0198d2306da243c9" target="_blank" rel="noopener"><span>Cannibal Corpse</span></a>
+
 #### Florida Death Metal
 When it comes to Death Metal, the Florida Death Metal scene deserves some special attention. Here the bands that emerged in the late-1980s were not so much inspired by the Hardcore movement but rather built on the musical formula established by the early-1980s Thrash Metal and the first wave of Black Metal bands. These Florida bands were also lyrically more inspired, expressly refined, dealing with more abstract concepts such as religion, enlightenment, and ecology. In terms of logo-design, it's hard to pinpoint specific characteristics. But I'd say they tend to have a "tattoo-like" quality to them (think here of **tribal flames** with their scythe-like edges or 1950s-style **hotrod flames**).
 ![Brutal Death Metal](..\assets\img\projects\proj-2\brutal.jpg)
+
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/3sSonVXqDeoEFj2lM7mpYT?si=7d44686cc801457e7" target="_blank" rel="noopener"><span>Death</span></a>
+- <a href="https://open.spotify.com/track/2fSYadDsbWMtIVqX7flKIc?si=924b7eed3e5f42c2" target="_blank" rel="noopener"><span>Obituary</span></a>
+- <a href="https://open.spotify.com/album/0ZfJEIY1iOasgnt67JleR7?si=Zpe2sspITz2zewvj84Iy9A&dl_branch=1" target="_blank" rel="noopener"><span>Deicide</span></a>
 
 ## Death-Doom 
 This extreme subgenre was originally inspired by and birthed out of the (crust-)punk scene of the 1980s, most notably but not exclusively in Stockholm, Sweden. It combines the slow tempos and pessimistic, or merely depressive, melodies of Doom Metal with the low, grunting vocals of Death Metal. Typically, a Death-Doom logo is basically a **blackletter(-like) wordmark** (i.e., a type-only logo) surrounded with a **white, sometimes jaggy, halo**. 
 
 ![Swedish Doom-Death Metal](..\assets\img\projects\proj-2\swedish.jpg)
 
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/0WFQ2spTOg5BWnbqOap7Ab?si=aad625c85a304ce7" target="_blank" rel="noopener"><span>Nihilist</span></a>
+- <a href="https://open.spotify.com/track/5faD0zZ9fMa3J5ZN3lIWtp?si=e1245794dcaf433a" target="_blank" rel="noopener"><span>Entombed</span></a>
+- <a href="https://open.spotify.com/track/6iN50j5okdqupQjhFqGWru?si=458d982f94d1428a" target="_blank" rel="noopener"><span>Asphyx</span></a>
+
 ## Melodic Death Metal
 Melodic Death Metal was arguably first pioneered in the United Kingdom, but the genre really came into its own in Sweden, specifically in Gothenburg. As a genre, it took its inspiration from a wide range of styles, from Death Metal to NWOBHM to Progressive Rock, with certain elements from these reference styles more predominant in one band's music than another's, which may help explain why it is difficult to think of a quintessential Melodic Death logo. 
 
 Initially, indeed, in the early 1990s, Melodic Death logos were very diverse in style, with some (seemingly) taking their inspiration from "mainstream" Death Metal logos (**In Flames**), others had intricate custom designs (**At the Gates**), while still others opted for a distorted and deformed Celtic type (**Dark Tranquility**). In later and more recent years, however, most bands in this genre have **highly-readable wordmarks** that are sometimes "touched up" or "filled in" with a **dirt brush**.
 ![Melodic Death Metal](..\assets\img\projects\proj-2\gothenburg.jpg)
+
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/2BcWjgafmbdaq39KPsaBKc?si=3f62f45d88a84f37" target="_blank" rel="noopener"><span>Carcass</span></a>
+- <a href="https://open.spotify.com/track/2Vy4z1ZUN7RvN7syWI2yef?si=af92ca46d97047b0" target="_blank" rel="noopener"><span>At the Gates</span></a>
+- <a href="https://open.spotify.com/track/7fiDBeCKsb2kEmQfFObHTX?si=b86bfb16e96242ef" target="_blank" rel="noopener"><span>Dark Tranquility</span></a>
 
 ## Technical Death Metal
 #### 1990s 
@@ -121,19 +150,35 @@ If they're still active to this day, they now probably have a **type-only logo**
 ![Technical Death Metal](..\assets\img\projects\proj-2\tech901.jpg)
 ##### [3] Simon Poole, 'M. Unger, *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, 20.
 
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/774kFk9YCPyTYR7sSIDqum?si=67647042700c4e10" target="_blank" rel="noopener"><span>Cryptopsy</span></a>
+- <a href="https://open.spotify.com/track/2IH1qycKGVOBKHyR0IrYPW?si=c2737e82a6bc49ff" target="_blank" rel="noopener"><span>Dying Fetus</span></a>
+- <a href="https://open.spotify.com/track/233N4WwgPBme5byY33723f?si=d2106be31d6c4e0f" target="_blank" rel="noopener"><span>Pestilence</span></a>
+
 #### Post-2000s
 It's fairly easy to recognize a post-2000s Technical Death band from a 1990s band in the same genre. For some reason wholly unknown to me, the former is likely to have a logo that they proudly put on their shirts -- even though it doesn't really look good. It's always like these logos were done by a novice who played with **Illustrator** and who is not quite familiar yet with Illustrator's **Pen tool**. The result inevitably is that all these logos have a **"Bézier" look** to them; and this is the reason they *never* look good. 
 
 ![Technical Death Metal](..\assets\img\projects\proj-2\tech00.jpg)
 
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/4K1yqd68vWmDXFwXAqW35d?si=a869e307d56a4440" target="_blank" rel="noopener"><span>Archspire</span></a>
+- <a href="https://open.spotify.com/track/2IH1qycKGVOBKHyR0IrYPW?si=c2737e82a6bc49ff" target="_blank" rel="noopener"><span>Arsis</span></a>
+- <a href="https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3?si=da8381b941924658" target="_blank" rel="noopener"><span>Revocation</span></a>
+
 ## Progressive Death Metal
 What does "Progressive" mean in the context of Death Metal? Who knows? I sure as hell don't. It could mean anything from "We brought in a saxophonist to record a Metal album with us" to a more general "We march to our own beat" -- which is often to be taken literally: Progressive bands seem to have a weird thing for *syncopation*. The question then is how to best represent this visually? It may seem daunting but it is actually quite easy: (1.) the letters need to be **tight and bold** and (2.) the letters need to be **missing parts**, because this says something about the band's music: "Our music is tight and bold! And it's often difficult to follow and may even end abruptly."
 ![Progressive Metal](..\assets\img\projects\proj-2\progressive.jpg)
+
+
 
 # Grindcore
 Grindcore fuses elements of Heavy Metal with Punk Hardcore, creating a negative synergy where one plus one arguably equals less than two. No wonder, then, that Grindcore logos look **crude and unfinished** at best. But all is not bad either, for great (to some) is the genre's fondness for puerile humor and disgusting aesthetics, with **visual references to scathology** and **other bodily functions**. In short, think of Grindcore aesthetics as the typographic equivalent of a schoolboy's fantasies. This may also help explain the heavy usage of **color** and **texture**. (Kids love color. Right? I wouldn't know, I'm not a father.)
 ![Grindcore](..\assets\img\projects\proj-2\grind.jpg)
 
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/3zDz4v8AGsiP9NdmllRDUV?si=073a2d9f1cdd424c" target="_blank" rel="noopener"><span>Napalm Death</span></a>
+- <a href="https://open.spotify.com/track/7KuAKFlB8NSMabLZ0vubCd?si=ae908ebdcce04a48" target="_blank" rel="noopener"><span>Nasum</span></a>
+- <a href="https://open.spotify.com/track/6b2pUMt6tQVEI2JThxeZfY?si=c77f7f25257a4fba" target="_blank" rel="noopener"><span>Brutal Truth</span></a>
 
 # Black Metal
 Black Metal is one of the more extreme subgenres of Heavy Metal music, not just in terms of music but equally in terms of commitment and attitude. Very early since its inception, artists and fans alike have taken things to extremes, committing acts of self-maiming, suicide, arson, grave-robbing, and in some cases even murder; though these days it's really just another music genre that's out there. 
@@ -155,22 +200,48 @@ In the mid-1980s, and especially in the early 1990s, there were created a few lo
 5. And the logo is often **unreadable** and purposely made to resemble a **lump of tree roots**. 
 ![Black Metal](..\assets\img\projects\proj-2\black3.jpg)
 
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/595xEql63Rk4JDe1aH7SFT?si=663958e856114663" target="_blank" rel="noopener"><span>Marduk</span></a>
+- <a href="https://open.spotify.com/track/6vb8Hy0CgjdDeLcD9UR4tW?si=b7f1fc416ff54563" target="_blank" rel="noopener"><span>Immortal</span></a>
+- <a href="https://open.spotify.com/track/5AlrV8fdBMYjMu3RomHSkl?si=17c3bfa72f30425d" target="_blank" rel="noopener"><span>Cradle of Filth</span></a>
+
 ## Pagan Black Metal
 Pagan Black Metal is one of many off-shoots of traditional "mainstream" Black Metal; but whereas it can be difficult to differentiate one subgenre of Black Metal from another, it is very easy to recognize a Pagan Black Metal logo. The one thing that sets them apart from all other subgenres is a high level of **"on-the-noseness,"** with **figurative, arty, romantic graphics** accompanying logos that spell out **"pro-Pagan romanticism,"** stopping short of actually spelling out "We put Paganism on a pedestal."
 ![Pagan Black Metal](..\assets\img\projects\proj-2\pagan.jpg)
 
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/1Gb2d44DlK666SIyPzE4lt?si=a68e0d9d8b4e4bd8" target="_blank" rel="noopener"><span>Falkenbach</span></a>
+- <a href="https://open.spotify.com/track/7dD7rB9gWVLUioEO1ni9rI?si=c930532dc62345d7" target="_blank" rel="noopener"><span>Drudkh</span></a>
+- <a href="https://open.spotify.com/track/0K3WWULKUk2erCWQTeWTLS?si=e5bcb6a5d9a6437d" target="_blank" rel="noopener"><span>Einherjer</span></a>
+
+
 # Folk Metal
 Closely related to the above is Folk Metal. Where they differ is that while Pagan Black Metal still kinda has the cool factor of Black Metal, Folk Metal has little to no coolness at all, and this shows in the logos. They often take their inspiration from Black Metal aesthetics, with logos made of **lowercase blackletters** or some **Celtic type**, with only **some degree of symmetry** on both opposite ends of the logo, if at all, and even then usually through **decorative curls** rather than through cool letter design.   
 ![Folk Metal](..\assets\img\projects\proj-2\folk.jpg)
+
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/0vTEksNDRuJxDMLOOgn0fA?si=629709f8feb140a0" target="_blank" rel="noopener"><span>Eluveite</span></a>
+- <a href="https://open.spotify.com/track/5ft8Pv91JaqLvxRxzzQ5dp?si=e6975814404c4780" target="_blank" rel="noopener"><span>Finntroll</span></a>
+- <a href="https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy?si=b668970904154c45" target="_blank" rel="noopener"><span>Korpiklaani</span></a>
 
 # Crossover Genres
 ## Blackened Thrash Metal
 Blackened Thrash Metal is what you get when Black Metallers want to play something "thrashy." When this happens, nine out of ten times they commission someone to basically design them a **Death-Doom-like** logo, but one that features **bat wings** and maybe a **pentagram**, too. 
 ![Blackened Thrash Metal](..\assets\img\projects\proj-2\blackened.jpg)
 
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/0LqzJRyslUNtsjUJ8Cr93v?si=08460776d67e46b4" target="_blank" rel="noopener"><span>Bewitched</span></a>
+- <a href="https://open.spotify.com/track/5ft8Pv91JaqLvxRxzzQ5dp?si=e6975814404c4780" target="_blank" rel="noopener"><span>Nifelheim</span></a>
+- <a href="https://open.spotify.com/track/2uTrHqCbES41UKswdIZRob?si=4d98762c0f8942db" target="_blank" rel="noopener"><span>Desaster</span></a>
+
 ## Blackened Death
 Blackened Death Metal is usually straight-up Death Metal, but with lyrics that deal with Satanism and the occult. The logos reflect just that: often these are **standard Death** logos, with the only difference being the inclusion of, say, an **inverted cross**.
 ![Blackened Death Metal](..\assets\img\projects\proj-2\blackened2.jpg)
+
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/4Ax1Gz3sBzzvM8Ha1gS7wf?si=8c1ecf770d544763" target="_blank" rel="noopener"><span>Akercocke</span></a>
+- <a href="https://open.spotify.com/track/1dEtXRznHGSyWNwmpmKXWn?si=15265ece39b14a59" target="_blank" rel="noopener"><span>Vital Remains</span></a>
+- <a href="https://open.spotify.com/track/6Ni0I16JKIFjyBtAlR64Rl?si=f6e6dcbe5bb54384" target="_blank" rel="noopener"><span>Portal</span></a>
 
 ## Deathgrind
 Deathgrind takes the complexity of Death Metal and fuses it with the intensity, speed, and brevity of grindcore; so therefore it makes sense that Deathgrind logos sit somewhere between Death and Grind logos. More concretely, picture stripped-down, simplistic **Death letters**, overlaid with **splatters and spatters**.  
@@ -184,12 +255,21 @@ Deathgrind takes the complexity of Death Metal and fuses it with the intensity, 
 
 If you are anything like Person A, don't feel bad. It's is a very common misconception to mistake a Deathgrind logo for a Black Metal logo. But once you know what to look for and how to interpret it, things becase as clear as day to you. For starters, Black Metal logos are typically black and (inverted) white in color; this one is colored **green**, a color that is often used by Grindcore (and adjacent) bands. Another key thing to look out for are signs of **compositional design** -- or, perhaps rather, **lack thereof**. If a logo features a design of intricate, meticulous linework, it's probably *not* a Deathgrind logo.
 
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/2yX4gxtpB5RZpCPdP3NevM?si=c28505a7bec64f78" target="_blank" rel="noopener"><span>Aborted</span></a>
+- <a href="https://open.spotify.com/track/28kizMSvL3DcCGINWSOUjq?si=ead94586da4f4679" target="_blank" rel="noopener"><span>Cattle Decapitation</span></a>
+- <a href="https://open.spotify.com/track/2ECMsbABJhbyEvVvY4RtV6?si=e970b103c7af446b" target="_blank" rel="noopener"><span>Carcass</span></a>
+
 # Industrial Metal
 As the name suggests, Industrial Metal fuses Heavy Metal and Industrial music, which in itself as fusion of Rock and Electronic music. This is all very interesting, of course; but what it means for anyone interested in metal logos is that in this genre bands' logos typically have a mechanical look to them. When I say "mechanical," I mean that that alone -- **"lifeless, inorganic" letters** (i.e. sharp-edged, blocky, perfectly spaced) that are sometimes (but rarely) tilted 90° degrees to the left from the horizontal.
 ![Industrial Metal](..\assets\img\projects\proj-2\industrial.jpg)
 
 Though I suppose it could just as well mean that someone downloaded a really cool **sci-fi movie font family** that is in actuality a poor derivative of someone's hard work. 
 
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/5mc6EyF1OIEOhAkD0Gg9Lc?si=f0e0483edd6c4a30" target="_blank" rel="noopener"><span>Nine Inch Nails</span></a>
+- <a href="https://open.spotify.com/track/5cAM9dnfazd9ILA4ZNCgGJ?si=57d0683650ee44f7" target="_blank" rel="noopener"><span>Aboryrm</span></a>
+- <a href="https://open.spotify.com/track/7aE8KWkxMKP6sW84weMOfQ?si=2a16df5016884c8b" target="_blank" rel="noopener"><span>Deathstars</span></a>
 
 # Doom Metal
 Doom Metal is the last major mode of Heavy Metal music. For those not in the know, unlike the other (sub)genres, Doom doesn't really have any unique genre requirements except for this one thing: it has to be ultra-slow.<sup>4</sup> If it's uptempo, it can't be Doom. But it can be anything else. It's as simple as that. Just as simple as that. Anyway, the idea behind this tempo thing is to create a sense of doom or despair. (More like, despairing boredom, amirite?)
