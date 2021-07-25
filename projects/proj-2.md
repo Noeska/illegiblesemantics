@@ -123,6 +123,8 @@ In the mid-1980s, and especially in the early 1990s, there were created a few lo
 ![Black Metal](..\assets\img\projects\proj-2\black1.jpg)
 4. And the logo is often **unreadable** and purposely made to resemble a **lump of tree roots**. 
 ![Black Metal](..\assets\img\projects\proj-2\black3.jpg)
+5. Though not included in these samples, Black Metal logos also often incorporate (background) **graphics of medieval weapons** (swords, axes, maces, flails, shields).
+
 
 ## Pagan Black Metal
 Pagan Black Metal is one of many off-shoots of traditional "mainstream" Black Metal; but whereas it can be difficult to differentiate one subgenre of Black Metal from another, it is very easy to recognize a Pagan Black Metal logo. The one thing that sets them apart from all other subgenres is a high level of **"on-the-noseness,"** with **figurative, arty, romantic graphics** accompanying logos that spell out **"pro-Pagan romanticism,"** stopping short of actually spelling out "We put Paganism on a pedestal."
