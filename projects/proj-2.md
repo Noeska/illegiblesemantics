@@ -140,19 +140,6 @@ When it comes to Death Metal, the Florida Death Metal scene deserves some specia
 - <a href="https://open.spotify.com/track/48JB1RF92JFSeCbzpixKf0?si=597c852ad0aa43ef" target="_blank" rel="noopener"><span>Deicide</span></a>
 - <a href="https://open.spotify.com/track/5hmek3mrSYvfSElBsPNbxo?si=af7965fd57ef484a" target="_blank" rel="noopener"><span>Morbid Angel</span></a>
 
-## Death-Doom 
-This extreme subgenre was originally inspired by and birthed out of the (crust-)punk scene of the 1980s, most notably but not exclusively in Stockholm, Sweden. It combines the slow tempos and pessimistic, or merely depressive, melodies of Doom Metal with the low, grunting vocals of Death Metal. Typically, a Death-Doom logo is basically a **blackletter(-like) wordmark** (i.e., a type-only logo) surrounded with a **white, sometimes jaggy, halo**. 
-
-![Swedish Doom-Death Metal](..\assets\img\projects\proj-2\swedish.jpg)
-
-##### Some bands to check out:
-- <a href="https://open.spotify.com/track/6iN50j5okdqupQjhFqGWru?si=458d982f94d1428a" target="_blank" rel="noopener"><span>Asphyx</span></a>
-<!-- - <a href="https://open.spotify.com/track/47FRdUpxkjElZ7sL7Ta1sX?si=6adba67a4e694c4f" target="_blank" rel="noopener"><span>Autopsy</span></a> -->
-- <a href="https://open.spotify.com/track/5faD0zZ9fMa3J5ZN3lIWtp?si=e1245794dcaf433a" target="_blank" rel="noopener"><span>Entombed</span></a>
-- <a href="https://open.spotify.com/track/0ejJdZnWdWPKJKvORuxtMy?si=9a14bddf9a4a4cb7" target="_blank" rel="noopener"><span>Winter</span></a>
-
-
-
 ## Melodic Death Metal
 Melodic Death Metal was arguably first pioneered in the United Kingdom, but the genre really came into its own in Sweden, specifically in Gothenburg. As a genre, it took its inspiration from a wide range of styles, from Death Metal to NWOBHM to Progressive Rock, with certain elements from these reference styles more predominant in one band's music than another's, which may help explain why it is difficult to think of a quintessential Melodic Death logo. 
 
@@ -266,6 +253,37 @@ Some Folk bands take things to the next level by incorporating **Viking helmets*
 ---
 
 # Crossover Genres
+When it comes to crossover genres, certain genres, or elements of them, are more likely to "crossover" than others. As it with fashion, so it is with Extreme Metal: Black goes with everything. Indeed, you can find bands that play Blackened Death (**Angelcorpse**, **Akercocke**, **Belphegor**), Blackened Death-Doom (**Bölzer**, **Necros Christos**, **Soulburn**), Blackened Thrash (**Aura Noir**, **Deströyer 666**, **Witchery**), and even Blackened Grindcore (**Absvrdist**, **Sunlight's Bane**, **Vomit Fist**). The one outlier that I can think of is Heavy Metal; I'm not sure if there's a thing such as Blackened Heavy Metal. 
+
+Maybe there is actually. 
+
+Though it was the Norwegian "scene" and Norwegian bands that put the genre on the map, it was actually born out of the early-1980s NWOBHM scene discussed earlier.<sup>4</sup> You see, the term "Black Metal" was first coined by the NWOBHM band **Venom** with the release of their second LP, *Black Metal*. 
+
+As per Conrad Lant, a.k.a. Cronos, the driving force behind **Venom**:
+
+> "Coming up with a term like black metal or thrash metal, it was great when bands came along and used those titles. The Norwegians used the term black metal ten years later 'cos they knew they would automatically be put into a category they wanted to be in. They were like, 'This is dirty, this is nasty, this is Satanic, we're gonna put fucking corpsepaint on, sing about Satan'... they knew the black metal tag would give them an identity."
+
+
+
+This quote says it all. Early in the 1990s, Black Metal was often used synonomously with "Satanic Metal" by fans and artists alike.
+> "*All* black metal is religious in my eyes", Morgan [**Marduk**] states. "All these different types of black etal ... to me it's black metal or it's not black metal. People ask me, 'Ar you black metal?' Yes we are. We are one of probably five bands who *are* black metal, 'cos no on wants to be black metal, they want to be 'neo-this' and 'experimental-that', but we are proud to carry the banner of black metal."<sup>5</sup>
+
+> "That's what black metal is," concurs Mortuus [**Marduk**]. "If it's not about devil worship or destructive Satanism, I couldn't call it black metal. It's not like black metal *has* to be Satanic -- if it's not Satanic, it's not black metal, it's 'something else-metal' -- there's a million labels, choose one of them. Black metal is Satanic metal. I really don't like to label myself, but if there *would* be a label for it, it would be devil worship. That's what it is, even if I don't like the term."
+
+But of course, no genre holds a monopoly on Satanism and the occult in general. And indeed, plenty of musicians and artists outside of the Black Metal scene are (and have been) sort of interested and entrenched in these things. So now we use "Blackened" as an adjective-predicate to identify specific non-Black Metal bands and genres (in terms of music) that deal on some level with the occult. 
+
+That doesn't quite work with other genres. There is no such thing as "Deathened" to denote any bands outside of the Death scene that thematically deal with, say, True Crime.
+
+However, Death-Doom and, to a lesser extent, Deathtrash are recognized as genres on their own. This has more to do with the music than the lyrical themes. 
+
+
+Meanwhile, Death Metal didn't emerge in isolation, but emerged in part from the Thrash genre, and so naturally some bands (**Legion of the Damned**, **The Crown**, **Mortification**) will sit somewhere on the spectrum between the two. In this case, it's not so much a crossover from one genre to another but a normal result of genre-adjacency. Yet still, some actually recognize Deathrash as its own separate genre.
+
+
+
+##### [4] Daniele Federico Rosa, 'Ye Go to Thy Abzu: How Norwegian Black Metal Used Mesopotamian References, Where It Took Them From, and How It Usually Got Them Wrong', Lorenzo Verderame and Agnès Garcia-Ventura, *Receptions of the Ancient Near East in Popular Culture and Beyond*, 106, and Dayal Patterson, *Black Metal: Evolution of the Cult*, 2009 (Chapter 22 on Burzum)
+##### [5] Dayal Patterson, *Black Metal: Evolution of the Cult*, (Chapter on Marduk)
+
 ## Blackened Thrash Metal
 Blackened Thrash Metal is what you get when Black Metallers want to play something "thrashy." When this happens, nine out of ten times they commission someone to basically design them a **Death-Doom-like** logo, but one that features **bat wings** and maybe a **pentagram**, too. 
 ![Blackened Thrash Metal](..\assets\img\projects\proj-2\blackened.jpg)
@@ -292,6 +310,17 @@ Deathgrind takes the complexity of Death Metal and fuses it with the intensity, 
 * Person A: "Are they a Black Metal band?" 
 * Person B: "No, silly. They're a Deathgrind band."
 
+## Death-Doom 
+This extreme subgenre was originally inspired by and birthed out of the (crust-)punk scene of the 1980s, most notably but not exclusively in Stockholm, Sweden. It combines the slow tempos and pessimistic, or merely depressive, melodies of Doom Metal with the low, grunting vocals of Death Metal. Typically, a Death-Doom logo is basically a **blackletter(-like) wordmark** (i.e., a type-only logo) surrounded with a **white, sometimes jaggy, halo**. 
+
+![Swedish Doom-Death Metal](..\assets\img\projects\proj-2\swedish.jpg)
+
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/6iN50j5okdqupQjhFqGWru?si=458d982f94d1428a" target="_blank" rel="noopener"><span>Asphyx</span></a>
+<!-- - <a href="https://open.spotify.com/track/47FRdUpxkjElZ7sL7Ta1sX?si=6adba67a4e694c4f" target="_blank" rel="noopener"><span>Autopsy</span></a> -->
+- <a href="https://open.spotify.com/track/5faD0zZ9fMa3J5ZN3lIWtp?si=e1245794dcaf433a" target="_blank" rel="noopener"><span>Entombed</span></a>
+- <a href="https://open.spotify.com/track/0ejJdZnWdWPKJKvORuxtMy?si=9a14bddf9a4a4cb7" target="_blank" rel="noopener"><span>Winter</span></a>
+
 ![Deathgrind](..\assets\img\projects\proj-2\deathgrind1.jpg)
 
 If you are anything like Person A, don't feel bad. It's is a very common misconception to mistake a Deathgrind logo for a Black Metal logo. But once you know what to look for and how to interpret it, things becase as clear as day to you. For starters, Black Metal logos are typically black and (inverted) white in color; this one is colored **green**, a color that is often used by Grindcore (and adjacent) bands. Another key thing to look out for are signs of **compositional design** -- or, perhaps rather, **lack thereof**. If a logo features a design of intricate, meticulous linework, it's probably *not* a Deathgrind logo.
@@ -317,7 +346,7 @@ Though I suppose it could just as well mean that someone downloaded a really coo
 ---
 
 # Doom Metal
-Doom Metal is the last major mode of Heavy Metal music. For those not in the know, unlike the other (sub)genres, Doom doesn't really have any unique genre requirements except for this one thing: it has to be ultra-slow.<sup>4</sup> If it's uptempo, it can't be Doom. But it can be anything else. It's as simple as that. Just as simple as that. Anyway, the idea behind this tempo thing is to create a sense of doom or despair. (More like, despairing boredom, amirite?)
+Doom Metal is the last major mode of Heavy Metal music. For those not in the know, unlike the other (sub)genres, Doom doesn't really have any unique genre requirements except for this one thing: it has to be ultra-slow.<sup>5</sup> If it's uptempo, it can't be Doom. But it can be anything else. It's as simple as that. Just as simple as that. Anyway, the idea behind this tempo thing is to create a sense of doom or despair. (More like, despairing boredom, amirite?)
 
 This is what makes Doom logo extremely challenging -- challenging for me at least to come up with a genre logo; because it can be so many things depending on a band's specific interests and themes, and they can range anywhere from a dying bride to ... to what exactly? (It's always about some tragic loss of life, isn't it?) To put it flatly, usually it comes down to throwing shit at a wall and hope something sticks. (But this is just me talking ... what do I know? I've only worked with a small number of Doom bands.)
 
@@ -326,7 +355,7 @@ This is what makes Doom logo extremely challenging -- challenging for me at leas
 - <a href="https://open.spotify.com/track/1D8pXli5dHk1srHK6vXxbW?si=496f350381f54d0f" target="_blank" rel="noopener"><span>Pentagram</span></a>
 - <a href="https://open.spotify.com/track/3MFnMeC4sw77jnZAVRECOa?si=67dafa4b443e4956" target="_blank" rel="noopener"><span>Saint Vitus</span></a>
 
-##### [4] William Irwin, *Black Sabbath and Philosophy: Mastering Reality*, p. 79.
+##### [5] William Irwin, *Black Sabbath and Philosophy: Mastering Reality*, p. 79.
 
 
 ## Psychedelic Doom
