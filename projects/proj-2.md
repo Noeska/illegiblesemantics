@@ -253,7 +253,18 @@ Some Folk bands take things to the next level by incorporating **Viking helmets*
 ---
 
 # Crossover Genres
-When it comes to crossover genres, certain genres, or elements of them, are more likely to "crossover" than others. As it with fashion, so it is with Extreme Metal: Black goes with everything. Indeed, you can find bands that play Blackened Death (**Angelcorpse**, **Akercocke**, **Belphegor**), Blackened Death-Doom (**Bölzer**, **Necros Christos**, **Soulburn**), Blackened Thrash (**Aura Noir**, **Deströyer 666**, **Witchery**), and even Blackened Grindcore (**Absvrdist**, **Sunlight's Bane**, **Vomit Fist**). The one outlier that I can think of is Heavy Metal; I'm not sure if there's a thing such as Blackened Heavy Metal. 
+When it comes to crossover genres, certain genres, or elements of them, are more likely to "crossover" than others. As it with fashion, so it is with Extreme Metal: Black goes with everything. Indeed, you can find bands that play Blackened Death (**Angelcorpse**, **Akercocke**, **Belphegor**), Blackened Death-Doom (**Bölzer**, **Necros Christos**, **Soulburn**), Blackened Thrash (**Aura Noir**, **Deströyer 666**, **Witchery**), and even Blackened Grindcore (**Absvrdist**, **Sunlight's Bane**, **Vomit Fist**). 
+
+This may need some explanation. Early in the 1990s, Black Metal was often used synonomously with "Satanic Metal" by fans and artists alike because to many of them it really was all about devil worship.<sup>4</sup> Furthermore, a string of church arsons in Norway and incidents of grave robbery throughout Europe -- even in the heart of Heerlen, a small city in the south of the Netherlands --, were not unknown after the emergence of the scene, and all contributed to the cementing of the label and stereotype of "Satanic Metal" in the public conscience.
+
+
+
+But of course, no genre holds or can hold a monopoly on the practice of Satanism or any religion. And indeed, plenty of musicians and artists outside of the Black Metal scene are (and have been) sort of interested and entrenched in these things. But the label has stuck, and so now we use "Blackened" as an "adjective-predicate," or a shorthand, for specific non-Black Metal bands and genres that deal on some level with the occult. 
+
+
+
+
+<!-- The one outlier that I can think of is Heavy Metal; I'm not sure if there's a thing such as Blackened Heavy Metal. 
 
 Maybe there is actually. 
 
@@ -263,8 +274,6 @@ As per Conrad Lant, a.k.a. Cronos, the driving force behind **Venom**:
 
 > "Coming up with a term like black metal or thrash metal, it was great when bands came along and used those titles. The Norwegians used the term black metal ten years later 'cos they knew they would automatically be put into a category they wanted to be in. They were like, 'This is dirty, this is nasty, this is Satanic, we're gonna put fucking corpsepaint on, sing about Satan'... they knew the black metal tag would give them an identity."
 
-
-
 This quote says it all. Early in the 1990s, Black Metal was often used synonomously with "Satanic Metal" by fans and artists alike.
 > "*All* black metal is religious in my eyes", Morgan [**Marduk**] states. "All these different types of black etal ... to me it's black metal or it's not black metal. People ask me, 'Ar you black metal?' Yes we are. We are one of probably five bands who *are* black metal, 'cos no on wants to be black metal, they want to be 'neo-this' and 'experimental-that', but we are proud to carry the banner of black metal."<sup>5</sup>
 
@@ -272,17 +281,18 @@ This quote says it all. Early in the 1990s, Black Metal was often used synonomou
 
 But of course, no genre holds a monopoly on Satanism and the occult in general. And indeed, plenty of musicians and artists outside of the Black Metal scene are (and have been) sort of interested and entrenched in these things. So now we use "Blackened" as an adjective-predicate to identify specific non-Black Metal bands and genres (in terms of music) that deal on some level with the occult. 
 
-That doesn't quite work with other genres. There is no such thing as "Deathened" to denote any bands outside of the Death scene that thematically deal with, say, True Crime.
-
-However, Death-Doom and, to a lesser extent, Deathtrash are recognized as genres on their own. This has more to do with the music than the lyrical themes. 
-
-
-Meanwhile, Death Metal didn't emerge in isolation, but emerged in part from the Thrash genre, and so naturally some bands (**Legion of the Damned**, **The Crown**, **Mortification**) will sit somewhere on the spectrum between the two. In this case, it's not so much a crossover from one genre to another but a normal result of genre-adjacency. Yet still, some actually recognize Deathrash as its own separate genre.
-
-
-
 ##### [4] Daniele Federico Rosa, 'Ye Go to Thy Abzu: How Norwegian Black Metal Used Mesopotamian References, Where It Took Them From, and How It Usually Got Them Wrong', Lorenzo Verderame and Agnès Garcia-Ventura, *Receptions of the Ancient Near East in Popular Culture and Beyond*, 106, and Dayal Patterson, *Black Metal: Evolution of the Cult*, 2009 (Chapter 22 on Burzum)
 ##### [5] Dayal Patterson, *Black Metal: Evolution of the Cult*, (Chapter on Marduk)
+
+
+-->
+
+That doesn't quite work with other genres. There is no such thing as "Deathened" to denote any bands outside of the Death scene that thematically deal with, say, True Crime. Which is not to say there are no Death Metal-influenced crossover genres.There's Death-Doom, for example, which can be considered as practically a genre in itself and which will be discussed below. Another example would be Deathrash (**Legion of the Damned**, **The Crown**, **Mortification**). In both these cases, I'd say the crossover has more to do with music than the lyrical themes. What's more, one could even go so far as to claim that here, it's not so much a crossover from one genre to another but just a normal result of "genre-adjacency." 
+
+After all, Death Metal didn't emerge in isolation, but developed in part out of Thrash in the mid-1980s, and so naturally some bands will fall somewhere on the spectrum between the two. Doom, as we know it today, too, emerged in the mid-1980s and -- well, what is Doom really but Death Metal but played very slowly?
+
+
+##### [4] Dayal Patterson, *Black Metal: Evolution of the Cult*, (Chapter on Marduk)
 
 ## Blackened Thrash Metal
 Blackened Thrash Metal is what you get when Black Metallers want to play something "thrashy." When this happens, nine out of ten times they commission someone to basically design them a **Death-Doom-like** logo, but one that features **bat wings** and maybe a **pentagram**, too. 
@@ -302,14 +312,6 @@ Blackened Death Metal is usually straight-up Death Metal, but with lyrics that d
 - <a href="https://open.spotify.com/track/3M5YJLUznJzmrGIAlI3nqe?si=6785db5366f74f8c" target="_blank" rel="noopener"><span>Belphegor</span></a>
 - <a href="https://open.spotify.com/track/1dEtXRznHGSyWNwmpmKXWn?si=15265ece39b14a59" target="_blank" rel="noopener"><span>Vital Remains</span></a>
 
-## Deathgrind
-Deathgrind takes the complexity of Death Metal and fuses it with the intensity, speed, and brevity of grindcore; so therefore it makes sense that Deathgrind logos sit somewhere between Death and Grind logos. More concretely, picture stripped-down, simplistic **Death letters**, overlaid with **splatters and spatters**.  
-![Deathgrind](..\assets\img\projects\proj-2\deathgrind2.jpg)
-
-#### Deathgrind (Continued)
-* Person A: "Are they a Black Metal band?" 
-* Person B: "No, silly. They're a Deathgrind band."
-
 ## Death-Doom 
 This extreme subgenre was originally inspired by and birthed out of the (crust-)punk scene of the 1980s, most notably but not exclusively in Stockholm, Sweden. It combines the slow tempos and pessimistic, or merely depressive, melodies of Doom Metal with the low, grunting vocals of Death Metal. Typically, a Death-Doom logo is basically a **blackletter(-like) wordmark** (i.e., a type-only logo) surrounded with a **white, sometimes jaggy, halo**. 
 
@@ -321,6 +323,14 @@ This extreme subgenre was originally inspired by and birthed out of the (crust-)
 - <a href="https://open.spotify.com/track/5faD0zZ9fMa3J5ZN3lIWtp?si=e1245794dcaf433a" target="_blank" rel="noopener"><span>Entombed</span></a>
 - <a href="https://open.spotify.com/track/0ejJdZnWdWPKJKvORuxtMy?si=9a14bddf9a4a4cb7" target="_blank" rel="noopener"><span>Winter</span></a>
 
+## Deathgrind
+Deathgrind takes the complexity of Death Metal and fuses it with the intensity, speed, and brevity of grindcore; so therefore it makes sense that Deathgrind logos sit somewhere between Death and Grind logos. More concretely, picture stripped-down, simplistic **Death letters**, overlaid with **splatters and spatters**.  
+![Deathgrind](..\assets\img\projects\proj-2\deathgrind2.jpg)
+
+#### Deathgrind (Continued)
+* Person A: "Are they a Black Metal band?" 
+* Person B: "No, silly. They're a Deathgrind band."
+
 ![Deathgrind](..\assets\img\projects\proj-2\deathgrind1.jpg)
 
 If you are anything like Person A, don't feel bad. It's is a very common misconception to mistake a Deathgrind logo for a Black Metal logo. But once you know what to look for and how to interpret it, things becase as clear as day to you. For starters, Black Metal logos are typically black and (inverted) white in color; this one is colored **green**, a color that is often used by Grindcore (and adjacent) bands. Another key thing to look out for are signs of **compositional design** -- or, perhaps rather, **lack thereof**. If a logo features a design of intricate, meticulous linework, it's probably *not* a Deathgrind logo.
@@ -329,6 +339,8 @@ If you are anything like Person A, don't feel bad. It's is a very common misconc
 - <a href="https://open.spotify.com/track/2yX4gxtpB5RZpCPdP3NevM?si=c28505a7bec64f78" target="_blank" rel="noopener"><span>Aborted</span></a>
 - <a href="https://open.spotify.com/track/2ECMsbABJhbyEvVvY4RtV6?si=e970b103c7af446b" target="_blank" rel="noopener"><span>Carcass</span></a>
 - <a href="https://open.spotify.com/track/28kizMSvL3DcCGINWSOUjq?si=ead94586da4f4679" target="_blank" rel="noopener"><span>Cattle Decapitation</span></a>
+
+
 
 ---
 
