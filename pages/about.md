@@ -4,9 +4,7 @@ title: About
 permalink: /home
 ---
 
-<!-- ![Illegible Semantics](..\assets\img\members\illegiblesemantics.jpg) -->
-
-![Illegible Semantics](..\assets\img\projects\about\illegible.jpg)
+![Illegible Semantics](..\assets\img\members\illegiblesemantics.jpg)
 
 *Welcome to the additional materials companion webpage for the Alt.Vis paper submission "Illegible Semantics: Exploring the Design Space of Metal Logos".*
 #### Authors
