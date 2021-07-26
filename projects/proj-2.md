@@ -13,7 +13,30 @@ As you can imagine, it can get complicated fairly quickly when you're trying to 
 -- Gerrit
 
 # Heavy Metal
-I struggled to find a quintessential example of a pure, heavy metal rock logo that I could use as inspiration, because these types of logos are kinda all over the place style-wise, from (initial) **wordmark** (i.e. type-only) logos of 1970s Heavy Metal bands (**Black Sabbath**, **Judas Priest**, **Motörhead**, **Scorpions**) to the extremely diverse custom logos of 1980s Heavy Metal bands. The latter range from rough, sketchy logos (**Skid Row**) to airbrushed or painted designs (**Y&T**) to logos that have "Saturday-morning cartoon" feel to them (**Danger Danger**) -- which I do not mean in a pejorative sense.
+Heavy Metal music was birthed by **Black Sabbath** in the late 1960s and early 1970s. From its inception, it was criticized for being "violent, aggressive, dark, depressing, angry, and misogynisitc."<sup>1</sup> Little did people know then that things were to get only more and more extreme. 
+
+Just like Heavy Metal (along with other alternative music genres) originally came into being as a reaction against the "good vibrations" of the 1960s, the glam and glitter of the early 1970s music industry, and the toothlessness of the 1960s anti-establishment rockers who by the end of the era had become establishment figures themselves, the emergence of Extreme Metal was a reaction against 1980s Heavy Metal that many felt had become too commercial and too popular.<sup>2</sup>  By then, it had lost its authenticity -- and worse yet, its bite. 
+
+The reason it took about two decades before Heavy Metal started to branch in evermore extreme subgenres (Thrash, Death, Doom, Black) is because it took that long for Heavy Metal to enter the mainstream of music. 
+
+What this means for our purposes is that we're looking at two decades of design evolution. Which is why I struggled to find a quintessential example of a pure, heavy metal rock logo that I could use as inspiration, because these types of logos are kinda all over the place style-wise, from (initial) **wordmark** (i.e. type-only) logos of 1970s Heavy Metal bands (**Black Sabbath**, **Judas Priest**, **Motörhead**, **Scorpions**) to the extremely diverse custom logos of 1980s Heavy Metal bands. The latter range from rough, sketchy logos (**Skid Row**) to airbrushed or painted designs (**Y&T**) to logos that have "Saturday-morning cartoon" feel to them (**Danger Danger**) -- which I do not mean in a pejorative sense.
+
+
+<!-- 
+blues-based bands
+1960s
+electrified blues
+rolling stones, yardbirds, cream
+
+good vibrations of the 1960s
+stones ... dinosaurs, old farts, establishment figures
+
+rejecting the glitter of early 1970s
+wanted a more grittier, more authentic form of rock music
+rejection of big-time bands and the emergence of alternative musics
+
+-->
+
 
 But I'd say generally, as opposed to other the (sub)genres that we discuss in the paper, Heavy Metal logos take their cues from **biker aesthetics** and have a **blocky feel to them**. They're also often **colorful in terms of hues and tinges**.
 
@@ -24,11 +47,11 @@ But I'd say generally, as opposed to other the (sub)genres that we discuss in th
 - <a href="https://open.spotify.com/track/1pz9xeOLGuA5TmfYT86Kj5?si=da080c44433547d3" target="_blank" rel="noopener"><span>Judas Priest</span></a>
 - <a href="https://open.spotify.com/track/52bzQkgk8TznulGvKOPQTK?si=f5c8642827dc4b6f" target="_blank" rel="noopener"><span>Rainbow </span></a>
 
+
 ## NWOBHM
-With respect to the New Wave of British Heavy Metal<sup>1</sup>, a rather specific subset of Heavy Metal that emerged, as the name already denotes, in the United Kingdom, the above also applies here. 
+With respect to the New Wave of British Heavy Metal<sup>3</sup>, a rather specific subset of Heavy Metal that emerged, as the name already denotes, in the United Kingdom, the above also applies here. 
 
 Here, I purposely decided to do a logo in the vein of Judas Priest's logo -- well, one of them at least --, because I felt it'd make for an interesting comparison with specifically Teutonic Thrash Metal logos, which can be found further down. The key words here: **industrial**, **tight**, and **laser-like**.
-##### [1] Simon Poole, 'Retro Rock and Heavy History', *Global Metal Music and Culture: Current Directions in Metal Studies*, 302-303.
 ![NWOBHM](..\assets\img\projects\proj-2\nwobhm.png)
 
 ##### Some bands to check out:
@@ -58,9 +81,7 @@ Power Metal takes its inspiration from both traditional Heavy Metal and Speed Me
 ---
 
 # Thrash Metal
-Abrasive. Loud. Extremely fast yet still precise, with impeccable sense of timing. If judging by these words alone, it may sound like I'm describing a Dutch olympian -- a speed skater or a cyclist, perhaps. But we're talking music, aren't we? I'm talking Thrash Metal, of course, which means I'm talking yet another extreme subgenre of Heavy Metal. And yes, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash logos tend to have **straight, sharp edges** which reflect the tightness and controlled nature of the music's rhythms.<sup>2</sup> Indeed, some exceptions aside, there is no softness to be found in them whatsoever -- there is only hardness.
-##### [2]
-
+Abrasive. Loud. Extremely fast yet still precise, with impeccable sense of timing. If judging by these words alone, it may sound like I'm describing a Dutch olympian -- a speed skater or a cyclist, perhaps. But we're talking music, aren't we? I'm talking Thrash Metal, of course, which means I'm talking yet another extreme subgenre of Heavy Metal. And yes, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash logos tend to have **straight, sharp edges** which reflect the tightness and controlled nature of the music's rhythms.<sup>4</sup> Indeed, some exceptions aside, there is no softness to be found in them whatsoever -- there is only hardness.
 
 <!-- - <a href="https://open.spotify.com/track/7qYHH6ygW9GeNY7SVWf9ok?si=b00dc2fb7b6740f8" target="_blank" rel="noopener"><span>Anthrax</span></a> -->
 - <a href="https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO?si=718c6d790f8946ed" target="_blank" rel="noopener"><span>Annihilator</span></a>
@@ -153,11 +174,10 @@ Initially, indeed, in the early 1990s, Melodic Death logos were very diverse in 
 
 ## Technical Death Metal
 #### 1990s 
-A hard-and-fast rule in Death Metal aesthetics is that the more technical the music, the less sophisticated the logo. This is exemplified in Technical Death Metal, a genre whose artists mix "fast, virtuosic guitar riffs and solos of varying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>3</sup> It's usually easy to recognize bands playing in this genre. They often have what **looks like a Black Metal logo**, except it's not -- it's **not nearly as sophisticated**.
+A hard-and-fast rule in Death Metal aesthetics is that the more technical the music, the less sophisticated the logo. This is exemplified in Technical Death Metal, a genre whose artists mix "fast, virtuosic guitar riffs and solos of varying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>5</sup> It's usually easy to recognize bands playing in this genre. They often have what **looks like a Black Metal logo**, except it's not -- it's **not nearly as sophisticated**.
 ![Technical Death Metal](..\assets\img\projects\proj-2\tech90.jpg)
 If they're still active to this day, they now probably have a **type-only logo**, one that is most likely **superimposed** over an earlier "Black Metal-like" logo.
 ![Technical Death Metal](..\assets\img\projects\proj-2\tech901.jpg)
-##### [3] Simon Poole, 'M. Unger, *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, 20.
 
 ##### Some bands to check out:
 - <a href="https://open.spotify.com/track/774kFk9YCPyTYR7sSIDqum?si=67647042700c4e10" target="_blank" rel="noopener"><span>Cryptopsy</span></a>
@@ -255,7 +275,7 @@ Some Folk bands take things to the next level by incorporating **Viking helmets*
 # Crossover Genres
 When it comes to crossover genres, certain genres, or elements of them, are more likely to "crossover" than others. As it with fashion, so it is with Extreme Metal: Black goes with everything. Indeed, you can find bands that play Blackened Death (**Angelcorpse**, **Akercocke**, **Belphegor**), Blackened Death-Doom (**Bölzer**, **Necros Christos**, **Soulburn**), Blackened Thrash (**Aura Noir**, **Deströyer 666**, **Witchery**), and even Blackened Grindcore (**Absvrdist**, **Sunlight's Bane**, **Vomit Fist**). 
 
-This may need some explanation. Early in the 1990s, Black Metal was often used synonomously with "Satanic Metal" by fans and artists alike because to many of them it really was all about devil worship.<sup>4</sup> Furthermore, a string of church arsons in Norway and incidents of grave robbery throughout Europe -- even in the heart of Heerlen, a small city in the south of the Netherlands --, were not unknown after the emergence of the scene, and all contributed to the cementing of the label and stereotype of "Satanic Metal" in the public conscience.
+This may need some explanation. Early in the 1990s, Black Metal was often used synonomously with "Satanic Metal" by fans and artists alike because to many of them it really was all about devil worship.<sup>6</sup> Furthermore, a string of church arsons in Norway and incidents of grave robbery throughout Europe -- even in the heart of Heerlen, a small city in the south of the Netherlands --, were not unknown after the emergence of the scene, and all contributed to the cementing of the label and stereotype of "Satanic Metal" in the public conscience.
 
 
 
@@ -290,9 +310,6 @@ But of course, no genre holds a monopoly on Satanism and the occult in general. 
 That doesn't quite work with other genres. There is no such thing as "Deathened" to denote any bands outside of the Death scene that thematically deal with, say, True Crime. Which is not to say there are no Death Metal-influenced crossover genres.There's Death-Doom, for example, which can be considered as practically a genre in itself and which will be discussed below. Another example would be Deathrash (**Legion of the Damned**, **The Crown**, **Mortification**). In both these cases, I'd say the crossover has more to do with music than the lyrical themes. What's more, one could even go so far as to claim that here, it's not so much a crossover from one genre to another but just a normal result of "genre-adjacency." 
 
 After all, Death Metal didn't emerge in isolation, but developed in part out of Thrash in the mid-1980s, and so naturally some bands will fall somewhere on the spectrum between the two. Doom, as we know it today, too, emerged in the mid-1980s and -- well, what is Doom really but Death Metal but played very slowly?
-
-
-##### [4] Dayal Patterson, *Black Metal: Evolution of the Cult*, (Chapter on Marduk)
 
 ## Blackened Thrash Metal
 Blackened Thrash Metal is what you get when Black Metallers want to play something "thrashy." When this happens, nine out of ten times they commission someone to basically design them a **Death-Doom-like** logo, but one that features **bat wings** and maybe a **pentagram**, too. 
@@ -358,7 +375,7 @@ Though I suppose it could just as well mean that someone downloaded a really coo
 ---
 
 # Doom Metal
-Doom Metal is the last major mode of Heavy Metal music. For those not in the know, unlike the other (sub)genres, Doom doesn't really have any unique genre requirements except for this one thing: it has to be ultra-slow.<sup>5</sup> If it's uptempo, it can't be Doom. But it can be anything else. It's as simple as that. Just as simple as that. Anyway, the idea behind this tempo thing is to create a sense of doom or despair. (More like, despairing boredom, amirite?)
+Doom Metal is the last major mode of Heavy Metal music. For those not in the know, unlike the other (sub)genres, Doom doesn't really have any unique genre requirements except for this one thing: it has to be ultra-slow.<sup>7</sup> If it's uptempo, it can't be Doom. But it can be anything else. It's as simple as that. Just as simple as that. Anyway, the idea behind this tempo thing is to create a sense of doom or despair. (More like, despairing boredom, amirite?)
 
 This is what makes Doom logo extremely challenging -- challenging for me at least to come up with a genre logo; because it can be so many things depending on a band's specific interests and themes, and they can range anywhere from a dying bride to ... to what exactly? (It's always about some tragic loss of life, isn't it?) To put it flatly, usually it comes down to throwing shit at a wall and hope something sticks. (But this is just me talking ... what do I know? I've only worked with a small number of Doom bands.)
 
@@ -367,7 +384,6 @@ This is what makes Doom logo extremely challenging -- challenging for me at leas
 - <a href="https://open.spotify.com/track/1D8pXli5dHk1srHK6vXxbW?si=496f350381f54d0f" target="_blank" rel="noopener"><span>Pentagram</span></a>
 - <a href="https://open.spotify.com/track/3MFnMeC4sw77jnZAVRECOa?si=67dafa4b443e4956" target="_blank" rel="noopener"><span>Saint Vitus</span></a>
 
-##### [5] William Irwin, *Black Sabbath and Philosophy: Mastering Reality*, p. 79.
 
 
 ## Psychedelic Doom
@@ -438,3 +454,14 @@ Anyway, the design process of a Metalcore logo can best be described as follows:
 - <a href="https://open.spotify.com/track/0fmwyv8VP8Jh71e87oCHv1?si=e6a28e6ec2a54f7a" target="_blank" rel="noopener"><span>As I Lay Dying</span></a>
 - <a href="https://open.spotify.com/track/2fnbCZHLXyrSdWhaRlBwQP?si=14c42beefb0644ee" target="_blank" rel="noopener"><span>Shadows Fall</span></a>
 - <a href="https://open.spotify.com/track/76u2aab2a33Ohs7dOKoUOa?si=d608696b4cb84cd3" target="_blank" rel="noopener"><span>Unearth</span></a>
+
+---
+
+# Resources
+##### [1] Erik Nielson, *Rap on Trial: Race, Lyrics, and Guilt in America* (Paragraph on Metal on Trial) 89.
+##### [2] Casey Harison, *Feedback: The Who and their Generation*. 156-57; "Won't Get Fooled Again": The Atlantic Generation Comes of Age
+##### [3] Simon Poole, 'Retro Rock and Heavy History', *Global Metal Music and Culture: Current Directions in Metal Studies*, 302-303.
+##### [4]
+##### [5] Simon Poole, 'M. Unger, *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, 20.
+##### [6] Dayal Patterson, *Black Metal: Evolution of the Cult*, (Chapter on Marduk)
+##### [7] William Irwin, *Black Sabbath and Philosophy: Mastering Reality*, p. 79.
