@@ -31,7 +31,10 @@ How much variation is there in letter size in terms of height and/or width?
 
 #### TEXTURE
 How much texture is there in the letter rendering?
-low: textureless (Gorgoroth); medium: has a hint of texture (Demolition Hammer); high: texture rich: either the letters are painted or airbrushed (whether digitally or on paper) to look like some material (Megadeth) or they are (almost) like drawings in themselves (Lord Gore).
+
+*Low*: textureless (**Gorgoroth**); *medium*: has a hint of texture (**Demolition Hammer**); *high*: texture rich: either the letters are painted or airbrushed (whether digitally or on paper) to look like some material (**Megadeth**) or they are (almost) like drawings in themselves (**Lord Gore**).
+![Size](..\assets\img\projects\proj-1\texture.jpg)
+
 
 #### ORIENTATION
 How much variation is there from standard vertical letter orientation?
