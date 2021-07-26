@@ -13,11 +13,16 @@ As you can imagine, it can get complicated fairly quickly when you're trying to 
 -- Gerrit
 
 # Heavy Metal
-I struggled to find a quintessential example of a pure, heavy metal rock logo that I could use as inspiration, because these types of logos are kinda all over the place style-wise, from rough, sketchy logos (**Skid Row**) to type-only (or type-like) logos (**Whitesnake**) to logos that have a "Saturday-morning cartoon" feel to them (**Winger**) -- which I do not mean in a pejorative sense. 
+I struggled to find a quintessential example of a pure, heavy metal rock logo that I could use as inspiration, because these types of logos are kinda all over the place style-wise, from (initial) **wordmark** (i.e. type-only) logos of 1970s Heavy Metal bands (**Black Sabbath**, **Judas Priest**, **Motörhead**, **Scorpions**) to the extremely diverse custom logos of 1980s Heavy Metal bands. The latter range from rough, sketchy logos (**Skid Row**) to airbrushed or painted designs (**Y&T**) to logos that have "Saturday-morning cartoon" feel to them (**Danger Danger**) -- which I do not mean in a pejorative sense.
 
 But I'd say generally, as opposed to other the (sub)genres that we discuss in the paper, Heavy Metal logos take their cues from **biker aesthetics** and have a **blocky feel to them**. They're also often **colorful in terms of hues and tinges**.
 
 ![Heavy Metal](..\assets\img\projects\proj-2\heavy.png)
+
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/2CzKVfVA9U7OKbIpAVPZOk?si=7b8bf1357edb4e78" target="_blank" rel="noopener"><span>Black Sabbath</span></a>
+- <a href="https://open.spotify.com/track/1pz9xeOLGuA5TmfYT86Kj5?si=da080c44433547d3" target="_blank" rel="noopener"><span>Judas Priest</span></a>
+- <a href="https://open.spotify.com/track/52bzQkgk8TznulGvKOPQTK?si=f5c8642827dc4b6f" target="_blank" rel="noopener"><span>Rainbow </span></a>
 
 ## NWOBHM
 With respect to the New Wave of British Heavy Metal<sup>1</sup>, a rather specific subset of Heavy Metal that emerged, as the name already denotes, in the United Kingdom, the above also applies here. 
