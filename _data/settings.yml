@@ -2,10 +2,10 @@
 # General Site Settings
 
 menu:
+- {name: 'About',  url: 'home'}
 - {name: 'Materials', url: ''}
 # - {name: 'Blog',     url: 'blog'}
 - {name: 'Authors',    url: 'about'}
-# - {name: 'Work With Me',  url: 'work'}
 - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
@@ -14,11 +14,8 @@ menu:
 projects:
 - {name: 'Dimensions',   url: 'proj-1'}
 - {name: 'Samples', url: 'proj-2'}
-# <<<<<<< HEAD
 - {name: 'Surveys',  url: 'proj-6'}
-# =======
 # - {name: 'Survey Results', url: 'proj-6'}
-# >>>>>>> c5ced8972c772105e27526352699100c51998a2b
 - {name: 'MetalVis Tool',   url: 'proj-3'}
 # - {name: 'Logos in Time',  url: 'proj-5'}
 #- {name: 'Additional Musings',  url: 'proj-4'}
