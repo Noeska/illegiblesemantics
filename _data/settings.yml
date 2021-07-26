@@ -2,8 +2,8 @@
 # General Site Settings
 
 menu:
-- {name: 'About',  url: 'home'}
 - {name: 'Materials', url: ''}
+- {name: 'About',  url: 'home'}
 # - {name: 'Blog',     url: 'blog'}
 - {name: 'Authors',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
