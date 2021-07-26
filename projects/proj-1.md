@@ -114,7 +114,7 @@ How 3D does the logo look?
 #### DEVIATION
 To which degree does the lettering deviate from the baseline, i.e., the invisible line upon which a line of text rests?
 
-*Low*: the letters of the band name are all positioned on the same line (**At the Gates**); *medium*: there is some deviation from the baseline (**Morbid Angel**); *high*: the letter position varies a lot (**Katatonia**).
+*Low*: the letters of the band name are all positioned on the same line (**At the Gates**); *medium*: there is some deviation from the baseline (**Morbid Angel**); *high*: the letter position varies a lot (**The Last Ten Seconds Of Life**).
 ![Deviation](..\assets\img\projects\proj-1\deviation.jpg)
 
 ---
