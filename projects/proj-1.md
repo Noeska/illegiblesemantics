@@ -4,12 +4,10 @@ title: 'Dimensions'
 ---
 In our paper, we propose **thirteen style traits** frequently used in the design of letters and logos in Heavy Metal and its Extreme Metal subgenres, three of which only apply to the graphical elements that adorn these logos -- that is if there are any at all. Together with five relevant characteristics taken from Bertin, this enables us to describe the broad superset of Metal logos and differentiate between the genres and subgenres that they represent. 
 
-Below we will work through each dimension in turn. To help illustrate them more completely, we added examples of actual bands that are (or were) out there. Additionally, Gerrit provided commentary to explain what and to what extent these dimensions can say about genre determination.
+In the following, we work through each dimension in turn. To help illustrate the set of dimensions more completely than in the paper, we add representative examples of actual bands that are (or were) out there. 
+<!-- Additionally, Gerrit provides commentary to explain what and to what extent these dimensions can say about genre determination. -->
 
-However, you may never have heard of some of these genres. But if you go over to the sample page, you will find further examples detailing a broad range of genres and subgenres in terms of music and their peculiar design aesthetics. Read this; it should you get up to speed with the major genres and subgenres, at least.
-
-
-<!--let us work through each dimension in turn,  -->
+To learn more about how these dimensions relate to metal genres, please refer to [the Samples page](\projects\proj-2), where you will find further examples detailing a broad range of genres and subgenres in terms of music and their peculiar design aesthetics. 
 
 Now, without further ado, here is your in-depth guide to the **Dimensions of Doom** and beyond!
 
