@@ -50,7 +50,7 @@ How many colors (hues, no matter their values or saturation) does the letters ha
 
 ---
 
-# Dimensions of Doom
+# The Dimensions of Doom
 ## Letters
 #### NOVELTY
 How original are the letters and text elements used in the letters of the logo?
