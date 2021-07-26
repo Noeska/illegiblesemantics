@@ -7,7 +7,7 @@ In our paper, we propose **thirteen style traits** frequently used in the design
 In the following, we work through each dimension in turn. To help illustrate the set of dimensions more completely than in the paper, we add representative examples of actual bands that are (or were) out there. 
 <!-- Additionally, Gerrit provides commentary to explain what and to what extent these dimensions can say about genre determination. -->
 
-To learn more about how these dimensions relate to metal genres, please refer to [the Samples page](\projects\proj-2), where you will find further examples detailing a broad range of genres and subgenres in terms of music and their peculiar design aesthetics. 
+To learn more about how these dimensions relate to metal genres, please refer to [the Samples page](..\projects\proj-2), where you will find further examples detailing a broad range of genres and subgenres in terms of music and their peculiar design aesthetics. 
 
 Now, without further ado, here is your in-depth guide to the **Dimensions of Doom** and beyond!
 
