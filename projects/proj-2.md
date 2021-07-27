@@ -113,9 +113,10 @@ It's generally easy to recognize Symphonic Metal bands from others. Nine out of 
 ![Symphonic](..\assets\img\projects\proj-2\symphonic.jpg)
 
 ##### Some bands to check out:
+- <a href="https://open.spotify.com/track/2VvmryAbIRod1FwZHtwqC5?si=d9d1f1b8e9674014" target="_blank" rel="noopener"><span>Nightwish</span></a>
 - <a href="https://open.spotify.com/track/2Wy6uQOX2y45ooKuQb7Q9B?si=404de5e28d6f47d4" target="_blank" rel="noopener"><span>Rhapsody</span></a>
-- <a href="https://open.spotify.com/track/7uNhbkrxgLJOebuWvA1dda?si=2351ec29bcdc41fc" target="_blank" rel="noopener"><span>Stratovarius</span></a>
-- <a href="https://open.spotify.com/track/140cSu65JC8smYw53nPP0q?si=33e92f6975b94c67" target="_blank" rel="noopener"><span>Within Temptation</span></a>
+- <a href="https://open.spotify.com/track/3BwU2MOfODibVdFDjOW63r?si=6dc537dde4344aec" target="_blank" rel="noopener"><span>Within Temptation</span></a>
+<!-- - <a href="https://open.spotify.com/track/7uNhbkrxgLJOebuWvA1dda?si=2351ec29bcdc41fc" target="_blank" rel="noopener"><span>Stratovarius</span></a> -->
 
 ---
 
@@ -124,7 +125,7 @@ Abrasive. Loud. Extremely fast yet still precise, with impeccable sense of timin
 
 As a scene, it emerged simultaneously in different parts of the world, in different countries (Britain, Germany, Latin America, and the US), from where it developed out of different genres (most notably NWOBHM and Punk Hardcore). This is why there is a variety of styles within the Thrash genre -- one that is in large part determined by bands' locality. 
 
-Of course, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash logos tend to have **straight, sharp edges** which reflect the tightness and controlled nature of the music's rhythms.<sup>4</sup> Indeed, some exceptions aside, there is no softness to be found in them whatsoever -- there is only hardness.
+Of course, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash logos tend to have **straight, sharp edges** which reflect the tightness and controlled nature of the music's rhythms.<sup>4</sup> (You know, tight and controlled ... like a murderer carving their name in a victim's chest.<sup>5</sup>) Indeed, some exceptions aside, there is no softness to be found in them whatsoever -- there is only hardness.
 
 <!-- - <a href="https://open.spotify.com/track/7qYHH6ygW9GeNY7SVWf9ok?si=b00dc2fb7b6740f8" target="_blank" rel="noopener"><span>Anthrax</span></a> -->
 - <a href="https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO?si=718c6d790f8946ed" target="_blank" rel="noopener"><span>Annihilator</span></a>
@@ -146,7 +147,7 @@ For logos, many bands within the Bay Area scene had a more "do it yourself"-arti
 
 The logo below was based on Dark Angel's logo. Though technically not a band from the Bay Area -- though still from California -- , I feel their logo captures best the look of the U.S. Thrash genre. -->
 
-It can be difficult to differentiate between a US Thrash band and a German one; perhaps the only clue is that US Thrash logos are more likely to have hints or elements of **symmetry** and **interconnectedness** to them. Come to think of it, they may also have more likelihood of having an **outline** or **"halo"** surrounding the the letters. 
+It can be difficult to differentiate between a US Thrash band and a German one; perhaps the only clue is that US Thrash logos are more likely to have hints or elements of **symmetry** (because Americans love symmetry in all things except the balance of power) and **interconnectedness** to them. Come to think of it, they may also have more likelihood of having an **outline** or **"halo"** surrounding the the letters. 
 ![Thrash Metal](..\assets\img\projects\proj-2\thrash.jpg)
 
 ##### Some bands to check out:
@@ -165,8 +166,10 @@ Another thing to point out here is that in Bay Area Thrash logos you can often f
 - <a href="https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj?si=e87ef00d97334129" target="_blank" rel="noopener"><span>Testament</span></a>
 
 ## Teutonic Thrash Metal 
-As a genre, Teutonic Thrash Metal has a distinct German character, and a few notable exceptions aside, this is reflected in the kind of logos bands in this genre have. Like 1980s US Thrash logos, Teutonic Thrash logos are **extremely angular, with fixed angles**, but with **less emphasis on symmetry**, and the letters are generally **more blocky in shape**. With this, they seem to be saying, "We believe in substance over style, and function over form." Which is all fine and dandy until you try to put a cube through a round hole. It's probably why you've never heard of **Kreator** ... while you no doubt own a copy of the **"Black"** album.
+As a genre, Teutonic Thrash Metal has a distinct German character, and a few notable exceptions aside, this is reflected in the kind of logos bands in this genre have. Like 1980s US Thrash logos, Teutonic Thrash logos are **extremely angular, with fixed angles**, but with **less emphasis on symmetry**, and the letters are generally **more blocky in shape**. With this, German Thrashers seem to be saying, "We believe in robustness over sophistication, and function over form." Which is all fine and dandy until you try to put a cube through a round hole. It's probably why you've never heard of **Kreator** ... while you no doubt own a copy of the **"Black"** album.
 ![Teutonic Thrash Metal](..\assets\img\projects\proj-2\teutonic.jpg)
+
+<!-- substance over style -->
 
 ##### Some bands to check out:
 - <a href="https://open.spotify.com/track/1VHQF5TWJ8i0KCsMLhOaNI?si=533c93dc86f94abb" target="_blank" rel="noopener"><span>Destruction</span></a>
@@ -217,7 +220,7 @@ Initially, indeed, in the early 1990s, Melodic Death logos were very diverse in 
 
 ## Technical Death Metal
 #### 1990s 
-A hard-and-fast rule in Death Metal aesthetics is that the more technical the music, the less sophisticated the logo. This is exemplified in Technical Death Metal, a genre whose artists mix "fast, virtuosic guitar riffs and solos of varying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>5</sup> It's usually easy to recognize bands playing in this genre. They often have what **looks like a Black Metal logo**, except it's not -- it's **not nearly as sophisticated**.
+A hard-and-fast rule in Death Metal aesthetics is that the more technical the music, the less sophisticated the logo. This is exemplified in Technical Death Metal, a genre whose artists mix "fast, virtuosic guitar riffs and solos of varying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>6</sup> It's usually easy to recognize bands playing in this genre. They often have what **looks like a Black Metal logo**, except it's not -- it's **not nearly as sophisticated**.
 ![Technical Death Metal](..\assets\img\projects\proj-2\tech90.jpg)
 If they're still active to this day, they now probably have a **type-only logo**, one that is most likely **superimposed** over an earlier "Black Metal-like" logo.
 ![Technical Death Metal](..\assets\img\projects\proj-2\tech901.jpg)
@@ -318,7 +321,7 @@ Some Folk bands take things to the next level by incorporating **Viking helmets*
 # Crossover Genres
 When it comes to crossover genres, certain genres, or elements of them, are more likely to "crossover" than others. As it with fashion, so it is with Extreme Metal: Black goes with everything. Indeed, you can find bands that play Blackened Death (**Angelcorpse**, **Akercocke**, **Belphegor**), Blackened Death-Doom (**Bölzer**, **Necros Christos**, **Soulburn**), Blackened Thrash (**Aura Noir**, **Deströyer 666**, **Witchery**), and even Blackened Grindcore (**Absvrdist**, **Sunlight's Bane**, **Vomit Fist**). 
 
-This may need some explanation. Early in the 1990s, Black Metal was often used synonomously with "Satanic Metal" by fans and artists alike because to many of them it really was all about devil worship.<sup>6</sup> Furthermore, a string of church arsons in Norway and incidents of grave robbery throughout Europe -- even in the heart of Heerlen, a small city in the south of the Netherlands --, were not unknown after the emergence of the scene, and all contributed to the cementing of the label and stereotype of "Satanic Metal" in the public conscience.
+This may need some explanation. Early in the 1990s, Black Metal was often used synonomously with "Satanic Metal" by fans and artists alike because to many of them it really was all about devil worship.<sup>7</sup> Furthermore, a string of church arsons in Norway and incidents of grave robbery throughout Europe -- even in the heart of Heerlen, a small city in the south of the Netherlands --, were not unknown after the emergence of the scene, and all contributed to the cementing of the label and stereotype of "Satanic Metal" in the public conscience.
 
 
 
@@ -418,7 +421,7 @@ Though I suppose it could just as well mean that someone downloaded a really coo
 ---
 
 # Doom Metal
-Doom Metal is the last major mode of Heavy Metal music. For those not in the know, unlike the other (sub)genres, Doom doesn't really have any unique genre requirements except for this one thing: it has to be ultra-slow.<sup>7</sup> If it's uptempo, it can't be Doom. But it can be anything else. It's as simple as that. Just as simple as that. Anyway, the idea behind this tempo thing is to create a sense of doom or despair. (More like, despairing boredom, amirite?)
+Doom Metal is the last major mode of Heavy Metal music. For those not in the know, unlike the other (sub)genres, Doom doesn't really have any unique genre requirements except for this one thing: it has to be ultra-slow.<sup>8</sup> If it's uptempo, it can't be Doom. But it can be anything else. It's as simple as that. Just as simple as that. Anyway, the idea behind this tempo thing is to create a sense of doom or despair. (More like, despairing boredom, amirite?)
 
 This is what makes Doom logo extremely challenging -- challenging for me at least to come up with a genre logo; because it can be so many things depending on a band's specific interests and themes, and they can range anywhere from a dying bride to ... to what exactly? (It's always about some tragic loss of life, isn't it?) To put it flatly, usually it comes down to throwing shit at a wall and hope something sticks. (But this is just me talking ... what do I know? I've only worked with a small number of Doom bands.)
 
@@ -504,7 +507,8 @@ Anyway, the design process of a Metalcore logo can best be described as follows:
 ##### [1] Erik Nielson, *Rap on Trial: Race, Lyrics, and Guilt in America* (Paragraph on Metal on Trial) 89.
 ##### [2] Casey Harison, *Feedback: The Who and their Generation*. 156-57; "Won't Get Fooled Again": The Atlantic Generation Comes of Age
 ##### [3] Simon Poole, 'Retro Rock and Heavy History', *Global Metal Music and Culture: Current Directions in Metal Studies*, 302-303; and Michael Heatley, *The Virgin Encyclopedia of Rock: The World's Most Comprehensive Illustrated Rock Reference* (1996), 122. 
-##### [4]
-##### [5] Simon Poole, 'M. Unger, *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, 20.
-##### [6] Dayal Patterson, *Black Metal: Evolution of the Cult*, (Chapter on Marduk)
-##### [7] William Irwin, *Black Sabbath and Philosophy: Mastering Reality*, p. 79.
+##### [4] Liz Stinson, Wired: The Beauty and Total Illegibility of Extreme Metal Logos https://www.wired.com/2015/10/the-beauty-and-total-illegibility-of-extreme-metal-logos/, 2015.
+##### [5] D. Lombardo. Loudwire: Dave Lombardo - Wikipedia: Fact or Fiction? https://www.youtube.com/watch?v=LKppPspVNDs, 2015.
+##### [6] Simon Poole, 'M. Unger, *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, 20.
+##### [7] Dayal Patterson, *Black Metal: Evolution of the Cult*, (Chapter on Marduk)
+##### [8] William Irwin, *Black Sabbath and Philosophy: Mastering Reality*, p. 79.
