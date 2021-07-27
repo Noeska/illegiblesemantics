@@ -526,6 +526,10 @@ Take me back to the [top](#top)
 <a name="industrial"></a> 
 # Industrial Metal
 As the name suggests, Industrial Metal fuses Heavy Metal and Industrial music, which in itself as fusion of Rock and Electronic music. This is all very interesting, of course; but what it means for anyone interested in metal logos is that in this genre bands' logos typically have a mechanical look to them. When I say "mechanical," I mean that alone -- **"lifeless, inorganic" letters** (i.e. sharp-edged, blocky, perfectly spaced) that are sometimes tilted 90° degrees to the left from the horizontal. 
+
+Not to be a gatekeeper, but I think it makes sense that these logos look "unmetal" because the genre is so far removed from "traditional" Heavy Metal. To me it's like having you, if you're an American, tell me, "I'm part Dutch -- my great-great-great-great-great-grandfather originally came from the Netherlands before he settled in Kinderhook, sometime after the American Revolution." Cool! But that doesn't make you Dutch. So ... maybe you should stop putting emphasis on it. 
+
+
 ![Industrial Metal](..\assets\img\projects\proj-2\industrial.jpg)
 
 
