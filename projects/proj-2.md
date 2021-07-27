@@ -209,7 +209,8 @@ Take me back to the [top](#top)
 # Death Metal
 Death Metal at large is one of the major "mainstream" modes of Extreme Metal. It's typically characterized by low-tuned, heavily distorted guitars, aggressive, thumping drumming (featuring double-kicks and blast-beats), deep growling vocals, abrupt and complex changes in tempo and time signature ... As a genre, it is very broad, encompassing a great deal of diversity. Indeed, it has spawned several subgenres since its inception in the mid- to late-1980s, all with their own specific iconography. Here I will be covering only some of them. 
 
-As a general rule it can be observed that in this genre the letters making up the logos tend to be **thick** and **bold** as opposed to, say, the letters making up Black Metal logos. The latter tend to be thin and sometimes somewhat shaky. And, contrary to Thrash logos, Death logos tend to have more **"soft" elements**.
+As a general rule it can be observed that in this genre the letters making up the logos tend to be **thick** and **bold** as opposed to, say, the letters making up Black Metal logos. The latter tend to be thin and sometimes somewhat shaky. (In that these logos strikingly resemble the fans of these respective genres who are generally respectively heavy set characters and lanky, out-of-sorts pushovers.) 
+And, contrary to Thrash logos, Death logos tend to have more **"soft" elements**.
 
 ##### Some Death Metal bands to check out:
 - <a href="https://open.spotify.com/track/5tUxhJPbbOB4vEwm7ax1m2?si=acc74dd8f78e4cef" target="_blank" rel="noopener"><span>Bolt Thrower</span></a>
