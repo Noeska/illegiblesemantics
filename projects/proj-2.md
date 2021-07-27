@@ -109,8 +109,13 @@ Power Metal takes its inspiration from both "traditional" Heavy Metal and Speed 
 #### Symphonic Metal
 One subgenre that I originally couldn't bother with -- even though it is a major one -- is Symphonic Metal. This is an off-shoot genre of Power Metal, and thus shares much of its musical DNA with its parent genre. This linkage is also visible in the band names. These are often lifted from Power Metal songs. (If a Symphonic Metal band is called Fiddler On the Green, then it's likely a Power Metal band once put out a track called "Fiddler on the Green.") Where they differ is that Symphonic Metal bands put even more emphasis on the bombast and they're more likely to be female-fronted; and if they aren't, then it still sounds like they are. 
 
-It's generally easy to recognize Symphonic Metal bands from others. Nine out of ten times, they have a **serif wordmark** with a **textured gradient fill** for a logo, with maybe one or two **customly elongated tails** -- making it look like someone sneezed while working on the letters. <!-- Oh, and if they play speedy music, the letters are probably in **cursive**. -->
+It's generally easy to recognize Symphonic Metal bands from others. Nine out of ten bands have a **serif wordmark** with a **textured gradient fill** for a logo, with maybe one or two **customly elongated tails** -- making it look like someone sneezed while working on the letters; the tenth band, meanwhile, probably has a regular Power Metal logo. <!-- Oh, and if they play speedy music, the letters are probably in **cursive**. -->
 ![Symphonic](..\assets\img\projects\proj-2\symphonic.jpg)
+
+##### Some bands to check out:
+- <a href="https://open.spotify.com/track/2VvmryAbIRod1FwZHtwqC5?si=d9d1f1b8e9674014" target="_blank" rel="noopener"><span>Nightwish</span></a>
+- <a href="https://open.spotify.com/track/2Wy6uQOX2y45ooKuQb7Q9B?si=404de5e28d6f47d4" target="_blank" rel="noopener"><span>Rhapsody</span></a>
+- <a href="https://open.spotify.com/track/5VZwMq6yaFb04PCTfdNY3K?si=030971ab961d457f" target="_blank" rel="noopener"><span>Therion</span></a>
 
 ---
 
