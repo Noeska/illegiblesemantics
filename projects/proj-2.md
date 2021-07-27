@@ -32,7 +32,7 @@ By the mid-1980s, many felt Heavy Metal had become too commercial and too popula
 
 
 
-What this means for our purposes is that we're looking at two decades of design evolution. Which is why I struggled to find a quintessential example of a pure, Heavy Metal Rock logo that I could use as inspiration, because these types of logos are kinda all over the place style-wise, from (initial) **wordmark** (i.e. type-only) logos of 1970s Heavy Metal bands (**Black Sabbath**, **Judas Priest**, **Motörhead**, **Scorpions**) to the extremely diverse custom logos of 1980s Heavy Metal bands. The latter range from rough, sketchy logos (**Skid Row**) to airbrushed or painted designs (**Y&T**) to logos that have "Saturday-morning cartoon" feel to them (**Danger Danger**) -- which I do not mean in a pejorative sense.
+What this means for our purposes is that we're looking at two decades of design evolution. Which is why I struggled to find a quintessential example of a pure, Heavy Metal Rock logo that I could use as inspiration, because these types of logos are kinda all over the place style-wise, from (initial) **wordmark** (i.e. type-only) logos of 1970s Heavy Metal bands (**Black Sabbath**, **Judas Priest**, **Motörhead**, **Scorpions**) to the extremely diverse custom logos of 1980s Heavy Metal bands. The latter range from rough, sketchy logos (**Skid Row**) to airbrushed or painted designs (**Y&T**) to logos that have "Saturday-morning cartoon" feel to them (**Danger Danger**).
 
 
 <!-- 
@@ -48,6 +48,7 @@ rejecting the glitter of early 1970s
 wanted a more grittier, more authentic form of rock music
 rejection of big-time bands and the emergence of alternative musics
 
+-- which I do not mean in a pejorative sense
 -->
 
 
@@ -62,7 +63,20 @@ But I'd say generally, as opposed to other the (sub)genres that we discuss in th
 
 
 ## NWOBHM
-With respect to the New Wave of British Heavy Metal<sup>3</sup>, a rather specific subset of Heavy Metal that emerged, as the name already denotes, in the United Kingdom, the above also applies here. 
+In the late-1970s and early-1980s, as the British Heavy Metal supergroups (**Black Sabbath**, **Deep Purple**, **Judas Priest**) that once were part of the anti-establishment, had now became part of the Establishment, a new wave of British Heavy Metal (NWOBHM) emerged all over Britain. As a genre, NWOBHM encompasses diverse mainstream and underground styles, but one thing that bands playing in this genre shared in common is that they drew inspiration from the anti-establishment punk movement of the late-1970s.
+
+
+<!--
+infusing it with the intensity of punk rock to produce fast and aggressive songs.
+
+> "As the British metal supergroups of the Seventies, Black Sabbath, Deep Purple and Judas Priest among them, went to live in tax exile, so a new wave of British heavy metal emerged to satisfy the loyal fans' need for live music at grass-roots level."<sup>3</sup> 
+
+gained public consciousness
+
+With respect to the new wave of British Heavy Metal (NWOBHM), a rather specific subset of Heavy Metal that emerged, as the name already denotes, in the United Kingdom, 
+-->
+
+With respect to NWOBHM logos, what was said earlier about Heavy Metal logos also applies here -- style-wise they're all over the place.
 
 Here, I purposely decided to do a logo in the vein of Judas Priest's logo -- well, one of them at least --, because I felt it'd make for an interesting comparison with specifically Teutonic Thrash Metal logos, which can be found further down. The key words here: **industrial**, **tight**, and **laser-like**.
 ![NWOBHM](..\assets\img\projects\proj-2\nwobhm.png)
@@ -473,7 +487,7 @@ Anyway, the design process of a Metalcore logo can best be described as follows:
 # Resources
 ##### [1] Erik Nielson, *Rap on Trial: Race, Lyrics, and Guilt in America* (Paragraph on Metal on Trial) 89.
 ##### [2] Casey Harison, *Feedback: The Who and their Generation*. 156-57; "Won't Get Fooled Again": The Atlantic Generation Comes of Age
-##### [3] Simon Poole, 'Retro Rock and Heavy History', *Global Metal Music and Culture: Current Directions in Metal Studies*, 302-303.
+##### [3] Simon Poole, 'Retro Rock and Heavy History', *Global Metal Music and Culture: Current Directions in Metal Studies*, 302-303; and Michael Heatley, *The Virgin Encyclopedia of Rock: The World's Most Comprehensive Illustrated Rock Reference* (1996), 122. 
 ##### [4]
 ##### [5] Simon Poole, 'M. Unger, *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, 20.
 ##### [6] Dayal Patterson, *Black Metal: Evolution of the Cult*, (Chapter on Marduk)
