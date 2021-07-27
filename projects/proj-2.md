@@ -115,7 +115,7 @@ It's generally easy to recognize Symphonic Metal bands from others. Nine out of 
 ##### Some bands to check out:
 - <a href="https://open.spotify.com/track/2VvmryAbIRod1FwZHtwqC5?si=d9d1f1b8e9674014" target="_blank" rel="noopener"><span>Nightwish</span></a>
 - <a href="https://open.spotify.com/track/2Wy6uQOX2y45ooKuQb7Q9B?si=404de5e28d6f47d4" target="_blank" rel="noopener"><span>Rhapsody</span></a>
-- <a href="https://open.spotify.com/track/5VZwMq6yaFb04PCTfdNY3K?si=030971ab961d457f" target="_blank" rel="noopener"><span>Therion</span></a>
+- <a href="https://open.spotify.com/track/140cSu65JC8smYw53nPP0q?si=33e92f6975b94c67" target="_blank" rel="noopener"><span>Within Temptation</span></a>
 
 ---
 
