@@ -17,13 +17,22 @@ As you can imagine, it can get complicated fairly quickly when you're trying to 
 -- Gerrit
 
 # Heavy Metal
-Heavy Metal music was birthed by **Black Sabbath** in the late 1960s and early 1970s. From its inception, it was criticized for being "violent, aggressive, dark, depressing, angry, and misogynisitc."<sup>1</sup> Little did people know then that things were to get only more and more extreme. 
+Heavy Metal music was birthed by **Black Sabbath** in the late 1960s and early 1970s. From its inception, it was criticized for being "violent, aggressive, dark, depressing, angry, and misogynisitc."<sup>1</sup> Little did people know then that things were to get only more and more extreme. But it would take about two decades before Heavy Metal started to branch out in the evermore extreme subgenres of Thrash, Death, Doom, and Black Metal (these will be discussed below), because that's how long it took for Heavy Metal to enter the mainstream of music. Of course, once that happened, many felt that Heavy Metal had become too commercial and too popular. Indeed, by the mid- to late-1980s, Heavy Metal had lost much of its original bark; now it was time to make things insular again.
 
+
+
+<!-- 
 Just like Heavy Metal (along with other alternative music genres) originally came into being as a reaction against the "good vibrations" of the 1960s, the glam and glitter of the early 1970s music industry, and the toothlessness of the 1960s anti-establishment rockers who by the end of the era had become establishment figures themselves, the emergence of Extreme Metal was a reaction against 1980s Heavy Metal that many felt had become too commercial and too popular.<sup>2</sup>  By then, it had lost its authenticity -- and worse yet, its bite. 
 
 The reason it took about two decades before Heavy Metal started to branch in evermore extreme subgenres (Thrash, Death, Doom, Black) is because it took that long for Heavy Metal to enter the mainstream of music. 
 
-What this means for our purposes is that we're looking at two decades of design evolution. Which is why I struggled to find a quintessential example of a pure, heavy metal rock logo that I could use as inspiration, because these types of logos are kinda all over the place style-wise, from (initial) **wordmark** (i.e. type-only) logos of 1970s Heavy Metal bands (**Black Sabbath**, **Judas Priest**, **Motörhead**, **Scorpions**) to the extremely diverse custom logos of 1980s Heavy Metal bands. The latter range from rough, sketchy logos (**Skid Row**) to airbrushed or painted designs (**Y&T**) to logos that have "Saturday-morning cartoon" feel to them (**Danger Danger**) -- which I do not mean in a pejorative sense.
+By the mid-1980s, many felt Heavy Metal had become too commercial and too popular. Indeed, it had lost much of its original bite. 
+-->
+
+
+
+
+What this means for our purposes is that we're looking at two decades of design evolution. Which is why I struggled to find a quintessential example of a pure, Heavy Metal Rock logo that I could use as inspiration, because these types of logos are kinda all over the place style-wise, from (initial) **wordmark** (i.e. type-only) logos of 1970s Heavy Metal bands (**Black Sabbath**, **Judas Priest**, **Motörhead**, **Scorpions**) to the extremely diverse custom logos of 1980s Heavy Metal bands. The latter range from rough, sketchy logos (**Skid Row**) to airbrushed or painted designs (**Y&T**) to logos that have "Saturday-morning cartoon" feel to them (**Danger Danger**) -- which I do not mean in a pejorative sense.
 
 
 <!-- 
@@ -42,7 +51,7 @@ rejection of big-time bands and the emergence of alternative musics
 -->
 
 
-But I'd say generally, as opposed to other the (sub)genres that we discuss in the paper, Heavy Metal logos take their cues from **biker aesthetics** and have a **blocky feel to them**. They're also often **colorful in terms of hues and tinges**.
+But I'd say generally, as opposed to other the (sub)genres that we discuss in the paper, Heavy Metal logos take their cues from ersatz **biker aesthetics** and have a **blocky feel to them**. They're also often **colorful in terms of hues and tinges**.
 
 ![Heavy Metal](..\assets\img\projects\proj-2\heavy.png)
 
