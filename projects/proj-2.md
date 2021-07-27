@@ -15,7 +15,7 @@ As you can imagine, it can get complicated fairly quickly when you're trying to 
 
 <a name="TOP"></a> 
 Take me to ...
-[Heavy Metal](#heavy), [NWOBHM](#NWOBHM), [Speed Metal](#speed), [Power Metal](#power), [Symphonic Metal](#symphonic), [Thrash Metal](#thrash), [US Thrash](#usthrash), [Bay Area Thrash](#bay), [Teutononic Thrash Metal](#teutonic), [Death Metal](#death), [Brutal Death Metal](#brutal), [Florida Death Metal](#florida), [Melodic Death Metal](#melodic), [Technical Death Metal](#tech), [1990s Tech Death](#1990tech), [Post-2000s Tech Death](#2000tech), [Progressive Metal](#progressive), [Grindcore](#grindcore), [Black Metal](#black), [Pagan Black Metal](#pagan), [Folk Metal](#folk), [Crossover Genres](#crossover), [Blackened Thrash](#bthrash), [Blackened Death](#bdeath), [Death-Doom](#deathdoom), [Deathgrind](#deathgrind), [Industrial Metal](#industrial), [Doom](#doom), [Psychedelic Doom](#psychedelic), [Funeral Doom](#funeral), [Gothic Metal](#gothic), [Avant-Garde Metal](#avantgarde), [Faux Metal](#faux), [Nu Metal](#nu), [Metalcore](#metalcore) 
+[Heavy Metal](#heavy), [NWOBHM](#NWOBHM), [Speed Metal](#speed), [Power Metal](#power), [Symphonic Metal](#symphonic), [Thrash Metal](#thrash), [US Thrash](#usthrash), [Bay Area Thrash](#bay), [Teutononic Thrash Metal](#teutonic), [Death Metal](#death), [Brutal Death Metal](#brutal), [Florida Death Metal](#florida), [Melodic Death Metal](#melodic), [Technical Death Metal](#tech), [1990s Tech Death](#1990tech), [Post-2000s Tech Death](#2000tech), [Progressive Metal](#progressive), [Grindcore](#grindcore), [Black Metal](#black), [Pagan Black Metal](#pagan), [Folk Metal](#folk), [Pirate Metal](#pirate), [Crossover Genres](#crossover), [Blackened Thrash](#bthrash), [Blackened Death](#bdeath), [Death-Doom](#deathdoom), [Deathgrind](#deathgrind), [Industrial Metal](#industrial), [Doom](#doom), [Psychedelic Doom](#psychedelic), [Funeral Doom](#funeral), [Gothic Metal](#gothic), [Avant-Garde Metal](#avantgarde), [Faux Metal](#faux), [Nu Metal](#nu), [Metalcore](#metalcore) 
 
 *Full disclosure: With these genre samples I tried to represent as faithfully as possible a broad range of genres, based on my own years of experience in designing Metal logos and studying up on genres that I'm not too familiar with. I then had them checked by several musicians and artists in the Metal scene to confirm style accuracy and coverage. (The list of names can be found in the paper.) But, ultimately, these remain interpretations. It may well be that you have other ideas on what these logos are supposed to look like. Maybe you don't think my comments are clever or helpful or funny. In that case, drop me a line on Twitter, and tell me what needs improving.* 
 
@@ -268,10 +268,13 @@ Take me back to the [top](#top)
 
 <a name="tech"></a> 
 ## Technical Death Metal
-A hard-and-fast rule in Death Metal aesthetics is that the more technical the music, the less sophisticated the logo. This is exemplified in Technical Death Metal, a genre whose artists mix "fast, virtuosic guitar riffs and solos of varying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>6</sup> It's like musicians and artists in this genre opt to convey an impression of modesty (or perhaps false modesty), often leading to conversations like this:
+A hard-and-fast rule in Death Metal aesthetics is that the more technical the music, the less sophisticated the logo. This is exemplified in Technical Death Metal, a genre whose musicians and artists mix "fast, virtuosic guitar riffs and solos of varying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>6</sup> It's like they opt to convey an impression of modesty (or perhaps false modesty), often leading to conversations like this:
 
 - "I can play with my eyes closed!"
 - "Cool! But did you also have to do that logo with your eyes closed?"
+
+It is worthhile pointing out here that you can often place a band in this genre somewhere in time just by looking at the band's logo. In the 1990s and before, Tech Death bands had "analogously" hand-drawn logos; post-2000s, these logos have been done mostly digitally -- and it shows.
+
 
 ##### Some Technical Death Metal bands to check out:
 - <a href="https://open.spotify.com/track/78oF7KjxHMJHtiwgc2I3rw?si=217088ad1c56485e" target="_blank" rel="noopener"><span>Necrophagist</span></a>
@@ -286,6 +289,8 @@ Logo-wise, it's usually easy to recognize 1990s bands playing in this genre. The
 ![Technical Death Metal](..\assets\img\projects\proj-2\tech90.jpg)
 If they're still active to this day, they now probably have a **type-only logo**, one that is most likely **superimposed** over an earlier "Black Metal-like" logo.
 ![Technical Death Metal](..\assets\img\projects\proj-2\tech901.jpg)
+
+
 
 ##### Some 1990s Tech Death bands to check out:
 - <a href="https://open.spotify.com/track/774kFk9YCPyTYR7sSIDqum?si=67647042700c4e10" target="_blank" rel="noopener"><span>Cryptopsy</span></a>
@@ -353,7 +358,7 @@ In the mid-1980s, and especially in the early 1990s, there were created a few lo
 ![Black Metal](..\assets\img\projects\proj-2\black4.jpg)
 4. The letters are often in **blackletter(-like) form**, either in lowercase or uppercase, with **flourishes (curls and spikes)** and **exaggerated edges**; <!-- Flourishes and exaggerated are commonplace, "with extaneous strokes running parallel, rather than one single stroke." -->
 ![Black Metal](..\assets\img\projects\proj-2\black1.jpg)
-5. And the logo is often **unreadable** and purposely made to resemble a **lump of tree roots**. 
+5. And the logo is often **unreadable** and purposely made to resemble a **lump of tree roots**. To fans of the genre, it signals, "Good luck seeing the forest to the trees." To anyone else, "Good luck finding something -- *anything* -- interesting in this musical mess."
 ![Black Metal](..\assets\img\projects\proj-2\black3.jpg)
 
 ##### Some Black Metal bands to check out:
@@ -392,7 +397,23 @@ Some Folk bands take things to the next level by incorporating **Viking helmets*
 - <a href="https://open.spotify.com/track/5ft8Pv91JaqLvxRxzzQ5dp?si=e6975814404c4780" target="_blank" rel="noopener"><span>Finntroll</span></a>
 - <a href="https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy?si=b668970904154c45" target="_blank" rel="noopener"><span>Korpiklaani</span></a>
 
+
 Take me back to the [top](#top)
+
+<a name="pirate"></a> 
+#### Pirate Metal
+Just when the world of Metal was like no more, everyone found out that rock bottom has a basement. While some were content with pretending to be Vikings, drinking from plastic drinking-horns while wearing tartan kilts, others got to thinking one day -- why stop there? The next logical step was of course to do -- you may have already guessed it -- the pirate thing. 
+
+As you would expect, it's easy to do a Pirate Metal logo. Just do a **skull and a crossbones** logo, and you're golden. You may also think of adding a **falchion** or any other **curved sword** to really drive home that you're doing the whole pirate thing. 
+
+##### Some Folk bands to check out:
+- <a href="https://open.spotify.com/track/6ySfvnEGsR5keLq9f3i1AU?si=79f16ef6c6c446cf" target="_blank" rel="noopener"><span>Alestorm</span></a>
+- <a href="https://open.spotify.com/track/25qe3Wf24HVQBBiQeb9Cdf?si=3151ee56f2f0462a" target="_blank" rel="noopener"><span>Running Wild</span></a>
+- <a href="https://open.spotify.com/track/7eKlw1hs1t8ZfQu7Hn4TZ8?si=e7dfc1dbad8a47c4" target="_blank" rel="noopener"><span>Swashbuckle</span></a>
+
+Take me back to the [top](#top)
+
+
 
 ---
 <a name="crossover"></a> 
