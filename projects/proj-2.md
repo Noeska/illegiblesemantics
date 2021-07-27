@@ -268,7 +268,10 @@ Take me back to the [top](#top)
 
 <a name="tech"></a> 
 ## Technical Death Metal
-A hard-and-fast rule in Death Metal aesthetics is that the more technical the music, the less sophisticated the logo. This is exemplified in Technical Death Metal, a genre whose artists mix "fast, virtuosic guitar riffs and solos of varying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>6</sup> It's like musicians and artists in this genre opt to convey an impression of modesty (or perhaps false modesty).
+A hard-and-fast rule in Death Metal aesthetics is that the more technical the music, the less sophisticated the logo. This is exemplified in Technical Death Metal, a genre whose artists mix "fast, virtuosic guitar riffs and solos of varying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>6</sup> It's like musicians and artists in this genre opt to convey an impression of modesty (or perhaps false modesty), often leading to conversations like this:
+
+- "I can play with my eyes closed!"
+- "Cool! But did you also have to do that logo with your eyes closed?"
 
 ##### Some Technical Death Metal bands to check out:
 - <a href="https://open.spotify.com/track/78oF7KjxHMJHtiwgc2I3rw?si=217088ad1c56485e" target="_blank" rel="noopener"><span>Necrophagist</span></a>
