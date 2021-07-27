@@ -51,7 +51,7 @@ rejection of big-time bands and the emergence of alternative musics
 -->
 
 
-But I'd say generally, as opposed to other the (sub)genres that we discuss in the paper, Heavy Metal logos take their cues from ersatz **biker aesthetics** and have a **blocky feel to them**. They're also often **colorful in terms of hues and tinges**.
+But I'd say generally, as opposed to other the (sub)genres that we discuss in the paper, Heavy Metal logos take their cues from **biker** and ersatz **Nazi aesthetics** with sometimes **Runic motifs** and stereotypically have a **blocky feel to them**. They're also often **colorful in terms of hues and tinges**.
 
 ![Heavy Metal](..\assets\img\projects\proj-2\heavy.png)
 
