@@ -12,7 +12,7 @@ As you can imagine, it can get complicated fairly quickly when you're trying to 
 ![Heavy Metal](..\assets\img\projects\proj-2\banner4.png)
 ![Heavy Metal](..\assets\img\projects\proj-2\banner3.png)
 
-*Full disclosure: With these genre samples I tried to represent as faithfully as possible a broad range of genres, based on my own years of experience in designing Metal logos and studying up on genres that I'm not too familiar with. I then had them checked by several musicians and artists in the Metal scene to confirm style accuracy and coverage. (The list of names can be found in the paper.) But, ultimately, these remain interpretations. It may well be that you have other ideas on how these logos are supposed to look like. Maybe you don't think my comments are clever or helpful or funny. In that case, drop me a line on Twitter, and tell me what needs improving.* 
+*Full disclosure: With these genre samples I tried to represent as faithfully as possible a broad range of genres, based on my own years of experience in designing Metal logos and studying up on genres that I'm not too familiar with. I then had them checked by several musicians and artists in the Metal scene to confirm style accuracy and coverage. (The list of names can be found in the paper.) But, ultimately, these remain interpretations. It may well be that you have other ideas on what these logos are supposed to look like. Maybe you don't think my comments are clever or helpful or funny. In that case, drop me a line on Twitter, and tell me what needs improving.* 
 
 -- Gerrit
 
@@ -87,7 +87,7 @@ Here, I purposely decided to do a logo in the vein of those of **Iron Maiden** a
 - <a href="https://open.spotify.com/track/056MbLQC2tKWakXhs4T2Ac?si=bc40ef6b02e944c8" target="_blank" rel="noopener"><span>Saxon</span></a>
 
 #### Speed Metal
-Speed Metal has its roots in NWOBHM and would lay the foundation for later extreme metal genres. As the the name already suggests, it's all about speed. In this it is much like Thrash Metal -- which is probably why Speed logos can easily be mistaken for Thrash logos --, but it's lyrically less abrasive and musically more melodic. So what sets these apart from the rest? I'd say these logos, more than others, convey a visual sense of speed, which is why often the letters are designed in a **cursive style** and **drawn together**, or if not that at least **packed closely together**.
+Speed Metal has its roots in NWOBHM and would lay the foundation for later extreme metal genres. As the the name already suggests, it's all about *speed*. In this it's much like Thrash Metal -- which is probably why Speed logos can easily be mistaken for Thrash logos --, but it's lyrically less abrasive and musically more melodic. So what sets Speed logos apart from the rest? I'd say these, more than others, convey a **visual sense of speed**, which is why often the letters are designed in a **cursive style** and **drawn together in a single line**, or if not that at least **packed closely together**.
 
 ![Speed Metal](..\assets\img\projects\proj-2\speed.png)
 
@@ -97,7 +97,7 @@ Speed Metal has its roots in NWOBHM and would lay the foundation for later extre
 - <a href="https://open.spotify.com/track/4hfpMRkHOW3xGt8zE8ogFk?si=661da78bf8464886" target="_blank" rel="noopener"><span>Running Wild</span></a>
 
 #### Power Metal
-Power Metal takes its inspiration from both traditional Heavy Metal and Speed Metal and fuses this with theatrics and bombast in an effort to create something emotionally impactful and powerful. (More often, however, the result is *bathos*. But that's just me talking.) This may be why Power logos are often **rendered in full 3D**, with a **metallic** or **stony texture**. Because, you know, Power Metal is that deep and powerful! Like metal or stone!
+Power Metal takes its inspiration from both "traditional" Heavy Metal and Speed Metal and fuses the elements therefrom with theatrics and bombast in an effort to create something emotionally impactful and powerful. (More often, however, the result is akin to Wagnerian *bathos*, which is no doubt the reason why Power Metal is only really popular in Germany and German-speaking Europe.) This may be why Power logos are often **rendered in full 3D**, with a **metallic** or **stony texture**. Because, you know, Power Metal is that deep and powerful! Like metal or stone!
 ![Power Metal](..\assets\img\projects\proj-2\power.jpg)
 
 ##### Some bands to check out:
@@ -105,10 +105,21 @@ Power Metal takes its inspiration from both traditional Heavy Metal and Speed Me
 - <a href="https://open.spotify.com/track/5VZwMq6yaFb04PCTfdNY3K?si=030971ab961d457f" target="_blank" rel="noopener"><span>Helloween</span></a>
 - <a href="https://open.spotify.com/track/0cajnv3diwVnb2KXv7hLVs?si=9e076d5d959c417c" target="_blank" rel="noopener"><span>Sabaton</span></a>
 
+
+#### Symphonic Metal
+One subgenre that I originally couldn't bother with -- even though it is a major one -- is Symphonic Metal. This is an off-shoot genre of Power Metal, and thus shares much of its musical DNA with its parent genre. This linkage is also visible in the band names. These are often lifted from Power Metal songs. (If a Symphonic Metal band is called Fiddler On the Green, then it's likely a Power Metal band once put out a track called "Fiddler on the Green.") Where they differ is that Symphonic Metal bands put even more emphasis on the bombast and they're more likely to be female-fronted; and if they aren't, then it still sounds like they are. 
+
+It's generally easy to recognize Symphonic Metal bands from others. Nine out of ten times, they have a **serif wordmark** with a **textured gradient fill** for a logo, with maybe one or two **customly elongated tails** -- making it look like someone sneezed while working on the letters. <!-- Oh, and if they play speedy music, the letters are probably in **cursive**. -->
+![Symphonic](..\assets\img\projects\proj-2\symphonic.jpg)
+
 ---
 
 # Thrash Metal
-Abrasive. Loud. Extremely fast yet still precise, with impeccable sense of timing. If judging by these words alone, it may sound like I'm describing a Dutch olympian -- a speed skater or a cyclist, perhaps. But we're talking music, aren't we? I'm talking Thrash Metal, of course, which means I'm talking yet another extreme subgenre of Heavy Metal. And yes, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash logos tend to have **straight, sharp edges** which reflect the tightness and controlled nature of the music's rhythms.<sup>4</sup> Indeed, some exceptions aside, there is no softness to be found in them whatsoever -- there is only hardness.
+Abrasive. Loud. Extremely fast yet still precise, with impeccable sense of timing. If judging by these words alone, it may sound like I'm describing a Dutch olympian -- a speed skater or a cyclist, perhaps. But we're talking music, aren't we? I'm talking Thrash Metal, of course, which means I'm talking yet another extreme subgenre of Heavy Metal. 
+
+As a scene, it emerged simultaneously in different parts of the world, in different countries (Britain, Germany, Latin America, and the US), from where it developed out of different genres (most notably NWOBHM and Punk Hardcore). This is why there is a variety of styles within the Thrash genre -- one that is in large part determined by bands' locality. 
+
+Of course, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash logos tend to have **straight, sharp edges** which reflect the tightness and controlled nature of the music's rhythms.<sup>4</sup> Indeed, some exceptions aside, there is no softness to be found in them whatsoever -- there is only hardness.
 
 <!-- - <a href="https://open.spotify.com/track/7qYHH6ygW9GeNY7SVWf9ok?si=b00dc2fb7b6740f8" target="_blank" rel="noopener"><span>Anthrax</span></a> -->
 - <a href="https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO?si=718c6d790f8946ed" target="_blank" rel="noopener"><span>Annihilator</span></a>
@@ -118,7 +129,7 @@ Abrasive. Loud. Extremely fast yet still precise, with impeccable sense of timin
 - <a href="https://open.spotify.com/track/41DPdRpN14Xv8khpafNZmg?si=7dce6a8172c9458c" target="_blank" rel="noopener"><span>Toxic Holocaust</span></a>
 
 
-## U.S. Thrash Metal
+## US Thrash Metal
 <!--In the U.S., Thrash Metal emerged against the backdrop of Reagan conservatism and the concurrent emergence and rise in popularity of the more mainstream friendly Glam Metal genre. This context proved extremely fertile ground for a new kind of sound, and for some reason especially in California, especially in the San Francisco Bay Area. 
 
 It is important to stress here that this is not a hard-and-fast rule for U.S. Thrash aesthetics. Ed Repka, an American graphic artist, for example, has been an instrumental figure in definining said aesthetics. 
@@ -130,7 +141,7 @@ For logos, many bands within the Bay Area scene had a more "do it yourself"-arti
 
 The logo below was based on Dark Angel's logo. Though technically not a band from the Bay Area -- though still from California -- , I feel their logo captures best the look of the U.S. Thrash genre. -->
 
-It can be difficult to differentiate between a U.S. Thrash band and a German one; perhaps the only clue is that U.S. Thrash are more likely to have hints or elements of **symmetry** and **interconnectedness** to them. Come to think of it, they may also have more likelihood of having an **outline** or **"halo"** surrounding the the letters. 
+It can be difficult to differentiate between a US Thrash band and a German one; perhaps the only clue is that US Thrash logos are more likely to have hints or elements of **symmetry** and **interconnectedness** to them. Come to think of it, they may also have more likelihood of having an **outline** or **"halo"** surrounding the the letters. 
 ![Thrash Metal](..\assets\img\projects\proj-2\thrash.jpg)
 
 ##### Some bands to check out:
@@ -139,7 +150,7 @@ It can be difficult to differentiate between a U.S. Thrash band and a German one
 - <a href="https://open.spotify.com/track/5ohfpKB5tt275f4Y4lQ9F7?si=5cc2cc0fa80d4925" target="_blank" rel="noopener"><span>Slayer</span></a>
 
 #### Bay Area Thrash Metal
-If we are to distinguish further among U.S. Thrash Metal bands and we continue differentiating, then the early-1980s San Francisco Bay Area scene surely deserves some attention from everyone! What's interesting here is that the aesthetics of said scene were largely characterized by a "do-it-yourself" ethos, as opposed to the aesthetics of the then already established Metal bands who often used established fonts for their logos (see **Iron Maiden**, for example). Arguably the most famous example of this is **Metallica**'s logo which was drawn up by none other than James Hetfield himself. This may be why certain U.S. Thrash logos, or part of these logos, **look a bit off**; because they were not always done by trained graphical designers who are familiar with rulers and with drawing and measuring segments.
+If we are to distinguish further among US Thrash Metal bands and we continue differentiating, then the early-1980s San Francisco Bay Area scene surely deserves some attention from everyone! What's interesting here is that the aesthetics of said scene were largely characterized by a "do-it-yourself" ethos, as opposed to the aesthetics of the then already established Metal bands who often used established fonts for their logos (see **Iron Maiden**, for example). Arguably the most famous example of this is **Metallica**'s logo which was drawn up by none other than James Hetfield himself. This may be why certain US Thrash logos, or part of these logos, **look a bit off**; because they were not always done by trained graphical designers who are familiar with rulers and with drawing and measuring segments.
 
 Another thing to point out here is that in Bay Area Thrash logos you can often find a **juxtaposition of straight lines with round shapes** or **straight lines against curved lines**. To refer back to the example of Metallica's logo, the C is rounded, but the first and last letters are sharp and italicized. 
 
@@ -149,7 +160,7 @@ Another thing to point out here is that in Bay Area Thrash logos you can often f
 - <a href="https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj?si=e87ef00d97334129" target="_blank" rel="noopener"><span>Testament</span></a>
 
 ## Teutonic Thrash Metal 
-As a genre, Teutonic Thrash Metal has a distinct German character, and a few notable exceptions aside, this is reflected in the kind of logos bands in this genre have. Like 1980s U.S. Thrash logos, Teutonic Thrash logos are **extremely angular, with fixed angles**, but with **less emphasis on symmetry**, and the letters are generally **more blocky in shape**. With this, they seem to be saying, "We believe in substance over style, and function over form." Which is all fine and dandy until you try to put a cube through a round hole. It's probably why you've never heard of **Kreator** ... while you no doubt own a copy of the **"Black"** album.
+As a genre, Teutonic Thrash Metal has a distinct German character, and a few notable exceptions aside, this is reflected in the kind of logos bands in this genre have. Like 1980s US Thrash logos, Teutonic Thrash logos are **extremely angular, with fixed angles**, but with **less emphasis on symmetry**, and the letters are generally **more blocky in shape**. With this, they seem to be saying, "We believe in substance over style, and function over form." Which is all fine and dandy until you try to put a cube through a round hole. It's probably why you've never heard of **Kreator** ... while you no doubt own a copy of the **"Black"** album.
 ![Teutonic Thrash Metal](..\assets\img\projects\proj-2\teutonic.jpg)
 
 ##### Some bands to check out:
