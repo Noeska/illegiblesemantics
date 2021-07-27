@@ -610,7 +610,6 @@ Take me back to the [top](#top)
 # Faux Metal
 If you were born in a white, well-off family in the 1980s or 1990s, chances are you never were into *real*, authentic Metal. While the others were exchanging albums of **Immortal**, **Marduk**, **Nailbomb**, and **Sepultura**, you were probably busy skating in your Droors jeans to the tunes of **Korn**, **Deftones**, and **Coal Chamber**. You probably stood looking surprised, unable to believe that your long-haired classmate just said no to what you thought was a rhetorical question -- "Don't you just wish they had **Limp Bizkit** do a version of *this*!" I hate to break it to you, but you were a poser!
 
-
 <a name="nu"></a> 
 ## Nu Metal
 What is there to say about Nu logos that has not yet been said by now? They are **puerile in design** and **clumsily drawn**. To its credit in that respect, they convey well what the music is all about.  
