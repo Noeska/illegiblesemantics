@@ -442,7 +442,7 @@ Closely related to the above is Folk Metal. Where they differ is that while Paga
 ![Folk Metal](..\assets\img\projects\proj-2\folk.jpg)
 
 ## Folk Metal (Continued)
-Some Folk bands take things to the next level by incorporating **Viking helmets** and **drinking-horns** in their logos to signal to people, "When you come to our show, you're free to live out your Viking fantasy vicariously. By all means, bring your plastic drinking-horn!" And why wouldn't you, if you're a fan of Folk Metal. You've already ostracized yourself from typical metalheads anyway, you may as well commit to the LARP thing.
+Some Folk bands take things to the next level by incorporating **viking helmets** and **drinking-horns** in their logos to signal to people, "When you come to our show, you're free to live out your viking fantasy vicariously. By all means, bring your plastic drinking-horn!" And why wouldn't you, if you're a fan of Folk Metal. You've already ostracized yourself from typical metalheads anyway, you may as well commit to the LARP thing.
 
 ![Folk Metal](..\assets\img\projects\proj-2\folk2.jpg)
 
