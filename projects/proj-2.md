@@ -431,11 +431,29 @@ In the mid-1980s, and especially in the early 1990s, there were created a few lo
 5. And the logo is often **unreadable** and purposely made to resemble a **lump of tree roots**. To fans of the genre, it signals, "Good luck seeing the forest to the trees." To anyone else, "Good luck finding something -- *anything* -- interesting in this musical mess."
 ![Black Metal](..\assets\img\projects\proj-2\black3.jpg)
 
-##### Some Black Metal bands to check out:
-- <a href="https://open.spotify.com/track/595xEql63Rk4JDe1aH7SFT?si=663958e856114663" target="_blank" rel="noopener"><span>Marduk</span></a>
-<!--- <a href="https://open.spotify.com/track/1N7DaPBfF0x3qSfj4bnBKO?si=6ca17eb947d545c6" target="_blank" rel="noopener"><span>Emperor</span></a> -->
-- <a href="https://open.spotify.com/track/3WdwfxDcyAe6m25InJuW91?si=c66e015ac5bc404c" target="_blank" rel="noopener"><span>Tsjuder</span></a>
-- <a href="https://open.spotify.com/track/4iP38fIjlFZWsCwcSynHuJ?si=360d0893296249aa" target="_blank" rel="noopener"><span>Urfaust</span></a>
+The Black Metal scene, as we commonly know it today, emerged in Norway in the late-1980s and early-1990s. But the Norwegian bands that made up the scene were actually part of the second wave of Black Metal. 
+
+##### Some Second Wave of Black Metal bands to check out:
+- <a href="https://open.spotify.com/track/38lBkxLoxXys6gjCkKM2V2?si=aaeff9a843624d36" target="_blank" rel="noopener"><span>Darkthrone</span></a>
+- <a href="https://open.spotify.com/track/1N7DaPBfF0x3qSfj4bnBKO?si=6ca17eb947d545c6" target="_blank" rel="noopener"><span>Emperor</span></a>
+- <a href="https://open.spotify.com/track/4AP3a7eEOlz5sTJiWnv2C6?si=fe20302f51844c5e" target="_blank" rel="noopener"><span>Mayhem</span></a>
+
+As a genre, however, Black Metal emerged in the early- to mid-1980s, first in the UK and then elsewhere.
+
+##### Some First Wave of Black Metal bands to check out:
+- <a href="https://open.spotify.com/track/1ctsA23S5E41BI0tpmRyFn?si=ff2d31b6bc3045f5" target="_blank" rel="noopener"><span>Bathory</span></a>
+- <a href="https://open.spotify.com/track/6ewgohNcHvLgPEJ2Ky2qkD?si=ce5d10a9252e435f" target="_blank" rel="noopener"><span>Beherit</span></a>
+- <a href="https://open.spotify.com/track/0h8rmXKMmpx5hRPR40o9Fn?si=213ecf977eab4234" target="_blank" rel="noopener"><span>Bulldozer</span></a>
+
+Following in the wake of the second wave, new bands emerged, eager to get in on the action.
+
+##### Some non-Norwegian Black Metal bands to check out:
+- <a href="https://open.spotify.com/track/79IP5t1Mw4cOAi7Drlqvyw?si=3cf67eee1612434a" target="_blank" rel="noopener"><span>Cradle of Filth</span></a>
+- <a href="https://open.spotify.com/track/615Q1VvHcgtKu0XKPLrUSQ?si=df8f0ae38e7b4ebb" target="_blank" rel="noopener"><span>Summoning</span></a>
+- <a href="https://open.spotify.com/track/0CaOF2E78AnmAOKojPEGlP?si=dea2d9f1a9134833" target="_blank" rel="noopener"><span>Varathron</span></a>
+
+Today, Black Metal is an international phenomemon, and there are many Black Metal doing things differently than the way the bands of the first and second wave did and sometimes still do, both in terms of music and of the ethos of making Black Metal, so it's impossible to cover them all here. But the bands mentioned above, should help get you some idea of how these bands vary in style and intensity. 
+
 
 Take me back to the [top](#top)
 
