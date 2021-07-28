@@ -680,7 +680,7 @@ Take me back to the [top](#top)
 ## Post-Metal
 Judging by its name you'd think bands in this genre have taken things to the Next Level Beyond Metal. In a way, they have. Seeing what these guys and gals are doing -- it's all very ambitious, it's the next level for the Metalhead who wants to be intellectually challenged. While the plebs are still gushing over **Immolation**'s latest simultaneous(!) callous-shredding guitar leads and legato melodic lines and reveling in **Cannibal Corpse**'s lyrics about necrogenic ressurections, Post-Metallers rather choose to set the tastes of the "thinking man," exploring textures and timbre and Michel Foucault.
 
-A Post-Metal logo could be anything from a casual wordmark to a hand-lettered logo with a more custom and unique feel. Regardless of novelty, post-metal logos all have the same letter treatments: they all look like they're **dissolving** or **fading** -- except they're not fading out of existence, they're moving to a higher plain -- to the heights of Illumination.
+A Post-Metal logo could be anything from a casual wordmark to a hand-lettered logo with a more custom and unique feel. Regardless of novelty, post-metal logos all have the same letter treatment: they all look like they're **dissolving** or **fading** -- except they're not fading out of existence, they're moving to a higher plain -- to the heights of Illumination.
 ![Post-Metal](..\assets\img\projects\proj-2\post2.jpg)
 
 And if the band name consists of several words, the words are set in diferent sizes of type and placed at different heights from the baseline.
