@@ -62,9 +62,29 @@ But I'd say generally, as opposed to other the (sub)genres that we discuss in th
 ![Heavy Metal](..\assets\img\projects\proj-2\heavy.png)
 
 ##### Some Heavy Metal bands to check out:
-- <a href="https://open.spotify.com/track/2CzKVfVA9U7OKbIpAVPZOk?si=7b8bf1357edb4e78" target="_blank" rel="noopener"><span>Black Sabbath</span></a>
-- <a href="https://open.spotify.com/track/1pz9xeOLGuA5TmfYT86Kj5?si=da080c44433547d3" target="_blank" rel="noopener"><span>Judas Priest</span></a>
-- <a href="https://open.spotify.com/track/52bzQkgk8TznulGvKOPQTK?si=f5c8642827dc4b6f" target="_blank" rel="noopener"><span>Rainbow </span></a>
+
+<ul>
+<li>Black Sabbath
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Black_Sabbath/99" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2CzKVfVA9U7OKbIpAVPZOk?si=7b8bf1357edb4e78" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Judas Priest
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Judas_Priest/97" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/1pz9xeOLGuA5TmfYT86Kj5?si=da080c44433547d3" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Rainbow
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Rainbow/108" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/52bzQkgk8TznulGvKOPQTK?si=f5c8642827dc4b6f" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -89,9 +109,30 @@ Here, I purposely decided to do a logo in the vein of those of **Iron Maiden** a
 ![NWOBHM](..\assets\img\projects\proj-2\nwobhm.png)
 
 ##### Some NWOBHM bands to check out:
-- <a href="https://open.spotify.com/track/7og9p3oxMOILD2hth9uz7t?si=db18841ea8d74e63" target="_blank" rel="noopener"><span>Diamond Head</span></a>
-- <a href="https://open.spotify.com/track/0S90LE5Z8FOdbui3tLak6t?si=99afac34017c4753" target="_blank" rel="noopener"><span>Iron Maiden</span></a>
-- <a href="https://open.spotify.com/track/056MbLQC2tKWakXhs4T2Ac?si=bc40ef6b02e944c8" target="_blank" rel="noopener"><span>Saxon</span></a>
+
+<ul>
+<li>Diamond Head
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Diamond_Head/401" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/7og9p3oxMOILD2hth9uz7t?si=db18841ea8d74e63" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Iron Maiden
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Iron_Maiden/25" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0S90LE5Z8FOdbui3tLak6t?si=99afac34017c4753" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Saxon
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Saxon/626" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/056MbLQC2tKWakXhs4T2Ac?si=bc40ef6b02e944c8" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
+
 
 Take me back to the [top](#top)
 
@@ -102,9 +143,30 @@ Speed Metal has its roots in NWOBHM and would lay the foundation for later extre
 ![Speed Metal](..\assets\img\projects\proj-2\speed.png)
 
 ##### Some Speed Metal bands to check out:
-- <a href="https://open.spotify.com/track/7vhN8nkLJKIlQIfhp6gkuE?si=107cca2baa76465c" target="_blank" rel="noopener"><span>Agent Steel</span></a>
-- <a href="https://open.spotify.com/track/2HcMXZJ8TR0CFiePEqhHLW?si=c251205f845c48a6" target="_blank" rel="noopener"><span>Exciter</span></a>
-- <a href="https://open.spotify.com/track/2pP8Y75tN80adMKaYvEmre?si=9d28b5ad0b4e433d" target="_blank" rel="noopener"><span>Razor</span></a>
+
+<ul>
+<li>Agent Steel
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Agent_Steel/529" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/7vhN8nkLJKIlQIfhp6gkuE?si=107cca2baa76465c" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Exciter
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Exciter/1103" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2HcMXZJ8TR0CFiePEqhHLW?si=c251205f845c48a6" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Razor
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Razor/315" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2pP8Y75tN80adMKaYvEmre?si=9d28b5ad0b4e433d" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
+
 
 Take me back to the [top](#top)
 
