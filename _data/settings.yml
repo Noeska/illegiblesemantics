@@ -14,9 +14,8 @@ menu:
 projects:
 - {name: 'Dimensions',   url: 'proj-1'}
 - {name: 'Samples', url: 'proj-2'}
-- {name: 'Surveys',  url: 'proj-6'}
-# - {name: 'Survey Results', url: 'proj-6'}
 - {name: 'MetalVis Tool',   url: 'proj-3'}
+- {name: 'Surveys',  url: 'proj-6'}
 # - {name: 'Logos in Time',  url: 'proj-5'}
 #- {name: 'Additional Musings',  url: 'proj-4'}
 
