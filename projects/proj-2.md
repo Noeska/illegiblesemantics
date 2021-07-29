@@ -1032,7 +1032,7 @@ As a genre, however, Black Metal emerged in the early- to mid-1980s, first in th
 </li>
 </ul>
 
-Following in the wake of the second wave, new bands emerged, eager to get in on the action.
+Following in the wake of the second wave, new bands emerged all over the world, eager to get in on the action.
 
 ##### Some non-Norwegian Black Metal bands to check out:
 
