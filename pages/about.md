@@ -4,9 +4,9 @@ title: About
 permalink: /home
 ---
 
-<img width=300 src="\illegiblesemantics\assets\img\members\illegiblesemantics.jpg"/>
+<img width=400 src="\illegiblesemantics\assets\img\members\illegiblesemantics.jpg"/>
 
-*Welcome to the additional materials companion webpage for the Alt.Vis paper submission "Illegible Semantics: Exploring the Design Space of Metal Logos".*
+*Welcome to the additional materials companion webpage for the Alt.Vis paper submission "Illegible Semantics: Exploring the Design Space of Metal Logos".* On this page, you will find various materials to accompany our paper. We provide a thorough description of the Dimensions of Doom with illustrative examples, a detailed guide to metal genres with sample logos designed by Gerrit Rijken, and initial survey results.
 
 #### Authors
 Gerrit Rijken, Rene Cutura, Frank Heyen, Michael Sedlmair, Michael Correll, Jason Dykes, and Noeska Smit.
