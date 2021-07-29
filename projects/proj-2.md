@@ -207,7 +207,7 @@ Take me back to the [top](#top)
 
 <a name="symphonic"></a> 
 #### Symphonic Metal
-One subgenre that I originally couldn't be bothered with -- even though it is a major one -- is Symphonic Metal. This is an off-shoot genre of Power Metal, and thus shares much of its musical DNA with its parent genre. This linkage is also visible in the band names. These are often lifted from Power Metal songs. If a Symphonic Metal band is called Dragon-Fiddler, then it's likely a Power Metal band once put out a track called something along the lines of "Dewi's Mystical Hymne (The Scarlet Dragon-Fiddler)." 
+One subgenre that I originally couldn't be bothered with -- even though it is a major one -- is Symphonic Metal. This is an off-shoot genre of Power Metal, and thus shares much of its musical DNA with its parent genre. This linkage is also visible in some of the bands' names. These are often lifted from Power Metal songs. If a Symphonic Metal band is called Dragon-Fiddler, then it's likely a Power Metal band once put out a track called something along the lines of "Dewi's Mystical Hymne (The Scarlet Dragon-Fiddler)." 
 
 Where Symphonic Metal bands differ from Power Metal bands is that the former put even more emphasis on the bombast, believing themselves to be following in the footsteps of scoring giants like John Williams or Hans Zimmer -- though they'd be lucky if they could do the score for a <a href="https://www.youtube.com/watch?v=7M0_9YcRDQ0" target="_blank" rel="noopener"><span>Uwe Boll</span></a> movie --, and they're more likely to be female-fronted; and if they aren't, then it still sounds like they are. 
 
