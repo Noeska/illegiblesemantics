@@ -1811,6 +1811,8 @@ Take me back to the [top](#top)
 
 ---
 
+*I'm not really in the know with rules concerning footnotes, bibliography, etc., so bear with me. These will be checked later by the professionals.*
+
 
 # Resources
 ##### [1] E. Nielson. Paragraph on Metal on Trial. *Rap on Trial: Race, Lyrics, and Guilt in America*, p. 89.
