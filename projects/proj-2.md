@@ -1335,10 +1335,11 @@ Take me back to the [top](#top)
 
 <a name="psychedelic"></a> 
 ## Stoner Metal
-Because of its slow droning nature, Doom Metal and stoner culture go together like a herb grinder and a glass bong. And so a new genre was born. 
+Because of its slow droning nature, Doom Metal and stoner culture go together like a herb grinder and a glass bong. And so a new genre was born, whose lyrics are often about getting stoned and tripping on acid-laid Kool-Aid.
 
 Logo-wise, nothing quite says stoner and psychedelia like a **hazy** or **cloud-like** Death Metal logo. (No joke -- this one was actually made by mesh-transforming the Brutal Death logo.) To make it further clear that this music is good for intense couch-sitting and bong-ripping, **greens** and **purples** are often used.
 ![Stoner Metal](..\assets\img\projects\proj-2\psychedelic.jpg)
+
 
 ##### Some Stoner bands to check out:
 <!-- - <a href="https://open.spotify.com/track/1q36lfxjmHC3KZcJ1KKBUN?si=5d3d10162493498e" target="_blank" rel="noopener"><span>Dark Buddha Rising</span></a> -->
@@ -1477,13 +1478,14 @@ Take me back to the [top](#top)
 
 <a name="post"></a> 
 ## Post-Metal
-Judging by its name you'd think bands in this genre have taken things to the Next Level Beyond Metal. In a way, they have. Seeing what these guys and gals are doing -- it's all very ambitious, it's the next level for the Metalhead who wants to be intellectually challenged. While the plebs are still gushing over **Immolation**'s latest simultaneous(!) callous-shredding guitar leads and legato melodic lines and reveling in **Cannibal Corpse**'s lyrics about necrogenic ressurections, Post-Metallers rather choose to set the tastes of the "thinking man," exploring textures and timbre and Michel Foucault.
+Judging by its name you'd think bands in this genre have taken things to the Next Level Beyond Metal. In a way, they have. Seeing what these guys and gals are doing -- it's all very ambitious, it's the next level for the Metalhead who wants to be intellectually challenged. While the plebs are still gushing over **Immolation**'s latest simultaneous(!) callous-shredding guitar leads and legato melodic lines and reveling in **Cannibal Corpse**'s lyrics about necrogenic ressurections, Post-Metallers rather choose to set the tastes of the "thinking man," exploring textures and timbre.
+
+If you're not sure what you're listening to is Post-Metal -- wait until the lyrics kick in. What few there are, are typically interspersed with lecture recordings of Jacques Derrida or more often Michel Foucault. 
 
 A Post-Metal logo could be anything from a casual wordmark to a hand-lettered logo with a more custom and unique feel. Regardless of novelty, post-metal logos all have the same letter treatment: they all look like they're **dissolving** or **fading**. Now, mind you, they're not fading out of existence, they're just moving to a higher plain -- and they encourage you to follow them -- to the heights of Reason and Illumination.
 ![Post-Metal](..\assets\img\projects\proj-2\post2.jpg)
 
 And if the band name consists of several words, the words are set in diferent sizes of type and placed at different heights from the baseline.
-
 
 ##### Some Post-Metal bands to check out:
 
@@ -1529,6 +1531,8 @@ Take me back to the [top](#top)
 
 ---
 
+
+
 <a name="sludge"></a> 
 ## Sludge Metal
 Sludge Metal ...
@@ -1540,8 +1544,8 @@ All right. Let's play a game, you and I. I'll show you a logo, and you guess wha
 
 
 Take me back to the [top](#top)
--->
 
+-->
 ---
 
 
