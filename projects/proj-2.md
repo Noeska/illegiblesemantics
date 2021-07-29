@@ -814,6 +814,10 @@ Take me back to the [top](#top)
 Grindcore is one of the heavier microgenres. It fuses elements of Thrash and Death as well as Crust and Hardcore, and does away with things like standard time signatures, creating a negative synergy where one plus one usually equals less than two. No wonder, then, that Grindcore logos look **crude and unfinished** at best. But all is not bad either, for great (to some) is the genre's fondness for puerile humor and disgusting aesthetics, with **visual references to scathology** and **other bodily functions**. In short, think of Grindcore aesthetics as the typographic equivalent of a schoolboy's fantasies. This may also help explain the heavy usage of **color** and **texture**. (Kids love color. Right? I wouldn't know, I'm not a father.)
 ![Grindcore](..\assets\img\projects\proj-2\grind.jpg)
 
+<!--porngrind, cybergrind -->
+
+
+
 ##### Some Grindcore bands to check out:
 
 <ul>
@@ -842,6 +846,7 @@ Grindcore is one of the heavier microgenres. It fuses elements of Thrash and Dea
 Take me back to the [top](#top)
 
 ---
+
 <a name="black"></a> 
 # Black Metal
 Black Metal is one of the more extreme subgenres of Heavy Metal music, not just in terms of music but equally in terms of commitment and attitude. Very early since its inception, artists and fans alike have taken things to extremes, committing acts of self-maiming, suicide, arson, grave-robbing, and in some cases even murder; though these days it's really just another music genre that's out there. 
@@ -866,23 +871,90 @@ In the mid-1980s, and especially in the early 1990s, there were created a few lo
 The Black Metal scene, as we commonly know it today, emerged in Norway in the late-1980s and early-1990s. But the Norwegian bands that made up the scene were actually part of the second wave of Black Metal. 
 
 ##### Some Second Wave of Black Metal bands to check out:
-- <a href="https://open.spotify.com/track/38lBkxLoxXys6gjCkKM2V2?si=aaeff9a843624d36" target="_blank" rel="noopener"><span>Darkthrone</span></a>
-- <a href="https://open.spotify.com/track/1N7DaPBfF0x3qSfj4bnBKO?si=6ca17eb947d545c6" target="_blank" rel="noopener"><span>Emperor</span></a>
-- <a href="https://open.spotify.com/track/4AP3a7eEOlz5sTJiWnv2C6?si=fe20302f51844c5e" target="_blank" rel="noopener"><span>Mayhem</span></a>
+
+<ul>
+<li>Darkthrone
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Darkthrone/146" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/38lBkxLoxXys6gjCkKM2V2?si=aaeff9a843624d36" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Emperor
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Emperor/30" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/1N7DaPBfF0x3qSfj4bnBKO?si=6ca17eb947d545c6" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Mayhem
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Mayhem/67" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/4AP3a7eEOlz5sTJiWnv2C6?si=fe20302f51844c5e" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 As a genre, however, Black Metal emerged in the early- to mid-1980s, first in the UK and then elsewhere.
 
 ##### Some First Wave of Black Metal bands to check out:
-- <a href="https://open.spotify.com/track/1ctsA23S5E41BI0tpmRyFn?si=ff2d31b6bc3045f5" target="_blank" rel="noopener"><span>Bathory</span></a>
-- <a href="https://open.spotify.com/track/6ewgohNcHvLgPEJ2Ky2qkD?si=ce5d10a9252e435f" target="_blank" rel="noopener"><span>Beherit</span></a>
-- <a href="https://open.spotify.com/track/0h8rmXKMmpx5hRPR40o9Fn?si=213ecf977eab4234" target="_blank" rel="noopener"><span>Bulldozer</span></a>
+
+<ul>
+<li>Bathory
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Bathory/184" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/1ctsA23S5E41BI0tpmRyFn?si=ff2d31b6bc3045f5" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Beherit
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Beherit/348" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/6ewgohNcHvLgPEJ2Ky2qkD?si=ce5d10a9252e435f" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Bulldozer
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Bulldozer/890" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0h8rmXKMmpx5hRPR40o9Fn?si=213ecf977eab4234" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Following in the wake of the second wave, new bands emerged, eager to get in on the action.
 
 ##### Some non-Norwegian Black Metal bands to check out:
-- <a href="https://open.spotify.com/track/79IP5t1Mw4cOAi7Drlqvyw?si=3cf67eee1612434a" target="_blank" rel="noopener"><span>Cradle of Filth</span></a>
-- <a href="https://open.spotify.com/track/615Q1VvHcgtKu0XKPLrUSQ?si=df8f0ae38e7b4ebb" target="_blank" rel="noopener"><span>Summoning</span></a>
-- <a href="https://open.spotify.com/track/0CaOF2E78AnmAOKojPEGlP?si=dea2d9f1a9134833" target="_blank" rel="noopener"><span>Varathron</span></a>
+
+<ul>
+<li>Cradle of Filth
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Cradle_of_Filth/24" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/79IP5t1Mw4cOAi7Drlqvyw?si=3cf67eee1612434a" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Summoning
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Summoning/29" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/615Q1VvHcgtKu0XKPLrUSQ?si=df8f0ae38e7b4ebb" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Varathron
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Varathron/1295" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0CaOF2E78AnmAOKojPEGlP?si=dea2d9f1a9134833" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- Post-Black Metal -->
+<!-- US BM, NSBM, Depressive Suicidal BM, Industrial BM, ambient BM, War Metal -->
+<!-- is there any noticeable difference? or is it all Szpajdel? --> 
+
+
 
 Today, Black Metal is an international phenomemon, and there are many Black Metal doing things differently than the way the bands of the first and second wave did and sometimes still do, both in terms of music and of the ethos of making Black Metal, so it's impossible to cover them all here. But the bands mentioned above, should help get you some idea of how these bands vary in style and intensity. 
 
@@ -895,9 +967,29 @@ Pagan Black Metal is one of many off-shoots of traditional "mainstream" Black Me
 ![Pagan Black Metal](..\assets\img\projects\proj-2\pagan.jpg)
 
 ##### Some Pagan Black bands to check out:
-- <a href="https://open.spotify.com/track/7dD7rB9gWVLUioEO1ni9rI?si=c930532dc62345d7" target="_blank" rel="noopener"><span>Drudkh</span></a>
-- <a href="https://open.spotify.com/track/0K3WWULKUk2erCWQTeWTLS?si=e5bcb6a5d9a6437d" target="_blank" rel="noopener"><span>Einherjer</span></a>
-- <a href="https://open.spotify.com/track/1Gb2d44DlK666SIyPzE4lt?si=a68e0d9d8b4e4bd8" target="_blank" rel="noopener"><span>Falkenbach</span></a>
+
+<ul>
+<li>Drudkh
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Drudkh/9344" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/7dD7rB9gWVLUioEO1ni9rI?si=c930532dc62345d7" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Einherjer
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Einherjer/307" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0K3WWULKUk2erCWQTeWTLS?si=e5bcb6a5d9a6437d" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Falkenbach
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Falkenbach/1071" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/1Gb2d44DlK666SIyPzE4lt?si=a68e0d9d8b4e4bd8" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -913,10 +1005,29 @@ Some Folk bands take things to the next level by incorporating **viking helmets*
 ![Folk Metal](..\assets\img\projects\proj-2\folk2.jpg)
 
 ##### Some Folk Metal bands to check out:
-- <a href="https://open.spotify.com/track/0vTEksNDRuJxDMLOOgn0fA?si=629709f8feb140a0" target="_blank" rel="noopener"><span>Eluveite</span></a>
-- <a href="https://open.spotify.com/track/5ft8Pv91JaqLvxRxzzQ5dp?si=e6975814404c4780" target="_blank" rel="noopener"><span>Finntroll</span></a>
-- <a href="https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy?si=b668970904154c45" target="_blank" rel="noopener"><span>Korpiklaani</span></a>
 
+<ul>
+<li>Eluveitie
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Eluveitie/13991" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0vTEksNDRuJxDMLOOgn0fA?si=629709f8feb140a0" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Finntroll
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Finntroll/95" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5ft8Pv91JaqLvxRxzzQ5dp?si=e6975814404c4780" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Korpiklaani
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Korpiklaani/17431" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy?si=b668970904154c45" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -929,9 +1040,29 @@ As you would expect, it's easy to do a Pirate Metal logo. Just do a **skull and 
 ![Pirate Metal](..\assets\img\projects\proj-2\pirate.jpg)
 
 ##### Some Pirate bands to check out:
-- <a href="https://open.spotify.com/track/6ySfvnEGsR5keLq9f3i1AU?si=79f16ef6c6c446cf" target="_blank" rel="noopener"><span>Alestorm</span></a>
-- <a href="https://open.spotify.com/track/25qe3Wf24HVQBBiQeb9Cdf?si=3151ee56f2f0462a" target="_blank" rel="noopener"><span>Running Wild</span></a>
-- <a href="https://open.spotify.com/track/7eKlw1hs1t8ZfQu7Hn4TZ8?si=e7dfc1dbad8a47c4" target="_blank" rel="noopener"><span>Swashbuckle</span></a>
+
+<ul>
+<li>Alestorm
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Alestorm/116989" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/6ySfvnEGsR5keLq9f3i1AU?si=79f16ef6c6c446cf" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Running Wild
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Running_Wild/306" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/25qe3Wf24HVQBBiQeb9Cdf?si=3151ee56f2f0462a" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Swashbuckle
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Swashbuckle/45228" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/7eKlw1hs1t8ZfQu7Hn4TZ8?si=e7dfc1dbad8a47c4" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -940,7 +1071,8 @@ Take me back to the [top](#top)
 ---
 <a name="crossover"></a> 
 # Crossover Genres
-When it comes to crossover genres, certain genres, or elements of them, are more likely to "crossover" than others. As it with fashion, so it is with Extreme Metal: Black goes with everything. Indeed, you can find bands that play Blackened Death (**Angelcorpse**, **Akercocke**, **Belphegor**), Blackened Death-Doom (**Bölzer**, **Necros Christos**, **Soulburn**), Blackened Speed (**Bulldozer,** **Exorcist**, **Sodomizer**), Blackened Thrash (**Aura Noir**, **Deströyer 666**, **Witchery**), and even Blackened Grindcore (**Absvrdist**, **Sunlight's Bane**, **Vomit Fist**). 
+When it comes to crossover genres, certain genres, or elements of them, are more likely to "crossover" than others. As it with fashion, so it is with Extreme Metal: Black goes with everything. Indeed, you can find bands that play Blackened Death (**Angelcorpse**, **Akercocke**, **Belphegor**), Blackened Death-Doom (**Bölzer**, **Necros Christos**, **Soulburn**), Blackened Speed (**Bulldozer,** **Exorcist**, **Sodomizer**), Blackened Thrash (**Aura Noir**, **Deströyer 666**, **Witchery**), Blackened Grindcore (**Absvrdist**, **Sunlight's Bane**, **Vomit Fist**), Blackened Noise (**Gnaw Your Tongue**, **Enbilulugugal**, **Sutekh Hexen**), Blackened Sludge (**Inter Arma**, **Lord Mantis**, **Tombs**), the list goes on.  
+
 
 This may need some explanation. Early in the 1990s, Black Metal was often used synonomously with "Satanic Metal" by fans and artists alike because to many of them it really was all about devil worship.<sup>9</sup> Furthermore, a string of church arsons in Norway and incidents of grave robbery throughout Europe -- even in the heart of Heerlen, a small city in the south of the Netherlands --, were not unknown after the emergence of the scene, and all contributed to the cementing of the label and stereotype of "Satanic Metal" in the public conscience.
 
@@ -990,24 +1122,62 @@ Take me back to the [top](#top)
 Blackened Thrash Metal is what you get when Black Metallers want to play something "thrashy" (i.e. getting drunk on beer and **Motörhead**). When this happens, nine out of ten times they commission someone to basically design them a **Death-Doom-like** logo, but one that features **bat wings** and maybe a **pentagram**, too. 
 ![Blackened Thrash](..\assets\img\projects\proj-2\blackened.jpg)
 
-
-
 ##### Some Blackened Thrash bands to check out:
-- <a href="https://open.spotify.com/track/0LqzJRyslUNtsjUJ8Cr93v?si=08460776d67e46b4" target="_blank" rel="noopener"><span>Bewitched</span></a>
-- <a href="https://open.spotify.com/track/5ft8Pv91JaqLvxRxzzQ5dp?si=e6975814404c4780" target="_blank" rel="noopener"><span>Nifelheim</span></a>
-- <a href="https://open.spotify.com/track/5hUifpW8hl9vBOpmO4Iek0?si=d3708ef8a3134e21" target="_blank" rel="noopener"><span>Skeletonwitch</span></a>
-<a name="bdeath"></a> 
+
+<ul>
+<li>Bewitched
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Bewitched/971" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0LqzJRyslUNtsjUJ8Cr93v?si=08460776d67e46b4" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Nifelheim
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Nifelheim/622" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5ft8Pv91JaqLvxRxzzQ5dp?si=e6975814404c4780" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Skeletonwitch
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Skeletonwitch/16879" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5hUifpW8hl9vBOpmO4Iek0?si=d3708ef8a3134e21" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
+<a name="bdeath"></a> 
 ## Blackened Death
 Blackened Death Metal is usually straight-up Death Metal, but with lyrics that deal with Satanism and the occult. The logos reflect just that: often these are **run-of-the-mill Death** logos, with the only difference being the inclusion of, say, an **inverted cross** or **devil horns**.
 ![Blackened Death](..\assets\img\projects\proj-2\blackened2.jpg)
 
 ##### Some Blackened Death bands to check out:
-- <a href="https://open.spotify.com/album/4unbayC09mIgYCitpJFp98?si=COiTh-AkTRWYyd1EyGgsGw&dl_branch=1" target="_blank" rel="noopener"><span>Angelcorpse</span></a>
-- <a href="https://open.spotify.com/track/3M5YJLUznJzmrGIAlI3nqe?si=6785db5366f74f8c" target="_blank" rel="noopener"><span>Belphegor</span></a>
-- <a href="https://open.spotify.com/track/1dEtXRznHGSyWNwmpmKXWn?si=15265ece39b14a59" target="_blank" rel="noopener"><span>Vital Remains</span></a>
+
+<ul>
+<li>Angelcorpse
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Angelcorpse/897" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/1mcPxhpBCBw6BhnqUgMb5h?si=e049397fc4904c3b" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Belphegor
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Belphegor/1952" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/3M5YJLUznJzmrGIAlI3nqe?si=6785db5366f74f8c" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Vital Remains
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Vital_Remains/720" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/1dEtXRznHGSyWNwmpmKXWn?si=15265ece39b14a59" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -1020,10 +1190,29 @@ Typically, a Death-Doom logo is a **blackletter(-like) wordmark** surrounded wit
 ![Death-Doom](..\assets\img\projects\proj-2\swedish.jpg)
 
 ##### Some Death-Doom bands to check out:
-- <a href="https://open.spotify.com/track/6iN50j5okdqupQjhFqGWru?si=458d982f94d1428a" target="_blank" rel="noopener"><span>Asphyx</span></a>
-<!-- - <a href="https://open.spotify.com/track/47FRdUpxkjElZ7sL7Ta1sX?si=6adba67a4e694c4f" target="_blank" rel="noopener"><span>Autopsy</span></a> -->
-- <a href="https://open.spotify.com/track/5faD0zZ9fMa3J5ZN3lIWtp?si=e1245794dcaf433a" target="_blank" rel="noopener"><span>Entombed</span></a>
-- <a href="https://open.spotify.com/track/0ejJdZnWdWPKJKvORuxtMy?si=9a14bddf9a4a4cb7" target="_blank" rel="noopener"><span>Winter</span></a>
+
+<ul>
+<li>Asphyx
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Asphyx/641" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/6iN50j5okdqupQjhFqGWru?si=458d982f94d1428a" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Entombed
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Entombed/7" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5faD0zZ9fMa3J5ZN3lIWtp?si=e1245794dcaf433a" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Winter
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Winter/312" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0ejJdZnWdWPKJKvORuxtMy?si=9a14bddf9a4a4cb7" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -1043,9 +1232,29 @@ If you are anything like Person A, don't feel bad. It's is a very common misconc
 For starters, Black Metal logos are typically black and (inverted) white in color; this one is colored **green**, a color that is often used by Grindcore (and adjacent) bands. (After all, Grindcore is all about doing things differently, and nothing quite says different like green, which, in terms of pigments, is the opposite of red, the choice color of many bands in the Heavy Metal genre at large.) Another key thing to look out for are signs of **compositional design** -- or, perhaps rather, **lack thereof**. If a logo features a design of intricate, meticulous linework, it's probably *not* a Deathgrind logo.
 
 ##### Some Deathgrind bands to check out:
-- <a href="https://open.spotify.com/track/2yX4gxtpB5RZpCPdP3NevM?si=c28505a7bec64f78" target="_blank" rel="noopener"><span>Aborted</span></a>
-- <a href="https://open.spotify.com/track/2ECMsbABJhbyEvVvY4RtV6?si=e970b103c7af446b" target="_blank" rel="noopener"><span>Carcass</span></a>
-- <a href="https://open.spotify.com/track/28kizMSvL3DcCGINWSOUjq?si=ead94586da4f4679" target="_blank" rel="noopener"><span>Cattle Decapitation</span></a>
+
+<ul>
+<li>Aborted
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Aborted/213" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2yX4gxtpB5RZpCPdP3NevM?si=c28505a7bec64f78" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Carcass
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Carcass/14" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2ECMsbABJhbyEvVvY4RtV6?si=e970b103c7af446b" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Cattle Decapitation
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Cattle_Decapitation/2840" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/28kizMSvL3DcCGINWSOUjq?si=ead94586da4f4679" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -1060,14 +1269,33 @@ Not to be a gatekeeper, but I think it makes sense that these logos look "unmeta
 
 ![Industrial Metal](..\assets\img\projects\proj-2\industrial.jpg)
 
-
 <!-- Though I suppose it could just as well mean that someone downloaded a really cool **sci-fi movie font family** that is in actuality a poor derivative of someone's hard work. 
  -->
 
 ##### Some Industrial Metal bands to check out:
-- <a href="https://open.spotify.com/track/5cAM9dnfazd9ILA4ZNCgGJ?si=57d0683650ee44f7" target="_blank" rel="noopener"><span>Aboryrm</span></a>
-- <a href="https://open.spotify.com/track/7aE8KWkxMKP6sW84weMOfQ?si=2a16df5016884c8b" target="_blank" rel="noopener"><span>Deathstars</span></a>
-- <a href="https://open.spotify.com/track/5mc6EyF1OIEOhAkD0Gg9Lc?si=f0e0483edd6c4a30" target="_blank" rel="noopener"><span>Nine Inch Nails</span></a>
+
+<ul>
+<li>Aboryrm
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Aborym" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5cAM9dnfazd9ILA4ZNCgGJ?si=57d0683650ee44f7" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Deathstars
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Deathstars" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/7aE8KWkxMKP6sW84weMOfQ?si=2a16df5016884c8b" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Nine Inch Nails
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Nine_Inch_Nails" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5mc6EyF1OIEOhAkD0Gg9Lc?si=f0e0483edd6c4a30" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -1079,9 +1307,29 @@ Doom Metal is the last major mode of Heavy Metal music. For those not in the kno
 This is what makes Doom logo extremely challenging -- challenging for me at least to come up with a genre logo; because it can be so many things depending on a band's specific interests and themes, and they can range anywhere from a dying bride to ... to what exactly? (It's always about some tragic loss of life, isn't it?) To put it flatly, usually it comes down to throwing shit at a wall and hope something sticks. (But this is just me talking ... what do I know? I've only worked with a small number of Doom bands.)
 
 ##### Some Doom bands to check out:
-- <a href="https://open.spotify.com/track/5oVSFQUi1hBYYRiNeOwfWy?si=94cd02de61b344fb" target="_blank" rel="noopener"><span>My Dying Bride</span></a>
-- <a href="https://open.spotify.com/track/1D8pXli5dHk1srHK6vXxbW?si=496f350381f54d0f" target="_blank" rel="noopener"><span>Pentagram</span></a>
-- <a href="https://open.spotify.com/track/3MFnMeC4sw77jnZAVRECOa?si=67dafa4b443e4956" target="_blank" rel="noopener"><span>Saint Vitus</span></a>
+
+<ul>
+<li>My Dying Bride
+<ul>
+<li><a href="https://www.metal-archives.com/bands/My_Dying_Bride/151" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5oVSFQUi1hBYYRiNeOwfWy?si=94cd02de61b344fb" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Pentagram
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Pentagram/443" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/1D8pXli5dHk1srHK6vXxbW?si=496f350381f54d0f" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Saint Vitus
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Saint_Vitus/35" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/3MFnMeC4sw77jnZAVRECOa?si=67dafa4b443e4956" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -1094,9 +1342,30 @@ Logo-wise, nothing quite says stoner and psychedelia like a **hazy** or **cloud-
 
 ##### Some Stoner bands to check out:
 <!-- - <a href="https://open.spotify.com/track/1q36lfxjmHC3KZcJ1KKBUN?si=5d3d10162493498e" target="_blank" rel="noopener"><span>Dark Buddha Rising</span></a> -->
-- <a href="https://open.spotify.com/track/1vhvheW4R0KbK6Kr3NFplW?si=2ab145ffb269412e" target="_blank" rel="noopener"><span>Sleep</span></a>
-- <a href="https://open.spotify.com/track/79An4wFdv8Os8ad3SCrQlb?si=ac5bc7aa357c462b" target="_blank" rel="noopener"><span>Ufomammut</span></a>
-- <a href="https://open.spotify.com/track/1dDq5HgN8m3jRYTWsch7UR?si=70108aea24c54b53" target="_blank" rel="noopener"><span>Weedeater</span></a>
+
+<ul>
+<li>Sleep
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Sleep/2891" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/1vhvheW4R0KbK6Kr3NFplW?si=2ab145ffb269412e" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Ufomammut
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Ufomammut/27168" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/79An4wFdv8Os8ad3SCrQlb?si=ac5bc7aa357c462b" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Weedeater
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Weedeater/14104" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/1dDq5HgN8m3jRYTWsch7UR?si=70108aea24c54b53" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
+
 
 Take me back to the [top](#top)
 
@@ -1106,9 +1375,30 @@ Funeral Doom is characterized by its sloooooow tempos -- slow even for Doom stan
 ![Funeral Doom](..\assets\img\projects\proj-2\funeral.jpg)
 
 ##### Some Funeral Doom bands to check out:
-- <a href="https://open.spotify.com/track/4g0gpUMOHc7BSFyOEn0sVa?si=17b8afb41dcb44b8" target="_blank" rel="noopener"><span>Esoteric</span></a>
-- <a href="https://open.spotify.com/track/1nbfq95e5WT14NZW1m36m9?si=356766b1d408422f" target="_blank" rel="noopener"><span>Funeral</span></a>
-- <a href="https://open.spotify.com/track/0lOkhYlyP1Nhg3pRyMgIHF?si=f835afe287b04342" target="_blank" rel="noopener"><span>Thergothon</span></a>
+
+<ul>
+<li>Esoteric
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Gorguts/1124" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/4g0gpUMOHc7BSFyOEn0sVa?si=17b8afb41dcb44b8" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Funeral
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Meshuggah/21" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/1nbfq95e5WT14NZW1m36m9?si=356766b1d408422f" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Thergothon
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Sigh/51" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0lOkhYlyP1Nhg3pRyMgIHF?si=f835afe287b04342" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
+
 
 Take me back to the [top](#top)
 
@@ -1122,9 +1412,29 @@ It probably speaks for itself: the lettering style is inspired by a **Gothic** -
 ![Gothic Metal](..\assets\img\projects\proj-2\gothic.jpg)
 
 ##### Some Gothic Metal bands to check out:
-- <a href="https://open.spotify.com/track/6w7h94URhGOI6H7G3NgMTT?si=0ff89a1ef7a04bdb" target="_blank" rel="noopener"><span>Draconian</span></a>
-- <a href="https://open.spotify.com/track/2HPdHcJpQ1pbw3ud0ii4Nc?si=7a8ce9dd640d488e" target="_blank" rel="noopener"><span>Theatre of Tragedy</span></a>
-- <a href="https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p?si=05ce6cfcc97c4caa" target="_blank" rel="noopener"><span>Type O Negative</span></a>
+
+<ul>
+<li>Draconian
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Gorguts/1124" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/6w7h94URhGOI6H7G3NgMTT?si=0ff89a1ef7a04bdb" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Theatre of Tragedy
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Meshuggah/21" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2HPdHcJpQ1pbw3ud0ii4Nc?si=7a8ce9dd640d488e" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Type O Negative
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Sigh/51" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p?si=05ce6cfcc97c4caa" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -1137,9 +1447,29 @@ Funnily enough however, whilst avant-garde bands most likely, definitely, absolu
 ![Avant-Garde Metal](..\assets\img\projects\proj-2\avant.jpg)
 
 ##### Some Avant-Garde Metal bands to check out:
-- <a href="https://open.spotify.com/track/1772QdJFvRknwSio6u950p?si=570bc2c4a4514551" target="_blank" rel="noopener"><span>Gorguts</span></a>
-- <a href="https://open.spotify.com/track/7J4yQt7P7XExNeljWEvt2D?si=053aa5c386994127" target="_blank" rel="noopener"><span>Meshuggah</span></a>
-- <a href="https://open.spotify.com/track/3H2tTKsEdhEvBAyrHSg6eJ?si=14a287451fbb4bce" target="_blank" rel="noopener"><span>Sigh</span></a>
+
+<ul>
+<li>Gorguts
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Gorguts/1124" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/1772QdJFvRknwSio6u950p?si=570bc2c4a4514551" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Meshuggah
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Meshuggah/21" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/7J4yQt7P7XExNeljWEvt2D?si=053aa5c386994127" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Sigh
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Sigh/51" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/3H2tTKsEdhEvBAyrHSg6eJ?si=14a287451fbb4bce" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -1157,9 +1487,28 @@ And if the band name consists of several words, the words are set in diferent si
 
 ##### Some Post-Metal bands to check out:
 
-- <a href="https://open.spotify.com/track/5ccbNdMFwRPtzzOkAflQ9Q?si=bac635fd1f7a4bd2" target="_blank" rel="noopener"><span>Isis</span></a>
-- <a href="https://open.spotify.com/track/3QXLyecihSPObaad8K4AES?si=5a48269c50ef45b8" target="_blank" rel="noopener"><span>Neurosis</span></a>
-- <a href="https://open.spotify.com/track/45XLKpJFFdcJ1xDCeB4qYX?si=372f662bc4934366" target="_blank" rel="noopener"><span>Pelican</span></a>
+<ul>
+<li>Isis
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Isis/4844" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5ccbNdMFwRPtzzOkAflQ9Q?si=bac635fd1f7a4bd2" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Neurosis
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Neurosis/60" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/3QXLyecihSPObaad8K4AES?si=5a48269c50ef45b8" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Pelican
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Pelican/9712" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/45XLKpJFFdcJ1xDCeB4qYX?si=372f662bc4934366" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -1177,24 +1526,60 @@ Funk Metal takes the conventional riffing of Heavy Metal and blends it with a Fu
 - <a href="https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp?si=acd7a1c861834493" target="_blank" rel="noopener"><span>Rage Against the Machine</span></a>
 
 Take me back to the [top](#top)
--->
+
 ---
+
+<a name="sludge"></a> 
+## Sludge Metal
+Sludge Metal ...
+
+All right. Let's play a game, you and I. I'll show you a logo, and you guess what genre it belongs to -- Post-Metal, Stoner Metal, or something else. 
+![Sludge](..\assets\img\projects\proj-2\sludge.jpg)
+**The answer**: It could be any of the three. There's just no way of knowing if this band is a Post-Metal, Stoner, or Sludge band. The only way of finding out is by listening to their music. If the lyrics are about getting stoned and tripping balls on acid-laid Kool-Aid, it's most likely a Stoner band. If the lyrics -- what few there are -- are interspersed with lecture recordings of some French-Bulgarian philosopher, it's *definitely* a Post-Metal band. And that would leave you with -- Sludge Metal.
+
+
+
+Take me back to the [top](#top)
+-->
+
+---
+
 
 <a name="faux"></a> 
 # Faux Metal
 If you were born in a white, well-off family in the 1980s or 1990s, chances are you never were into *real*, authentic Metal. While the others were exchanging albums of **Immortal**, **Marduk**, **Nailbomb**, and **Sepultura**, you were probably busy skating in your Droors jeans to the tunes of **Korn**, **Deftones**, and **Coal Chamber**. You probably stood looking surprised, unable to believe that your long-haired classmate just said no to what you thought was a rhetorical question -- "Don't you just wish they had **Limp Bizkit** do a version of *this*!" I hate to break it to you, but you were a poser!
 
-But, for clarity's sake, here's what Faux Metal is: it's an eclectic genre that blends elements from Alternative and Groove Metal and a myriad of other styles as well, including but not limited to, Industrial, Hip-Hop, and Funk; vocal styles range from melodic whining to white boy's rap and hysterical screaming; lastly, occasionaly turntables and sampling are given more weight than the guitars -- you know, those things whose sound is what give meaning to the term "Heavy Metal."
-
 <a name="nu"></a> 
 ## Nu Metal
-What is there to say about Nu logos that has not yet been said by now? They are **puerile in design** and **clumsily drawn**. To its credit in that respect, they convey well what the music is all about.  
+I'd rather not waste any words discussing an unseemly genre as Nu Metal, but for clarity's sake, here's what Nu Metal is: it's an eclectic genre that blends elements from Alternative and Groove Metal and a myriad of other styles as well, including but not limited to, Industrial, Hip-Hop, and Funk; vocal styles range from melodic whining to white boy's rap and hysterical screaming; lastly, occasionaly turntables and sampling are given more weight than the guitars -- you know, those things whose sound is what give meaning to the term "Heavy Metal."
+
+And what is there to say about Nu logos that has not yet been said by now? They are **puerile in design** and **clumsily drawn**. To its credit in that respect, they convey well what the music is all about.  
 ![Nu Metal](..\assets\img\projects\proj-2\nu.jpg)
 
 ##### Some Nu Metal bands to *not* check out:
-- <a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu?si=19e629b7824e4f56" target="_blank" rel="noopener"><span>Korn</span></a>
-- <a href="https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj?si=d503405470454b40" target="_blank" rel="noopener"><span>Limp Bizkit</span></a>
-- <a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3?si=d915708d07e0496d" target="_blank" rel="noopener"><span>Slipknot</span></a>
+
+<ul>
+<li>Korn
+<ul>
+<li><a href="https://www.metal-archives.com/bands/as_i_lay_dying/20825" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu?si=19e629b7824e4f56" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Limp Bizkit
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Shadows_Fall/703" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj?si=d503405470454b40" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Slipknot
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Unearth/5269" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3?si=d915708d07e0496d" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -1206,14 +1591,37 @@ Anyway, the design process of a Metalcore logo can best be described as follows:
 ![Metalcore](..\assets\img\projects\proj-2\metalcore.jpg)
 
 ##### Some Metalcore bands to check out:
-- <a href="https://open.spotify.com/track/0fmwyv8VP8Jh71e87oCHv1?si=e6a28e6ec2a54f7a" target="_blank" rel="noopener"><span>As I Lay Dying</span></a>
-- <a href="https://open.spotify.com/track/2fnbCZHLXyrSdWhaRlBwQP?si=14c42beefb0644ee" target="_blank" rel="noopener"><span>Shadows Fall</span></a>
-- <a href="https://open.spotify.com/track/76u2aab2a33Ohs7dOKoUOa?si=d608696b4cb84cd3" target="_blank" rel="noopener"><span>Unearth</span></a>
+
+<ul>
+<li>As I Lay Dying	
+<ul>
+<li><a href="https://www.metal-archives.com/bands/as_i_lay_dying/20825" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0fmwyv8VP8Jh71e87oCHv1?si=e6a28e6ec2a54f7a" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Shadows Fall
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Shadows_Fall/703" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2fnbCZHLXyrSdWhaRlBwQP?si=14c42beefb0644ee" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Unearth
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Unearth/5269" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/76u2aab2a33Ohs7dOKoUOa?si=d608696b4cb84cd3" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
 
-
+<!-- SLUDGE : Isis, Neurosis, Cult of Luna, Mastodon, Baroness, Kylesa, Eyehategod, Pelican -->
+<!-- Beatdown, powerviolence  -->
+<!-- dungeon synth -->
+<!-- nintendocore -->
 
 ---
 
@@ -1229,6 +1637,9 @@ Take me back to the [top](#top)
 ##### [8] Simon Poole, 'M. Unger, *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, 20.
 ##### [9] Dayal Patterson, *Black Metal: Evolution of the Cult*, (Chapter on Marduk)
 ##### [10] William Irwin, *Black Sabbath and Philosophy: Mastering Reality*, p. 79.
+
+
+
 
 <!-- genres we have yet to cover
 
