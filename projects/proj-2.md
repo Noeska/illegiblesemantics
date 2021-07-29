@@ -1186,7 +1186,7 @@ Sitting comfortably between the worlds of Black and White Metal, the Occult and 
 
 And if we can't trust Lisa Vogel, who then can we trust?
 
-Their logo is a tongue-in-cheek riff on the **Emperor** logo, featuring **crosses both upright and inverted**, a **"black hole sun"** and a **white crescent moon**, as if to metaphorically signal "Day is night, and night is day," and a candle for good measure.
+Their logo is a tongue-in-cheek riff on the **Emperor** logo, featuring **crosses both upright and inverted**, a **"black hole sun"** and a **white crescent moon** -- as if to metaphorically signal, "Day is night, and night is day" -- and a candle for good measure.
 
 ![Ecumenical Metal](..\assets\img\projects\proj-2\psalm.jpg)
 
@@ -1245,7 +1245,7 @@ Take me back to the [top](#top)
 
 <a name="pirate"></a> 
 #### Pirate Metal
-Just when the world of Metal was like no more, everyone found out that rock bottom has a basement. While some were content with pretending to be Vikings, drinking from plastic drinking-horns while wearing tartan kilts, others got to thinking one day -- why stop there? The next logical step was of course to do -- you may have already guessed it -- the pirate thing. 
+Just when the world of Metal was like *no more*, everyone found out that rock bottom has a basement. While some were content with pretending to be Vikings, drinking from plastic drinking-horns while wearing tartan kilts, others got to thinking one day -- *why stop there?* The next logical step was of course to do -- you may have already guessed it -- the pirate thing. 
 
 As you would expect, it's easy to do a Pirate Metal logo. Just do a **skull and a crossbones** logo, and you're golden. You may also think of adding a **falchion** or any other **curved sword** to really drive home that you're doing the whole pirate thing. 
 
