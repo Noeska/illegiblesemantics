@@ -860,28 +860,30 @@ It's a genre so base and vile, you won't be able to find most bands on Spotify. 
 ##### Some Porngrind bands to check out: 
 <details>
 	<summary> (<i>click to expand</i>)</summary>
-	<ul>Anal Blast
-	<li>
+
+	<li>Anal Blast
 	<ul>
 	<li><a href="https://www.metal-archives.com/bands/Anal_Blast/3024" target="_blank" rel="noopener"><span>Band information</span></a></li>
 	<li><a href="https://www.youtube.com/watch?v=YirYiVuRYTA" target="_blank" rel="noopener"><span>Youtube</span></a></li>
 	</ul>
 	</li>
-	</ul>
+
+
 	<li>Cock and Ball Torture
 	<ul>
 	<li><a href="https://www.metal-archives.com/bands/Cock_and_Ball_Torture/3540453478" target="_blank" rel="noopener"><span>Band information</span></a></li>
 	<li><a href="https://www.youtube.com/watch?v=7oFGzpwbAD0" target="_blank" rel="noopener"><span>Youtube</span></a></li>
 	</ul>
 	</li>
+
 	<li>Rompeprop
 	<ul>
 	<li><a href="https://www.last.fm/music/Rompeprop/+wiki" target="_blank" rel="noopener"><span>Band information</span></a></li>
 	<li><a href="https://www.youtube.com/watch?v=JjzMo49vDlsc" target="_blank" rel="noopener"><span>Youtube</span></a></li>
 	</ul>
 	</li>
-	</ul>
-	</details>
+
+</details>
 <br/>
 
 
