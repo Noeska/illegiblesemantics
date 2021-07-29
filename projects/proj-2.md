@@ -1397,7 +1397,7 @@ Take me back to the [top](#top)
 ## Death-Doom 
 This extreme subgenre was originally inspired by and birthed out of the (crust-)punk scene of the 1980s, most notably but not exclusively in Stockholm, Sweden. It combines the slow tempos and pessimistic, or merely depressive, melodies of Doom Metal with the low, grunting vocals of Death Metal.
 
-Typically, a Death-Doom logo is a **blackletter(-like) wordmark** surrounded with a **white, sometimes jaggy, halo**, and this undoubtedly because it just screams, "What are we but mere characters in a negative space." 
+Typically, a Death-Doom logo is a **blackletter(-like) wordmark** surrounded with a **white, sometimes jaggy, halo**, and this undoubtedly because -- much like <a href="https://www.metal-archives.com/artists/Martin_van_Drunen/2057" target="_blank" rel="noopener"><span>Martin van Drunen</span></a> -- it just screams, "What are we but mere characters in a negative space." 
 
 ![Death-Doom](..\assets\img\projects\proj-2\swedish.jpg)
 
