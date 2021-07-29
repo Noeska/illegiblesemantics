@@ -882,6 +882,8 @@ It's a genre so base and vile, you won't be able to find most bands on Spotify. 
 	</li>
 	</ul>
 	</details>
+<br/>
+
 
 Take me back to the [top](#top)
 
