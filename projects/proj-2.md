@@ -1109,7 +1109,7 @@ Take me back to the [top](#top)
 
 Today we see bands that have moved beyond what "traditional" Black Metal is all about. These fall in the genre of Post-Black Metal. (Post-Metal as a genre at large will be discussed later.)
 
-Typically, Post-Black Metal logos take the form of Gothic hand-writing. It's like someone looked at the <a href="https://www.imdb.com/title/tt0162661/" target="_blank" rel="noopener"><span>Sleepy Hollow logo</span></a> and said, "That right there is what I want."
+Typically, Post-Black Metal logos take the form of **Gothic hand-writing**. It's like someone looked at the <a href="https://www.imdb.com/title/tt0162661/" target="_blank" rel="noopener"><span>Sleepy Hollow logo</span></a> and said, "That right there is what I want."
 ![Pagan Black Metal](..\assets\img\projects\proj-2\postblack.jpg)
 
 
