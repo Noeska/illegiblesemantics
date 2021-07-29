@@ -1247,7 +1247,7 @@ Take me back to the [top](#top)
 #### Pirate Metal
 Just when the world of Metal was like *no more*, everyone found out that rock bottom has a basement. While some were content with pretending to be Vikings, drinking from plastic drinking-horns while wearing tartan kilts, others got to thinking one day -- *why stop there?* The next logical step was of course to do -- you may have already guessed it -- the pirate thing. 
 
-As you would expect, it's easy to do a Pirate Metal logo. Just do a **skull and a crossbones** logo, and you're golden. You may also think of adding a **falchion** or any other **curved sword** to really drive home that you're doing the whole pirate thing. 
+As you would expect, it's easy to do a Pirate Metal logo. Just do a **skull and a crossbones** logo, and you're golden. You may also think of adding a **falchion** or any other **curved sword** to really drive home that you're fully committed to doing the whole pirate thing. 
 
 ![Pirate Metal](..\assets\img\projects\proj-2\pirate.jpg)
 
