@@ -1186,7 +1186,7 @@ Sitting comfortably between the worlds of Black and White Metal, the Occult and 
 
 And if we can't trust Lisa Vogel, who then can we trust?
 
-Their logo is a tongue-in-cheek riff on the **Emperor** logo, featuring **crosses both upright and inverted**, a "black hole sun" and a white crescent moon to signal, as if to metaphorically signal "Day is night, and night is day," and a candle for good measure.
+Their logo is a tongue-in-cheek riff on the **Emperor** logo, featuring **crosses both upright and inverted**, a **"black hole sun"** and a **white crescent moon** to signal, as if to metaphorically signal "Day is night, and night is day," and a candle for good measure.
 
 ![Ecumenical Metal](..\assets\img\projects\proj-2\psalm.jpg)
 
