@@ -1702,7 +1702,7 @@ Take me back to the [top](#top)
 ---
 <a name="avantgarde"></a> 
 # Avant-Garde Metal
-The term "avant-garde" is often used synomously with "sophisticated." And, certainly, this label holds true for (most) bands playing in this nebulous genre that compromises a range of different (sub)genres. In fact, it comprises of so many heterogenous (sub)genres that "avant-garde" as a genre label has very little meaning aside from, "These guys and gals *really* know how to play their instruments!"
+The term "avant-garde" is often used synomously with "sophisticated." And, certainly, this label holds true for (most) bands playing in this nebulous genre that comprises of a range of different (sub)genres. In fact, it comprises of so many heterogenous (sub)genres that "avant-garde" as a genre label has very little meaning aside from, "These guys and gals *really* know how to play their instruments!"
 
 Funnily enough however, whilst avant-garde bands most likely, definitely, absolutely display technical virtuosity, they tend to have the least inspired, let alone sophisticated, logos. More than often they have **plain wordmarks**. Even more damning is that they seemingly always have an inexplicable preference for the **Abaddon type** (or something very close to it). But maybe it just came with their Angelfire website and they decided to stick with it ever since.
 ![Avant-Garde Metal](..\assets\img\projects\proj-2\avant.jpg)
