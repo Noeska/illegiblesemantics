@@ -7,8 +7,9 @@ permalink: /about
 # Our Metal Biographies
 Meet the authors and learn more about their metal credentials!
 
-<!-- <div style="float:left;margin:0 5px 5px 0" markdown="1"><img src="..\assets\img\members\Gerrit.jpg"/>
-</div> -->
+If you are looking for something to listen to while reading our paper or browsing our website, why not try out our playlist? It features five favorite song picks per author! Enjoy!
+<iframe src="https://open.spotify.com/embed/playlist/460ugtwgYOTMqZjPudzrju?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 # Gerrit Rijken
 <img style="float:left;margin:5px 5px 5px 5px;" src="\illegiblesemantics\assets\img\members\Gerrit.jpg"/>
 Gerrit never dreamed of becoming a metal designer. He only got into it after being snubbed by a local band from the Netherlands who felt his work was not symmetrical enough to be labeled ‘trve’. Once got the opportunity to redesign Deicide’s <a href="http://www.radiotangra.com/en/news/read/2312.html" target="_blank" rel="noopener"><span>logo</span></a>, which got printed on two shirts before they went back to their old logo! Now listening to Darkthrone’s <a href="https://open.spotify.com/track/4DYkVqNqs6gSJ4sJRFst8G?si=cc59a65aa6e840d0" target="_blank" rel="noopener"><span>Natassja in Eternal Sleep</span></a>. Not because he likes lo-fi black metal all that much; it’s just that the D follows the C of <a href="https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w?si=8e81be106a504d3d" target="_blank" rel="noopener"><span>Chvrches</span></a> in his sorted playlist. He is so metal, he’s only happy when it rains.
