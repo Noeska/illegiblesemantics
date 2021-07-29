@@ -852,7 +852,7 @@ Some people suggested I should add some distinct subgenres of Grindcore. There a
 
 Understand that the reason I picked this one out is only because I've already had the dubious honor of doing on a Porngrind logo before (don't ask), so I was able to use it as a base to draw upon. I think the logo speaks for itself so that I need not elaborate on it.
 
-You can see an example of a NSFW Porngrind logo <a href="..\assets\img\projects\proj-2\porngrind.jpg" target="_blank" rel="noopener"><span>here</span></a>.
+Due to the graphic NSFW nature of the logo, we thought it best to *not* display the sample logo in full-frame view, but for those interested, you can see it <a href="..\assets\img\projects\proj-2\porngrind.jpg" target="_blank" rel="noopener"><span>here</span></a>.
 
 It's a genre so base and vile, you won't be able to find most bands on Spotify. Luckily, there's still Youtube ...
 
