@@ -39,7 +39,7 @@ By the mid-1980s, many felt Heavy Metal had become too commercial and too popula
 
 
 
-What this means for our purposes is that we're looking at two decades of design evolution. Which is why I struggled to find a quintessential example of a pure, Heavy Metal Rock logo that I could use as inspiration, because these types of logos are kinda all over the place style-wise, from (initial) **wordmark** (i.e. type-only) logos of 1970s Heavy Metal bands (**Black Sabbath**, **Judas Priest**, **Motörhead**, **Scorpions**) to the extremely diverse custom logos of 1980s Heavy Metal bands. The latter range from rough, sketchy logos (**Skid Row**) to airbrushed or painted designs (**Y&T**) to logos that have "Saturday-morning cartoon" feel to them (**Danger Danger**).
+What this means for our purposes is that we're looking at two decades of design evolution. Which is why I struggled to find a quintessential example of a pure, Heavy Metal Rock logo that I could use as inspiration, because these types of logos are kinda all over the place style-wise, from (initial) **wordmark** (i.e. type-only) logos of 1970s Heavy Metal bands (**Black Sabbath**, **Judas Priest**, **Motörhead**, **Scorpions**) to the extremely diverse custom logos of 1980s Heavy Metal bands. The latter range from rough, sketchy logos (**Skid Row**) to airbrushed or painted designs (**Y&T**) to logos that have a "Saturday-morning cartoon" feel to them (**Danger Danger**).
 
 
 <!-- 
