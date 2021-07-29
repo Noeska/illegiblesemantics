@@ -15,7 +15,7 @@ As you can imagine, it can get complicated fairly quickly when you're trying to 
 
 <a name="TOP"></a> 
 Take me to ...
-[Heavy Metal](#heavy), [NWOBHM](#NWOBHM), [Speed Metal](#speed), [Power Metal](#power), [Symphonic Metal](#symphonic), [Glam Metal](#glam), [Thrash Metal](#thrash), [US Thrash](#usthrash), [Bay Area Thrash](#bay), [Teutononic Thrash](#teutonic), [Groove Metal](#groove), [Death Metal](#death), [Brutal Death](#brutal), [Florida Death](#florida), [Melodic Death](#melodic), [Technical Death](#tech), [1990s Technical Death](#1990tech), [Post-2000s Tech Death](#2000tech), [Progressive Metal](#progressive), [Djent](#djent), [Grindcore](#grindcore), [Porngrind](#porngrind), [Black Metal](#black), [Pagan Black](#pagan), [Post-Black](#pblack), [Folk Metal](#folk), [Pirate Metal](#pirate), [Crossover Genres](#crossover), [Blackened Thrash](#bthrash), [Blackened Death](#bdeath), [Death-Doom](#deathdoom), [Deathgrind](#deathgrind), [Industrial Metal](#industrial), [Doom](#doom), [Funeral Doom](#funeral), [Stoner Metal](#psychedelic), [Sludge Metal](#sludge), [Gothic Metal](#gothic), [Avant-Garde Metal](#avantgarde), [Post-Metal](#post), [Faux Metal](#faux), [Nu Metal](#nu), [Metalcore](#metalcore) 
+[Heavy Metal](#heavy), [NWOBHM](#NWOBHM), [Speed Metal](#speed), [Power Metal](#power), [Symphonic Metal](#symphonic), [Glam Metal](#glam), [Thrash Metal](#thrash), [US Thrash](#usthrash), [Bay Area Thrash](#bay), [Teutononic Thrash](#teutonic), [Groove Metal](#groove), [Death Metal](#death), [Brutal Death](#brutal), [Florida Death](#florida), [Melodic Death](#melodic), [Technical Death](#tech), [1990s Technical Death](#1990tech), [Post-2000s Tech Death](#2000tech), [Progressive Metal](#progressive), [Djent](#djent), [Grindcore](#grindcore), [Porngrind](#porngrind), [Black Metal](#black), [Pagan Black Metal](#pagan), [Post-Black](#pblack), [Unblack Metal](#unblack),[Folk Metal](#folk), [Pirate Metal](#pirate), [Crossover Genres](#crossover), [Blackened Thrash](#bthrash), [Blackened Death](#bdeath), [Death-Doom](#deathdoom), [Deathgrind](#deathgrind), [Industrial Metal](#industrial), [Doom](#doom), [Funeral Doom](#funeral), [Stoner Metal](#psychedelic), [Sludge Metal](#sludge), [Gothic Metal](#gothic), [Avant-Garde Metal](#avantgarde), [Post-Metal](#post), [Faux Metal](#faux), [Nu Metal](#nu), [Metalcore](#metalcore) 
 
 *Full disclosure: With these genre samples I tried to represent as faithfully as possible a broad range of genres, based on my own years of experience in designing Metal logos and studying up on genres that I'm not too familiar with. I then had them checked by several musicians and artists in the Metal scene to confirm style accuracy and coverage. (The list of names can be found in the paper.) In the days leading up to the submission deadline, I decided to add a few more, in part based on the feedback that I got from them, and in part based on what genres I personally felt were missing. These are: Symphonic Metal, Glam Metal, Bay Area Thrash, Groove Metal, Djent, Porngrind, Pirate Metal, Post-Metal, Sludge Metal. As of yet, these have not been checked and validated by the "field experts." But, ultimately, these remain interpretations, anyway. It may well be that you have other ideas on what these logos are supposed to look like. Maybe you don't think my comments are clever or helpful or funny. In that case, drop me a line on Twitter, and tell me what needs improving.* 
 
@@ -1067,7 +1067,7 @@ Today, Black Metal is an international phenomemon, and there are many Black Meta
 Take me back to the [top](#top)
 
 <a name="pagan"></a> 
-## Pagan Black
+## Pagan Black Metal
 Pagan Black Metal is one of many off-shoots of traditional "mainstream" Black Metal; but whereas it can be difficult to differentiate one subgenre of Black Metal from another, it is very easy to recognize a Pagan Black Metal logo. The one thing that sets them apart from all other subgenres is a high level of **"on-the-noseness,"** with **figurative, arty, romantic graphics** accompanying logos that spell out **"pro-Pagan romanticism,"** stopping short of actually spelling out "We put Paganism on a pedestal."
 ![Pagan Black Metal](..\assets\img\projects\proj-2\pagan.jpg)
 
@@ -1133,11 +1133,50 @@ Typically, Post-Black Metal logos take the form of Gothic hand-writing. It's lik
 
 Take me back to the [top](#top)
 
+---
+
+<a name="unblack"></a> 
+## Unblack Metal
+Seeing how listeners that grew up on, all things considered, mild Heavy Metal were now openly flirting with Satan and his false promises, the Evangelicals knew they had to fight fire with the fire of love, gentleness, and profound wisdom. And so they formed their own bands -- White Metal bands --, with unreserved commitment to try to win back the Metal masses on to the narrow path of virtue and salvation.
+
+The term "White Metal" (or "Christian Metal") is an umbrella term encompassing all of the Heavy and Extreme Metal (sub)genres that deal with Christianity and wholesome living. Here I want to focus on one specific microgenre: Unblack Metal. Bands in this genre emulate their actual and pseudo-Satanic counterparts in everything but personal ideology and religious belief.  
+
+And here's a fun fact for you: Jan Axel "Hellhammer" Blomber (of **Mayhem** fame) -- yes, *that* Hellhammer -- performed drums on **Antestor**'s 2004 EP *Det tapte liv* and their 2005 full-length album *The Forsaken*.
+
+Logo-wise, it's what you may expect. Logos look like just your average Black Metal logos -- except that the T's look like **upright crosses** instead of inverted ones. 
+![Gothic Metal](..\assets\img\projects\proj-2\unblack.jpg)
+
+
+##### Some Unblack Metal bands to check out:
+
+<ul>
+<li>Antestor
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Antestor/3048" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/7y3alJTIPhL25I4d17UA2u?si=39323aa4ebcf4b76" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Horde
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Horde/3387" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/6jFv0jYpglsWEPls0yBaK2?si=9ad104fd786b4800" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Christageddon
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Christageddon/3540329682" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://www.youtube.com/watch?v=aPU4BEyD4g4" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 ---
+
 <a name="folk"></a> 
 # Folk Metal
-Closely related to the above is Folk Metal. Where they differ is that while Pagan Black Metal still kinda has the cool factor of Black Metal, Folk Metal has little to no coolness at all, and this shows in the logos. They often take their inspiration from Black Metal aesthetics, with logos made of **lowercase blackletters** or some **Celtic type**, with only **some degree of symmetry** on both opposite ends of the logo, if at all, and even then usually through **decorative curls** rather than through cool letter design.   
+Closely related to the Pagan Metal is Folk Metal. Where they differ is that while Pagan Black Metal still kinda has the cool factor of Black Metal, Folk Metal has little to no coolness at all, and this shows in the logos. They often take their inspiration from Black Metal aesthetics, with logos made of **lowercase blackletters** or some **Celtic type**, with only **some degree of symmetry** on both opposite ends of the logo, if at all, and even then usually through **decorative curls** rather than through cool letter design.   
 ![Folk Metal](..\assets\img\projects\proj-2\folk.jpg)
 
 ## Folk Metal (Continued)
