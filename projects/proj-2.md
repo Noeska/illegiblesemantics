@@ -6,7 +6,7 @@ title: 'Logo Samples'
 
 In our paper we explore the "design space" of Metal logos; and when we say "Metal," we refer to Heavy Metal and its Extreme Metal subgenres -- and the subgenres within those. Each of these has its own visual aesthetics and codes that govern how genre logos can or should look like, generally. Here things can get weirdly specific. For example, bands in a genre often have the same kind of logos, but depending on subgenre, bands may have a different kind of logo, and a logo style can even depend on a given band's locality. 
 
-As you can imagine, it can get complicated fairly quickly when you're trying to get a handle on what's what and how things play out visually, concretely, and pratically -- especially if you're not in the know. In order to facilitate understanding, I created 30-something logos, covering a broad range of genres and subgenres of Heavy Metal music. Further down, I added some tongue-in-cheek commentary to give you some insight into the design process of each of these logos. 
+As you can imagine, it can get complicated fairly quickly when you're trying to get a handle on what's what and how things play out visually, concretely, and pratically -- especially if you're not in the know. In order to facilitate understanding, I created 40-something logos, covering a broad range of genres and subgenres of Heavy Metal music. Here, I've added some tongue-in-cheek commentary to give you some insight into the design process of each of these logos. 
 <!-- 
 ![Heavy Metal](..\assets\img\projects\proj-2\banner1.png)
 ![Heavy Metal](..\assets\img\projects\proj-2\banner4.png)
