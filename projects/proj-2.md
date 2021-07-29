@@ -1147,7 +1147,7 @@ The term "White Metal" (or "Christian Metal") is an umbrella term encompassing a
 
 And here's a fun fact for you: Jan Axel "Hellhammer" Blomberg (of **Mayhem** fame) -- yes, *that* Hellhammer -- performed drums on **Antestor**'s 2004 EP *Det tapte liv* and their 2005 full-length album *The Forsaken*.
 
-Logo-wise, it's what you may expect. Logos look like just your average Black Metal logos -- except that the T's look like **upright crosses** instead of inverted ones. 
+Logo-wise, it's what you may expect. Logos look like just your average Black Metal logos -- except that the T's look like **upright crosses** instead of inverted ones and naturally it goes without saying that any crosses added to the logo are pictured standing upright.
 ![Gothic Metal](..\assets\img\projects\proj-2\unblack.jpg)
 
 
