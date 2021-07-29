@@ -176,9 +176,30 @@ Power Metal takes its inspiration from both "traditional" Heavy Metal and Speed 
 ![Power Metal](..\assets\img\projects\proj-2\power.jpg)
 
 ##### Some Power Metal bands to check out:
-- <a href="https://open.spotify.com/track/0AqM32Ni3s9Sm0fTkvKU6U?si=e8deb6f3c0814c5a" target="_blank" rel="noopener"><span>Hammerfall</span></a>
-- <a href="https://open.spotify.com/track/5VZwMq6yaFb04PCTfdNY3K?si=030971ab961d457f" target="_blank" rel="noopener"><span>Helloween</span></a>
-- <a href="https://open.spotify.com/track/0cajnv3diwVnb2KXv7hLVs?si=9e076d5d959c417c" target="_blank" rel="noopener"><span>Sabaton</span></a>
+
+<ul>
+<li>HammerFall
+<ul>
+<li><a href="https://www.metal-archives.com/bands/HammerFall/201" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0AqM32Ni3s9Sm0fTkvKU6U?si=e8deb6f3c0814c5a" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Helloween
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Helloween/159" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5VZwMq6yaFb04PCTfdNY3K?si=030971ab961d457f" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Sabaton
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Sabaton/484" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0cajnv3diwVnb2KXv7hLVs?si=9e076d5d959c417c" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
+
 
 Take me back to the [top](#top)
 
@@ -192,10 +213,29 @@ It's generally easy to recognize Symphonic Metal bands from others. Nine out of 
 ![Symphonic](..\assets\img\projects\proj-2\symphonic.jpg)
 
 ##### Some Symphonic Metal bands to check out:
-- <a href="https://open.spotify.com/track/2VvmryAbIRod1FwZHtwqC5?si=d9d1f1b8e9674014" target="_blank" rel="noopener"><span>Nightwish</span></a>
-- <a href="https://open.spotify.com/track/2Wy6uQOX2y45ooKuQb7Q9B?si=404de5e28d6f47d4" target="_blank" rel="noopener"><span>Rhapsody</span></a>
-- <a href="https://open.spotify.com/track/3BwU2MOfODibVdFDjOW63r?si=6dc537dde4344aec" target="_blank" rel="noopener"><span>Within Temptation</span></a>
-<!-- - <a href="https://open.spotify.com/track/7uNhbkrxgLJOebuWvA1dda?si=2351ec29bcdc41fc" target="_blank" rel="noopener"><span>Stratovarius</span></a> -->
+
+<ul>
+<li>Nightwish
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Nightwish/39" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2VvmryAbIRod1FwZHtwqC5?si=d9d1f1b8e9674014" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Rhapsody (of Fire)
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Rhapsody_of_Fire/32" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2Wy6uQOX2y45ooKuQb7Q9B?si=404de5e28d6f47d4" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Within Temptation
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Within_Temptation/1006" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/3BwU2MOfODibVdFDjOW63r?si=6dc537dde4344aec" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -207,9 +247,29 @@ In the late-1980s, when Heavy Metal was as mainstream as anything else on MTV (d
 ![Glam Metal](..\assets\img\projects\proj-2\hair.jpg)
 
 ##### Some Glam Metal bands to check out:
-- <a href="https://open.spotify.com/track/1hqrYSqvNc9x3BETX1cZhk?si=dec1331af7984e71" target="_blank" rel="noopener"><span>Mötley Crüe</span></a>
-- <a href="https://open.spotify.com/track/08QP0rwnQSbbpGRIuXfrAY?si=fce1f301b76f4fb2" target="_blank" rel="noopener"><span>Poison</span></a>
-- <a href="https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC?si=7db762eee2e544eb" target="_blank" rel="noopener"><span>Ratt</span></a>
+
+<ul>
+<li>Mötley Crüe
+<ul>
+<li><a href="https://www.metal-archives.com/bands/M%C3%B6tley_Cr%C3%BCe/1025" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/1hqrYSqvNc9x3BETX1cZhk?si=dec1331af7984e71" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Poison
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Poison_(American_band)" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/08QP0rwnQSbbpGRIuXfrAY?si=fce1f301b76f4fb2" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Ratt
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Ratt" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC?si=7db762eee2e544eb" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -225,11 +285,43 @@ Of course, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash 
 
 ##### Some Thrash bands to check out:
 <!-- - <a href="https://open.spotify.com/track/7qYHH6ygW9GeNY7SVWf9ok?si=b00dc2fb7b6740f8" target="_blank" rel="noopener"><span>Anthrax</span></a> -->
-- <a href="https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO?si=718c6d790f8946ed" target="_blank" rel="noopener"><span>Annihilator</span></a>
-- <a href="https://open.spotify.com/album/5cIvu6047CsrlgRcdwd2HQ?si=eB_xD-0WQqyuOKCESPpBtQ&dl_branch=1" target="_blank" rel="noopener"><span>Overkill</span></a> 
+
 <!--- <a href="https://open.spotify.com/track/1KxBpjZAxjjO0XUjgEUR26?si=c5a32f0994274b71" target="_blank" rel="noopener"><span>Sabbat</span></a>-->
 <!--- <a href="https://open.spotify.com/track/7v2XYnTAtzj8XOsnBu2U9E?si=f5a115f02fe543ea" target="_blank" rel="noopener"><span>Vektor</span></a> -->
-- <a href="https://open.spotify.com/track/41DPdRpN14Xv8khpafNZmg?si=7dce6a8172c9458c" target="_blank" rel="noopener"><span>Toxic Holocaust</span></a>
+
+<ul>
+<li>Annihilator
+<ul>
+<li><a href="https://www.metal-archives.com/bands/annihilator/140" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO?si=718c6d790f8946ed" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Overkill
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Overkill/168" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2ZVT4yJeDb8nL04m5TV2kN?si=e877a253d5b64f40" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Sabbat (UK)
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Sabbat/116" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2m9FKanyinLGKmVbdoQW74?si=4a32fa6af2874279" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
+
+<!---
+<li>Toxic Holocaust
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Toxic_Holocaust/3578" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/41DPdRpN14Xv8khpafNZmg?si=7dce6a8172c9458c" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
+-->
+
 
 Take me back to the [top](#top)
 
@@ -250,9 +342,30 @@ It can be difficult to differentiate between a US Thrash band and a German one; 
 ![Thrash Metal](..\assets\img\projects\proj-2\thrash.jpg)
 
 ##### Some US Thrash bands to check out:
-- <a href="https://open.spotify.com/track/3090goAxG6IlpCifA8m9xB?si=f5d0203473a6459b" target="_blank" rel="noopener"><span>Megadeth</span></a>
-- <a href="https://open.spotify.com/track/4d50VgYqfw1Rd0knRRL3qv?si=68181319926147c5" target="_blank" rel="noopener"><span>Metallica</span></a>
-- <a href="https://open.spotify.com/track/5ohfpKB5tt275f4Y4lQ9F7?si=5cc2cc0fa80d4925" target="_blank" rel="noopener"><span>Slayer</span></a>
+
+<ul>
+<li>Megadeth
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Megadeth/138" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/3090goAxG6IlpCifA8m9xB?si=f5d0203473a6459b" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Metallica
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Metallica/125" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/4d50VgYqfw1Rd0knRRL3qv?si=68181319926147c5" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Slayer
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Slayer/72" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5ohfpKB5tt275f4Y4lQ9F7?si=5cc2cc0fa80d4925" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
+
 
 Take me back to the [top](#top)
 
@@ -265,9 +378,30 @@ If we are to distinguish further among US Thrash Metal bands and we continue dif
 Another thing to point out here is that in Bay Area Thrash logos you can often find a **juxtaposition of straight lines with round shapes** or **straight lines against curved lines**. To refer back to the example of Metallica's logo, the C is rounded, but the first and last letters are sharp and italicized. 
 
 ##### Some Bay Area Thrash bands to check out:
-- <a href="https://open.spotify.com/track/20bJTQOaoHqeCHBhqIgcTl?si=345e2ba29df54623" target="_blank" rel="noopener"><span>Death Angel</span></a>
-- <a href="https://open.spotify.com/track/5ZOOjqoCaUydmo8bxSdosj?si=4f8728e9b6094c85" target="_blank" rel="noopener"><span>Exodus</span></a>
-- <a href="https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj?si=e87ef00d97334129" target="_blank" rel="noopener"><span>Testament</span></a>
+
+<ul>
+<li>Death Angel
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Death_Angel/179" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/20bJTQOaoHqeCHBhqIgcTl?si=345e2ba29df54623" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Exodus
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Exodus/173" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5ZOOjqoCaUydmo8bxSdosj?si=4f8728e9b6094c85" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Testament
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Testament/70" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj?si=e87ef00d97334129" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
+
 
 Take me back to the [top](#top)
 
@@ -279,9 +413,29 @@ As a genre, Teutonic Thrash Metal has a distinct German character, and a few not
 <!-- substance over style -->
 
 ##### Some Teutonic Thrash bands to check out:
-- <a href="https://open.spotify.com/track/1VHQF5TWJ8i0KCsMLhOaNI?si=533c93dc86f94abb" target="_blank" rel="noopener"><span>Destruction</span></a>
-- <a href="https://open.spotify.com/track/712ukvLX20rwHuTWg7Gcjb?si=b8ad6738e0f24100" target="_blank" rel="noopener"><span>Kreator</span></a>
-- <a href="https://open.spotify.com/track/3lMVtX2zN22nm30jGVoOpT?si=d42d94d609184209" target="_blank" rel="noopener"><span>Sodom</span></a>
+
+<ul>
+<li>Destruction	
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Destruction/155" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/1VHQF5TWJ8i0KCsMLhOaNI?si=533c93dc86f94abb" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Kreator
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Kreator/157" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/712ukvLX20rwHuTWg7Gcjb?si=b8ad6738e0f24100" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Sodom
+<ul>
+<li><a href="https://www.metal-archives.com/bands/sodom/419" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/3lMVtX2zN22nm30jGVoOpT?si=d42d94d609184209" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -292,13 +446,31 @@ Groove Metal is an off-shoot of Thrash. The riffs are thrashy, but the tempos ar
 ![Groove Metal](..\assets\img\projects\proj-2\groove.jpg)
 
 #### Some Groove Metal bands to check out:
-- <a href="https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop?si=2700012fdcc648a6" target="_blank" rel="noopener"><span>Pantera: Cowboys from Hell</span></a>
-- <a href="https://open.spotify.com/track/2GI0AwCcgNFNWG2PT2CfnG?si=842e57e8784349cf" target="_blank" rel="noopener"><span>Prong</span></a>
-- <a href="https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod?si=a9d9afbe93084936" target="_blank" rel="noopener"><span>White Zombie</span></a>
+
+<ul>
+<li>Pantera	
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Pantera/77" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop?si=2700012fdcc648a6" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Prong
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Prong/1209" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2GI0AwCcgNFNWG2PT2CfnG?si=842e57e8784349cf" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>White Zombie
+<ul>
+<li><a href="https://www.metal-archives.com/bands/White_Zombie/850" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod?si=a9d9afbe93084936" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
-
-
 
 ---
 
@@ -326,9 +498,30 @@ purcell 2003 172, 184
 
 
 ##### Some Death Metal bands to check out:
-- <a href="https://open.spotify.com/track/5tUxhJPbbOB4vEwm7ax1m2?si=acc74dd8f78e4cef" target="_blank" rel="noopener"><span>Bolt Thrower</span></a>
-- <a href="https://open.spotify.com/track/3sSonVXqDeoEFj2lM7mpYT?si=7d44686cc801457e7" target="_blank" rel="noopener"><span>Death</span></a>
-- <a href="https://open.spotify.com/track/14553MmLd6W6A6P9r5uHEh?si=b2e8d73d9eba4ae6" target="_blank" rel="noopener"><span>Septicflesh</span></a>
+
+<ul>
+<li>Bolt Thrower	
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Bolt_Thrower/234" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5tUxhJPbbOB4vEwm7ax1m2?si=acc74dd8f78e4cef" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Death
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Death/141" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/3sSonVXqDeoEFj2lM7mpYT?si=7d44686cc801457e7" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Septicflesh
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Septicflesh/892" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/14553MmLd6W6A6P9r5uHEh?si=b2e8d73d9eba4ae6" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
+
 
 Take me back to the [top](#top)
 
@@ -338,10 +531,29 @@ Brutal Death Metal emerged most notably from the 1980s New York Hardcore movemen
 ![Brutal Death Metal](..\assets\img\projects\proj-2\death.jpg)
 
 ##### Some Brutal Death bands to check out:
-- <a href="https://open.spotify.com/track/1xC8x0UXi5I0NW7kwn7guw?si=278a7a4d21464a39" target="_blank" rel="noopener"><span>Avulsed</span></a>
-- <a href="https://open.spotify.com/track/4pFC6tuWErxbO61oFFq3BQ?si=0198d2306da243c9" target="_blank" rel="noopener"><span>Cannibal Corpse</span></a>
-<!-- - <a href="https://open.spotify.com/track/4v7p4iqGEol53XFS0Yi0Bk?si=531b346cd804403d" target="_blank" rel="noopener"><span>Misery Index</span></a> -->
-- <a href="https://open.spotify.com/track/7qvTHdpc9qu4TMPur5vs9w?si=7aefd18dc97f4c89" target="_blank" rel="noopener"><span>Suffocation</span></a>
+
+<ul>
+<li>Avulsed	
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Avulsed/982" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/1xC8x0UXi5I0NW7kwn7guw?si=278a7a4d21464a39" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Cannibal Corpse
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Cannibal_Corpse/186" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/4pFC6tuWErxbO61oFFq3BQ?si=0198d2306da243c9" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Suffocation
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Suffocation/119" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/7qvTHdpc9qu4TMPur5vs9w?si=7aefd18dc97f4c89" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -353,9 +565,29 @@ In terms of logo design, it's hard to pinpoint specific characteristics. Perhaps
 ![Brutal Death Metal](..\assets\img\projects\proj-2\brutal.jpg)
 
 ##### Some Florida Death Metal bands to check out:
-- <a href="https://open.spotify.com/track/6AJE8W6CbGorvhuX32TOfy?si=102186cecafd4cbf" target="_blank" rel="noopener"><span>Atheist</span></a>
-- <a href="https://open.spotify.com/track/48JB1RF92JFSeCbzpixKf0?si=597c852ad0aa43ef" target="_blank" rel="noopener"><span>Deicide</span></a>
-- <a href="https://open.spotify.com/track/5hmek3mrSYvfSElBsPNbxo?si=af7965fd57ef484a" target="_blank" rel="noopener"><span>Morbid Angel</span></a>
+
+<ul>
+<li>Atheist	
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Atheist/304" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/6AJE8W6CbGorvhuX32TOfy?si=102186cecafd4cbf" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Deicide
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Deicide/148" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/48JB1RF92JFSeCbzpixKf0?si=597c852ad0aa43ef" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Morbid Angel
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Morbid_Angel/68" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5hmek3mrSYvfSElBsPNbxo?si=af7965fd57ef484a" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -363,19 +595,39 @@ Take me back to the [top](#top)
 ## Melodic Death Metal
 Melodic Death Metal was arguably first pioneered in the United Kingdom, but the genre really came into its own in Sweden, specifically in Gothenburg. As a genre, it took its inspiration from a wide range of styles, from Death Metal to NWOBHM to Progressive Rock, with certain elements from these reference styles more predominant in one band's music than another's, which may help explain why it's difficult to think of a quintessential Melodic Death logo. 
 
-Initially, indeed, in the early 1990s, Melodic Death logos were very diverse in style, with some (seemingly) taking their inspiration from "mainstream" Death Metal logos (**In Flames**), others had intricate custom designs (**At the Gates**), while still others opted for a distorted and deformed Celtic type (**Dark Tranquility**). In later and more recent years, however, most bands in this genre have **highly-readable wordmarks** that are sometimes "touched up" or "filled in" with a **dirt brush**. 
+Initially, indeed, in the early 1990s, Melodic Death logos were very diverse in style, with some (seemingly) taking their inspiration from "mainstream" Death Metal logos (**In Flames**), others had intricate custom designs (**At the Gates**), while still others opted for a distorted and deformed Celtic type (**Dark Tranquillity**). In later and more recent years, however, most bands in this genre have **highly-readable wordmarks** that are sometimes "touched up" or "filled in" with a **dirt brush**. 
 
 Looking at the history of some of these bands, it kinda makes perfect sense. Take **In Flames**, for example. In the early-1990s, they were amongst the first to pioneer Melodic Death Metal, releasing their first two albums with a fiery red Death Metal-inspired logo with a keyline detail. Then, in the late 1990s, they changed their style towards a more general melodic sound, which had them change their logo to a (seemingly) unmodified, cursive wordmark. A few years later, they dipped their toes in the Metalcore craze of the mid-2000s, releasing some albums with a non-cursive wordmark. And, more recently, they seem to have settled down for an "alternative" sound, which had them change logos yet again ... If a band changes styles more often than I change my underwear, it makes no sense to commit to an ephemeral genre logo; hence probably the choice for a basic logo.
 
-**In Flames** are not an isolated example; **Amorphis**, **At the Gates**, **Carcass**, **Dark Tranquility**, **Hypocrisy** -- basically all the major bands in this genre have "gone basic" at some point in their career -- some permanently, some only momentarily.
+**In Flames** are not an isolated example; **Amorphis**, **At the Gates**, **Carcass**, **Dark Tranquillity**, **Hypocrisy** -- basically all the major bands in this genre have "gone basic" at some point in their career -- some permanently, some only momentarily.
 
 
 ![Melodic Death Metal](..\assets\img\projects\proj-2\gothenburg.jpg)
 
 ##### Some Melodic Death Metal bands to check out:
-- <a href="https://open.spotify.com/track/2Vy4z1ZUN7RvN7syWI2yef?si=af92ca46d97047b0" target="_blank" rel="noopener"><span>At the Gates</span></a>
-- <a href="https://open.spotify.com/track/7fiDBeCKsb2kEmQfFObHTX?si=b86bfb16e96242ef" target="_blank" rel="noopener"><span>Dark Tranquility</span></a>
-- <a href="https://open.spotify.com/track/4prktP6Enwbko8fTRX4wsp?si=4ae00f58bd474d90" target="_blank" rel="noopener"><span>Hypocrisy</span></a>
+
+<ul>
+<li>At the Gates	
+<ul>
+<li><a href="https://www.metal-archives.com/bands/At_the_Gates/43" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2Vy4z1ZUN7RvN7syWI2yef?si=af92ca46d97047b0" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Dark Tranquillity
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Dark_Tranquillity/8" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/7fiDBeCKsb2kEmQfFObHTX?si=b86bfb16e96242ef" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Hypocrisy
+<ul>
+<li><a href="https://www.metal-archives.com/bands/hypocrisy/96" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/4prktP6Enwbko8fTRX4wsp?si=4ae00f58bd474d90" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -390,9 +642,29 @@ It is worthhile pointing out here that you can often place a band in this genre 
 
 
 ##### Some Technical Death Metal bands to check out:
-- <a href="https://open.spotify.com/track/78oF7KjxHMJHtiwgc2I3rw?si=217088ad1c56485e" target="_blank" rel="noopener"><span>Necrophagist</span></a>
-- <a href="https://open.spotify.com/track/62hzJcOwMg68h6wBimZALA?si=2171e7e53882471b" target="_blank" rel="noopener"><span>Nile</span></a>
-- <a href="https://open.spotify.com/track/13QMlehyxaD8TjZeJZCjan?si=b662eeee29b44514" target="_blank" rel="noopener"><span>Origin</span></a>
+
+<ul>
+<li>Necrophagist	
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Necrophagist/207" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/78oF7KjxHMJHtiwgc2I3rw?si=217088ad1c56485e" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Nile
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Nile/139" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/62hzJcOwMg68h6wBimZALA?si=2171e7e53882471b" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Origin
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Origin/79" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/13QMlehyxaD8TjZeJZCjan?si=b662eeee29b44514" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -406,9 +678,29 @@ If they're still active to this day, they now probably have a **type-only logo**
 
 
 ##### Some 1990s Tech Death bands to check out:
-- <a href="https://open.spotify.com/track/774kFk9YCPyTYR7sSIDqum?si=67647042700c4e10" target="_blank" rel="noopener"><span>Cryptopsy</span></a>
-- <a href="https://open.spotify.com/track/43YsJ6r8LlV6fUqfMubdxg?si=fc0c87a2b2ad4214" target="_blank" rel="noopener"><span>Pestilence</span></a>
-- <a href="https://open.spotify.com/track/0bSSoSZHpCOJVdjTsndcFY?si=d87d7545927d4fc5" target="_blank" rel="noopener"><span>Spawn of Possession</span></a>
+
+<ul>
+<li>Cryptopsy	
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Cryptopsy/17" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/774kFk9YCPyTYR7sSIDqum?si=67647042700c4e10" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Pestilence
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Pestilence/238" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/43YsJ6r8LlV6fUqfMubdxg?si=fc0c87a2b2ad4214" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Spawn of Possession
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Spawn_of_Possession/204" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0bSSoSZHpCOJVdjTsndcFY?si=d87d7545927d4fc5" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -418,10 +710,28 @@ It's fairly easy to recognize a post-2000s Technical Death band from a 1990s ban
 
 ![Technical Death Metal](..\assets\img\projects\proj-2\tech00.jpg)
 
-##### Some Post-2000s Tech Death bands to check out:
-- <a href="https://open.spotify.com/track/4K1yqd68vWmDXFwXAqW35d?si=a869e307d56a4440" target="_blank" rel="noopener"><span>Archspire</span></a>
-- <a href="https://open.spotify.com/track/2IH1qycKGVOBKHyR0IrYPW?si=c2737e82a6bc49ff" target="_blank" rel="noopener"><span>Arsis</span></a>
-- <a href="https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3?si=da8381b941924658" target="_blank" rel="noopener"><span>Revocation</span></a>
+<ul>
+<li>Archspire	
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Archspire/3540326229" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/4K1yqd68vWmDXFwXAqW35d?si=a869e307d56a4440" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Arsis
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Arsis/5819" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2IH1qycKGVOBKHyR0IrYPW?si=c2737e82a6bc49ff" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Revocation
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Revocation/78107" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3?si=da8381b941924658" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -435,9 +745,29 @@ The question then is how to best represent this visually? It may seem daunting b
 ![Progressive Metal](..\assets\img\projects\proj-2\progressive.jpg)
 
 ##### Some Progressive Metal bands to check out:
-- <a href="https://open.spotify.com/track/5dGORkbz0aubKk6pZXviyA?si=81894998c7f4439d" target="_blank" rel="noopener"><span>Exivious</span></a>
-- <a href="https://open.spotify.com/track/4Cd7untb0sKHC0T8cJMJjc?si=8eac2c06c8e54c3b" target="_blank" rel="noopener"><span>Green Carnation</span></a>
-- <a href="https://open.spotify.com/track/5NN25Yp2kcE0Qrm2J9V7Uq?si=712a50c2bc3f4b17" target="_blank" rel="noopener"><span>Leprous</span></a>
+
+<ul>
+<li>Exivious	
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Exivious/2802" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5dGORkbz0aubKk6pZXviyA?si=81894998c7f4439d" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Green Carnation
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Green_Carnation/103" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/4Cd7untb0sKHC0T8cJMJjc?si=8eac2c06c8e54c3b" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Leprous
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Leprous/106322" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5NN25Yp2kcE0Qrm2J9V7Uq?si=712a50c2bc3f4b17" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -452,9 +782,29 @@ Djent logos are often deluged with "coffee stains." This is not necessarily a co
 ![Djent](..\assets\img\projects\proj-2\post.jpg)
 
 ##### Some Djent bands to check out:
-- <a href="https://open.spotify.com/track/7sxiG6BuAb28nh3qGmbz7L?si=84be0b0a18e44abc" target="_blank" rel="noopener"><span>Born of Osiris</span></a>
-- <a href="https://open.spotify.com/track/3oKd79SzqVkiel75QUZxAy?si=e78be26140124c90" target="_blank" rel="noopener"><span>Periphery</span></a>
-- <a href="https://open.spotify.com/track/0T9nGr2vBMrFJ6BbYobcKs?si=70d74dd9072d41eb" target="_blank" rel="noopener"><span>TesseracT</span></a>
+
+<ul>
+<li>Born of Isiris	
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Born_of_Osiris" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/7sxiG6BuAb28nh3qGmbz7L?si=84be0b0a18e44abc" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Periphery
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Periphery_(band)" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/3oKd79SzqVkiel75QUZxAy?si=e78be26140124c90" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>TesseracT
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Tesseract_(band)" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0T9nGr2vBMrFJ6BbYobcKs?si=70d74dd9072d41eb" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
@@ -465,9 +815,29 @@ Grindcore is one of the heavier microgenres. It fuses elements of Thrash and Dea
 ![Grindcore](..\assets\img\projects\proj-2\grind.jpg)
 
 ##### Some Grindcore bands to check out:
-- <a href="https://open.spotify.com/track/64syMK7oo9VPihJBj1IBGH?si=4e25b2bbe73641e3" target="_blank" rel="noopener"><span>Napalm Death</span></a>
-- <a href="https://open.spotify.com/track/5CjRAEbB5M7Q0auVhhajKc?si=2f6bd40e20704788" target="_blank" rel="noopener"><span>Regurgitate</span></a>
-- <a href="https://open.spotify.com/track/0u0hQ7dYy6OdMdIqpVroZy?si=e50cbdbec917461c" target="_blank" rel="noopener"><span>Terrorizer</span></a>
+
+<ul>
+<li>Napalm Death
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Napalm_Death/219" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/64syMK7oo9VPihJBj1IBGH?si=4e25b2bbe73641e3" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Regurgitate
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Regurgitate/372" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5CjRAEbB5M7Q0auVhhajKc?si=2f6bd40e20704788" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Terrorizer
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Terrorizer/1022" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0u0hQ7dYy6OdMdIqpVroZy?si=e50cbdbec917461c" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 Take me back to the [top](#top)
 
