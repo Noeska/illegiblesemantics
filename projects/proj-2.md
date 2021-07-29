@@ -857,8 +857,66 @@ Understand that the reason I picked this one out is only because I've already ha
 It's a genre so base and vile, you won't be able to find most bands on Spotify. Luckily, there's still Youtube ...
 
 
-##### Some Porngrind bands to check out:
+##### Some Porngrind bands to check out: 
+<details>
+	<summary> (<i>click to expand</i>)</summary>
+	<ul>Anal Blast
+	<li>
+	<ul>
+	<li><a href="https://www.metal-archives.com/bands/Anal_Blast/3024" target="_blank" rel="noopener"><span>Band information</span></a></li>
+	<li><a href="https://www.youtube.com/watch?v=YirYiVuRYTA" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+	</ul>
+	</li>
+	</ul>
+	<li>Cock and Ball Torture
+	<ul>
+	<li><a href="https://www.metal-archives.com/bands/Cock_and_Ball_Torture/3540453478" target="_blank" rel="noopener"><span>Band information</span></a></li>
+	<li><a href="https://www.youtube.com/watch?v=7oFGzpwbAD0" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+	</ul>
+	</li>
+	<li>Rompeprop
+	<ul>
+	<li><a href="https://www.last.fm/music/Rompeprop/+wiki" target="_blank" rel="noopener"><span>Band information</span></a></li>
+	<li><a href="https://www.youtube.com/watch?v=JjzMo49vDlsc" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+	</ul>
+	</li>
+	</ul>
+	</details>
 
+Take me back to the [top](#top)
+
+<!--
+<details>
+  <summary>stuff with *mark* **down** in `summary` doesn't work any more, use HTML <i>italics</i> and <b>bold</b> instead in <code>&lt;summary&gt;</code> (<i>click to expand</i>)</summary>
+
+have to be followed by an empty line! 
+
+
+## *formatted* **heading** with [a](link)
+```java
+code block
+```
+
+  <details>
+    <summary><u>nested</u> <b>stuff</b> (<i>click to expand</i>)</summary>
+   have to be followed by an empty line!
+
+A bit more than normal indentation is necessary to get the nesting correct,
+ 1. list
+ 1. with
+    1. nested
+    1. items
+        ```java
+        // including code
+        ```
+    1. blocks
+ 1. and continued non-nested
+
+  </details>
+</details>
+--> 
+
+<!--
 <ul>Anal Blast
 <li>
 <ul>
@@ -881,10 +939,9 @@ It's a genre so base and vile, you won't be able to find most bands on Spotify. 
 </ul>
 </li>
 </ul>
+--> 
 
 
-
-Take me back to the [top](#top)
 
 <!--porngrind, cybergrind -->
 
