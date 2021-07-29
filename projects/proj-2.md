@@ -1811,12 +1811,6 @@ Take me back to the [top](#top)
 
 ---
 
-# Tools Used
-
-Most of these logos were (digitally) hand-lettered and drawn in **Clip Studio Paint**; some were rendered in **Blender** (NWOBHM, Speed Metal, Power Metal, Teutonic Thrash, Industrial Metal); others were (partly) created using different fonts found on the Internet (Melodic Death Metal, 1990s Tech Death, Djent, Post-Black, Pirate Metal, Funeral Doom); and lastly, the Bay Area Thrash logo is based on the result of a <a href="http://metallica.alwaysdata.net/" target="_blank" rel="noopener"><span>Metallica logo generator</span></a>.
-
----
-
 # References
 
 *I'm not really in the know with rules concerning footnotes, bibliography, etc., so bear with me. These will be checked later by the professionals.*
