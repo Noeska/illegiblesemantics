@@ -281,7 +281,7 @@ Abrasive. Loud. Extremely fast yet still precise, with impeccable sense of timin
 
 As a scene, it emerged simultaneously in different parts of the world, in different countries (Britain, Germany, Latin America, and the US), from where it developed out of different genres (most notably NWOBHM and Punk Hardcore). This is why there is a variety of styles within the Thrash genre -- one that is in large part determined by bands' locality. 
 
-Of course, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash logos tend to have **straight, sharp edges** which reflect the tightness and controlled nature of the music's rhythms.<sup>5</sup> (You know, tight and controlled ... like a murderer carving their name in a victim's chest.<sup>6</sup>) Indeed, some exceptions aside, there is no softness to be found in them whatsoever -- there is only hardness.
+Of course, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash logos tend to have **straight, sharp edges** that reflect the tightness and controlled nature of the music's rhythms.<sup>5</sup> (You know, tight and controlled ... like a murderer carving their name in a victim's chest.<sup>6</sup>) Indeed, some exceptions aside, there is no softness to be found in them whatsoever -- there is only hardness.
 
 ##### Some Thrash bands to check out:
 <!-- - <a href="https://open.spotify.com/track/7qYHH6ygW9GeNY7SVWf9ok?si=b00dc2fb7b6740f8" target="_blank" rel="noopener"><span>Anthrax</span></a> -->
@@ -371,7 +371,7 @@ Take me back to the [top](#top)
 
 <a name="bay"></a> 
 #### Bay Area Thrash
-If we are to distinguish further among US Thrash Metal bands and we continue differentiating, then the early-1980s San Francisco Bay Area scene surely deserves some attention from everyone! What's interesting here is that the aesthetics of said scene were largely characterized by a "do-it-yourself" ethos, as opposed to the aesthetics of the then already established Metal bands who often used established fonts for their logos (see **Iron Maiden**, for example). Arguably the most famous example of this is **Metallica**'s logo which was drawn up by none other than James Hetfield himself. This may be why certain US Thrash logos, or part of these logos, **look a bit off**; because they were not always done by trained graphical designers who are familiar with rulers and with drawing and measuring segments.
+If we are to distinguish further among US Thrash Metal bands and we continue differentiating, then the early-1980s San Francisco Bay Area scene surely deserves some attention from everyone! What's interesting here is that the aesthetics of said scene were largely characterized by a "do-it-yourself" ethos, as opposed to the aesthetics of the then already established Metal bands who often used established fonts for their logos (see **Iron Maiden**, for example). Arguably the most famous example of this is **Metallica**'s logo that was drawn up by none other than James Hetfield himself. This may be why certain US Thrash logos, or part of these logos, **look a bit off**; because they were not always done by trained graphical designers who are familiar with rulers and with drawing and measuring segments.
 
 ![Bay Area Thrash](..\assets\img\projects\proj-2\bay.jpg)
 
@@ -858,8 +858,8 @@ It's a genre so base and vile, you won't be able to find most bands on Spotify. 
 
 
 ##### Some Porngrind bands to check out: 
-<details>
-	<summary> (<i>click to expand</i>)</summary>
+<details> Ah, I see you are a "man of culture" as well.
+	<summary> (<i>Click to expand</i>)</summary>
 
 	<li>Anal Blast
 	<ul>
