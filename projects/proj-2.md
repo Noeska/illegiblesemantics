@@ -601,6 +601,10 @@ Initially, indeed, in the early 1990s, Melodic Death logos were very diverse in 
 
 Looking at the history of some of these bands, it kinda makes perfect sense. Take **In Flames**, for example. In the early-1990s, they were amongst the first to pioneer Melodic Death Metal, releasing their first two albums with a fiery red Death Metal-inspired logo with a keyline detail. Then, in the late 1990s, they changed their style towards a more general melodic sound, which had them change their logo to a (seemingly) unmodified, cursive wordmark. A few years later, they dipped their toes in the Metalcore craze of the mid-2000s, releasing some albums with a non-cursive wordmark. And, more recently, they seem to have settled down for an "alternative" sound, which had them change logos yet again ... If a band changes styles more often than I change my underwear, it makes no sense to commit to an ephemeral genre logo; hence probably the choice for a basic logo.
 
+<!--
+![Melodic Death Metal](https://viralviralvideos.com/wp-content/uploads/GIF/2015/08/Youre-basic-GIF.gif)
+-->
+
 **In Flames** are not an isolated example; **Amorphis**, **At the Gates**, **Carcass**, **Dark Tranquillity**, **Hypocrisy** -- basically all the major bands in this genre have "gone basic" at some point in their career -- some permanently, some only momentarily.
 
 
@@ -775,7 +779,7 @@ Take me back to the [top](#top)
 
 <a name="djent"></a> 
 #### Djent
-Djent. I know it's a spin-off from Progressive Metal; but what is it, really? Literally no one knows. But you know what it is when you hear it. (*The drumming starts off slow, then accelerates in bursts.* Padummm dum dum doom! padummm dum dum doom! *Shortly after, the singer's whiny vocals kick in ...*) And unless you're a Metal Hipster, you probably won't like it. Indeed, it is one of two genres that attracts a high proportion of Hipsters. You probably never heard of the other one. You haven't -- they're so underground, they're not even "indie."
+Djent. I know it's a spin-off from Progressive Metal; but what is it, really? Literally no one knows. But you know what it is when you hear it. (*The drumming starts off slow, then accelerates in bursts.* Padummm dum dum doom! padummm dum dum doom! *Shortly after, the singer's whiny vocals kick in ...*) And unless you're a Metal Hipster, you probably won't like it. Indeed, it is one of two genres that attracts a high proportion of Hipsters. You probably never heard of the other one. You haven't -- it's so underground, it's not even "indie."
 
 
 <!-- And unless you spent *both* your work and your free time behind a computer screen, you probably won't like it. Indeed, it is one of two genres that attracts a high proportion of researchers and students in computer science -- the other being Tolkien-themed Power Metal. -->
