@@ -848,7 +848,9 @@ Take me back to the [top](#top)
 
 This warning may be a bit late in the guide, but you should use caution in allowing your youngsters or colleagues to see you reading this.
 
-Some people suggested I should add some distinct subgenres of Grindcore. There are quite a few, such as Goregrind (**Cliteater**, **Haemorrhage**, **General Surgery**) and Cybergrind (**Cutting Pink with Knives**, **Genghis Tron**, **iamerror**), but here I'll focus only on Porngrind, a microgenre that is fixated on, as you may have already surmised, pornographic lyrical themes. Understand that the reason I picked this one out is only because I've already had the dubious honor of doing on a Porngrind logo before (don't ask), so I was able to use it as a base to draw upon. I think the logo speaks for itself so that I need not elaborate on it.
+Some people suggested I should add some distinct subgenres of Grindcore. There are quite a few, such as Goregrind (**Cliteater**, **Haemorrhage**, **General Surgery**) and Cybergrind (**Cutting Pink with Knives**, **Genghis Tron**, **iamerror**), but here I'll focus only on Porngrind, a microgenre that is fixated on, as you may have already surmised, pornographic lyrical themes. 
+
+Understand that the reason I picked this one out is only because I've already had the dubious honor of doing on a Porngrind logo before (don't ask), so I was able to use it as a base to draw upon. I think the logo speaks for itself so that I need not elaborate on it.
 
 ![Porngrind](..\assets\img\projects\proj-2\porngrind.jpg)
 
