@@ -1811,10 +1811,16 @@ Take me back to the [top](#top)
 
 ---
 
+# Tools Used
+
+Most of these logos were (digitally) hand-lettered and drawn in **Clip Studio Paint**; some were rendered in **Blender** (NWOBHM, Speed Metal, Power Metal, Teutonic Thrash, Industrial Metal); others were (partly) created using different fonts found on the Internet (Melodic Death Metal, 1990s Tech Death, Djent, Post-Black, Pirate Metal, Funeral Doom); and lastly, the Bay Area Thrash logo is based on the result of a <a href="http://metallica.alwaysdata.net/" target="_blank" rel="noopener"><span>Metallica logo generator</span></a>.
+
+---
+
+# References
+
 *I'm not really in the know with rules concerning footnotes, bibliography, etc., so bear with me. These will be checked later by the professionals.*
 
-
-# Resources
 ##### [1] E. Nielson. Paragraph on Metal on Trial. *Rap on Trial: Race, Lyrics, and Guilt in America*, p. 89.
 ##### [2] C. Harison. "Won't Get Fooled Again": The Atlantic Generation Comes of Age. *Feedback: The Who and their Generation*, pp. 156-57. 
 ##### [3] S. Poole. Retro Rock and Heavy History. *Global Metal Music and Culture: Current Directions in Metal Studies*, pp. 302-303; M. Heatley. *The Virgin Encyclopedia of Rock: The World's Most Comprehensive Illustrated Rock Reference*, 122, 1996. 
