@@ -15,9 +15,9 @@ As you can imagine, it can get complicated fairly quickly when you're trying to 
 
 <a name="TOP"></a> 
 Take me to ...
-[Heavy Metal](#heavy), [NWOBHM](#NWOBHM), [Speed Metal](#speed), [Power Metal](#power), [Symphonic Metal](#symphonic), [Glam Metal](#glam), [Thrash Metal](#thrash), [US Thrash](#usthrash), [Bay Area Thrash](#bay), [Teutononic Thrash](#teutonic), [Groove Metal](#groove), [Death Metal](#death), [Brutal Death](#brutal), [Florida Death](#florida), [Melodic Death](#melodic), [Technical Death](#tech), [1990s Technical Death](#1990tech), [Post-2000s Tech Death](#2000tech), [Progressive Metal](#progressive), [Djent](#djent), [Grindcore](#grindcore), [Black Metal](#black), [Pagan Black](#pagan), [Folk Metal](#folk), [Pirate Metal](#pirate), [Crossover Genres](#crossover), [Blackened Thrash](#bthrash), [Blackened Death](#bdeath), [Death-Doom](#deathdoom), [Deathgrind](#deathgrind), [Industrial Metal](#industrial), [Doom](#doom), [Stoner Metal](#psychedelic), [Funeral Doom](#funeral), [Gothic Metal](#gothic), [Avant-Garde Metal](#avantgarde), [Post-Metal](#post), [Faux Metal](#faux), [Nu Metal](#nu), [Metalcore](#metalcore) 
+[Heavy Metal](#heavy), [NWOBHM](#NWOBHM), [Speed Metal](#speed), [Power Metal](#power), [Symphonic Metal](#symphonic), [Glam Metal](#glam), [Thrash Metal](#thrash), [US Thrash](#usthrash), [Bay Area Thrash](#bay), [Teutononic Thrash](#teutonic), [Groove Metal](#groove), [Death Metal](#death), [Brutal Death](#brutal), [Florida Death](#florida), [Melodic Death](#melodic), [Technical Death](#tech), [1990s Technical Death](#1990tech), [Post-2000s Tech Death](#2000tech), [Progressive Metal](#progressive), [Djent](#djent), [Grindcore](#grindcore), [Porngrind](#porngrind), [Black Metal](#black), [Pagan Black](#pagan), [Post-Black](#pblack), [Folk Metal](#folk), [Pirate Metal](#pirate), [Crossover Genres](#crossover), [Blackened Thrash](#bthrash), [Blackened Death](#bdeath), [Death-Doom](#deathdoom), [Deathgrind](#deathgrind), [Industrial Metal](#industrial), [Doom](#doom), [Funeral Doom](#funeral), [Stoner Metal](#psychedelic), [Sludge Metal](#sludge), [Gothic Metal](#gothic), [Avant-Garde Metal](#avantgarde), [Post-Metal](#post), [Faux Metal](#faux), [Nu Metal](#nu), [Metalcore](#metalcore) 
 
-*Full disclosure: With these genre samples I tried to represent as faithfully as possible a broad range of genres, based on my own years of experience in designing Metal logos and studying up on genres that I'm not too familiar with. I then had them checked by several musicians and artists in the Metal scene to confirm style accuracy and coverage. (The list of names can be found in the paper.) In the days leading up to the submission deadline, I decided to add a few more, in part based on the feedback that I got from them, and in part based on what genres I personally felt were missing. These are: Symphonic Metal, Glam Metal, Bay Area Thrash Metal, Groove Metal, Djent, Pirate Metal, and Post-Metal. As of yet, these have not been checked and validated by the "field experts." But, ultimately, these remain interpretations, anyway. It may well be that you have other ideas on what these logos are supposed to look like. Maybe you don't think my comments are clever or helpful or funny. In that case, drop me a line on Twitter, and tell me what needs improving.* 
+*Full disclosure: With these genre samples I tried to represent as faithfully as possible a broad range of genres, based on my own years of experience in designing Metal logos and studying up on genres that I'm not too familiar with. I then had them checked by several musicians and artists in the Metal scene to confirm style accuracy and coverage. (The list of names can be found in the paper.) In the days leading up to the submission deadline, I decided to add a few more, in part based on the feedback that I got from them, and in part based on what genres I personally felt were missing. These are: Symphonic Metal, Glam Metal, Bay Area Thrash, Groove Metal, Djent, Porngrind, Pirate Metal, Post-Metal, Sludge Metal. As of yet, these have not been checked and validated by the "field experts." But, ultimately, these remain interpretations, anyway. It may well be that you have other ideas on what these logos are supposed to look like. Maybe you don't think my comments are clever or helpful or funny. In that case, drop me a line on Twitter, and tell me what needs improving.* 
 
 -- Gerrit
 
@@ -814,10 +814,6 @@ Take me back to the [top](#top)
 Grindcore is one of the heavier microgenres. It fuses elements of Thrash and Death as well as Crust and Hardcore, and does away with things like standard time signatures, creating a negative synergy where one plus one usually equals less than two. No wonder, then, that Grindcore logos look **crude and unfinished** at best. But all is not bad either, for great (to some) is the genre's fondness for puerile humor and disgusting aesthetics, with **visual references to scathology** and **other bodily functions**. In short, think of Grindcore aesthetics as the typographic equivalent of a schoolboy's fantasies. This may also help explain the heavy usage of **color** and **texture**. (Kids love color. Right? I wouldn't know, I'm not a father.)
 ![Grindcore](..\assets\img\projects\proj-2\grind.jpg)
 
-<!--porngrind, cybergrind -->
-
-
-
 ##### Some Grindcore bands to check out:
 
 <ul>
@@ -843,7 +839,53 @@ Grindcore is one of the heavier microgenres. It fuses elements of Thrash and Dea
 </li>
 </ul>
 
+
 Take me back to the [top](#top)
+
+<a name="Porngrind"></a> 
+## Porngrind
+**TMI WARNING!!!** 
+
+This warning may be a bit late in the guide, but you should use caution in allowing your youngsters or colleagues to see you reading this.
+
+Some people suggested I should add some distinct subgenres of Grindcore. There are quite a few, such as Goregrind (**Cliteater**, **Haemorrhage**, **General Surgery**) and Cybergrind (**Cutting Pink with Knives**, **Genghis Tron**, **iamerror**), but here I'll focus only on Porngrind, a microgenre that is fixated on, as you may have already surmised, pornographic lyrical themes. Understand that the reason I picked this one out is only because I've already had the dubious honor of doing on a Porngrind logo before (don't ask), so I was able to use it as a base to draw upon. I think the logo speaks for itself so that I need not elaborate on it.
+
+![Porngrind](..\assets\img\projects\proj-2\porngrind.jpg)
+
+
+It's a genre so base and vile, you won't be able to find most bands on Spotify. Luckily, there's still Youtube ...
+
+
+##### Some Porngrind bands to check out:
+
+<ul>Anal Blast
+<li>
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Anal_Blast/3024" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://www.youtube.com/watch?v=YirYiVuRYTA" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+</ul>
+</li>
+
+<li>Cock and Ball Torture
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Cock_and_Ball_Torture/3540453478" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://www.youtube.com/watch?v=7oFGzpwbAD0" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+</ul>
+</li>
+
+<li>Rompeprop
+<ul>
+<li><a href="https://www.last.fm/music/Rompeprop/+wiki" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://www.youtube.com/watch?v=JjzMo49vDlsc" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+</ul>
+</li>
+</ul>
+
+
+
+Take me back to the [top](#top)
+
+<!--porngrind, cybergrind -->
 
 ---
 
@@ -950,6 +992,7 @@ Following in the wake of the second wave, new bands emerged, eager to get in on 
 </ul>
 
 
+
 <!-- Post-Black Metal -->
 <!-- US BM, NSBM, Depressive Suicidal BM, Industrial BM, ambient BM, War Metal -->
 <!-- is there any noticeable difference? or is it all Szpajdel? --> 
@@ -992,6 +1035,42 @@ Pagan Black Metal is one of many off-shoots of traditional "mainstream" Black Me
 </ul>
 
 Take me back to the [top](#top)
+
+<a name="pblack"></a>
+## Post-Black
+
+Today we see bands that have moved beyond what "traditional" Black Metal is all about. These fall in the genre of Post-Black Metal. (Post-Metal as a genre at large will be discussed later.)
+
+Typically, Post-Black Metal logos take the form of Gothic hand-writing. It's like someone looked at the <a href="https://www.imdb.com/title/tt0162661/" target="_blank" rel="noopener"><span>Sleepy Hollow logo</span></a> and said, "That right there is what I want."
+![Pagan Black Metal](..\assets\img\projects\proj-2\postblack.jpg)
+
+
+##### Some Post-Black Metal bands to check out:
+<ul>
+<li>Alcest
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Alcest/19701" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/50dpeks48j0zMECIKVAGUG?si=76050de9d9824c79" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Deafhaven
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Deafheaven/3540315870" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/6l3A2EWZSOA8LTMmzRCyD3?si=cd7c0717f76a49a2" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Lantlôs
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Lantl%C3%B4s/118049" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/6z31G6R0Gj5EObSFQXQdmc?si=5eb311590ed24c90" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
+
+Take me back to the [top](#top)
+
 
 ---
 <a name="folk"></a> 
@@ -1333,6 +1412,40 @@ This is what makes Doom logo extremely challenging -- challenging for me at leas
 
 Take me back to the [top](#top)
 
+<a name="funeral"></a> 
+## Funeral Doom
+Funeral Doom is characterized by its sloooooow tempos -- slow even for Doom standards. The letters are spaced **miles apart** from each other so as to visually convey the sense of mind-numbing slowness. And because the music doesn't inspire anyone to come up a cool custom design, Funeral Doom bands often have to settle for a **wordmark** with some **decorative curls** that are really only there to signal to the eyes that this or that letter is still very much part of the name and logo.   
+![Funeral Doom](..\assets\img\projects\proj-2\funeral.jpg)
+
+##### Some Funeral Doom bands to check out:
+
+<ul>
+<li>Esoteric
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Gorguts/1124" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/4g0gpUMOHc7BSFyOEn0sVa?si=17b8afb41dcb44b8" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Funeral
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Meshuggah/21" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/1nbfq95e5WT14NZW1m36m9?si=356766b1d408422f" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Thergothon
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Sigh/51" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0lOkhYlyP1Nhg3pRyMgIHF?si=f835afe287b04342" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
+
+
+Take me back to the [top](#top)
+
+
 <a name="psychedelic"></a> 
 ## Stoner Metal
 Because of its slow droning nature, Doom Metal and stoner culture go together like a herb grinder and a glass bong. And so a new genre was born, whose lyrics are often about getting stoned and tripping on acid-laid Kool-Aid.
@@ -1370,32 +1483,44 @@ Logo-wise, nothing quite says stoner and psychedelia like a **hazy** or **cloud-
 
 Take me back to the [top](#top)
 
-<a name="funeral"></a> 
-## Funeral Doom
-Funeral Doom is characterized by its sloooooow tempos -- slow even for Doom standards. The letters are spaced **miles apart** from each other so as to visually convey the sense of mind-numbing slowness. And because the music doesn't inspire anyone to come up a cool custom design, Funeral Doom bands often have to settle for a **wordmark** with some **decorative curls** that are really only there to signal to the eyes that this or that letter is still very much part of the name and logo.   
-![Funeral Doom](..\assets\img\projects\proj-2\funeral.jpg)
 
-##### Some Funeral Doom bands to check out:
+<a name="sludge"></a> 
+#### Sludge Metal 
+Musically, Sludge Metal in many is like Stoner Metal, with the only real difference being that Sludge Metal is not about being happily stoned. Quite the opposite, in fact -- its tunes ooze a decadent and depressive atmosphere. In that it's more like the aural equivalent of a bad trip.
+
+In terms of logos, Sludge Metal rather shares similarities with Post-Metal. But this leads to the problem that these logos could look like anything from **hand-lettered comics-type** logos to **contemporary pseudo-art nouveau** logos to **Melodic Death Metal-styled** wordmarks. No, that's not completely true across the board. If it looks like it was drawn by a Parkinson's patient sitting on top a spinning wachine machine -- it's more likely to be a Sludge logo.
+![Sludge Metal](..\assets\img\projects\proj-2\sludge.jpg)
+
+<!--
+If now you think this is all fine and good, imagine yourself for a moment looking at a festival flyer, trying to figure to figure out what to expect of the festival's offerings ... It's impossible, it's infuriating!
+
+You don't believe? All right. Let's play a game, you and I. I'll show you a logo, and you guess. What genre it belongs to?
+![Sludge](..\assets\img\projects\proj-2\sludge.jpg)
+**The answer**: It could be anything. There's just no way of knowing if this band is a Sludge Metal band. 
+
+-->
+
+##### Some Sludge Metal bands to check out:
 
 <ul>
-<li>Esoteric
+<li>Acid Bath
 <ul>
-<li><a href="https://www.metal-archives.com/bands/Gorguts/1124" target="_blank" rel="noopener"><span>Band information</span></a></li>
-<li><a href="https://open.spotify.com/track/4g0gpUMOHc7BSFyOEn0sVa?si=17b8afb41dcb44b8" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+<li><a href="https://www.metal-archives.com/bands/Acid_Bath/19" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/6AbPtd4Cxxkdzrda6E2WcO?si=6e2481d8e8574559" target="_blank" rel="noopener"><span>Spotify</span></a></li>
 </ul>
 </li>
 
-<li>Funeral
+<li>Eyehategod
 <ul>
-<li><a href="https://www.metal-archives.com/bands/Meshuggah/21" target="_blank" rel="noopener"><span>Band information</span></a></li>
-<li><a href="https://open.spotify.com/track/1nbfq95e5WT14NZW1m36m9?si=356766b1d408422f" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+<li><a href="https://www.metal-archives.com/bands/Eyehategod/1624" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2O1cAE5g9CNU5j9JWQs1fD?si=53c831a7ab284ec2" target="_blank" rel="noopener"><span>Spotify</span></a></li>
 </ul>
 </li>
 
-<li>Thergothon
+<li>Soilent Green
 <ul>
-<li><a href="https://www.metal-archives.com/bands/Sigh/51" target="_blank" rel="noopener"><span>Band information</span></a></li>
-<li><a href="https://open.spotify.com/track/0lOkhYlyP1Nhg3pRyMgIHF?si=f835afe287b04342" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+<li><a href="https://www.metal-archives.com/bands/Soilent_Green/76" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5UY84X1XutCbjhi1KEO68D?si=f5b7b0e0b84e4528" target="_blank" rel="noopener"><span>Spotify</span></a></li>
 </ul>
 </li>
 </ul>
@@ -1404,6 +1529,8 @@ Funeral Doom is characterized by its sloooooow tempos -- slow even for Doom stan
 Take me back to the [top](#top)
 
 ---
+
+
 <a name="gothic"></a> 
 # Gothic Metal
 Gothic Metal is a broadly defined genre, comprising of two main subgenres: on the one hand there's bands that grew out of the Death-Doom genre, favoring gloomy, introspective atmosphere over outward bombast, and on the other hand there's melodic symphonic bands that emerged instead from the more uplifting Power Metal. Below is an example of the former. 
@@ -1531,16 +1658,9 @@ Take me back to the [top](#top)
 
 ---
 
-
-
 <a name="sludge"></a> 
 ## Sludge Metal
 Sludge Metal ...
-
-All right. Let's play a game, you and I. I'll show you a logo, and you guess what genre it belongs to -- Post-Metal, Stoner Metal, or something else. 
-![Sludge](..\assets\img\projects\proj-2\sludge.jpg)
-**The answer**: It could be any of the three. There's just no way of knowing if this band is a Post-Metal, Stoner, or Sludge band. The only way of finding out is by listening to their music. If the lyrics are about getting stoned and tripping balls on acid-laid Kool-Aid, it's most likely a Stoner band. If the lyrics -- what few there are -- are interspersed with lecture recordings of some French-Bulgarian philosopher, it's *definitely* a Post-Metal band. And that would leave you with -- Sludge Metal.
-
 
 
 Take me back to the [top](#top)
