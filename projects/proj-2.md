@@ -855,7 +855,7 @@ While there are many subgenres of Black Metal, they all, or most of them, share 
 
 Lyrically and thematically, songs often deal with the occult, Satanism, and diabolic perversion. Sometimes, it's about following the "left-hand path" rather than the "right-hand way;" sometimes it's just plain raging against religion, or at least Christianity. Other times, it's about exploring Nietzsche's Zarathustra; still other times, it's about black crows on a tombstone.  
 
-In the mid-1980s, and especially in the early 1990s, there were created a few logos that proved seminal in the years to come, most notably the logos of **Mayhem** and **Emperor**. Basically, every Black Metal logo created now takes its cues from both of these. Which is why, regardless of subgenre, Black Metal logos tend to look alike. Indeed, they all share a couple of logo and letter design traits: 
+In the mid-1980s, and especially in the early 1990s, there were created a few logos that proved seminal in the years to come, most notably the logos of **Mayhem** and **Emperor**. Basically, every Black Metal logo created now takes its cues from both of these. Also, the guy who did the Emperor logo went on to do 10,000(!) logos -- mostly in the Black (and Death) Metal scene.<sup></sup> Which is why, regardless of subgenre, Black Metal logos tend to look alike. Indeed, they all share a couple of logo and letter design traits: 
 
 1. The logos often display a **high degree of symmetry**; 
 ![Black Metal](..\assets\img\projects\proj-2\black2.jpg)
@@ -1074,7 +1074,7 @@ Take me back to the [top](#top)
 When it comes to crossover genres, certain genres, or elements of them, are more likely to "crossover" than others. As it with fashion, so it is with Extreme Metal: Black goes with everything. Indeed, you can find bands that play Blackened Death (**Angelcorpse**, **Akercocke**, **Belphegor**), Blackened Death-Doom (**Bölzer**, **Necros Christos**, **Soulburn**), Blackened Speed (**Bulldozer,** **Exorcist**, **Sodomizer**), Blackened Thrash (**Aura Noir**, **Deströyer 666**, **Witchery**), Blackened Grindcore (**Absvrdist**, **Sunlight's Bane**, **Vomit Fist**), Blackened Noise (**Gnaw Your Tongue**, **Enbilulugugal**, **Sutekh Hexen**), Blackened Sludge (**Inter Arma**, **Lord Mantis**, **Tombs**), the list goes on.  
 
 
-This may need some explanation. Early in the 1990s, Black Metal was often used synonomously with "Satanic Metal" by fans and artists alike because to many of them it really was all about devil worship.<sup>9</sup> Furthermore, a string of church arsons in Norway and incidents of grave robbery throughout Europe -- even in the heart of Heerlen, a small city in the south of the Netherlands --, were not unknown after the emergence of the scene, and all contributed to the cementing of the label and stereotype of "Satanic Metal" in the public conscience.
+This may need some explanation. Early in the 1990s, Black Metal was often used synonomously with "Satanic Metal" by fans and artists alike because to many of them it really was all about devil worship.<sup>10</sup> Furthermore, a string of church arsons in Norway and incidents of grave robbery throughout Europe -- even in the heart of Heerlen, a small city in the south of the Netherlands --, were not unknown after the emergence of the scene, and all contributed to the cementing of the label and stereotype of "Satanic Metal" in the public conscience.
 
 But of course, no genre holds or can hold a monopoly on the practice of Satanism or any religion. And indeed, plenty of musicians and artists outside of the Black Metal scene are (and have been) sort of interested and entrenched in these things. But the label has stuck, and so now we use "Blackened" as an "adjective-predicate," or a shorthand, for specific non-Black Metal bands and genres that deal on some level with the occult. 
 
@@ -1302,7 +1302,7 @@ Take me back to the [top](#top)
 ---
 <a name="doom"></a> 
 # Doom Metal
-Doom Metal is the last major mode of Heavy Metal music. For those not in the know, unlike the other (sub)genres, Doom doesn't really have any unique genre requirements except for this one thing: it has to be ultra-slow.<sup>10</sup> If it's uptempo, it can't be Doom. But it can be anything else. It's as simple as that. Just as simple as that. Anyway, the idea behind this tempo thing is to create a sense of doom or despair. (More like, despairing boredom, amirite?)
+Doom Metal is the last major mode of Heavy Metal music. For those not in the know, unlike the other (sub)genres, Doom doesn't really have any unique genre requirements except for this one thing: it has to be ultra-slow.<sup>11</sup> If it's uptempo, it can't be Doom. But it can be anything else. It's as simple as that. Just as simple as that. Anyway, the idea behind this tempo thing is to create a sense of doom or despair. (More like, despairing boredom, amirite?)
 
 This is what makes Doom logo extremely challenging -- challenging for me at least to come up with a genre logo; because it can be so many things depending on a band's specific interests and themes, and they can range anywhere from a dying bride to ... to what exactly? (It's always about some tragic loss of life, isn't it?) To put it flatly, usually it comes down to throwing shit at a wall and hope something sticks. (But this is just me talking ... what do I know? I've only worked with a small number of Doom bands.)
 
@@ -1635,8 +1635,8 @@ Take me back to the [top](#top)
 ##### [6] D. Lombardo. Loudwire: Dave Lombardo - Wikipedia: Fact or Fiction? https://www.youtube.com/watch?v=LKppPspVNDs, 2015.
 ##### [7] Michelle Phillipov, *Death Metal and Music Criticism: Analysis at the Limits*, 100 (2012): Chapter 6, 'The Pleasures of Horror'; quoting Natalie J. Purcell, *Death Metal Music: The Passion and Politics of a Subculture*, (2003), 172, 185, and Morris Dickstein (1984), 'The Aesthetics of Fright' in *Plans of Reason: Essays on the Horror Film*, ed. Barry Keith Grant; and ed. K.F.B. Fletcher and Osman Umurhan, *Classical Antiquity in Heavy Metal*, idem, 'Introduction: Where Metal and Classics Meet' (2020)
 ##### [8] Simon Poole, 'M. Unger, *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, 20.
-##### [9] Dayal Patterson, *Black Metal: Evolution of the Cult*, (Chapter on Marduk)
-##### [10] William Irwin, *Black Sabbath and Philosophy: Mastering Reality*, p. 79.
+##### [9] Liz, Stinson, Wired: The Beauty and Total Illegibility of Extreme Metal Logos https://www.wired.com/2015/10/the-beauty-and-total-illegibility-of-extreme-metal-logos/, 2015; and Mike Rampton, Kerrang: Inside The World Of Extreme Metal Logos https://www.kerrang.com/features/inside-the-world-of-extreme-metal-logos/, 2018.
+##### [11] William Irwin, *Black Sabbath and Philosophy: Mastering Reality*, p. 79.
 
 
 
