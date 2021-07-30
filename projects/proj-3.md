@@ -18,7 +18,7 @@ In our paper, we try to explore the design space of Metal logos. To this end, Mi
 
 Of course, you could just google <a href="https://letmegooglethat.com/?q=Death+Metal+logos" target="_blank" rel="noopener"><span>Death Metal logos</span></a>, but this kind of search query usually ends up being unsatisfying at best; at worst, it gives a wrong impression of what Death Metal logos really look like. There are two problems: 
 
-(1) A quick search result will only show some popular "Death Metal" logos. Note the quotation marks. I just did a quick search on Google and lo and behold there's the logo of **Obituary**, an influential Death Metal band from Tampa, Florida, but ... what is **Darkthrone**'s logo doing there? **Darkthrone** only ever put out one Death Metal album, and it wasn't even *that* great. (Hell, even the members of the band seems to think so.<sup>1</sup>) They're *infinitely* more famous for their contribution to the Black Metal genre! And who are those others bands even? In what (sub)genre do they fall: Death-Doom? Brutal Death? Melodic Death? 
+(1) A quick search result will only show some popular "Death Metal" logos. Note the quotation marks. I just did a quick search on Google and lo and behold there's the logo of **Obituary**, an influential Death Metal band from Tampa, Florida, but ... what is **Darkthrone**'s logo doing there? **Darkthrone** only ever put out one Death Metal album, and it wasn't even *that* great. (Hell, even the members of the band seems to think so.<sup>1</sup>) They're *infinitely* more famous for their contribution to Crust Punk!<sup>2</sup> And who are those others bands even? In what (sub)genre do they fall: Death-Doom? Brutal Death? Melodic Death? Great! Now I have to google them, too. Who is Hga... Hgasohg--? Ah! <a href="https://letmegooglethat.com/?q=Who+are+Hellsong%3F" target="_blank" rel="noopener"><span>Hellsong</span></a>?
 
 ![Wait what](..\assets\img\projects\metalvis\screen.JPG)
 
@@ -40,7 +40,7 @@ It's quite simple, really. First, you have to open yourself to the world of <a h
 
 ![Zoom](..\assets\img\projects\metalvis\screen3.JPG)
 
-On top there's a search box. Here, you can type in a specific band name. If the band is currently active and signed by a label, a circle will appear in the cloud (you may have to drag the cloud a bit to see it).<sup>2</sup>
+On top there's a search box. Here, you can type in a specific band name. If the band is currently active and signed by a label, a circle will appear in the cloud (you may have to drag the cloud a bit to see it).<sup>3</sup>
 
 ![Search](..\assets\img\projects\metalvis\search.JPG)
 
@@ -61,4 +61,5 @@ All right. Now you know everything you need to know to have fun with the tool! S
 
 #### References and Other Notes
 ##### [1] B. Pilo. True Norwegian Black Metal: Nationalism and Authenticity. In: T.-M. Karjalainen, ed. *Sounds of Origin in Heavy Metal Music*, 43, 2018.
-##### [2] This is not to "gatekeep," it was only done to keep things manageable in terms of numbers of bands and data points collected. Given the current scope of the project, we had to cut some things that we would've liked to have included. 
+##### [2] D. Patterson. Black Metal: Evolution of the Cult, 207, 2013.
+##### [3] This is not to "gatekeep," it was only done to keep things manageable in terms of numbers of bands and data points collected. Given the current scope of the project, we had to cut some things that we would've liked to have included. 
