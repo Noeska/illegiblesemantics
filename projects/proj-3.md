@@ -53,7 +53,7 @@ You may have already noticed that some of the logos overlap. It's because they a
 
 To mitigate this overlap issue, you can choose to "gridify" the cloud. You do this by turning on the "gridified" button. By doing this the logos will be nicely separated from each other. However, you won't be able to see relative "closeness" or "farness" anymore.
 
-![Embeddings](..\assets\img\projects\metalvis\gridified2.JPG)
+![Embeddings](..\assets\img\projects\metalvis\gridified2.jpg)
 
 One more thing needs mentioning; the tool offers some filtering options. In the left corner, you can toggle some switches to hide or unhide one or several genres (Heavy, Thrash, Death, and Black Metal); and in the right corner, you can click on the funnel symbol to bring up a popup window that provides various specific filtering options.
 
