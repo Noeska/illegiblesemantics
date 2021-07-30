@@ -15,9 +15,9 @@ As you can imagine, it can get complicated fairly quickly when you're trying to 
 
 <a name="TOP"></a> 
 Take me to ...
-[Heavy Metal](#heavy), [NWOBHM](#NWOBHM), [Speed Metal](#speed), [Power Metal](#power), [Symphonic Metal](#symphonic), [Glam Metal](#glam), [Thrash Metal](#thrash), [US Thrash](#usthrash), [Bay Area Thrash](#bay), [Teutononic Thrash](#teutonic), [Groove Metal](#groove), [Death Metal](#death), [Brutal Death](#brutal), [Florida Death](#florida), [Melodic Death](#melodic), [Technical Death](#tech), [1990s Technical Death](#1990tech), [Post-2000s Tech Death](#2000tech), [Progressive Metal](#progressive), [Djent](#djent), [Grindcore](#grindcore), [Porngrind](#porngrind), [Black Metal](#black), [Pagan Black Metal](#pagan), [Post-Black Metal](#pblack), [Unblack Metal](#unblack), [Ecumenical Metal](#ecumenical), [Folk Metal](#folk), [Pirate Metal](#pirate), [Crossover Genres](#crossover), [Blackened Thrash](#bthrash), [Blackened Death](#bdeath), [Death-Doom](#deathdoom), [Deathgrind](#deathgrind), [Industrial Metal](#industrial), [Doom](#doom), [Funeral Doom](#funeral), [Stoner Metal](#psychedelic), [Sludge Metal](#sludge), [Gothic Metal](#gothic), [Avant-Garde Metal](#avantgarde), [Post-Metal](#post), [Faux Metal](#faux), [Nu Metal](#nu), [Metalcore](#metalcore) 
+[Heavy Metal](#heavy), [NWOBHM](#NWOBHM), [Speed Metal](#speed), [Power Metal](#power), [Symphonic Metal](#symphonic), [Glam Metal](#glam), [Thrash Metal](#thrash), [US Thrash](#usthrash), [Bay Area Thrash](#bay), [Teutononic Thrash](#teutonic), [Groove Metal](#groove), [Death Metal](#death), [Brutal Death](#brutal), [Florida Death](#florida), [Melodic Death](#melodic), [Technical Death](#tech), [1990s Technical Death](#1990tech), [Post-2000s Tech Death](#2000tech), [Progressive Metal](#progressive), [Djent](#djent), [Grindcore](#grindcore), [Porngrind](#porngrind), [Black Metal](#black), [Pagan Black Metal](#pagan), [Post-Black Metal](#pblack), [Unblack Metal](#unblack), [War Metal](#war), [Ecumenical Metal](#ecumenical), [Folk Metal](#folk), [Pirate Metal](#pirate), [Crossover Genres](#crossover), [Blackened Thrash](#bthrash), [Blackened Death](#bdeath), [Death-Doom](#deathdoom), [Deathgrind](#deathgrind), [Industrial Metal](#industrial), [Doom](#doom), [Funeral Doom](#funeral), [Stoner Metal](#psychedelic), [Sludge Metal](#sludge), [Gothic Metal](#gothic), [Avant-Garde Metal](#avantgarde), [Post-Metal](#post), [Faux Metal](#faux), [Nu Metal](#nu), [Metalcore](#metalcore) 
 
-*Full disclosure: With these genre samples I tried to represent as faithfully as possible a broad range of genres, based on my own years of experience in designing Metal logos and studying up on genres that I'm not too familiar with. I then had them checked by several musicians and artists in the Metal scene to confirm style accuracy and coverage. (The list of names can be found in the paper.) In the days leading up to the submission deadline, I decided to add a few more, in part based on the feedback that I got from them, and in part based on what genres I personally felt were missing. These are: Symphonic Metal, Glam Metal, Bay Area Thrash, Groove Metal, Djent, Porngrind, Unblack Metal, Ecumenical Metal, Pirate Metal, Post-Metal, and Sludge Metal. As of yet, these have not been checked and validated by the "field experts." But, ultimately, these remain interpretations, anyway.* 
+*Full disclosure: With these genre samples I tried to represent as faithfully as possible a broad range of genres, based on my own years of experience in designing Metal logos and studying up on genres that I'm not too familiar with. I then had them checked by several musicians and artists in the Metal scene to confirm style accuracy and coverage. (The list of names can be found in the paper.) In the days leading up to the submission deadline, I decided to add a few more, in part based on the feedback that I got from them, and in part based on what genres I personally felt were missing. These are: Symphonic Metal, Glam Metal, Bay Area Thrash, Groove Metal, Djent, Porngrind, Unblack Metal, Ecumenical Metal, War Metal, Pirate Metal, Post-Metal, and Sludge Metal. As of yet, these have not been checked and validated by the "field experts." But, ultimately, these remain interpretations, anyway.* 
 
 *It may well be that you have other ideas on what these logos are supposed to look like. Maybe you don't think my comments are clever or helpful or funny. In that case, drop me a line on Twitter, and tell me what needs improving.* 
 
@@ -1107,7 +1107,7 @@ Take me back to the [top](#top)
 <a name="pblack"></a>
 ## Post-Black Metal
 
-Today we see bands that have moved beyond what "traditional" Black Metal is all about. These fall in the genre of Post-Black Metal. (Post-Metal as a genre at large will be discussed later.)
+Today we see bands that have moved beyond what "traditional" Black Metal is all about. These fall in the genre of Post-Black Metal. (Post-Metal as a genre at large will be discussed below.)
 
 Typically, Post-Black Metal logos take the form of **Gothic hand-writing**. It's like someone looked at the <a href="https://www.imdb.com/title/tt0162661/" target="_blank" rel="noopener"><span>Sleepy Hollow logo</span></a> and said, "That right there is what I want."
 ![Pagan Black Metal](..\assets\img\projects\proj-2\postblack.jpg)
@@ -1148,7 +1148,7 @@ The term "White Metal" (or "Christian Metal") is an umbrella term encompassing a
 And here's a fun fact for you: Jan Axel "Hellhammer" Blomberg (of **Mayhem** fame) -- yes, *that* Hellhammer -- performed drums on **Antestor**'s 2004 EP *Det tapte liv* and their 2005 full-length album *The Forsaken*.
 
 Logo-wise, it's what you may expect. Logos look like just your average Black Metal logos -- except that the T's look like **upright crosses** instead of inverted ones and naturally it goes without saying that any crosses added to the logo are pictured standing upright.
-![Gothic Metal](..\assets\img\projects\proj-2\unblack.jpg)
+![Unblack Metal](..\assets\img\projects\proj-2\unblack.jpg)
 
 
 ##### Some Unblack Metal bands to check out:
@@ -1175,6 +1175,47 @@ Logo-wise, it's what you may expect. Logos look like just your average Black Met
 </ul>
 </li>
 </ul>
+
+Take me back to the [top](#top)
+
+<a name="war"></a>
+## War Metal (a.k.a. Bestial Black Metal)
+Someone suggested I add another distinct subgenre of Black Metal, namely War Metal (you know who you are). It's a genre I'm far from familiar with, in part maybe because the term "War Metal" is contested and ill-defined like many genres, which is why musicologists would rather do away with the notion of a "genre" ... but that's a whole different topic for another time and other people. The point of contention is that according to some War Metal is basically nothing other than Blackened Death (which wll be discussed below). Others, meanwhile, feel that the term Blackened Death is too broad to be meaningful. According to the latter, War Metal has its own style and philosophy that sets it apart not just from Blackened Death, but from all subgenres of Black Metal. 
+
+So what is it that makes War Metal (supposedly) unique? Well, it's raw lo-fi and violent. "But isn't all Black Metal raw lo-fi and violent?" No. Yes. But War Metal takes things all the way to the extremes -- of the *extreme*. 
+
+Imagine early-days Thrash and Black Metal being stuck in a lifeless relationship. At some point they're like, "Maybe we should spice things up. Let's have a threesome." So then they decide to put out an online ad on an ill-reputable website, because they don't want their friends and coworkers to find out. Years go by without answer ... until finally someone answers. He seems a bit weird and puerile. But beggars can't be choosers. So one night, the couple invites him over. *Why not? We got nothing to lose. It's not like things can get any more stale.* Fast forward nine months, a little hell-maker is making everyone's life miserable. That's War Metal in a nutshell. 
+
+Lyrically and thematically, it's all about war, genocide, nuclear holocaust, Satan and blasphemy, and -- *war*. 
+
+Logo-wise, War Metal bands seem to have a thing for black "negative space" letters with a white keyline detail, giving the whole logo an embossed effect illusion -- it's as if you're looking at the skeletal remains left behind by a nuclear war. One extra detail to add to the letters are long, pointed bullets that protrude from the letters' edges. These not only give the logo a menacing, militant look, they also help reinforce the illusion of depth. 
+![War Metal](..\assets\img\projects\proj-2\war.jpg)
+
+
+<ul>
+<li>Bestial Mockery
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Bestial_Mockery/432" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/3B45IWIzZMGLWDsS61M0Kt?si=241a1aa61150449f" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Conqueror
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Conqueror/3502" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/4LCN6rlqRF0dGVZIjG4JLC?si=a1badaf9dc87444f" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Revenge
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Vital_Remains/720" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2hcbW4tEpCEo9NLNbwhVb8?si=a498dcc33d894274" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
+
+Here's another fun though not widely known fact for you: **Bestial Mockery**'s 2005 *Attack of the Morbid Coven* is the very first album cover I (under my then-moniker Attar) ever worked on.
 
 Take me back to the [top](#top)
 
@@ -1390,8 +1431,6 @@ Blackened Death Metal is usually straight-up Death Metal, but with lyrics that d
 </ul>
 </li>
 </ul>
-
-Take me back to the [top](#top)
 
 <a name="deathdoom"></a> 
 ## Death-Doom 
