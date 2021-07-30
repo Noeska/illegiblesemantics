@@ -1188,7 +1188,7 @@ Imagine early-days Thrash and Black Metal being stuck in a loveless relationship
 
 Lyrically and thematically, it's all about war, genocide, nuclear holocaust, Satan and blasphemy, and -- *war*. 
 
-Logo-wise, War Metal bands seem to have a thing for **black "negative space" letters** with a **white keyline detail**, giving the whole logo an **embossed effect** illusion -- it's as if you're looking at the skeletal remains left behind by a nuclear war. One extra detail to add to the letters are **long, pointed spikes** that protrude from the letters' edges. These not only give the logo a menacing, militant look, they also help reinforce the illusion of depth. 
+Logo-wise, War Metal bands seem to have a thing for **black "negative space" letters** with a **white keyline detail**, giving the whole logo an **embossed effect** illusion. One extra detail to add to the letters are **long, pointed spikes** that protrude from the letters' edges. Together, they give the logo an uneasy impression -- it's as if you're looking at something of the Lovecraftian void; it's not there, yet it is -- when trying to grasp it, it hurts. 
 ![War Metal](..\assets\img\projects\proj-2\war.jpg)
 
 
