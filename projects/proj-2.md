@@ -1,12 +1,16 @@
 ---
 layout: post
-title: 'Logo Samples'
+title: 'Genre Guide'
 ---
 <!-- Here you can see samples of logo designs covering a broad range of metal genres and extreme subgenres with some tongue-in-cheek commentary by Gerrit Rijken. -->
 
+## Introduction
+
 In our paper we explore the "design space" of Metal logos; and when we say "Metal," we refer to Heavy Metal and its Extreme Metal subgenres -- and the subgenres within those. Each of these has its own visual aesthetics and codes that govern how genre logos can or should look like, generally. Here things can get weirdly specific. For example, bands in a genre often have the same kind of logos, but depending on subgenre, bands may have a different kind of logo, and a logo style can even depend on a given band's locality. 
 
-As you can imagine, it can get complicated fairly quickly when you're trying to get a handle on what's what and how things play out visually, concretely, and pratically -- especially if you're not in the know. In order to facilitate understanding, I created 40-something logos, covering a broad range of genres and subgenres of Heavy Metal music. Here, I've added some tongue-in-cheek commentary to give you some insight into the design process of each of these logos. 
+#### Logo Samples
+
+As you can imagine, it can get complicated fairly quickly when you're trying to get a handle on what's what and how things play out visually, concretely, and pratically -- especially if you're not in the know. In order to facilitate understanding, I initially created 30-something logos, and then added a dozen more in the days leading up to the submission deadline, covering a broad range of genres and subgenres of Heavy and Extreme Metal music. Here, I've added some tongue-in-cheek commentary to give you some insight into the design process of each of these logos. 
 <!-- 
 ![Heavy Metal](..\assets\img\projects\proj-2\banner1.png)
 ![Heavy Metal](..\assets\img\projects\proj-2\banner4.png)
@@ -17,9 +21,10 @@ As you can imagine, it can get complicated fairly quickly when you're trying to 
 Take me to ...
 [Heavy Metal](#heavy), [NWOBHM](#NWOBHM), [Speed Metal](#speed), [Power Metal](#power), [Symphonic Metal](#symphonic), [Glam Metal](#glam), [Thrash Metal](#thrash), [US Thrash](#usthrash), [Bay Area Thrash](#bay), [Teutononic Thrash](#teutonic), [Groove Metal](#groove), [Death Metal](#death), [Brutal Death](#brutal), [Florida Death](#florida), [Melodic Death](#melodic), [Technical Death](#tech), [1990s Technical Death](#1990tech), [Post-2000s Tech Death](#2000tech), [Progressive Metal](#progressive), [Djent](#djent), [Grindcore](#grindcore), [Porngrind](#porngrind), [Black Metal](#black), [Pagan Black Metal](#pagan), [Post-Black Metal](#pblack), [Unblack Metal](#unblack), [War Metal](#war), [Ecumenical Metal](#ecumenical), [Folk Metal](#folk), [Pirate Metal](#pirate), [Crossover Genres](#crossover), [Blackened Thrash](#bthrash), [Blackened Death](#bdeath), [Death-Doom](#deathdoom), [Deathgrind](#deathgrind), [Industrial Metal](#industrial), [Doom](#doom), [Funeral Doom](#funeral), [Stoner Metal](#psychedelic), [Sludge Metal](#sludge), [Gothic Metal](#gothic), [Avant-Garde Metal](#avantgarde), [Post-Metal](#post), [Faux Metal](#faux), [Nu Metal](#nu), [Metalcore](#metalcore) 
 
-*Full disclosure: With these genre samples I tried to represent as faithfully as possible a broad range of genres, based on my own years of experience in designing Metal logos and studying up on genres that I'm not too familiar with. I then had them checked by several musicians and artists in the Metal scene to confirm style accuracy and coverage. (The list of names can be found in the paper.) In the days leading up to the submission deadline, I decided to add a few more, in part based on the feedback that I got from them, and in part based on what genres I personally felt were missing. These are: Symphonic Metal, Glam Metal, Bay Area Thrash, Groove Metal, Djent, Porngrind, Unblack Metal, Ecumenical Metal, War Metal, Pirate Metal, Post-Metal, and Sludge Metal. As of yet, these have not been checked and validated by the "field experts." But, ultimately, these remain interpretations, anyway.* 
+#### Full Disclosure
+With these genre samples I tried to represent as faithfully as possible a broad range of genres, based on my own years of experience in designing Metal logos and studying up on genres that I'm not too familiar with. I then had them checked by several musicians and artists in the Metal scene to confirm style accuracy and coverage. (The list of names can be found in the paper.) In the days leading up to the submission deadline, I decided to add a few more, in part based on the feedback that I got from them, and in part based on what genres I personally felt were missing. These are: Symphonic Metal, Glam Metal, Bay Area Thrash, Groove Metal, Djent, Porngrind, Unblack Metal, Ecumenical Metal, War Metal, Pirate Metal, Post-Metal, and Sludge Metal. As of yet, these have not been checked and validated by the "field experts." But, ultimately, these remain interpretations, anyway.* 
 
-*It may well be that you have other ideas on what these logos are supposed to look like. Maybe you don't think my comments are clever or helpful or funny. In that case, drop me a line on Twitter, and tell me what needs improving.* 
+It may well be that you have other ideas on what these logos are supposed to look like. Maybe you don't think my comments are clever or helpful or funny. In that case, drop me a line on Twitter, and tell me what needs improving.
 
 -- Gerrit
 
@@ -1188,7 +1193,7 @@ Imagine early-days Thrash and Black Metal being stuck in a loveless relationship
 
 Lyrically and thematically, it's all about war, genocide, nuclear holocaust, Satan and blasphemy, and -- *war*. 
 
-Logo-wise, War Metal bands seem to have a thing for **black "negative space" letters** with a **white keyline detail**, giving the whole logo an **embossed effect** illusion -- it's as if you're looking at the skeletal remains left behind by a nuclear war. One extra detail to add to the letters are **long, pointed spikes** that protrude from the letters' edges. These not only give the logo a menacing, militant look, they also help reinforce the illusion of depth. 
+Logo-wise, War Metal bands seem to have a thing for **black "negative space" letters** with a **white keyline detail**, giving the whole logo an **embossed effect** illusion. One extra detail to add to the letters are **long, pointed spikes** that protrude from the letters' edges. Together, they give the logo an uneasy impression -- it's as if you're looking at something of the Lovecraftian void; it's not there, yet it is -- when trying to grasp it, it hurts. 
 ![War Metal](..\assets\img\projects\proj-2\war.jpg)
 
 
