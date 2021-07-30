@@ -55,6 +55,10 @@ To mitigate this overlap issue, you can choose to "gridify" the cloud. You do th
 
 ![Embeddings](..\assets\img\projects\metalvis\gridified2.JPG)
 
+One more thing needs mentioning; the tool offers some filtering options. In the left corner, you can toggle some switches to hide or unhide one or several genres (Heavy, Thrash, Death, and Black Metal); and in the right corner, you can click on the funnel symbol to bring up a popup window that provides various specific filtering options.
+
+![Filters](..\assets\img\projects\metalvis\filter.JPG)
+
 All right. Now you know everything you need to know to have fun with the tool! So, have fun!  
 
 
