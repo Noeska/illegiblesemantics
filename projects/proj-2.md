@@ -214,7 +214,7 @@ Take me back to the [top](#top)
 #### Symphonic Metal
 One subgenre that I originally couldn't be bothered with -- even though it is a major one -- is Symphonic Metal. This is an off-shoot genre of Power Metal, and thus shares much of its musical DNA with its parent genre. This linkage is also visible in some of the bands' names. These are often lifted from Power Metal songs. If a Symphonic Metal band is called Dragon-Fiddler, then it's likely a Power Metal band once put out a track called something along the lines of "Dewi's Mystical Hymne (The Scarlet Dragon-Fiddler)." 
 
-Where Symphonic Metal bands differ from Power Metal bands is that the former put even more emphasis on the bombast, believing themselves to be following in the footsteps of scoring giants like John Williams or Hans Zimmer -- though they'd be lucky if they could do the score for a <a href="https://www.youtube.com/watch?v=7M0_9YcRDQ0" target="_blank" rel="noopener"><span>Uwe Boll</span></a> movie --, and they're more likely to be female-fronted; and if they aren't, then it still sounds like they are. 
+Where Symphonic Metal bands differ from Power Metal bands is that the former put even more emphasis on the bombast, believing themselves to be following in the footsteps of scoring giants like John Williams and Hans Zimmer -- though they'd be lucky if they could do the score for a <a href="https://www.youtube.com/watch?v=7M0_9YcRDQ0" target="_blank" rel="noopener"><span>Uwe Boll</span></a> movie --, and they're more likely to be female-fronted; and if they aren't, then it still sounds like they are. 
 
 It's generally easy to recognize Symphonic Metal bands from others. Nine out of ten bands have a **serif wordmark** with a **textured gradient fill** for a logo, with maybe one or two **customly elongated tails** -- making it look like someone sneezed while working on the letters; the tenth band, meanwhile, probably has a regular Power Metal logo. <!-- Oh, and if they play speedy music, the letters are probably in **cursive**. -->
 ![Symphonic](..\assets\img\projects\proj-2\symphonic.jpg)
@@ -249,7 +249,7 @@ Take me back to the [top](#top)
 ---
 <a name="glam"></a> 
 ## Glam Metal (a.k.a. Hair Metal)
-In the late-1980s, when Heavy Metal was as mainstream as anything else on MTV (does anyone remember MTV?), the Heavy Metal movement began taking after the 1970s, specifically 1970s Glam Rock (**T. Rex**, **David Bowie**, **Alice Cooper**, **Queen**). Popular Heavy Metal artists started teasing their hair and applying girly make-up, in an effort to look as androgynous as possible, and putting an emphasis on stagecraft over substance and authenticity. Today, no one would bat an eye, but these were the 1980s, after all, and many Metal fans were like, "This is getting way too poppy and wimpy," and we should all be grateful for that. If it wasn't for them -- fans and artists alike -- who knows if, say, the Black Metal scene would have emerged as it did -- with artists donning makeup and taking after the gay leather scene?<sup>4</sup>
+In the late-1980s, when Heavy Metal was as mainstream as anything else on MTV (does anyone remember MTV?), the Heavy Metal movement began taking after the 1970s, specifically 1970s Glam Rock (**T. Rex**, **David Bowie**, **Alice Cooper**, **Queen**). Popular Heavy Metal artists started teasing their hair and applying girly make-up in an effort to look as androgynous as possible, and putting an emphasis on stagecraft over substance and authenticity. Today, no one would bat an eye, but these were the 1980s, after all, and many Metal fans were like, "This is getting way too poppy and wimpy," and we should all be grateful for that. If it wasn't for them -- fans and artists alike -- who knows if, say, the Black Metal scene would have emerged as it did -- with artists donning makeup and taking after the gay leather scene?<sup>4</sup>
 
 ![Glam Metal](..\assets\img\projects\proj-2\hair.jpg)
 
@@ -448,7 +448,9 @@ Take me back to the [top](#top)
 
 <a name="groove"></a> 
 #### Groove Metal
-Groove Metal is an off-shoot of Thrash. The riffs are thrashy, but the tempos are slower -- down from 200 to a more danceable 135 beats-per-minutes on average. Because Groove Metal is a softened-up version of Thrash, it's only obvious that bands in this genre have a "softer" logo. And what is softer than a metal? Exacly -- wood. So I gave this one a **wooden finish**. (Honestly, I had no idea what I was supposed to do with Groove Metal. So I took some cues from Pantera and White Zombie and this is what it resulted in.)
+Groove Metal is an off-shoot of Thrash. The riffs are thrashy, but the tempos are slower -- down from 200 to a more danceable 135 beats-per-minutes on average. Of course this all relative, since I've danced to **Emperor**'s "With Strength I Burn" that clocks in at 167 BPM; but you won't ever catch me dancing to, say, **Pantera**'s "Cowboys from Hell" that clocks in at only 115 BPM. 
+
+Because Groove Metal is a softened-up version of Thrash, it's only obvious that bands in this genre have a "softer" logo. And what is softer than a metal? Exacly -- wood. So I gave this one a **wooden finish**. (Honestly, I had no idea what I was supposed to do with Groove Metal. So I took some cues from Pantera and White Zombie and this is what it resulted in.)
 
 ![Groove Metal](..\assets\img\projects\proj-2\groove.jpg)
 
