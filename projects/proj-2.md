@@ -824,7 +824,12 @@ Take me back to the [top](#top)
 ---
 <a name="grindcore"></a> 
 # Grindcore
-Grindcore is one of the heavier microgenres. It fuses elements of Thrash and Death as well as Crust and Hardcore, and does away with things like standard time signatures, creating a negative synergy where one plus one usually equals less than two. No wonder, then, that Grindcore logos look **crude and unfinished** at best. But all is not bad either, for great (to some) is the genre's fondness for puerile humor and disgusting aesthetics, with **visual references to scathology** and **other bodily functions**. In short, think of Grindcore aesthetics as the typographic equivalent of a schoolboy's fantasies. This may also help explain the heavy usage of **color** and **texture**. (Kids love color. Right? I wouldn't know, I'm not a father.)
+Grindcore is one of the heavier microgenres. It fuses elements of Thrash and Death as well as Crust and Hardcore, and does away with things like standard time signatures, creating a negative synergy where one plus one usually equals less than two. No wonder, then, that Grindcore logos look **crude and unfinished** at best. But all is not bad either, for great (to some) is the genre's fondness for puerile humor and disgusting aesthetics, with **visual references to scathology** and **other bodily functions**. In short, think of Grindcore aesthetics as the typographic equivalent of a schoolboy's fantasies. This may also help explain the heavy usage of **color** and **texture**. Kids love color. Right? I wouldn't know, I'm not a father. I'm also not a Grindcore expert. Luckily, I know someone who *is*.
+
+Melle Gerritsen, Grindcore fan extraordinaire, has this to say:
+
+> (*In part translated and in part parahrased*): "Grindcore sucks, and all the fans know it. The sum is less than its parts -- and covered in excrement."
+
 ![Grindcore](..\assets\img\projects\proj-2\grind.jpg)
 
 ##### Some Grindcore bands to check out:
@@ -856,7 +861,7 @@ Grindcore is one of the heavier microgenres. It fuses elements of Thrash and Dea
 Take me back to the [top](#top)
 
 <a name="Porngrind"></a> 
-## Porngrind
+## Porngrind (short for "Pornogrind")
 ***TMI WARNING!!!*** 
 
 This warning may be a bit late in the guide, but you should use caution in allowing your youngsters or colleagues to see you reading this.
@@ -874,18 +879,10 @@ It's a genre so base and vile, you won't be able to find most bands on Spotify. 
 <details> Ah, I see you are a "man of culture" as well.
 	<summary> (<i>Click to expand</i>)</summary>
 
-	<li>Anal Blast
+	<li>Gut
 	<ul>
-	<li><a href="https://www.metal-archives.com/bands/Anal_Blast/3024" target="_blank" rel="noopener"><span>Band information</span></a></li>
-	<li><a href="https://www.youtube.com/watch?v=YirYiVuRYTA" target="_blank" rel="noopener"><span>Youtube</span></a></li>
-	</ul>
-	</li>
-
-
-	<li>Cock and Ball Torture
-	<ul>
-	<li><a href="https://www.metal-archives.com/bands/Cock_and_Ball_Torture/3540453478" target="_blank" rel="noopener"><span>Band information</span></a></li>
-	<li><a href="https://www.youtube.com/watch?v=7oFGzpwbAD0" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+	<li><a href="https://www.metal-archives.com/bands/Gut/3540462038" target="_blank" rel="noopener"><span>Band information</span></a></li>
+	<li><a href="https://www.youtube.com/watch?v=SkChITtBcWY" target="_blank" rel="noopener"><span>Youtube</span></a></li>
 	</ul>
 	</li>
 
@@ -893,6 +890,13 @@ It's a genre so base and vile, you won't be able to find most bands on Spotify. 
 	<ul>
 	<li><a href="https://www.last.fm/music/Rompeprop/+wiki" target="_blank" rel="noopener"><span>Band information</span></a></li>
 	<li><a href="https://www.youtube.com/watch?v=JjzMo49vDlsc" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+	</ul>
+	</li>
+
+		<li>Spasm
+	<ul>
+	<li><a href="https://www.metal-archives.com/bands/Spasm/108050" rel="noopener"><span>Band information</span></a></li>
+	<li><a href="https://www.youtube.com/watch?v=QL9vwfvUwwQ" target="_blank" rel="noopener"><span>Youtube</span></a></li>
 	</ul>
 	</li>
 
