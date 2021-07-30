@@ -10,7 +10,7 @@ In our paper we explore the "design space" of Metal logos; and when we say "Meta
 
 #### Logo Samples
 
-As you can imagine, it can get complicated fairly quickly when you're trying to get a handle on what's what and how things play out visually, concretely, and pratically -- especially if you're not in the know. In order to facilitate understanding, I created 40-something logos, covering a broad range of genres and subgenres of Heavy and Extreme Metal music. Here, I've added some tongue-in-cheek commentary to give you some insight into the design process of each of these logos. 
+As you can imagine, it can get complicated fairly quickly when you're trying to get a handle on what's what and how things play out visually, concretely, and pratically -- especially if you're not in the know. In order to facilitate understanding, I initially created 30-something logos, and then added a dozen more in the days leading up to the submission deadline, covering a broad range of genres and subgenres of Heavy and Extreme Metal music. Here, I've added some tongue-in-cheek commentary to give you some insight into the design process of each of these logos. 
 <!-- 
 ![Heavy Metal](..\assets\img\projects\proj-2\banner1.png)
 ![Heavy Metal](..\assets\img\projects\proj-2\banner4.png)
