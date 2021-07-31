@@ -1794,7 +1794,7 @@ Judging by its name you'd think bands in this genre have taken things to the Nex
 
 If you're not sure what you're listening to is Post-Metal -- wait until the lyrics kick in. What few there are, are typically interspersed with lecture recordings of Jacques Derrida or more often Michel Foucault. 
 
-A Post-Metal logo could be anything from a casual wordmark to a hand-lettered logo with a more custom and unique feel. Regardless of novelty, post-metal logos all have the same letter treatment: they all look like they're **dissolving** or **fading**. Now, mind you, they're not fading out of existence, they're just moving to a higher plain -- and they encourage you to follow them -- to the heights of Reason and Illumination.
+A Post-Metal logo could be anything from a casual wordmark to a hand-lettered logo with a more custom and unique feel. Regardless of novelty, Post-Metal logos all have the same letter treatment: they all look like they're **dissolving** or **fading**. Now, mind you, they're not fading out of existence, they're just moving to a higher plain -- and they encourage you to follow them -- to the heights of Reason and Illumination.
 ![Post-Metal](..\assets\img\projects\proj-2\post2.jpg)
 
 And if the band name consists of several words, the words are set in diferent sizes of type and placed at different heights from the baseline.
