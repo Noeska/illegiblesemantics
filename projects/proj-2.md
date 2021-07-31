@@ -4,7 +4,7 @@ title: 'Genre Guide'
 ---
 <!-- Here you can see samples of logo designs covering a broad range of metal genres and extreme subgenres with some tongue-in-cheek commentary by Gerrit Rijken. -->
 
-*Update (Saturday, July 31, 2021): Fixed some types and placed the hyperlinks in alphabetic order for easier reference.*
+*Update (Saturday, July 31, 2021): Fixed some typos and placed the hyperlinks in alphabetic order for easier reference.*
 
 
 ## Introduction
