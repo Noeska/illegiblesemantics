@@ -4,6 +4,8 @@ title: 'Genre Guide'
 ---
 <!-- Here you can see samples of logo designs covering a broad range of metal genres and extreme subgenres with some tongue-in-cheek commentary by Gerrit Rijken. -->
 
+*Update (Tuesday, August 31, 2021): Fixed some more typos, added a couple more (micro)genres, added some additional writing and a Metal Quiz.*
+
 *Update (Saturday, July 31, 2021): Fixed some typos and placed the hyperlinks in alphabetic order for easier reference.*
 
 
@@ -22,18 +24,40 @@ As you can imagine, it can get complicated fairly quickly when you're trying to 
 
 <a name="TOP"></a> 
 Take me to ...
-[1990s Technical Death](#1990tech), [Avant-Garde Metal](#avantgarde), [Bay Area Thrash](#bay), [Blackened Death](#bdeath), [Blackened Thrash](#bthrash), [Black Metal](#black), [Brutal Death](#brutal), [Crossover Genres](#crossover), [Death-Doom](#deathdoom), [Deathgrind](#deathgrind), [Death Metal](#death), [Doom Metal](#doom), [Djent](#djent), [Ecumenical Metal](#ecumenical), [Faux Metal](#faux), [Florida Death](#florida), [Folk Metal](#folk), [Funeral Doom](#funeral), [Glam Metal](#glam), [Gothic Metal](#gothic), [Grindcore](#grindcore), [Groove Metal](#groove), [Heavy Metal](#heavy), [Industrial Metal](#industrial), [Melodic Death](#melodic), [Metalcore](#metalcore), [Nu Metal](#nu), [NWOBHM](#NWOBHM), [Pagan Black Metal](#pagan), [Pirate Metal](#pirate), [Porngrind](#porngrind), [Post-2000s Tech Death](#2000tech), [Post-Black Metal](#pblack), [Post-Metal](#post), [Power Metal](#power), [Progressive Metal](#progressive), [Sludge Metal](#sludge), [Speed Metal](#speed), [Stoner Metal](#psychedelic), [Symphonic Metal](#symphonic), [Technical Death](#tech), [Teutononic Thrash](#teutonic), [Thrash Metal](#thrash), [Unblack Metal](#unblack), [US Thrash](#usthrash), [War Metal](#war)
+[1990s Tech Death](#1990tech), [Avant-Garde Metal](#avantgarde), [Bay Area Thrash](#bay), [Blackened Death](#bdeath), [Blackened Thrash](#bthrash), [Black Metal](#black), [Brutal Death](#brutal), [Crossover Genres](#crossover), [Cute Metal](#cute), [Death-Doom](#deathdoom), [Deathgrind](#deathgrind), [Death Metal](#death), [Doom Metal](#doom), [Djent](#djent), [Ecumenical Metal](#ecumenical), [Faux Metal](#faux), [Florida Death](#florida), [Folk Metal](#folk), [Funeral Doom](#funeral), [Glam Metal](#glam), [Gothic Metal](#gothic), [Grindcore](#grindcore), [Groove Metal](#groove), [Heavy Metal](#heavy), [Industrial Metal](#industrial), [Melodic Death](#melodic), [Metalcore](#metalcore), [Nintendocore](#nintendo), [Nu Metal](#nu), [NWOBHM](#NWOBHM), [Pagan Black Metal](#pagan), [Pirate Metal](#pirate), [Porngrind](#porngrind), [Post-2000s Tech Death](#2000tech), [Porngrind](#porngrind), [Post-Black Metal](#pblack), [Post-Metal](#post), [Power Metal](#power), [Progressive Metal](#progressive), [Rasterized Death](#rasterized), [Sludge Metal](#sludge), [Speed Metal](#speed), [Stoner Metal](#psychedelic), [Symphonic Metal](#symphonic), [Tech Death](#tech), [Teutononic Thrash](#teutonic), [Thrash Metal](#thrash), [Unblack Metal](#unblack), [US Thrash](#usthrash), [War Metal](#war)
+
+#### Metal Quiz
+So you think you know your genres and microgenres? Do you care to put it to a [test](#quiz)?
+
 
 #### Full Disclosure
 With these genre samples I tried to represent as faithfully as possible a broad range of genres, based on my own years of experience in designing Metal logos and studying up on genres that I'm not too familiar with. I then had them checked by several musicians and artists in the Metal scene to confirm style accuracy and coverage. (The list of names can be found in the paper.) In the days leading up to the submission deadline, I decided to add a few more, in part based on the feedback that I got from them, and in part based on what genres I personally felt were missing. These are: Symphonic Metal, Glam Metal, Bay Area Thrash, Groove Metal, Djent, Porngrind, Unblack Metal, Ecumenical Metal, War Metal, Pirate Metal, Post-Metal, and Sludge Metal. As of yet, these have not been checked and validated by the "field experts." But, ultimately, these remain interpretations, anyway.* 
 
 It may well be that you have other ideas on what these logos are supposed to look like. Maybe you don't think my comments are clever or helpful or funny. In that case, drop me a line on Twitter, and tell me what needs improving.
 
+#### Acknowledgements
+I'd like to give a shoutout to everyone who helped me write this guide, three in particular: Erik Unikagen, Marco Wiemes, and Melle Gerritsen. Your insights and thoughts were much appreciated!
+
+
+
+<a href="https://open.spotify.com/track/5OcnYiersaDvYTRzRjlQ8g?si=a3b8510576354209" target="_blank" rel="noopener"><span>(End of Disclosure)</span></a>
+
+<!--
+<details> 
+	<summary> (<i>End of disclosure</i>)</summary>
+
+<a href="https://open.spotify.com/track/5OcnYiersaDvYTRzRjlQ8g?si=a3b8510576354209" target="_blank" rel="noopener"><span>Now the countdown has begun</span></a>
+
+
+</details>
+<br/>
+-->
+
 -- Gerrit
 
 <a name="heavy"></a> 
 # Heavy Metal
-Heavy Metal music was birthed by **Black Sabbath** in the late 1960s and early 1970s. From its inception, it was criticized for being "violent, aggressive, dark, depressing, angry, and misogynisitc."<sup>1</sup> Little did people know then that things were to get only more and more extreme. But it would take about two decades before Heavy Metal started to branch out in the evermore extreme subgenres of Thrash, Death, Doom, and Black Metal (these will be discussed below), because that's how long it took for Heavy Metal to enter the mainstream of music. Of course, once that happened, many felt that Heavy Metal had become too commercial and too popular. Indeed, by the mid- to late-1980s, Heavy Metal had lost much of its original bark; now it was time to make things insular again.
+Heavy Metal music was birthed by a Birmingham band called **Black Sabbath** in the late 1960s and early 1970s. From its inception, it was criticized for being "violent, aggressive, dark, depressing, angry, and misogynistic," and rightly so, because it was outsider music for outsiders -- mostly young men who faced economic and personal hardship.<sup>1</sup> Little did people know then that things were to get only more and more extreme in every imaginable way. But it would take about two decades before Heavy Metal started to branch out in the evermore extreme subgenres of Thrash, Death, Doom, and Black Metal (these will be discussed below), because that's how long it took for Heavy Metal to enter the mainstream of music. Of course, once that happened, many felt that Heavy Metal had become too commercial and too popular. Indeed, by the mid- to late-1980s, Heavy Metal had lost much of its original bark; now it was time to make things insular again, which is to say doing something that is not appreciated by many, something different and out of the mainstream.
 
 
 <!-- 
@@ -100,7 +124,7 @@ Take me back to the [top](#top)
 
 <a name="NWOBHM"></a> 
 ## NWOBHM
-In the late-1970s and early-1980s, as the British Heavy Metal supergroups (**Black Sabbath**, **Deep Purple**, **Judas Priest**) that once were part of the anti-establishment, had now became part of the Establishment, a new wave of British Heavy Metal (NWOBHM) emerged all over Britain. As a genre, NWOBHM encompasses diverse mainstream and underground styles, but one thing that bands playing in this genre shared in common is that they drew inspiration from the anti-establishment punk movement of the late-1970s, producing fast and raw songs.
+In the late-1970s and early-1980s, as the British Heavy Metal supergroups (**Black Sabbath**, **Deep Purple**, **Led Zeppelin**) that once were part of the anti-establishment, had now become part of the Establishment, a new wave of British Heavy Metal (NWOBHM) emerged all over Britain. As a genre, NWOBHM encompasses diverse mainstream and underground styles, but one thing that bands playing in this genre shared in common is that they drew inspiration from the anti-establishment punk movement of the late-1970s, producing fast and raw songs.
 
 
 <!--
@@ -148,7 +172,7 @@ Take me back to the [top](#top)
 
 <a name="speed"></a> 
 #### Speed Metal
-Speed Metal has its roots in NWOBHM and would lay the foundation for later extreme metal genres. As the the name already suggests, it's all about *speed*. In this it's much like Thrash Metal -- which is probably why Speed logos can easily be mistaken for Thrash logos --, but it's lyrically less abrasive and musically more melodic. So what sets Speed logos apart from the rest? I'd say these, more than others, convey a **visual sense of speed**, which is why often the letters are designed in a **cursive style** and **drawn together in a single line**, or if not that at least **packed closely together**.
+Speed Metal has its roots in NWOBHM and would lay the foundation for later extreme metal genres. As the the name already suggests, it's all about *speed*. In this it's much like Thrash Metal -- which is probably why Speed logos can easily be mistaken for Thrash logos --, but it's lyrically less abrasive and musically more melodic. "But **Coroner** also play melodic things. And so do **Testament**." Yes. So what sets Speed logos apart from the rest? I'd say these, more than others, convey a **visual sense of speed**, which is why often the letters are designed in a **cursive style** and **drawn together in a single line**, or if not that at least **packed closely together**.
 
 ![Speed Metal](..\assets\img\projects\proj-2\speed.png)
 
@@ -252,7 +276,16 @@ Take me back to the [top](#top)
 ---
 <a name="glam"></a> 
 ## Glam Metal (a.k.a. Hair Metal)
-In the late-1980s, when Heavy Metal was as mainstream as anything else on MTV (does anyone remember MTV?), the Heavy Metal movement began taking after the 1970s, specifically 1970s Glam Rock (**T. Rex**, **David Bowie**, **Alice Cooper**, **Queen**). Popular Heavy Metal artists started teasing their hair and applying girly make-up in an effort to look as androgynous as possible, and putting an emphasis on stagecraft over substance and authenticity. Today, no one would bat an eye, but these were the 1980s, after all, and many Metal fans were like, "This is getting way too poppy and wimpy," and we should all be grateful for that. If it wasn't for them -- fans and artists alike -- who knows if, say, the Black Metal scene would have emerged as it did -- with artists donning makeup and taking after the gay leather scene?<sup>4</sup>
+In the late-1980s, when Heavy Metal was as mainstream as anything else on MTV (does anyone remember MTV?), the Heavy Metal movement began taking after the 1970s, specifically 1970s Glam Rock (**T. Rex**, **David Bowie**, **Alice Cooper**, **Queen**). Popular Heavy Metal artists started teasing their hair and applying girly make-up in an effort to look as androgynous as possible, and putting an emphasis on stagecraft over substance and authenticity. Today, no one would bat an eye, but these were the 1980s, after all, and many Metal fans were like, "This is getting way too poppy and wimpy," and we should all be grateful for that. If it wasn't for them -- fans and artists alike -- who knows if, say, the Black Metal scene would have emerged as it did -- with performers donning makeup and taking after the gay leather scene?<sup>4</sup>
+
+Just don't tell them that. As poignantly pointed out by sociologists Ben Hutcherson and Ross Haenfler that though there is "empirical similarity between adoring oneself with corpse paint [which will be explained later below, G.] and applying eyeliner and mascare, [Extreme Metal] adherents define the two situations in drastically different ways."<sup>5</sup> A certain vocalist of a Bluff City Extreme (presumably Black) Metal Metal, band once said this in an interview that it's about being fucking evil: "We're up there [on stage] looking like horrific fuckin' beasts, with our gauntlets and goat skulls and shit ... it's not some bullshit put-on-your-mommy's-makeup gimmick." He was backed up by a drummer and veteran of the scene, who remarked that he himself had been "wearing corpse paint longer than most of these girl-pants-wearing f_____s [censored by me, G.] have been goin' through their mom's or sister's makeup kit."
+
+But at any rate, Glam Metal lost its mainstream appeal in the 1990s, mostly due to the rise of Grunge -- though some early pioneers of the genre (**Mötley Crüe**, **Poison**, **Ratt**) are still active and some new ones have formed (**The Darkness**, **Reckless Love**, **Steel Panther**).
+
+In terms of letter design and style, Glam logos come in all sorts of types and shapes, but as a general rule they tend to be girly and brightly colored, which is by no means a bad thing. They're just not particularly extreme and insular in design.
+
+
+<!--You know, 'cause donning makeup is cool and totally not girly. (You may laugh, but it's true. Some Tennessee Black Metal singer once said this in an interview: "It's about being fucking evil. We're up there [on stage] looking like horrific fuckin' beasts, with our gauntlets and goat skulls and shit ... it's not some bullshit put-on-your-mommy's-makeup gimmick." He was backed up by another who remarked that he was wearing corpse paint longer than most of these girl-pants-wearing faggots have been goin' through their mom's or sisters' makeup kit.") But at any rate, -->
 
 ![Glam Metal](..\assets\img\projects\proj-2\hair.jpg)
 
@@ -289,9 +322,13 @@ Take me back to the [top](#top)
 # Thrash Metal
 Abrasive. Loud. Extremely fast yet still precise, with impeccable sense of timing. If judging by these words alone, it may sound like I'm describing a Dutch olympian -- a speed skater or a cyclist, perhaps. But we're talking music, aren't we? I'm talking Thrash Metal, of course, which means I'm talking yet another extreme subgenre of Heavy Metal. 
 
+Oh, and yes, it's "Thrash," not "Trash." Though some bands in this and adjacent genres are absolutely, undeniably, unapolgetically trash. (Thrashcore, anyone?)
+
 As a scene, it emerged simultaneously in different parts of the world, in different countries (Britain, Germany, Latin America, and the US), from where it developed out of different genres (most notably NWOBHM and Punk Hardcore). This is why there is a variety of styles within the Thrash genre -- one that is in large part determined by bands' locality. 
 
-Of course, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash logos tend to have **straight, sharp edges** that reflect the tightness and controlled nature of the music's rhythms.<sup>5</sup> (You know, tight and controlled ... like a murderer carving their name in a victim's chest.<sup>6</sup>) Indeed, some exceptions aside, there is no softness to be found in them whatsoever -- there is only hardness.
+Of course, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash logos tend to have **straight, sharp edges** that reflect the tightness and controlled nature of the music's rhythms.<sup>6</sup> (You know, tight and controlled ... like a murderer carving their name in a victim's chest.<sup>7</sup>) Indeed, some exceptions aside, there is no softness to be found in them whatsoever -- there is only hardness.
+
+
 
 ##### Some Thrash bands to check out:
 <!-- - <a href="https://open.spotify.com/track/7qYHH6ygW9GeNY7SVWf9ok?si=b00dc2fb7b6740f8" target="_blank" rel="noopener"><span>Anthrax</span></a> -->
@@ -348,7 +385,7 @@ For logos, many bands within the Bay Area scene had a more "do it yourself"-arti
 
 The logo below was based on Dark Angel's logo. Though technically not a band from the Bay Area -- though still from California -- , I feel their logo captures best the look of the U.S. Thrash genre. -->
 
-It can be difficult to differentiate between a US Thrash band and a German one; perhaps the only clue is that US Thrash logos are more likely to have hints or elements of **symmetry** (because Americans love symmetry in all things except the balance of power) and **interconnectedness** to them. Come to think of it, they may also have more likelihood of having an **outline** or **"halo"** surrounding the the letters. 
+It can be difficult to differentiate between a US Thrash band and a German one; perhaps the only clue is that US Thrash logos are more likely to have hints or elements of **symmetry** (because Americans love symmetry in all things except the balance of power) and **interconnectedness** to them. Come to think of it, they may also have more likelihood of having an **outline** or **"halo"** surrounding the letters. 
 ![Thrash Metal](..\assets\img\projects\proj-2\thrash.jpg)
 
 ##### Some US Thrash bands to check out:
@@ -381,7 +418,7 @@ Take me back to the [top](#top)
 
 <a name="bay"></a> 
 #### Bay Area Thrash
-If we are to distinguish further among US Thrash Metal bands and we continue differentiating, then the early-1980s San Francisco Bay Area scene surely deserves some attention from everyone! What's interesting here is that the aesthetics of said scene were largely characterized by a "do-it-yourself" ethos, as opposed to the aesthetics of the then already established Metal bands who often used established fonts for their logos (see **Iron Maiden**, for example). Arguably the most famous example of this is **Metallica**'s logo that was drawn up by none other than James Hetfield himself. This may be why certain US Thrash logos, or part of these logos, **look a bit off**; because they were not always done by trained graphical designers who are familiar with rulers and with drawing and measuring segments.
+If we are to distinguish further among US Thrash Metal bands and we continue differentiating, then the early-1980s San Francisco Bay Area scene surely deserves some attention from everyone! What's interesting here is that the aesthetics of said scene were largely characterized by a "do-it-yourself" ethos, as opposed to the aesthetics of the then already established Metal bands who often used established fonts for their logos (see **Iron Maiden**, for example). Arguably the most famous example of this is **Metallica**'s logo that was drawn up by none other than James Hetfield himself. This may be why certain US Thrash logos, or part of these logos, **look a bit off**; because they were not always done by trained graphic designers who are familiar with rulers and with drawing and measuring segments.
 
 ![Bay Area Thrash](..\assets\img\projects\proj-2\bay.jpg)
 
@@ -453,7 +490,7 @@ Take me back to the [top](#top)
 #### Groove Metal
 Groove Metal is an off-shoot of Thrash. The riffs are thrashy, but the tempos are slower -- down from 200 to a more danceable 135 beats-per-minutes on average. Of course this all relative, since I've danced to **Emperor**'s "With Strength I Burn" that clocks in at 167 BPM; but you won't ever catch me dancing to, say, **Pantera**'s "Cowboys from Hell" that clocks in at only 115 BPM. 
 
-Because Groove Metal is a softened-up version of Thrash, it's only obvious that bands in this genre have a "softer" logo. And what is softer than a metal? Exacly -- wood. So I gave this one a **wooden finish**. (Honestly, I had no idea what I was supposed to do with Groove Metal. So I took some cues from Pantera and White Zombie and this is what it resulted in.)
+Because Groove Metal is a softened-up version of Thrash, it's only obvious that bands in this genre have a "softer" logo. And what is softer than a metal? Exactly -- wood. So I gave this one a **wooden finish**. (Honestly, I had no idea what I was supposed to do with Groove Metal. So I took some cues from Pantera and White Zombie and this is what it resulted in.)
 
 ![Groove Metal](..\assets\img\projects\proj-2\groove.jpg)
 
@@ -492,7 +529,7 @@ Death Metal at large is one of the major "mainstream" modes of Extreme Metal. It
 
 As a general rule it can be observed that in this genre the letters making up the logos tend to be **thick** and **bold** as opposed to, say, the letters making up Black Metal logos. The latter tend to be thin and sometimes somewhat shaky. In that these logos strikingly resemble the fans of these respective genres who are generally respectively heavy set characters and lanky, out-of-sorts pushovers. 
 
-And, contrary to Thrash Metal logos, Death Metal logos tend to have more **"soft" elements**. This, too, makes perfect sense. Thrash gives its fans a linear, myopic view on life in general: it's all about alienation and oppression from a threatening, hostile world of authority -- yet it offers nothing helpful in way of unburdering; meanwhile, ironically, Death offers a more rounded approach to life -- offering a safe, routinized way of exploring things that would terrify or disgust most, which enables a cathartic dissipation of everyday's tension.<sup>7</sup> (I'm not gonna lie -- I really didn't expect to find a source to kinda back this up.)
+And, contrary to Thrash Metal logos, Death Metal logos tend to have more **"soft" elements**. This, too, makes perfect sense. Thrash gives its fans a linear, myopic view on life in general: it's all about alienation and oppression from a threatening, hostile world of authority -- yet it offers nothing helpful in way of unburdening; meanwhile, ironically, Death offers a more rounded approach to life -- offering a safe, routinized way of exploring things that would terrify or disgust most, which enables a cathartic dissipation of everyday's tension.<sup>8</sup> (I'm not gonna lie -- I really didn't expect to find a source to kinda back this up.)
 
 <!--
 ![Mind Blown](https://media1.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
@@ -539,7 +576,7 @@ Take me back to the [top](#top)
 
 <a name="brutal"></a> 
 ## Brutal Death
-Brutal Death Metal emerged most notably from the 1980s New York Hardcore movement. It's characterized by its thumping heaviness, high-speed power chording and riffing, and overall complex rhythms. As a rule, their lyrics deal with slasher movies and True Crime, and this is often reflected in their choice of logos. These typically incorporate **gore elements** (e.g., bones, intestines, and blood), sometimes to the point where the entire logo exactly resembles like a jigsaw puzzle of bones dripping blood. 
+Brutal Death Metal emerged most notably from the 1980s New York Hardcore movement. It's characterized by its thumping heaviness, high-speed power chording and riffing, and overall complex rhythms. As a rule, their lyrics deal with slasher movies and True Crime, and this is often reflected in their choice of logos. These typically incorporate **gore elements** (e.g., bones, intestines, and blood), sometimes to the point where the entire logo exactly resembles a jigsaw puzzle of bones dripping blood. 
 ![Brutal Death Metal](..\assets\img\projects\proj-2\death.jpg)
 
 ##### Some Brutal Death bands to check out:
@@ -649,12 +686,12 @@ Take me back to the [top](#top)
 
 <a name="tech"></a> 
 ## Technical Death Metal
-A hard-and-fast rule in Death Metal aesthetics is that the more technical the music, the less sophisticated the logo. This is exemplified in Technical Death Metal, a genre whose musicians and artists mix "fast, virtuosic guitar riffs and solos of varying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>8</sup> It's like they opt to convey an impression of modesty (or perhaps false modesty), often leading to conversations like this:
+A hard-and-fast rule in Death Metal aesthetics is that the more technical the music, the less sophisticated the logo. This is exemplified in Technical Death Metal, a genre whose musicians and artists mix "fast, virtuosic guitar riffs and solos of varying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>9</sup> It's like they opt to convey an impression of modesty (or perhaps false modesty), often leading to conversations like this:
 
 - "I can play with my eyes closed!"
 - "Cool! But did you also have to do that logo with your eyes closed?"
 
-It is worthhile pointing out here that you can often place a band in this genre somewhere in time just by looking at the band's logo. In the 1990s and before, Tech Death bands had "analogously" hand-drawn logos; post-2000s, these logos have been done mostly digitally -- and it shows.
+It is worthwhile pointing out here that you can often place a band in this genre somewhere in time just by looking at the band's logo. In the 1990s and before, Tech Death bands had "analogously" hand-drawn logos; post-2000s, these logos have been done mostly digitally -- and it shows.
 
 
 ##### Some Technical Death Metal bands to check out:
@@ -745,6 +782,61 @@ It's fairly easy to recognize a post-2000s Technical Death band from a 1990s ban
 <ul>
 <li><a href="https://www.metal-archives.com/bands/Revocation/78107" target="_blank" rel="noopener"><span>Band information</span></a></li>
 <li><a href="https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3?si=da8381b941924658" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
+
+Take me back to the [top](#top)
+
+---
+
+<a name="rasterized"></a> 
+#### Rasterized Death Metal
+We all have these moments where we think why not supplement one hobby with another. It's what I did when I realised that 2D and 3D drawing and modelling are not mutually exclusive but in fact are perfectly complementary: using Blender I now often produce models and renders as reference for my drawings. But anyway as it turns out, so too are 3D modelling and making Death Metal. This is proven by **Perilaxe Occlusion**, the only Death Metal band whose lyrics are largely about death and image-based modeling and rendering techniques, because why not? If **Nile** are allowed to write, sing, and nerd about <a href="https://open.spotify.com/track/62hzJcOwMg68h6wBimZALA?si=1622e1b4ecef4422" target="_blank" rel="noopener"><span>Egyptian history and mythology</span></a> to their heart's content, if **Fleshgod Apocalypse** are allowed to indite <a href="https://open.spotify.com/track/3sizVMerlajPegOZWbMKwZ?si=b6fcada8a8c549d3" target="_blank" rel="noopener"><span>a pompous pseudo-intellectual love letter to Greek mythology</span></a>, and if **Carach Angren** are allowed to write lyrics about <a href="https://open.spotify.com/track/22mLxdBxBzLAC65fPirK2k?si=8fcb4261bb854615" target="_blank" rel="noopener"><span>a girl who hastily throws a piece of pie in a plastic bag</span></a>, then anyone can sing about anything at all!
+
+
+
+
+<!--
+as exemplified by the following excerpt from the song lyrics, 'Geometric Dismemberment': 
+
+<dl>
+<dd>Tessellating mesh</dd>
+
+<dd>Overcomplication</dd>
+
+<dd>Higher resolution</dd>
+
+<dd>Gore rasterization</dd>
+</dl>
+
+
+<dd>[...]</dd>
+
+
+<dl>
+<dd>Inarticulation</dd>
+
+<dd>Gore-infested render</dd>
+
+<dd>Polygon entrails</dd>
+
+<dd>Specular on blood</dd>
+</dl>
+-->
+
+Just by looking at their <a href="https://www.instagram.com/p/CGas6abpA70/" target="_blank" rel="noopener"><span>Instagram</span></a>, we can see what went into the making of a Rasterized Death logo. Spoiler alert: it's basically a plain "hollowed out" Death Metal logo covered in webs, drips and yes, polygonal wireframes, because again why not? If you have a gimmick, make sure to use it. Like **Fleshgod Apocalypse** -- if you got a vocalist who can sing a falsetto, you really want him to shove his voice through a mean falsetto on every damn song because that's what the fans want. (No, they don't -- they really don't, so just put a lid on it!)
+
+
+![Rasterized Death Metal](..\assets\img\projects\proj-2\rasterized2.jpg)
+
+##### That one single Rasterdized Death Metal band to check out:
+
+<ul>
+<li>Perilaxe Occlusion
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Perilaxe_Occlusion/3540478508" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2MRGcFuW5p2zw15LOme62f?si=391fdb3fcf844a97" target="_blank" rel="noopener"><span>Spotify</span></a></li>
 </ul>
 </li>
 </ul>
@@ -871,7 +963,7 @@ This warning may be a bit late in the guide, but you should use caution in allow
 
 Some people suggested I should add some distinct subgenres of Grindcore. There are quite a few, such as Goregrind (**Cliteater**, **Haemorrhage**, **General Surgery**) and Cybergrind (**Cutting Pink with Knives**, **Genghis Tron**, **iamerror**), but here I'll focus only on Porngrind, a microgenre that is fixated on, as you may have already surmised, pornographic lyrical themes. 
 
-Understand that the reason I picked this one out is only because I've already had the dubious honor of doing on a Porngrind logo years ago (don't ask!) and I was able to use that one as a base to draw upon. I think the logo speaks for itself so that I need not elaborate on it.
+Understand that the reason I picked this one out is only because I've already had the dubious honor of doing a Porngrind logo years ago (don't ask!) and I was able to use that one as a base to draw upon. I think the logo speaks for itself so that I need not elaborate on it.
 
 *Due to the graphic NSFW nature of the sample logo, we thought it best to **not** display the sample logo in full-frame view, but for those interested, you can see it* <a href="..\assets\img\projects\proj-2\porngrind.jpg" target="_blank" rel="noopener"><span>*here*</span></a>.
 
@@ -904,7 +996,7 @@ It's a genre so base and vile, you won't be able to find most bands on Spotify. 
 	</li>
 
 </details>
-<br/>
+<br>
 
 
 Take me back to the [top](#top)
@@ -973,13 +1065,34 @@ A bit more than normal indentation is necessary to get the nesting correct,
 
 <a name="black"></a> 
 # Black Metal
-Black Metal is one of the more extreme subgenres of Heavy Metal music, not just in terms of music but equally in terms of commitment and attitude. Very early since its inception, artists and fans alike have taken things to extremes, committing acts of self-maiming, suicide, arson, grave-robbing, and in some cases even murder; though these days it's really just another music genre that's out there. 
+Black Metal as we know it now is one of the more extreme subgenres of Heavy Metal music, not just in terms of music but equally in terms of commitment and attitude. It gets its name from the 1982 album *Black Metal* by the NWOBHM band **Venom**. But as a genre it owes its inception and its collective debt to two distinct successive waves of bands in the mid-1980s and the early-1990s. The first wave consisted of mostly European but also Canadian and Japanese bands (**Bulldozer**, **Blasphemy**, **Sabbat**) who mostly played fast thrashy stuff, while "singing about Satan and demons and all the dark forces" and donning leather, spikes, and bullet belts for stage shows "to create a dark, ominous, evil atmosphere."<sup>10</sup> For them, Black Metal, insofar as they used the term at all, and its Satanic subject matter were just that: a subversive, tongue-in-cheek theme to shock -- not a genre, nor a style. Then came the second wave, which consisted of bands from especially Norway (**Burzum**, **Darkthrone**, **Mayhem**). They took things to a whole new level. For many of them, Black Metal was a distinct genre, one which demanded commitment to a certain sound, but even more so it was also a way of life (to some at least) -- a life of devil worship.<sup>11</sup>
 
-While there are many subgenres of Black Metal, they all, or most of them, share common traits. These include fast tempos, shrieking vocals, heavily distorted guitars, lo-fi recording (which is really a nice way of saying, "poor production values"), and a preference of atmosphere over technique. 
+Indeed, when it comes to Norwegian Black Metal, artists and fans alike went to the extremes of the extreme, committing acts of self-maiming, suicide, arson, grave-robbing, and in some cases even murder; though these days it's really just another music genre that's out there. But back in the day late-1980s and 1990s, it was almost a secret society; and members didn't want their identities exposed, which is part of the reason why Norwegian Black Metal performers often covered their faces with black-and-white "corpse paint," "creating monstrous or ghoulish skull-like visages using stage makeup, Halloween-themed makeup, and even shoe polish."<sup>12</sup> <!--You know, 'cause donning makeup is cool and totally not girly. (You may laugh, but it's true. Some Tennessee Black Metal singer once said this in an interview: "It's about being fucking evil. We're up there [on stage] looking like horrific fuckin' beasts, with our gauntlets and goat skulls and shit ... it's not some bullshit put-on-your-mommy's-makeup gimmick." He was backed up by another who remarked that he was wearing corpse paint longer than most of these girl-pants-wearing faggots have been goin' through their mom's or sisters' makeup kit.") But at any rate, --> The other part was to "be the visual expression of the content of their lyrics and ideological dispositions." I'll get to that in a moment. 
 
-Lyrically and thematically, songs often deal with the Occult, Satanism, and diabolic perversion. Sometimes, it's about following the "left-hand path" rather than the "right-hand way;" sometimes it's just plain raging against religion, or at least Christianity. Other times, it's about exploring Nietzsche's Zarathustra; still other times, it's about black crows on a tombstone.  
+> **Update**: More than any other part of the guide, this section has seen the most rewriting, because of the rapacious nature of its fans who are sticklers for details. Which is all good, because this guide demands and deserves the utmost scrutiny. It would be great, though, if these same people (you know who you are) would sit and go over everything else I wrote.
 
-In the mid-1980s, and especially in the early-1990s, there were created a few logos that proved seminal in the years to come, most notably the logos of **Mayhem** and **Emperor**. Basically, every Black Metal logo created now takes its cues from both of these. Also, the guy who did the Emperor logo went on to do 10,000(!) logos -- mostly in the Black (and Death) Metal scene.<sup>9</sup> Which is why, regardless of subgenre (Ambient Black Metal, Depressive Suicidal Black Metal, Raw Black Metal, Psychedelic Black Metal, Symphonic Black Metal), Black Metal logos tend to look alike. Indeed, they all share a couple of logo and letter design traits: 
+
+
+<!--
+Black Metal is one of the more extreme subgenres of Heavy Metal music, not just in terms of music but equally in terms of commitment and attitude. 
+
+To the point, fuck your forests, landscapes, make-up, clothes and symbols. Fuck your shows and concerts, your friendship and fun. But not because it's forests, landscapes, make-up, clothing, dashes, social gatherings, friendship and fun. All of this is great. Praise the Lord!
+
+generate a subverse sense of apocalypse
+"They represent a stand in the face of modernity, a sort of Gothic anarchy, sinister yet renewing."
+A. Mangaong, J. O'Flynn, L. Ó Briain.
+Made in Ireland: Studies in Popular Music
+Primordial: The Irish Language and Alternative Performative Subjectivities
+
+hence, they donned corpse paint, leather, spikes, and bullet belts for stage shows to create a dark, ominous, evil atmosphere.
+-->
+
+While there are many subgenres of Black Metal, they all, or most of them, share common musical traits. These include fast tempos, shrieking vocals, heavily distorted guitars, lo-fi recording (which is really a nice way of saying, "poor production values"), and a preference of atmosphere over technique -- sometimes by means of dissonant chromatic melodies, and at other times by means of keyboards, organ, and choirs. 
+
+Lyrically and thematically, songs often deal with the occult or the metaphysical (especially the metaphysical void or darkness), or sometimes more plainly with Satanism and diabolic perversion. Sometimes, it's about following the <a href="https://open.spotify.com/track/3fzk6O2HS8bKAFAXpH9stR?si=a0b79fd0b89d46de" target="_blank" rel="noopener"><span>"left-hand path"</span></a> rather than the "right-hand way;" sometimes it's just plain raging against religion, especially against <a href="https://open.spotify.com/track/6rVuEKrdw2L1YxzCQNbLdK?si=725e50289b9d4045" target="_blank" rel="noopener"><span>Christianity</span></a> and <a href="https://open.spotify.com/track/595xEql63Rk4JDe1aH7SFT?si=125f47545af147b3" target="_blank" rel="noopener"><span>the God of the Christians</span></a>. Other times, it's about exploring <a href="https://open.spotify.com/track/0y7NtErRE91P9U8AUelHGG?si=79c2745aff674565" target="_blank" rel="noopener"><span>Nietzche's Zarathustra</span></a>; still other times, it's about a <a href="https://open.spotify.com/track/4QmG9mStOfSZDNnzB0IyN9?si=fdef9d6814254467" target="_blank" rel="noopener"><span>black crow on a tombstone</span></a>. But at any rate, it's always about generating some sense of apocalypse.
+
+
+In the mid-1980s, and especially in the early-1990s, there were created a few logos that proved seminal in the years to come, most notably the logos of **Mayhem** and **Emperor**. Basically, every Black Metal logo created now takes its cues from both of these. Also, the guy who did the Emperor logo went on to do 10,000(!) logos -- mostly in the Black (and Death) Metal scene.<sup>13</sup> Which is why, regardless of subgenre (Ambient Black Metal, Depressive Suicidal Black Metal, Raw Black Metal, Psychedelic Black Metal, Symphonic Black Metal), Black Metal logos tend to look alike. Indeed, they all share a couple of logo and letter design traits: 
 
 1. The logos often display a **high degree of symmetry**; 
 ![Black Metal](..\assets\img\projects\proj-2\black2.jpg)
@@ -987,7 +1100,7 @@ In the mid-1980s, and especially in the early-1990s, there were created a few lo
 ![Black Metal](..\assets\img\projects\proj-2\blackshield.jpg)
 3. The logos often feature either **abstract Satanic, occult, or anti-Christian imagery** (inverted crosses, pentagrams, demon and magick sigils) or **figurative graphics pertaining to the dark arts** (candles, wolf heads, goat heads, dragons, daggers, crescents moons) or sometimes both;
 ![Black Metal](..\assets\img\projects\proj-2\black4.jpg)
-4. The letters are often in **blackletter(-like) form**, either in lowercase or uppercase, with **flourishes (curls and spikes)** and **exaggerated edges**; <!-- Flourishes and exaggerated are commonplace, "with extaneous strokes running parallel, rather than one single stroke." -->
+4. The letters are often in **blackletter(-like) form**, either in lowercase or uppercase, with **flourishes (curls and spikes)** and **exaggerated edges**; <!-- Flourishes and exaggerated are commonplace, "with extraneous strokes running parallel, rather than one single stroke." -->
 ![Black Metal](..\assets\img\projects\proj-2\black1.jpg)
 5. And the logos are often **unreadable** and purposely made to resemble a **lump of tree roots**. To fans of the genre, it signals, "Good luck seeing the forest to the trees." To anyone else, "Good luck finding something -- *anything* -- interesting in this musical mess."
 ![Black Metal](..\assets\img\projects\proj-2\black3.jpg)
@@ -1081,7 +1194,7 @@ Following in the wake of the second wave, new bands emerged all over the world, 
 
 
 
-Today, Black Metal is an international phenomemon, and there are many Black Metal doing things differently than the way the bands of the first and second wave did and sometimes still do, both in terms of music and of the ethos of making Black Metal, so it's impossible to cover them all here. But the bands mentioned above, should help get you some idea of how these bands vary in style and intensity. 
+Today, Black Metal is an international phenomenon, and there are many Black Metal doing things differently than the way the bands of the first and second wave did and sometimes still do, both in terms of music and of the ethos of making Black Metal, so it's impossible to cover them all here. But the bands mentioned above, should help get you some idea of how these bands vary in style and intensity. 
 
 
 Take me back to the [top](#top)
@@ -1121,10 +1234,14 @@ Take me back to the [top](#top)
 <a name="pblack"></a>
 ## Post-Black Metal
 
-Today we see bands that have moved beyond what "traditional" Black Metal is all about. These fall in the genre of Post-Black Metal. (Post-Metal as a genre at large will be discussed below.)
+Today we see bands that have moved beyond what "traditional" Black Metal is all about. These fall in the genre of Post-Black Metal. (Post-Metal as a genre at large will be discussed below.) For them, it's not about generating a subverse sense of apocalypse, it's about creating abstract soundscapes and dreamy texturalism. It's the sort of music you can put on when it's a lazy Sunday or when having a dinner party, or when you just want to <a href="https://en.wikipedia.org/wiki/Shoegaze" target="_blank" rel="noopener"><span>gaze at your shoes</span></a>. It's also why Post-Black Metal performers have little reason to don corpse paint. Seriously, why would they? Their presence and their music is so inoffensive they give Milquetoast a run for its money.
+
+
+
 
 Typically, Post-Black Metal logos take the form of **Gothic hand-writing**. It's like someone looked at the <a href="https://www.imdb.com/title/tt0162661/" target="_blank" rel="noopener"><span>Sleepy Hollow logo</span></a> and said, "That right there is what I want."
 ![Pagan Black Metal](..\assets\img\projects\proj-2\postblack.jpg)
+
 
 
 ##### Some Post-Black Metal bands to check out:
@@ -1185,7 +1302,7 @@ Logo-wise, it's what you may expect. Logos look like just your average Black Met
 <li>Christageddon
 <ul>
 <li><a href="https://www.metal-archives.com/bands/Christageddon/3540329682" target="_blank" rel="noopener"><span>Band information</span></a></li>
-<li><a href="https://www.youtube.com/watch?v=aPU4BEyD4g4" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+<li><a href="https://www.youtube.com/watch?v=aPU4BEyD4g4" target="_blank" rel="noopener"><span>Youtube</span></a></li>
 </ul>
 </li>
 </ul>
@@ -1200,9 +1317,10 @@ So what is it that makes War Metal (supposedly) unique? Well, it's raw lo-fi and
 
 Imagine early-days Thrash and Black Metal being stuck in a loveless relationship. At some point they're like, "Maybe we should spice things up. Let's have a threesome." So then they decide to put out an online ad on an ill-reputable website, because they don't want their friends and coworkers to find out. Years go by without answer ... until finally someone answers. He seems a bit weird and puerile. But beggars can't be choosers. So one night, the couple invites him over. *Why not? We got nothing to lose. It's not like things can get any more stale.* Fast forward nine months, a little hell-maker is making everyone's life miserable. That's War Metal in a nutshell. 
 
-Lyrically and thematically, it's all about war, genocide, nuclear holocaust, Satan and blasphemy, and -- *war*. 
+Lyrically and thematically, it's all about war, genocide, nuclear holocaust, Satan and blasphemy, and -- *war*. This is reflected in the genre's visual aesthetics: cartridge belts, gask masks, and goat heads reign here.
 
-Logo-wise, War Metal bands seem to have a thing for **black "negative space" letters** with a **white keyline detail**, giving the whole logo an **embossed effect** illusion. One extra detail to add to the letters are **long, pointed spikes** that protrude from the letters' edges. Together, they give the logo an uneasy impression -- it's as if you're looking at something of the Lovecraftian void; it's not there, yet it is -- when trying to grasp it, it hurts. 
+
+Logo-wise, War Metal bands seem to have a thing for **black "negative space" letters** with a **white keyline detail**, giving the whole logo an **embossed effect** illusion. One extra detail to add to the letters are **long, pointed spikes**, or perhaps rather **pointed bullet cartridges**, that protrude from the letters' edges. Together, they give the logo an uneasy impression -- it's as if you're looking at something of the Lovecraftian void; it's not there, yet it is -- when trying to grasp it, it hurts. 
 ![War Metal](..\assets\img\projects\proj-2\war.jpg)
 
 
@@ -1236,7 +1354,7 @@ Take me back to the [top](#top)
 
 <a name="ecumenical"></a>
 #### Ecumenical  Metal
-Sitting comfortably between the worlds of Black and White Metal, the Occult and Christianity, occupying their own niche genre called Ecumenical Metal, we find **Psalmtanic**. Their music is best described as, "What if we take psalms, preferably the more dark and grim ones lyrically, and give them a metal makeover."<sup>10</sup> It was a success, judging by the several positive Youtube comments on their videos. Lisa Vogel, for example, had this to say:
+Sitting comfortably between the worlds of Black and White Metal, the Occult and Christianity, occupying their own niche genre called Ecumenical Metal, we find **Psalmtanic**. Their music is best described as, "What if we take psalms, preferably the more dark and grim ones lyrically, and give them a metal makeover."<sup>14</sup> It was a success, judging by the several positive Youtube comments on their videos. Lisa Vogel, for example, had this to say:
 > "🤘🤘🤘🤘🤘. Wunderschön atmosphärisch,episch ,exzellent .👍👌👌👌"
 
 And if we can't trust Lisa Vogel, who then can we trust?
@@ -1265,6 +1383,15 @@ Take me back to the [top](#top)
 # Folk Metal
 Closely related to the Pagan Metal is Folk Metal. Where they differ is that while Pagan Black Metal still kinda has the cool factor of Black Metal, Folk Metal has little to no coolness at all, and this shows in the logos. They often take their inspiration from Black Metal aesthetics, with logos made of **lowercase blackletters** or some **Celtic type**, with only **some degree of symmetry** on both opposite ends of the logo, if at all, and even then usually through **decorative curls** rather than through cool letter design.   
 ![Folk Metal](..\assets\img\projects\proj-2\folk.jpg)
+
+> **Update**: A friend of mine felt I was too harsh on Folk Metal, so I did what any scientist would do: I gave it another chance. I'm a scientist now, after all -- I mean, I did get a paper published. Anyway. Good science demands honesty. It demands that we suspend judgment until we know the facts. 
+
+> Well now my friend, who is himself a talented musician, made a compelling argument that Folk Metal musicians are often or usually talented in what they do. Sadly, what they do is play Folk Metal. And that brings us back to where we started. A bit of a circular argument, I know, but can you blame me when all I see when I think of Folk Metal are circles and polka dots? In case the joke went over your head: **Finntroll**, one of the first Folk Metal bands to gain international notoriety, play what is often referred to as Polka Metal on account of them integrating *huumpa* (Finnish polka melodies) with Black Metal.
+
+> The thing with Folk Metal is that it juxtaposes acoustic components, i.e. acoustic folk instruments such as violin, accordion, flute, bagpipe, and kantele, with the power and electronic distortion of Heavy Metal. Some people think it's cool and some people don't. (Actually, *most* people don't.) Music critic Scott Seward is one of the former. You ask him and he will tell you that contemporary folk "too often lack the fierceness and meatiness of music born from blood and fire and plague."<sup>15</sup> Meanwhile, listening to a Folk Metal band like **Korpiklaani** sends him "instantly back to a time when trolls ruled the woods." Well I got news for you, Scott. Trolls never ruled the woods. In fact, trolls never even existed! And you call yourself a critic? How about next time you do your due diligence and research your claims! It's what I did and, well -- it persuaded me that my bias was indeed correct. 
+
+> I will say this much, if there's one thing you can count on it's that whoever is playing the accordion, or the violin, is probably a hot smoking babe. (Call me!)
+
 
 ## Folk Metal (Continued)
 Some Folk bands take things to the next level by incorporating **viking helmets** and **drinking-horns** in their logos to signal to people, "When you come to our show, you're free to live out your viking fantasy vicariously. By all means, bring your plastic drinking-horn!" And why wouldn't you, if you're a fan of Folk Metal. You've already ostracized yourself from typical metalheads anyway, you may as well commit to the LARP thing.
@@ -1301,6 +1428,9 @@ Take me back to the [top](#top)
 <a name="pirate"></a> 
 #### Pirate Metal
 Just when the world of Metal was like *no more*, everyone found out that rock bottom has a basement. While some were content with pretending to be Vikings, drinking from plastic drinking-horns while wearing tartan kilts, others got to thinking one day -- *why stop there?* The next logical step was of course to do -- you may have already guessed it -- the pirate thing. 
+
+
+
 
 As you would expect, it's easy to do a Pirate Metal logo. Just do a **skull and a crossbones** logo, and you're golden. You may also think of adding a **falchion** or any other **curved sword** to really drive home that you're fully committed to doing the whole pirate thing. 
 
@@ -1340,7 +1470,7 @@ Take me back to the [top](#top)
 # Crossover Genres
 When it comes to crossover genres, certain genres, or elements of them, are more likely to "crossover" than others. As it with fashion, so it is with Extreme Metal: Black goes with everything. Indeed, you can find bands that play Blackened Death (**Akercocke**, **Angelcorpse**, **Belphegor**), Blackened Death-Doom (**Bölzer**, **Necros Christos**, **Soulburn**), Blackened Speed (**Bulldozer,** **Exorcist**, **Sodomizer**), Blackened Thrash (**Aura Noir**, **Deströyer 666**, **Witchery**), Blackened Grindcore (**Absvrdist**, **Sunlight's Bane**, **Vomit Fist**), Blackened Noise (**Enbilulugugal**, **Gnaw Your Tongue**, **Sutekh Hexen**), Blackened Sludge (**Inter Arma**, **Lord Mantis**, **Tombs**), the list goes on.  
 
-This may need some explanation. Early in the 1990s, Black Metal was often used synonomously with "Satanic Metal" by fans and artists alike because to many of them it really was all about devil worship.<sup>11</sup> Furthermore, a string of church arsons in Norway and incidents of grave robbery throughout Europe -- even in the heart of Heerlen, a small city in the south of the Netherlands --, were not unknown after the emergence of the scene, and all contributed to the cementing of the label and stereotype of "Satanic Metal" in the public conscience.
+This may need some explanation. Early in the 1990s, Black Metal was often used synonymously with "Satanic Metal" by fans and artists alike because to many of them it really was all about devil worship.<sup>16</sup> Furthermore, a string of church arsons in Norway and incidents of grave robbery throughout Europe -- even in the heart of Heerlen, a small city in the south of the Netherlands --, were not unknown after the emergence of the scene, and all contributed to the cementing of the label and stereotype of "Satanic Metal" in the public conscience.
 
 But of course, no genre holds or can hold a monopoly on the practice of Satanism or any religion. And indeed, plenty of musicians and artists outside of the Black Metal scene are (and have been) sort of interested and entrenched in these things. But the label has stuck, and so now we use "Blackened" as an "adjective-predicate," or a shorthand, for specific non-Black Metal bands and genres that deal on some level with the Occult. 
 
@@ -1374,11 +1504,19 @@ That doesn't quite work with other genres. There is no such thing as "Deathened"
 
 
 
-This doesn't quite work with other genres. The term "Deathened" isn't a generally accepted term. Which is not to say there are no Death Metal-influenced crossover genres; it's just that in these cases, "Death" is used as an adjective or as a limiting genitive. There's Death-Doom, for example, which can be considered as practically a genre in itself and which will be discussed below. 
+This doesn't quite work with other genres. The term "Deathened," for example, isn't a generally accepted term. Which is not to say there are no Death Metal-influenced crossover genres; it's just that in these cases, "Death" is used as an adjective or as a limiting genitive. There's Death-Doom, for example, which can be considered as practically a genre in itself and which will be discussed below. 
 
-Another example would be Deathrash (**The Crown**, **Legion of the Damned**, **Mortification**). Here I'd say the crossover has more to do with music than the lyrical themes. What's more, one could even go so far as to claim that in this specific case, it's not so much a crossover from one genre to another but just a normal result of "genre-adjacency." After all, Death Metal didn't emerge in isolation, but developed in part out of Thrash in the mid-1980s, and so naturally some bands will fall somewhere on the spectrum between the two. Which is probably why you won't ever hear anyone use the term "Deathtrash."
+> **Update**: I could be wrong here. I just googled it and, well -- one review at AngryMetalGuy.com talks about the Deathened Thrash of **Morbid Saint** and Thrashened Death of **Morbid Angel**.<sup>
 
-Lastly, there's Death 'n' Roll (**The Cumshots**, **Entombed A.D.**, **Helltrain**), which combines Death Metal's trademark vocals and distorted and down-tuned guitars with elements of 1970s Hard Rock. 
+Another example would be Deathrash (**The Crown**, **Legion of the Damned**, **Mortification**). Here I'd say the crossover has more to do with music than the lyrical themes. What's more, one could even go so far as to claim that in this specific case, it's not so much a crossover from one genre to another but just a normal result of "genre-adjacency." After all, Death Metal didn't emerge in isolation, but developed in part out of Thrash in the mid-1980s, and so naturally some bands will fall somewhere on the spectrum between the two. Which is probably why you won't ever hear anyone use the term "Deathtrash." 
+
+
+
+
+And then there's Death 'n' Roll (**The Cumshots**, **Entombed A.D.**, **Helltrain**), which combines Death Metal's trademark vocals and distorted and down-tuned guitars with elements of 1970s Hard Rock. 
+
+
+
 
 
 Take me back to the [top](#top)
@@ -1417,8 +1555,13 @@ Take me back to the [top](#top)
 
 <a name="bdeath"></a> 
 ## Blackened Death
-Blackened Death Metal is usually straight-up Death Metal, but with lyrics that deal with Satanism and the Occult. The logos reflect just that: often these are **run-of-the-mill Death** logos, with the only difference being the inclusion of, say, an **inverted cross** or **devil horns**.
+While "Blackened Death" may seem like a pleonasm, since black is associated with death in most occidental cultures (that's western cultures, you dumbass), the genre divide between Black and Death Metal makes it so that we need a term by which to speak about bands that cross the divide; hence the term "Blackened Death." This paragraph, however, is actually wholly redundant.
+
+
+Blackened Death Metal is usually straight-up Death Metal, but with lyrics that deal with Satanism and the Occult. The logos reflect just that: often these are **run-of-the-mill Death** logos, with the only difference being the inclusion of, say, an **inverted cross**, a **pentagram**, or **devil horns**.
 ![Blackened Death](..\assets\img\projects\proj-2\blackened2.jpg)
+
+
 
 ##### Some Blackened Death bands to check out:
 
@@ -1444,6 +1587,9 @@ Blackened Death Metal is usually straight-up Death Metal, but with lyrics that d
 </ul>
 </li>
 </ul>
+
+Take me back to the [top](#top)
+
 
 <a name="deathdoom"></a> 
 ## Death-Doom 
@@ -1491,7 +1637,7 @@ Deathgrind takes the complexity of Death Metal and fuses it with the intensity, 
 
 ![Deathgrind](..\assets\img\projects\proj-2\deathgrind1.jpg)
 
-If you are anything like Person A, don't feel bad. It's is a very common misconception to mistake a Deathgrind logo for a Black Metal logo. But once you know what to look for and how to interpret it, things becase as clear as day to you. 
+If you are anything like Person A, don't feel bad. It's is a very common misconception to mistake a Deathgrind logo for a Black Metal logo. But once you know what to look for and how to interpret it, things because as clear as day to you. 
 
 For starters, Black Metal logos are typically black and (inverted) white in color; this one is colored **green**, a color that is often used by Grindcore (and adjacent) bands. (After all, Grindcore is all about doing things differently, and nothing quite says different like green, which, in terms of pigments, is the opposite of red, the choice color of many bands in the Heavy Metal genre at large.) Another key thing to look out for are signs of **compositional design** -- or, perhaps rather, **lack thereof**. If a logo features a design of intricate, meticulous linework, it's probably *not* a Deathgrind logo.
 
@@ -1525,7 +1671,7 @@ Take me back to the [top](#top)
 ---
 <a name="industrial"></a> 
 # Industrial Metal
-As the name suggests, Industrial Metal fuses Heavy Metal and Industrial music, which in itself as fusion of Rock and Electronic music. This is all very interesting, of course; but what it means for anyone interested in metal logos is that in this genre bands' logos typically have a mechanical look to them. When I say "mechanical," I mean that alone -- **"lifeless, inorganic" letters** (i.e. sharp-edged, blocky, perfectly spaced) that are sometimes tilted 90° degrees to the left from the horizontal. Furthermore, these logos are often **lettermarks** featuring only bands' initials -- usually in a unique typesetting. But this is difficult to illustrate with a name like **VIS**.
+As the name suggests, Industrial Metal fuses Heavy Metal and Industrial music, which in itself is a fusion of Rock and Electronic music. This is all very interesting, of course; but what it means for anyone interested in metal logos is that in this genre bands' logos typically have a mechanical look to them. When I say "mechanical," I mean that alone -- **"lifeless, inorganic" letters** (i.e. sharp-edged, blocky, perfectly spaced) that are sometimes tilted 90° degrees to the left from the horizontal. Furthermore, these logos are often **lettermarks** featuring only bands' initials -- usually in a unique typesetting. But this is difficult to illustrate with a name like **VIS**.
 
 <!--
 Not to be a gatekeeper, but I think it makes sense that these logos look "unmetal" because the genre is so far removed from "traditional" Heavy Metal. To me it's like having you, if you're an American, tell me, "I'm part Dutch -- my great-great-great-great-great-grandfather originally came from the Netherlands before he settled in Kinderhook, sometime after the American Revolution." Cool! But that doesn't make you Dutch. So ... maybe you should stop putting emphasis on it. 
@@ -1566,19 +1712,28 @@ Take me back to the [top](#top)
 ---
 <a name="doom"></a> 
 # Doom Metal
-Doom Metal is the last major mode of Heavy Metal music. For those not in the know, unlike the other (sub)genres, Doom doesn't really have any unique genre requirements except for this one thing: it has to be ultra-slow.<sup>12</sup> If it's uptempo, it can't be Doom. But it can be anything else. It's as simple as that. Just as simple as that. Anyway, the idea behind this tempo thing is to create a sense of doom or despair. (More like, despairing boredom, amirite?)
+Doom Metal is the last major mode of Heavy Metal music. For those not in the know, unlike the other (sub)genres, Doom doesn't really have any unique genre requirements except for this one thing: it has to be ultra-slow.<sup>18</sup> If it's uptempo, it can't be Doom. But it can be anything else. It's as simple as that. Just as simple as that. Anyway, the idea behind this tempo thing is to create a sense of doom or despair. (More like, despairing boredom, amirite?)
 
-This is what makes Doom logo extremely challenging -- challenging for me at least to come up with a genre logo; because it can be so many things depending on a band's specific interests and themes, and they can range anywhere from a dying bride to ... to what exactly? (It's always about some tragic loss of life, isn't it?) To put it bluntly, usually it comes down to throwing shit at a wall and hope something sticks. (But this is just me talking ... what do I know? I've only worked with a small number of Doom bands.)
+This is what makes Doom logo extremely challenging -- challenging for me at least to come up with a genre logo; because it can be so many things depending on a band's specific interests and themes, and they can range anywhere from a dying bride to ... to what exactly? (It's always about some tragic loss of life, isn't it?) To put it bluntly, usually it comes down to throwing shit at a wall and hoping something sticks. (But this is just me talking ... what do I know? I've only worked with a small number of Doom bands.)
 
 ##### Some Doom bands to check out:
 
 <ul>
+<li>Candlemass
+<ul>
+<li><a href="https://www.metal-archives.com/bands/candlemass/34" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0v3WyEt2g04WFpfVwcnfXm?si=cb41fc042f144855" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<!--
 <li>My Dying Bride
 <ul>
 <li><a href="https://www.metal-archives.com/bands/My_Dying_Bride/151" target="_blank" rel="noopener"><span>Band information</span></a></li>
 <li><a href="https://open.spotify.com/track/5oVSFQUi1hBYYRiNeOwfWy?si=94cd02de61b344fb" target="_blank" rel="noopener"><span>Spotify</span></a></li>
 </ul>
 </li>
+-->
 
 <li>Pentagram
 <ul>
@@ -1673,7 +1828,7 @@ Take me back to the [top](#top)
 #### Sludge Metal 
 Musically, Sludge Metal in many ways is like Stoner Metal, with the only real difference being that Sludge Metal is not about being happily stoned. Quite the opposite, in fact -- its tunes ooze a decadent and depressive atmosphere. In that it's more like the aural equivalent of a bad trip.
 
-In terms of logos, Sludge Metal rather shares similarities with Post-Metal. But this leads to the problem that these logos could look like anything from **hand-lettered comics-type** logos to **contemporary pseudo-art nouveau** logos to **Melodic Death Metal-styled** wordmarks. No, that's not completely true across the board. If it looks like it was drawn by a Parkinson's patient sitting on top of a spinning wachine machine -- it's more likely to be a Sludge logo.
+In terms of logos, Sludge Metal rather shares similarities with Post-Metal. But this leads to the problem that these logos could look like anything from **hand-lettered comics-type** logos to **contemporary pseudo-art nouveau** logos to **Melodic Death Metal-styled** wordmarks. No, that's not completely true across the board. If it looks like it was drawn by a Parkinson's patient sitting on top of a spinning washing machine -- it's more likely to be a Sludge logo.
 ![Sludge Metal](..\assets\img\projects\proj-2\sludge.jpg)
 
 <!--
@@ -1718,7 +1873,7 @@ Take me back to the [top](#top)
 
 <a name="gothic"></a> 
 # Gothic Metal
-Gothic Metal is a broadly defined genre, comprising of two main subgenres: on the one hand there's bands that grew out of the Death-Doom genre, favoring gloomy, introspective atmosphere over outward bombast, and on the other hand there's melodic symphonic bands that emerged instead from the more uplifting Power Metal. Below is an example of the former. 
+Gothic Metal is a broadly defined genre, comprising of two main subgenres: on the one hand there's bands that grew out of the Death-Doom genre (**Anathema**, **My Dying Bride**, **Paradise Lost**), favoring gloomy, introspective atmosphere over outward bombast, and on the other hand there's melodic symphonic bands that emerged instead from the more uplifting Power Metal (**After Forever**, **Tristania**, **Within Temptation**) and who are really only "Gothic" in dress and name. Below is an example of the former. 
 
 It probably speaks for itself: the lettering style is inspired by a **Gothic** -- which is basically synonymous with **blackletter** -- type. Of course, the astute reader will have noticed that everyone and their mom has blackletter(-inspired) wordmarks for logos. This is indeed a problem for whoever plays in the Gothic genre. The only recourse is to one-up the others by going all-in on the Gothic with yet further **Gothic flourishes**, regardless of whether they add anything of value to the design.
 
@@ -1754,7 +1909,7 @@ Take me back to the [top](#top)
 ---
 <a name="avantgarde"></a> 
 # Avant-Garde Metal
-The term "avant-garde" is often used synomously with "sophisticated." And, certainly, this label holds true for (most) bands playing in this nebulous genre that comprises of a range of different (sub)genres. In fact, it comprises of so many heterogenous (sub)genres that "Avant-Garde" as a genre label has very little meaning aside from, "These guys and gals *really* know how to play their instruments!"
+The term "avant-garde" is often used synonymously with "sophisticated." And, certainly, this label holds true for (most) bands playing in this nebulous genre that comprises a range of different (sub)genres. In fact, it comprises of so many heterogeneous (sub)genres that "Avant-Garde" as a genre label has very little meaning aside from, "These guys and gals *really* know how to play their instruments!"
 
 Funnily enough however, whilst Avant-Garde bands most likely, definitely, absolutely display technical virtuosity, they tend to have the least inspired, let alone sophisticated, logos. More than often they have **plain wordmarks**. Even more damning is that they seemingly always have an inexplicable preference for the **Abaddon type** (or something very close to it). But maybe it just came with their Angelfire website and they decided to stick with it ever since.
 ![Avant-Garde Metal](..\assets\img\projects\proj-2\avant.jpg)
@@ -1790,14 +1945,14 @@ Take me back to the [top](#top)
 
 <a name="post"></a> 
 ## Post-Metal
-Judging by its name you'd think bands in this genre have taken things to the Next Level Beyond Metal. In a way, they have. Seeing what these guys and gals are doing -- it's all very ambitious, it's the next level for the Metalhead who wants to be intellectually challenged. While the plebs are still gushing over **Immolation**'s latest simultaneous(!) callous-shredding guitar leads and legato melodic lines and reveling in **Cannibal Corpse**'s lyrics about necrogenic ressurections, Post-Metallers rather choose to set the tastes of the "thinking man," exploring textures and timbre.
+Judging by its name you'd think bands in this genre have taken things to the Next Level Beyond Metal. In a way, they have. Seeing what these guys and gals are doing -- it's all very ambitious, it's the next level for the Metalhead who wants to be intellectually challenged. While the plebs are still gushing over **Immolation**'s latest simultaneous(!) callous-shredding guitar leads and legato melodic lines and reveling in **Cannibal Corpse**'s lyrics about necrogenic resurrections, Post-Metallers rather choose to set the tastes of the "thinking man," exploring textures and timbre.
 
 If you're not sure what you're listening to is Post-Metal -- wait until the lyrics kick in. What few there are, are typically interspersed with lecture recordings of Jacques Derrida or more often Michel Foucault. 
 
 A Post-Metal logo could be anything from a casual wordmark to a hand-lettered logo with a more custom and unique feel. Regardless of novelty, Post-Metal logos all have the same letter treatment: they all look like they're **dissolving** or **fading**. Now, mind you, they're not fading out of existence, they're just moving to a higher plain -- and they encourage you to follow them -- to the heights of Reason and Illumination.
 ![Post-Metal](..\assets\img\projects\proj-2\post2.jpg)
 
-And if the band name consists of several words, the words are set in diferent sizes of type and placed at different heights from the baseline.
+And if the band name consists of several words, the words are set in different sizes of type and placed at different heights from the baseline.
 
 ##### Some Post-Metal bands to check out:
 
@@ -1860,7 +2015,7 @@ If you were born in a white, well-off family in the 1980s or 1990s, chances are 
 
 <a name="nu"></a> 
 ## Nu Metal
-I'd rather not waste any words discussing an unseemly genre as Nu Metal, but for clarity's sake, here's what Nu Metal is: it's an eclectic genre that blends elements from Alternative and Groove Metal and a myriad of other styles as well, including but not limited to, Industrial, Hip-Hop, and Funk; vocal styles range from melodic whining to white boy's rap and hysterical screaming; lastly, occasionaly turntables and sampling are given more weight than the guitars -- you know, those things whose sound is what give meaning to the term "Heavy Metal."
+I'd rather not waste any words discussing an unseemly genre as Nu Metal, but for clarity's sake, here's what Nu Metal is: it's an eclectic genre that blends elements from Alternative and Groove Metal and a myriad of other styles as well, including but not limited to, Industrial, Hip-Hop, and Funk; vocal styles range from melodic whining to white boy's rap and hysterical screaming; lastly, occasionally turntables and sampling are given more weight than the guitars -- you know, those things whose sound is what give meaning to the term "Heavy Metal."
 
 And what is there to say about Nu logos that has not yet been said by now? They are **puerile in design** and **clumsily drawn**. To its credit in that respect, they convey well what the music is all about.  
 ![Nu Metal](..\assets\img\projects\proj-2\nu.jpg)
@@ -1927,29 +2082,715 @@ Anyway, the design process of a Metalcore logo can best be described as follows:
 Take me back to the [top](#top)
 
 
+
+
+<a name="nintendo"></a> 
+#### Nintendocore
+Nintendocore (a term originally, apparently jokingly, coined by Nathan Winneke, lead vocalist of **HORSE the band**) is a derivative form of Metalcore that fuses typical Metalcore elements -- i.e. mosh-friendly breakdowns and the screams of a prepubescent teenager -- with the sound of 1980s chiptune music. In other words, if it were a Jeopardy question, it would be: "What music won't get you laid?"
+
+By having one leg firmly planted in the Metalcore community, whose members are 90 percent male, insofar as we can call angsty emoboys male, and the other resting with fans of 8-bit music, who let's be honest, are most probably Millennial nerds and neckbeards -- this means that the sheer fact of being part of the scene renders one's chances of meeting women at all essentially nil. Indeed, those long entrenched in this microgenre know all to well that Nintendocore really isn't "baby making music." The best one could hope for is a dry hump on the dance floor from a netgeek wearing a fedora.
+
+But I haven't put this guide together just so I could lambast the lifestyles of Nintendocore fans and musicians or ridicule them for their life-decisions. That's only part of it. The other part is that I want to show you how to do a basic Nintendocore logo.
+
+It's quite simple, really. Just download a free font like <a href="https://www.fontspace.com/scream-when-youre-ready-to-die-font-f31092" target="_blank" rel="noopener"><span>Scream When You're Ready To Die</span></a>. Yeah. Yeah, that's a cool 8-bit font, and you see it's perfect because a name like that would also make for a great Nintendocore band name -- perfect in case you were still looking for one. To be sure, you run the risk the font's been overused, so you may want to make some tweaks. I didn't. After doing 50 logos, it's no longer on like Donkey Kong™. That's right. I'm done and I'm going to do what Nintendon't -- call it quits.
+![Nintendo](..\assets\img\projects\proj-2\nintendo.jpg)
+
+
+
+##### Some Nintendocore bands to check out:
+
+<ul>
+<li>HORSE the band
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Horse_the_Band" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0BSEqyoDvHHl5M5H1BrmdA?si=16b57b71710046fd" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Monomate
+<ul>
+<li><a href="https://www.monomate.com/" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/1uD1kOvD2PH6enkkpQG30K?si=23d0b500500e4404" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Sky Eats Airplane
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Sky_Eats_Airplane" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5eBtEKm900dfeF2q4NJWc2?si=2df6c5eb293f48d4" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
+
+Take me back to the [top](#top)
+
+---
+
+<a name="cute"></a> 
+# Cute Metal
+Now, before you start jumping up and down, let me say this upfront: Cute Metal is not a thing as such, not an actual genre, no matter how much <a href="https://www.dictionary.com/e/slang/weeb/" target="_blank" rel="noopener"><span>weebs</span></a> try to convince you it is, but more of a description of the type of music and stage shows of cutesy bands from all over the world. I'm not only thinking here of **Babymetal**, who pioneered Kawaii Metal in Japan in the early 2010s, a genre that combines the noisy barrage of Heavy Metal instrumentation with J-pop melodies and idol aesthetics and vocals -- I'm also thinking here of **Charamel**, a Visual Kei band comprised of only *yuru-chara* (i.e. mascot characters), among them internet celebrity **Nyango Starr**, an apple-themed mascot who is one sick drummer. And looking beyond Japan, and if we stretch the meaning of "Heavy Metal" sufficiently, the alternative emos of the Czech band **Pentagramček** deserve a mention too.
+
+![Cute Metal](..\assets\img\projects\proj-2\cute.jpg)
+
+
+##### Some Cute Metal bands to check out:
+
+<ul>
+<li>Babymetal
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Horse_the_Band" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0BSEqyoDvHHl5M5H1BrmdA?si=16b57b71710046fd" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Charamel
+<ul>
+<li><a href="https://www.vice.com/en/article/wj3mmy/meet-nyango-star-this-heavy-metal-cat-mascot-is-trying-to-save-a-rural-farm-town-in-japan" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://youtu.be/YkIw3cjoSdE" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+</ul>
+</li>
+
+<li>Ladybaby
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Ladybaby" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/06NEuecnoNSQxDC3lfHpyy?si=32aa1c8bf4624d41" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
+
+Take me back to the [top](#top)
+
+---
+
+
+<!--
+
+Cute Metal
+
+Cute Metal
+
+Looking Kawaii Metal
+Blends elements of heavy metal and J-pop
+Pioneered in Japan in the early 2010s
+Combines both western and eastern influences that appeal to both cultures
+Combines the instrumentation found in heavy metal music with J-pop melodies and a Japanese idol aesthetic.
+
+Topics often contain kawaii (cute, lovable, kidlike) themes, making them much less hostile than those of o ther metal genres.
+
+
+Bands to check out:
+Babymetal, considered the inventors of the genre. 
+NECRONOMIDOL
+
+Nyango Star
+Ladybaby
+
+babymetal
+poppy
+
+"yuru-chara, as they are known in japan, that is known for drumming along to metal acts like Slipknot and Babymetal.
+apple-themed mascot, yuru-chara
+
+Maximum The Hormone
+
+Japanese mascot metal
+all-mascot band
+
+
+Kawaii Metal
+Pentagramček 
+
+Kawaii Metal (a.k.a. Idol Metal)
+
+Charamel band
+
+Take me back to the [top](#top)
+
+-->
+
+
+
+<!--
+to be a fan of 8-bit music. 
+neckbeard 
+Nintendocore fans fall smack in the middle in of the Venn diagram
+##### Some Nintendocore bands to check out:
+
+<ul>
+<li>As I Lay Dying	
+<ul>
+<li><a href="https://www.metal-archives.com/bands/as_i_lay_dying/20825" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0fmwyv8VP8Jh71e87oCHv1?si=e6a28e6ec2a54f7a" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Shadows Fall
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Shadows_Fall/703" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2fnbCZHLXyrSdWhaRlBwQP?si=14c42beefb0644ee" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Unearth
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Unearth/5269" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/76u2aab2a33Ohs7dOKoUOa?si=d608696b4cb84cd3" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
+
+Take me back to the [top](#top)
+
+
+
+
+
+<ul>
+<li>As I Lay Dying	
+<ul>
+<li><a href="https://www.metal-archives.com/bands/as_i_lay_dying/20825" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0fmwyv8VP8Jh71e87oCHv1?si=e6a28e6ec2a54f7a" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Shadows Fall
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Shadows_Fall/703" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2fnbCZHLXyrSdWhaRlBwQP?si=14c42beefb0644ee" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Unearth
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Unearth/5269" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/76u2aab2a33Ohs7dOKoUOa?si=d608696b4cb84cd3" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
+
+Take me back to the [top](#top)
+-->
+
+
 <!-- SLUDGE : Isis, Neurosis, Cult of Luna, Mastodon, Baroness, Kylesa, Eyehategod, Pelican -->
 <!-- Beatdown, powerviolence  -->
 <!-- dungeon synth -->
 <!-- nintendocore -->
 
+<a name="quiz"></a> 
+# Metal Quiz
+In this guide I have tried to cover a broad range of genres of microgenres that are part of the mainstay of the extreme metal pantheon and that have distinct visual aesthetics. It just so happens that some bands make up their own genres because they either feel that the genre labels are too broad or too limited to say something about their music, or because they feel that they are genuinely breaking new ground, or because just because.
+
+For me, it's impossible to think of what the logos look like for these self-invented genres because there are no rules or set formulae. But it's fun at least to mention some of them. Can you guess which of the genres below is actually a thing? That is to say that bands try or have tried to make a thing?
+
+##### Other, Unlisted Genres: Are They Real or Fiction?
+
+<!--
+(1) **Anisotropic Metal**; (2) **Appalachian Trance Metal**; (3) **Buddhist Death Metal**; (4) **Computer Nerd Thrash Metal**; (5) **Cryogenic Wargrind**; (6) **Death-Glam**; (7) **Depraved War Fucking Goat Metal**; (8) **Drum 'n' Bass Gigolo Goregrind**; (9) **Enochian Magickal Sludge Metal**; (10) **Full-Speed Makhaevist Doom**; (11) **Heretic Witch Metal**; (12) **Hypnotic Dodecatonic Black Metal**; (13) **Imperial Shinto Folk Metal**; (14) **Industrial Reggae**; (15) **Happy Mental Metal**; (16) **New Wave of Brutal Hime Metal**; (17) **New Wave of Yiddish Heavy Metal**; (18) **Nordic Night Metal**; (19) **Norwegian Coast Metal**; (20) **Roman Catholic Black Metal**; (21) **Parthenopean Epic Black Metal**; (22) **Philosophical Virtuoso Death Metal**; (23) **Snakepiss Metal**; (24) **Southern Gothic Werewolf Metal**; (25) **Unicorn Grindcore**
+
+<details>
+<br>
+<summary> (<i>Click to expand and see which ones are real</i>)</summary>
+
+(1) Anisotropic Metal; (2) Appalachian Trance Metal; (3) Buddhist Death Metal; (4) Computer Nerd Thrash Metal;(7) Depraved War Fucking Goat Metal; (8) Drum 'n' Bass Gigolo Goregrind; (11) Heretic Witch Metal; (12) Hypnotic Dodecatonic Black Metal; (16) New Wave of Brutal Hime Metal; (18) Nordic Night Metal; (19) Norwegian Coast Metal; (20) Roman Catholic Black Metal; (21) Parthenopean Epic Black Metal; (22) Philosophical Virtuoso Death Metal
+<br>
+<br>
+
+(1) .hiDDen tiMe
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Hidden_Time/115208" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/6iKMXElHUcMUhKNx3CzB9R?si=cf053574abbc4e39" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+
+(2) Killick (Appalachian Trance Metal)
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Hidden_Time/115208" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://killick.bandcamp.com/album/appalachian-trance-metal" target="_blank" rel="noopener"><span>Bandcamp</span></a></li>
+</ul>
+
+(3) Dharma (Buddhist Death Metal)
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Dharma/3540458122" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0lZx0Q97GAYyXRjzQW4rDX?si=cfa0ea6b94d44ce9" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+
+(4) FDISK (Computer Nerd Thrash Metal)
+<ul>
+<li><a href="https://www.metal-archives.com/bands/FDISK/125002" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://www.youtube.com/watch?v=EmORofFo1Nw" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+</ul>
+
+(7) Impaler of Pest (Depraved War Fucking Goat Metal)
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Impaler_of_Pest/3540368174" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2S0BQo5KA6EiM5JqjAU3Mk?si=94c678c7064d469d" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+
+(8) Spasm (Drum 'n' Bass Gigolo Goregrind)
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Spasm/108050" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://www.youtube.com/watch?v=GNQ0HNylXk8" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+</ul>
+
+(11) Inger Indolia (Heretic Witch Metal)
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Inger_Indolia/6659" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://www.youtube.com/watch?v=GlOm7dfY3nQ&list=PLtVGw3TnWQCxAptgbvMKKyy8_F4eD8OP4" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+</ul>
+
+(12) Void Paradigm (Hypnotic Dodecatonic Black Metal)
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Void_Paradigm/3540352868" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/4xqr4FUpBO1qGiwiaOElCH?si=8dd27875616d42f7" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+
+(16) Lujaneeza (New Wave of Brutal Hime Metal)
+<ul>
+<li><a href="https://www.metal-archives.com/bands/lujaneeza/3540366987" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://www.youtube.com/watch?v=AcF-PuwEShs" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+</ul>
+
+(18) Blazing Eternity (Nordic Night Metal)
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Blazing_Eternity/5633" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/57iFSeEHs2SK3taXSyl3Hk?si=90dc7d27c8c84352" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+
+(19) Fjordfader (Norwegian Coast Metal)
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Fjordfader/3540401376" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/74mnKHEpgaPuSwkQkDXlZo?si=4132f051195e4935" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+
+(20) Reverorum ib Malacht (Roman Catholic Black Metal)
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Reverorum_ib_Malacht/45017" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/3iEGSmEpemwWiDM95KAH3s?si=faab19fed0b04994" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+
+(21) Scuorn (Parthenopean Epic Black Metal)
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Scuorn/3540393216" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/3iEGSmEpemwWiDM95KAH3s?si=faab19fed0b04994" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+
+(22) Order of Ennead (Philosophical Virtuoso Death Metal)
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Order_of_Ennead/3540265080" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/3jesvrPBg91RG7JsUqZiaW?si=938a40f7af054675" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+
+</details>
+<br>
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+(1) **Anisotropic Metal**
+<details> This one is real.  
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+.hiDDen tiMe
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Hidden_Time/115208" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/6iKMXElHUcMUhKNx3CzB9R?si=cf053574abbc4e39" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</details>
+<br>
+
+(2) **Appalachian Trance Metal**
+<details> This one is real too.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+Killick
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Hidden_Time/115208" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://killick.bandcamp.com/album/appalachian-trance-metal" target="_blank" rel="noopener"><span>Bandcamp</span></a></li>
+</ul>
+</details>
+<br>
+
+(3) **Buddhist Death Metal**
+<details> Only in Taiwan. But it does exist.
+<br>	
+<summary> (<i>Click to expand</i>)</summary>
+Dharma
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Dharma/3540458122" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/0lZx0Q97GAYyXRjzQW4rDX?si=cfa0ea6b94d44ce9" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</details>
+<br>
+
+(4) **Computer Nerd Thrash Metal**
+<details> I know it sounds fake, but it's not.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+FDISK
+<ul>
+<li><a href="https://www.metal-archives.com/bands/FDISK/125002" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://www.youtube.com/watch?v=EmORofFo1Nw" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+</ul>
+</details>
+<br>
+
+(5) **Cryogenic Wargrind**
+<details> Pure fiction.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+</details>
+<br>
+
+(6) **Death-Glam**
+<details> It's fake.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+</details>
+<br>
+
+
+(7) **Depraved War Fucking Goat Metal**
+<details> Oh, it's real! 
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+Impaler of Pest
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Impaler_of_Pest/3540368174" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2S0BQo5KA6EiM5JqjAU3Mk?si=94c678c7064d469d" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</details>
+<br>
+
+(8) **Drum 'n' Bass Gigolo Goregrind**
+<details> It shouldn't be real, but it is.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+Spasm
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Spasm/108050" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://www.youtube.com/watch?v=GNQ0HNylXk8" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+</ul>
+</details>
+<br>
+
+(9) **Enochian Magickal Sludge Metal**
+<details> I made it up.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+</details>
+<br>
+
+(10) **Full-Speed Makhaevist Doom**
+<details> It's a total fabrication.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+</details>
+<br>
+
+(11) **Heretic Witch Metal**
+<details> Though now dissolved, there was a band playing this genre.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+Inger Indolia
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Inger_Indolia/6659" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://www.youtube.com/watch?v=GlOm7dfY3nQ&list=PLtVGw3TnWQCxAptgbvMKKyy8_F4eD8OP4" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+</ul>
+</details>
+<br>
+
+
+(12) **Hypnotic Dodecatonic Black Metal**
+<details> It's real -- as real as real can be.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+Void Paradigm
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Void_Paradigm/3540352868" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/4xqr4FUpBO1qGiwiaOElCH?si=8dd27875616d42f7" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</details>
+<br>
+
+(13) **Imperial Shinto Folk Metal**
+<details> It's fiction.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+</details>
+<br>
+
+(14) **Industrial Reggae**
+<details> One of my friends came up with this.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+</details>
+<br>
+
+(15) **Happy Mental Metal**
+<details> It's a total fabrication.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+</details>
+<br>
+
+(16) **New Wave of Brutal Hime Metal** 
+<details> While getting up on genres, I stumbled upon a Japanese band playing this genre. 
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+Lujaneeza
+<ul>
+<li><a href="https://www.metal-archives.com/bands/lujaneeza/3540366987" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://www.youtube.com/watch?v=AcF-PuwEShs" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+</ul>
+</details>
+<br>
+
+
+(17) **New Wave of Yiddish Heavy Metal**
+<details> It could be but it's not.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+</details>
+<br>
+
+
+(18) **Nordic Night Metal**
+<details> Currently, the number of bands playing in this genre is almost zero, but it does exist. 
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+Blazing Eternity
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Blazing_Eternity/5633" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/57iFSeEHs2SK3taXSyl3Hk?si=90dc7d27c8c84352" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</details>
+<br>
+
+(19) **Norwegian Coast Metal**
+<details> I have a friend who once played this genre.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+Fjordfader
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Fjordfader/3540401376" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/74mnKHEpgaPuSwkQkDXlZo?si=4132f051195e4935" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</details>
+<br>
+
+(20) **Roman Catholic Black Metal**
+<details> Oh, it's a thing! 
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+Reverorum ib Malacht
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Reverorum_ib_Malacht/45017" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/3iEGSmEpemwWiDM95KAH3s?si=faab19fed0b04994" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</details>
+<br>
+
+(21) **Parthenopean Epic Black Metal**
+<details> Only in southern Italy. But it exists.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+Scuorn
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Scuorn/3540393216" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/3iEGSmEpemwWiDM95KAH3s?si=faab19fed0b04994" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</details>
+<br>
+
+(22) **Philosophical Virtuoso Death Metal**
+<details> Yes, "Philosophical Virtuoso Death Metal" has been coined as a genre label.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+Order of Ennead
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Order_of_Ennead/3540265080" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/3jesvrPBg91RG7JsUqZiaW?si=938a40f7af054675" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</details>
+<br>
+
+(23) **Snakepiss Metal**
+<details> It's fake.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+</details>
+<br>
+
+(24) **Southern Gothic Werewolf Metal**
+<details> Not a chance.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+</details>
+<br>
+
+(25) **Unicorn Grindcore**
+<details> Two of my unicorn-loving friends came up with this.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+</details>
+<br>
+
+
+Goth Crust
+Machiavellian Prog
+Greek Presbyterian Metal
+Recursive Induction Metal
+
+Take me back to the [top](#top)
+
+
+
+
+
+
+
+<!--
+
+sikhism
+neopaganism
+confucianism
+agnosticism
+oceanian
+atlantean
+egoist anarchism
+illegalism
+collectivist
+green anarchism
+insurrectionary
+makhaevism
+Post-Left Anarchist 
+Black Anarchist Metal
+Jewish Anarchist
+Left-Wing Market Anarchist
+Settler Colonialist
+Transnational Authoritarian 
+Third Positional 
+
+
+
+It's false.
+No way.
+It's totally made up.
+It's a made-up genre.
+It's a total fabrication.
+Not a chance.
+
+This one exists.
+You are correct, it's fact.
+Yes. It is. 
+You're right, it's fact.
+Yes. A band does exists.
+You're right.
+Our research found a published report of a similar story.
+You're right again.
+
+
+
+
+
+
+<details> It's false.
+	<summary> (<i>Real or fiction?</i>)</summary>
+</details>
+<br/>
+
+<details> No way.
+	<summary> (<i>Real or fiction?</i>)</summary>
+</details>
+<br/>
+
+<details> It's totally made up.
+	<summary> (<i>Real or fiction?</i>)</summary>
+</details>
+<br/>
+
+
+
+<details> It's a made-up genre.
+	<summary> (<i>Real or fiction?</i>)</summary>
+</details>
+<br/>
+
+<details> It's a total fabrication.
+	<summary> (<i>Real or fiction?</i>)</summary>
+</details>
+<br/>
+
+<details> Not a chance.
+	<summary> (<i>Real or fiction?</i>)</summary>
+</details>
+<br/>
+
+
+
+This one exists.
+You are correct, it's fact.
+Yes. It is. 
+You're right, it's fact.
+Yes. A band does exists.
+You're right.
+Our research found a published report of a similar story.
+You're right again.
+
+	<li>Gut
+	<ul>
+	<li><a href="https://www.metal-archives.com/bands/Gut/3540462038" target="_blank" rel="noopener"><span>Band information</span></a></li>
+	<li><a href="https://www.youtube.com/watch?v=SkChITtBcWY" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+	</ul>
+	</li>
+
+	<li>Rompeprop
+	<ul>
+	<li><a href="https://www.last.fm/music/Rompeprop/+wiki" target="_blank" rel="noopener"><span>Band information</span></a></li>
+	<li><a href="https://www.youtube.com/watch?v=JjzMo49vDlsc" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+	</ul>
+	</li>
+
+	<li>Spasm
+	<ul>
+	<li>
+	</ul>
+	</li>
+-->
 ---
 
 # References
 
 *I'm not really in the know with rules concerning footnotes, bibliography, etc., so bear with me. These will be checked later by the professionals.*
 
-##### [1] E. Nielson. Paragraph on Metal on Trial. *Rap on Trial: Race, Lyrics, and Guilt in America*, p. 89.
+##### [1] E. Nielson. Paragraph on Metal on Trial. *Rap on Trial: Race, Lyrics, and Guilt in America*, p. 89, 2019; M. Phillipov. *Death Metal and Music Criticism: Analysis at the Limits*, p. 55, 2012.
 ##### [2] C. Harison. "Won't Get Fooled Again": The Atlantic Generation Comes of Age. *Feedback: The Who and their Generation*, pp. 156-57. 
 ##### [3] S. Poole. Retro Rock and Heavy History. *Global Metal Music and Culture: Current Directions in Metal Studies*, pp. 302-303; M. Heatley. *The Virgin Encyclopedia of Rock: The World's Most Comprehensive Illustrated Rock Reference*, 122, 1996. 
-##### [4] J. Sturman(?) Heavy Metal: Visual Style and Iconography. J. Sturman, ed. *The SAGE International Encyclopedia of Music and Culture*; W. Philips and B. Cogan. Studs. *Encyclopedia of Heavy Metal Music*, 2009; R. Moore.  Ch. 3: Hell Awaits. *Sells Like Teen Spirit: Music, Youth Culture, and Social Crisis*, pp. 93-94, 2010; K. Grow. Rolling Stone: The Last Word: Judas Priest's Rob Halford on the Joys of Leather and 40 Years of 'Breaking the Law'. https://www.rollingstone.com/music/music-features/rob-halford-judas-priest-last-word-interview-1003838/, 2020.
-##### [5] L. Stinson. Wired: The Beauty and Total Illegibility of Extreme Metal Logos. https://www.wired.com/2015/10/the-beauty-and-total-illegibility-of-extreme-metal-logos/, 2015.
-##### [6] D. Lombardo. Loudwire: Dave Lombardo - Wikipedia: Fact or Fiction? https://www.youtube.com/watch?v=LKppPspVNDs, 2015.
-##### [7] M. Phillipov. Ch. 6: The Pleasures of Horror. *Death Metal and Music Criticism: Analysis at the Limits*, p. 100, 2012. Here, the author cites N.J. Purcell. *Death Metal Music: The Passion and Politics of a Subculture*, pp. 172, 185, 2003; M. Dickstein. The Aesthetics of Fright. In B.K. Grant, ed. *Plans of Reason: Essays on the Horror Film*, 1984; and K.F.B. Fletcher and O. Umurhan, ed. Introduction: Where Metal and Classics Meet. *Classical Antiquity in Heavy Metal*, (2020).
-##### [8] S. Poole, M. Unger. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, 20.
-##### [9] L. Stinson, Wired: The Beauty and Total Illegibility of Extreme Metal Logos. https://www.wired.com/2015/10/the-beauty-and-total-illegibility-of-extreme-metal-logos/, 2015; and M. Rampton, Kerrang: Inside The World Of Extreme Metal Logos https://www.kerrang.com/features/inside-the-world-of-extreme-metal-logos/, 2018.
-##### [10] S. (unknown). The Progressive Subway. Interview: Psalmtanic. http://theprogressivesubway.com/2020/04/13/interview-psalmtanic/, 2020.
-##### [11] D. Patterson. Marduk: Sweden Part I. Black Metal: Evolution of the Cult, p. 331-341, 2013.
-##### [12] W. Irwin, *Black Sabbath and Philosophy: Mastering Reality*, p. 79.
+##### [4] J. Sturman(?) Heavy Metal: Visual Style and Iconography. J. Sturman, ed. *The SAGE International Encyclopedia of Music and Culture*; W. Philips and B. Cogan. Studs. *Encyclopedia of Heavy Metal Music*, 2009; R. Moore.  Ch. 3: Hell Awaits. *Sells Like Teen Spirit: Music, Youth Culture, and Social Crisis*, pp. 93-94, 2010; K. Grow. Rolling Stone: The Last Word: Judas Priest's Rob Halford on the Joys of Leather and 40 Years of 'Breaking the Law'. https://www.rollingstone.com/music/music-features/rob-halford-judas-priest-last-word-interview-1003838, 2020.
+##### [5] B. Hutcherson and R. Haenfler. Musical Genre as a Gendered Process: Authenticity in Extreme Metal. In N.K. Denzin, ed. *Studies in Symbolic Interaction*, p. 116, 2010.
+##### [6] L. Stinson. Wired: The Beauty and Total Illegibility of Extreme Metal Logos. https://www.wired.com/2015/10/the-beauty-and-total-illegibility-of-extreme-metal-logos, 2015.
+##### [7] D. Lombardo. Loudwire: Dave Lombardo - Wikipedia: Fact or Fiction? https://www.youtube.com/watch?v=LKppPspVNDs, 2015.
+##### [8] M. Phillipov. Ch. 6: The Pleasures of Horror. *Death Metal and Music Criticism: Analysis at the Limits*, p. 100, 2012. Here, the author cites N.J. Purcell. *Death Metal Music: The Passion and Politics of a Subculture*, pp. 172, 185, 2003; M. Dickstein. The Aesthetics of Fright. In B.K. Grant, ed. *Plans of Reason: Essays on the Horror Film*, 1984; and K.F.B. Fletcher and O. Umurhan, ed. Introduction: Where Metal and Classics Meet. *Classical Antiquity in Heavy Metal*, (2020).
+##### [9] M. Unger. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, p. 20, 2016. [?]
+##### [10] M. Unger. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, p. 24, 2016; A. O'Neill. *A History of Heavy Metal*, 2017 (Chapter 5 on The First Wave of Black Metal).
+##### [11] D. Peterson. *Black Metal: Evolution of the Cult*, p. 152, 2013.
+##### [12] B. Hutcherson and R. Haenfler. Musical Genre as a Gendered Process: Authenticity in Extreme Metal. In N.K. Denzin, ed. *Studies in Symbolic Interaction*, p. 116, 2015.
+##### [13] L. Stinson, Wired: The Beauty and Total Illegibility of Extreme Metal Logos. https://www.wired.com/2015/10/the-beauty-and-total-illegibility-of-extreme-metal-logos, 2015; and M. Rampton, Kerrang: Inside The World Of Extreme Metal Logos. https://www.kerrang.com/features/inside-the-world-of-extreme-metal-logos, 2018.
+##### [14] S. (unknown). The Progressive Subway. Interview: Psalmtanic. http://theprogressivesubway.com/2020/04/13/interview-psalmtanic, 2020.
+##### [15] T. Neilson. Where Myth and Metal Collide: Finnish Folk Metal. In S.A. Wilson, ed. *Music at the Extremes: Essays on Sounds Outside the Mainstream*, p. 136, 2015. 
+##### [16] D. Patterson. Marduk: Sweden Part I. Black Metal: Evolution of the Cult, p. 331-341, 2013.
+##### [17] Holdeneye. Oxygen Destroyer - Sinister Monstrosities Spawned by the Unfathomable Ignorance of Humankind Review. https://www.angrymetalguy.com/oxygen-destroyer-sinister-monstrosities-spawned-by-the-unfathomable-ignorance-of-humankind-review, 2021.
+##### [18] W. Irwin, *Black Sabbath and Philosophy: Mastering Reality*, p. 79, 2012.
 
 
 
