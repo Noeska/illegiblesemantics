@@ -1507,7 +1507,7 @@ That doesn't quite work with other genres. There is no such thing as "Deathened"
 
 This doesn't quite work with other genres. The term "Deathened," for example, isn't a generally accepted term. Which is not to say there are no Death Metal-influenced crossover genres; it's just that in these cases, "Death" is used as an adjective or as a limiting genitive. There's Death-Doom, for example, which can be considered as practically a genre in itself and which will be discussed below. 
 
-> **Update**: I could be wrong here. I just googled it and, well -- one review at AngryMetalGuy.com talks about the Deathened Thrash of **Morbid Saint** and Thrashened Death of **Morbid Angel**.<sup>
+> **Update**: I could be wrong here. I just googled it and, well -- one review at AngryMetalGuy.com talks about the Deathened Thrash of **Morbid Saint** and Thrashened Death of **Morbid Angel**.<sup>17</sup>
 
 Another example would be Deathrash (**The Crown**, **Legion of the Damned**, **Mortification**). Here I'd say the crossover has more to do with music than the lyrical themes. What's more, one could even go so far as to claim that in this specific case, it's not so much a crossover from one genre to another but just a normal result of "genre-adjacency." After all, Death Metal didn't emerge in isolation, but developed in part out of Thrash in the mid-1980s, and so naturally some bands will fall somewhere on the spectrum between the two. Which is probably why you won't ever hear anyone use the term "Deathtrash." 
 
