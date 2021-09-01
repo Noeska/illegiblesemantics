@@ -34,7 +34,7 @@ It may well be that you have other ideas on what these logos are supposed to loo
 #### Acknowledgements and References
 I'd like to give a shoutout to everyone who helped me write this guide (you know who you are)! Your insights and thoughts were much appreciated!
 
-I also did my own research, obviously, and read a fair number of interesting -- and odd -- articles and chapters about artists, musicians, and others. These are listed [here](#references)
+I also did my own research, obviously, and read a fair number of interesting -- and odd -- articles and chapters about artists, musicians, and others. These are listed [here](#references).
 
 #### Metal Quiz
 So you think you know your genres and microgenres? Do you care to put it to a [test](#quiz)?
