@@ -26,14 +26,23 @@ As you can imagine, it can get complicated fairly quickly when you're trying to 
 Take me to ...
 [1990s Tech Death](#1990tech), [Avant-Garde Metal](#avantgarde), [Bay Area Thrash](#bay), [Blackened Death](#bdeath), [Blackened Thrash](#bthrash), [Black Metal](#black), [Brutal Death](#brutal), [Crossover Genres](#crossover), [Cute Metal](#cute), [Death-Doom](#deathdoom), [Deathgrind](#deathgrind), [Death Metal](#death), [Doom Metal](#doom), [Djent](#djent), [Ecumenical Metal](#ecumenical), [Faux Metal](#faux), [Florida Death](#florida), [Folk Metal](#folk), [Funeral Doom](#funeral), [Glam Metal](#glam), [Gothic Metal](#gothic), [Grindcore](#grindcore), [Groove Metal](#groove), [Heavy Metal](#heavy), [Industrial Metal](#industrial), [Melodic Death](#melodic), [Metalcore](#metalcore), [Nintendocore](#nintendo), [Nu Metal](#nu), [NWOBHM](#NWOBHM), [Pagan Black Metal](#pagan), [Pirate Metal](#pirate), [Porngrind](#porngrind), [Post-2000s Tech Death](#2000tech), [Porngrind](#porngrind), [Post-Black Metal](#pblack), [Post-Metal](#post), [Power Metal](#power), [Progressive Metal](#progressive), [Rasterized Death](#rasterized), [Sludge Metal](#sludge), [Speed Metal](#speed), [Stoner Metal](#psychedelic), [Symphonic Metal](#symphonic), [Tech Death](#tech), [Teutononic Thrash](#teutonic), [Thrash Metal](#thrash), [Unblack Metal](#unblack), [US Thrash](#usthrash), [War Metal](#war)
 
+
+
+
 #### Metal Quiz
 So you think you know your genres and microgenres? Do you care to put it to a [test](#quiz)?
-
 
 #### Full Disclosure
 With these genre samples I tried to represent as faithfully as possible a broad range of genres, based on my own years of experience in designing Metal logos and studying up on genres that I'm not too familiar with. I then had them checked by several musicians and artists in the Metal scene to confirm style accuracy and coverage. (The list of names can be found in the paper.) In the days leading up to the submission deadline, I decided to add a few more, in part based on the feedback that I got from them, and in part based on what genres I personally felt were missing. These are: Symphonic Metal, Glam Metal, Bay Area Thrash, Groove Metal, Djent, Porngrind, Unblack Metal, Ecumenical Metal, War Metal, Pirate Metal, Post-Metal, and Sludge Metal. As of yet, these have not been checked and validated by the "field experts." But, ultimately, these remain interpretations, anyway.* 
 
 It may well be that you have other ideas on what these logos are supposed to look like. Maybe you don't think my comments are clever or helpful or funny. In that case, drop me a line on Twitter, and tell me what needs improving.
+
+#### Acknowledgements and References
+I'd like to give a shoutout to everyone who helped me write this guide (you know who you are)! Your insights and thoughts were much appreciated!
+
+I also did my own research, obviously, and read a fair number of interesting -- and odd -- articles and chapters about artists, musicians, and others. These are listed [here](#references)
+
+
 
 <!--
 #### Acknowledgements
@@ -2807,6 +2816,7 @@ You're right again.
 -->
 ---
 
+<a name="references"></a> 
 # References
 
 *I'm not really in the know with rules concerning footnotes, bibliography, etc., so bear with me. These will be checked later by the professionals.*
