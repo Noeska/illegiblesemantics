@@ -31,6 +31,9 @@ With these genre samples I tried to represent as faithfully as possible a broad 
 
 It may well be that you have other ideas on what these logos are supposed to look like. Maybe you don't think my comments are clever or helpful or funny. In that case, drop me a line on Twitter, and tell me what needs improving.
 
+<a href="https://open.spotify.com/track/5OcnYiersaDvYTRzRjlQ8g?si=a3b8510576354209" target="_blank" rel="noopener"><span>(End of Disclosure)</span></a>
+
+
 #### Acknowledgements and References
 I'd like to give a shoutout to everyone who helped me write this guide! Your insights and thoughts were much appreciated!
 
@@ -51,7 +54,7 @@ I'd like to give a shoutout to everyone who helped me write this guide, three in
 
 -->
 
-<a href="https://open.spotify.com/track/5OcnYiersaDvYTRzRjlQ8g?si=a3b8510576354209" target="_blank" rel="noopener"><span>(End of Disclosure)</span></a>
+
 
 <!--
 <details> 
@@ -64,7 +67,7 @@ I'd like to give a shoutout to everyone who helped me write this guide, three in
 <br/>
 -->
 
--- Gerrit
+-- Gerrit <a href="https://www.tundratoucan.com" target="_blank" rel="noopener"><span>"Tundra Toucan"</span></a> Rijken
 
 <a name="heavy"></a> 
 # Heavy Metal
