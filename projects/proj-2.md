@@ -32,7 +32,7 @@ With these genre samples I tried to represent as faithfully as possible a broad 
 It may well be that you have other ideas on what these logos are supposed to look like. Maybe you don't think my comments are clever or helpful or funny. In that case, drop me a line on Twitter, and tell me what needs improving.
 
 #### Acknowledgements and References
-I'd like to give a shoutout to everyone who helped me write this guide (you know who you are)! Your insights and thoughts were much appreciated!
+I'd like to give a shoutout to everyone who helped me write this guide, three in particular: Erik Negakinu, Marco W., and Melle Gerritsen. Your insights and thoughts were much appreciated!
 
 I also did my own research, obviously, and read a fair number of interesting -- and odd -- articles and chapters about artists, musicians, and others. These are listed [here](#references).
 
