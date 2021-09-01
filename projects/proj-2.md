@@ -34,7 +34,9 @@ It may well be that you have other ideas on what these logos are supposed to loo
 #### Acknowledgements and References
 I'd like to give a shoutout to everyone who helped me write this guide! Your insights and thoughts were much appreciated!
 
-I owe a special thanks to three in particular who shared their time and expertise with me throughout this project and provided me with useful feedback on my guide: Erik Negakinu, Marco W., and Melle Gerritsen. 
+I owe a special thanks to three in particular who shared their time and expertise with me throughout this project and provided me with useful feedback on my guide: Erik <a href="https://www.instagram.com/negakinu/" target="_blank" rel="noopener"><span>Negakinu</span></a>, Marco W., and Melle Gerritsen. 
+
+
 
 I also did my own research, obviously, and read a fair number of interesting -- and odd -- articles and chapters about artists, musicians, and others. These are listed [here](#references).
 
