@@ -26,12 +26,6 @@ As you can imagine, it can get complicated fairly quickly when you're trying to 
 Take me to ...
 [1990s Tech Death](#1990tech), [Avant-Garde Metal](#avantgarde), [Bay Area Thrash](#bay), [Blackened Death](#bdeath), [Blackened Thrash](#bthrash), [Black Metal](#black), [Brutal Death](#brutal), [Crossover Genres](#crossover), [Cute Metal](#cute), [Death-Doom](#deathdoom), [Deathgrind](#deathgrind), [Death Metal](#death), [Doom Metal](#doom), [Djent](#djent), [Ecumenical Metal](#ecumenical), [Faux Metal](#faux), [Florida Death](#florida), [Folk Metal](#folk), [Funeral Doom](#funeral), [Glam Metal](#glam), [Gothic Metal](#gothic), [Grindcore](#grindcore), [Groove Metal](#groove), [Heavy Metal](#heavy), [Industrial Metal](#industrial), [Melodic Death](#melodic), [Metalcore](#metalcore), [Nintendocore](#nintendo), [Nu Metal](#nu), [NWOBHM](#NWOBHM), [Pagan Black Metal](#pagan), [Pirate Metal](#pirate), [Porngrind](#porngrind), [Post-2000s Tech Death](#2000tech), [Porngrind](#porngrind), [Post-Black Metal](#pblack), [Post-Metal](#post), [Power Metal](#power), [Progressive Metal](#progressive), [Rasterized Death](#rasterized), [Sludge Metal](#sludge), [Speed Metal](#speed), [Stoner Metal](#psychedelic), [Symphonic Metal](#symphonic), [Tech Death](#tech), [Teutononic Thrash](#teutonic), [Thrash Metal](#thrash), [Unblack Metal](#unblack), [US Thrash](#usthrash), [War Metal](#war)
 
-
-
-
-#### Metal Quiz
-So you think you know your genres and microgenres? Do you care to put it to a [test](#quiz)?
-
 #### Full Disclosure
 With these genre samples I tried to represent as faithfully as possible a broad range of genres, based on my own years of experience in designing Metal logos and studying up on genres that I'm not too familiar with. I then had them checked by several musicians and artists in the Metal scene to confirm style accuracy and coverage. (The list of names can be found in the paper.) In the days leading up to the submission deadline, I decided to add a few more, in part based on the feedback that I got from them, and in part based on what genres I personally felt were missing. These are: Symphonic Metal, Glam Metal, Bay Area Thrash, Groove Metal, Djent, Porngrind, Unblack Metal, Ecumenical Metal, War Metal, Pirate Metal, Post-Metal, and Sludge Metal. As of yet, these have not been checked and validated by the "field experts." But, ultimately, these remain interpretations, anyway.* 
 
@@ -41,6 +35,9 @@ It may well be that you have other ideas on what these logos are supposed to loo
 I'd like to give a shoutout to everyone who helped me write this guide (you know who you are)! Your insights and thoughts were much appreciated!
 
 I also did my own research, obviously, and read a fair number of interesting -- and odd -- articles and chapters about artists, musicians, and others. These are listed [here](#references)
+
+#### Metal Quiz
+So you think you know your genres and microgenres? Do you care to put it to a [test](#quiz)?
 
 
 
@@ -2287,6 +2284,156 @@ Take me back to the [top](#top)
 <!-- dungeon synth -->
 <!-- nintendocore -->
 
+
+
+
+
+
+
+
+
+<!--
+
+
+Goth Crust
+
+Greek Presbyterian Metal
+Recursive Induction Metal
+
+sikhism
+neopaganism
+confucianism
+agnosticism
+oceanian
+atlantean
+egoist anarchism
+illegalism
+collectivist
+green anarchism
+insurrectionary
+makhaevism
+Post-Left Anarchist 
+Black Anarchist Metal
+Jewish Anarchist
+Left-Wing Market Anarchist
+Settler Colonialist
+Transnational Authoritarian 
+Third Positional 
+
+
+
+It's false.
+No way.
+It's totally made up.
+It's a made-up genre.
+It's a total fabrication.
+Not a chance.
+
+This one exists.
+You are correct, it's fact.
+Yes. It is. 
+You're right, it's fact.
+Yes. A band does exists.
+You're right.
+Our research found a published report of a similar story.
+You're right again.
+
+
+
+
+
+
+<details> It's false.
+	<summary> (<i>Real or fiction?</i>)</summary>
+</details>
+<br/>
+
+<details> No way.
+	<summary> (<i>Real or fiction?</i>)</summary>
+</details>
+<br/>
+
+<details> It's totally made up.
+	<summary> (<i>Real or fiction?</i>)</summary>
+</details>
+<br/>
+
+
+
+<details> It's a made-up genre.
+	<summary> (<i>Real or fiction?</i>)</summary>
+</details>
+<br/>
+
+<details> It's a total fabrication.
+	<summary> (<i>Real or fiction?</i>)</summary>
+</details>
+<br/>
+
+<details> Not a chance.
+	<summary> (<i>Real or fiction?</i>)</summary>
+</details>
+<br/>
+
+
+
+This one exists.
+You are correct, it's fact.
+Yes. It is. 
+You're right, it's fact.
+Yes. A band does exists.
+You're right.
+Our research found a published report of a similar story.
+You're right again.
+
+	<li>Gut
+	<ul>
+	<li><a href="https://www.metal-archives.com/bands/Gut/3540462038" target="_blank" rel="noopener"><span>Band information</span></a></li>
+	<li><a href="https://www.youtube.com/watch?v=SkChITtBcWY" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+	</ul>
+	</li>
+
+	<li>Rompeprop
+	<ul>
+	<li><a href="https://www.last.fm/music/Rompeprop/+wiki" target="_blank" rel="noopener"><span>Band information</span></a></li>
+	<li><a href="https://www.youtube.com/watch?v=JjzMo49vDlsc" target="_blank" rel="noopener"><span>Youtube</span></a></li>
+	</ul>
+	</li>
+
+	<li>Spasm
+	<ul>
+	<li>
+	</ul>
+	</li>
+-->
+---
+
+<a name="references"></a> 
+# References
+
+*I'm not really in the know with rules concerning footnotes, bibliography, etc., so bear with me. These will be checked later by the professionals.*
+
+##### [1] E. Nielson. Paragraph on Metal on Trial. *Rap on Trial: Race, Lyrics, and Guilt in America*, p. 89, 2019; M. Phillipov. *Death Metal and Music Criticism: Analysis at the Limits*, p. 55, 2012.
+##### [2] C. Harison. "Won't Get Fooled Again": The Atlantic Generation Comes of Age. *Feedback: The Who and their Generation*, pp. 156-57. 
+##### [3] S. Poole. Retro Rock and Heavy History. *Global Metal Music and Culture: Current Directions in Metal Studies*, pp. 302-303; M. Heatley. *The Virgin Encyclopedia of Rock: The World's Most Comprehensive Illustrated Rock Reference*, 122, 1996. 
+##### [4] J. Sturman(?) Heavy Metal: Visual Style and Iconography. J. Sturman, ed. *The SAGE International Encyclopedia of Music and Culture*; W. Philips and B. Cogan. Studs. *Encyclopedia of Heavy Metal Music*, 2009; R. Moore.  Ch. 3: Hell Awaits. *Sells Like Teen Spirit: Music, Youth Culture, and Social Crisis*, pp. 93-94, 2010; K. Grow. Rolling Stone: The Last Word: Judas Priest's Rob Halford on the Joys of Leather and 40 Years of 'Breaking the Law'. https://www.rollingstone.com/music/music-features/rob-halford-judas-priest-last-word-interview-1003838, 2020.
+##### [5] B. Hutcherson and R. Haenfler. Musical Genre as a Gendered Process: Authenticity in Extreme Metal. In N.K. Denzin, ed. *Studies in Symbolic Interaction*, p. 116, 2010.
+##### [6] L. Stinson. Wired: The Beauty and Total Illegibility of Extreme Metal Logos. https://www.wired.com/2015/10/the-beauty-and-total-illegibility-of-extreme-metal-logos, 2015.
+##### [7] D. Lombardo. Loudwire: Dave Lombardo - Wikipedia: Fact or Fiction? https://www.youtube.com/watch?v=LKppPspVNDs, 2015.
+##### [8] M. Phillipov. Ch. 6: The Pleasures of Horror. *Death Metal and Music Criticism: Analysis at the Limits*, p. 100, 2012. Here, the author cites N.J. Purcell. *Death Metal Music: The Passion and Politics of a Subculture*, pp. 172, 185, 2003; M. Dickstein. The Aesthetics of Fright. In B.K. Grant, ed. *Plans of Reason: Essays on the Horror Film*, 1984; and K.F.B. Fletcher and O. Umurhan, ed. Introduction: Where Metal and Classics Meet. *Classical Antiquity in Heavy Metal*, (2020).
+##### [9] M. Unger. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, p. 20, 2016. [?]
+##### [10] M. Unger. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, p. 24, 2016; A. O'Neill. *A History of Heavy Metal*, 2017 (Chapter 5 on The First Wave of Black Metal).
+##### [11] D. Peterson. *Black Metal: Evolution of the Cult*, p. 152, 2013.
+##### [12] B. Hutcherson and R. Haenfler. Musical Genre as a Gendered Process: Authenticity in Extreme Metal. In N.K. Denzin, ed. *Studies in Symbolic Interaction*, p. 116, 2015.
+##### [13] L. Stinson, Wired: The Beauty and Total Illegibility of Extreme Metal Logos. https://www.wired.com/2015/10/the-beauty-and-total-illegibility-of-extreme-metal-logos, 2015; and M. Rampton, Kerrang: Inside The World Of Extreme Metal Logos. https://www.kerrang.com/features/inside-the-world-of-extreme-metal-logos, 2018.
+##### [14] S. (unknown). The Progressive Subway. Interview: Psalmtanic. http://theprogressivesubway.com/2020/04/13/interview-psalmtanic, 2020.
+##### [15] T. Neilson. Where Myth and Metal Collide: Finnish Folk Metal. In S.A. Wilson, ed. *Music at the Extremes: Essays on Sounds Outside the Mainstream*, p. 136, 2015. 
+##### [16] D. Patterson. Marduk: Sweden Part I. Black Metal: Evolution of the Cult, p. 331-341, 2013.
+##### [17] Holdeneye. Oxygen Destroyer - Sinister Monstrosities Spawned by the Unfathomable Ignorance of Humankind Review. https://www.angrymetalguy.com/oxygen-destroyer-sinister-monstrosities-spawned-by-the-unfathomable-ignorance-of-humankind-review, 2021.
+##### [18] W. Irwin, *Black Sabbath and Philosophy: Mastering Reality*, p. 79, 2012.
+
+---
+
 <a name="quiz"></a> 
 # Metal Quiz
 In this guide I have tried to cover a broad range of genres of microgenres that are part of the mainstay of the extreme metal pantheon and that have distinct visual aesthetics. It just so happens that some bands make up their own genres because they either feel that the genre labels are too broad or too limited to say something about their music, or because they feel that they are genuinely breaking new ground, or because just because.
@@ -2693,154 +2840,6 @@ Order of Ennead
 
 
 Take me back to the [top](#top)
-
-
-
-
-
-
-
-<!--
-
-
-Goth Crust
-
-Greek Presbyterian Metal
-Recursive Induction Metal
-
-sikhism
-neopaganism
-confucianism
-agnosticism
-oceanian
-atlantean
-egoist anarchism
-illegalism
-collectivist
-green anarchism
-insurrectionary
-makhaevism
-Post-Left Anarchist 
-Black Anarchist Metal
-Jewish Anarchist
-Left-Wing Market Anarchist
-Settler Colonialist
-Transnational Authoritarian 
-Third Positional 
-
-
-
-It's false.
-No way.
-It's totally made up.
-It's a made-up genre.
-It's a total fabrication.
-Not a chance.
-
-This one exists.
-You are correct, it's fact.
-Yes. It is. 
-You're right, it's fact.
-Yes. A band does exists.
-You're right.
-Our research found a published report of a similar story.
-You're right again.
-
-
-
-
-
-
-<details> It's false.
-	<summary> (<i>Real or fiction?</i>)</summary>
-</details>
-<br/>
-
-<details> No way.
-	<summary> (<i>Real or fiction?</i>)</summary>
-</details>
-<br/>
-
-<details> It's totally made up.
-	<summary> (<i>Real or fiction?</i>)</summary>
-</details>
-<br/>
-
-
-
-<details> It's a made-up genre.
-	<summary> (<i>Real or fiction?</i>)</summary>
-</details>
-<br/>
-
-<details> It's a total fabrication.
-	<summary> (<i>Real or fiction?</i>)</summary>
-</details>
-<br/>
-
-<details> Not a chance.
-	<summary> (<i>Real or fiction?</i>)</summary>
-</details>
-<br/>
-
-
-
-This one exists.
-You are correct, it's fact.
-Yes. It is. 
-You're right, it's fact.
-Yes. A band does exists.
-You're right.
-Our research found a published report of a similar story.
-You're right again.
-
-	<li>Gut
-	<ul>
-	<li><a href="https://www.metal-archives.com/bands/Gut/3540462038" target="_blank" rel="noopener"><span>Band information</span></a></li>
-	<li><a href="https://www.youtube.com/watch?v=SkChITtBcWY" target="_blank" rel="noopener"><span>Youtube</span></a></li>
-	</ul>
-	</li>
-
-	<li>Rompeprop
-	<ul>
-	<li><a href="https://www.last.fm/music/Rompeprop/+wiki" target="_blank" rel="noopener"><span>Band information</span></a></li>
-	<li><a href="https://www.youtube.com/watch?v=JjzMo49vDlsc" target="_blank" rel="noopener"><span>Youtube</span></a></li>
-	</ul>
-	</li>
-
-	<li>Spasm
-	<ul>
-	<li>
-	</ul>
-	</li>
--->
----
-
-<a name="references"></a> 
-# References
-
-*I'm not really in the know with rules concerning footnotes, bibliography, etc., so bear with me. These will be checked later by the professionals.*
-
-##### [1] E. Nielson. Paragraph on Metal on Trial. *Rap on Trial: Race, Lyrics, and Guilt in America*, p. 89, 2019; M. Phillipov. *Death Metal and Music Criticism: Analysis at the Limits*, p. 55, 2012.
-##### [2] C. Harison. "Won't Get Fooled Again": The Atlantic Generation Comes of Age. *Feedback: The Who and their Generation*, pp. 156-57. 
-##### [3] S. Poole. Retro Rock and Heavy History. *Global Metal Music and Culture: Current Directions in Metal Studies*, pp. 302-303; M. Heatley. *The Virgin Encyclopedia of Rock: The World's Most Comprehensive Illustrated Rock Reference*, 122, 1996. 
-##### [4] J. Sturman(?) Heavy Metal: Visual Style and Iconography. J. Sturman, ed. *The SAGE International Encyclopedia of Music and Culture*; W. Philips and B. Cogan. Studs. *Encyclopedia of Heavy Metal Music*, 2009; R. Moore.  Ch. 3: Hell Awaits. *Sells Like Teen Spirit: Music, Youth Culture, and Social Crisis*, pp. 93-94, 2010; K. Grow. Rolling Stone: The Last Word: Judas Priest's Rob Halford on the Joys of Leather and 40 Years of 'Breaking the Law'. https://www.rollingstone.com/music/music-features/rob-halford-judas-priest-last-word-interview-1003838, 2020.
-##### [5] B. Hutcherson and R. Haenfler. Musical Genre as a Gendered Process: Authenticity in Extreme Metal. In N.K. Denzin, ed. *Studies in Symbolic Interaction*, p. 116, 2010.
-##### [6] L. Stinson. Wired: The Beauty and Total Illegibility of Extreme Metal Logos. https://www.wired.com/2015/10/the-beauty-and-total-illegibility-of-extreme-metal-logos, 2015.
-##### [7] D. Lombardo. Loudwire: Dave Lombardo - Wikipedia: Fact or Fiction? https://www.youtube.com/watch?v=LKppPspVNDs, 2015.
-##### [8] M. Phillipov. Ch. 6: The Pleasures of Horror. *Death Metal and Music Criticism: Analysis at the Limits*, p. 100, 2012. Here, the author cites N.J. Purcell. *Death Metal Music: The Passion and Politics of a Subculture*, pp. 172, 185, 2003; M. Dickstein. The Aesthetics of Fright. In B.K. Grant, ed. *Plans of Reason: Essays on the Horror Film*, 1984; and K.F.B. Fletcher and O. Umurhan, ed. Introduction: Where Metal and Classics Meet. *Classical Antiquity in Heavy Metal*, (2020).
-##### [9] M. Unger. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, p. 20, 2016. [?]
-##### [10] M. Unger. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, p. 24, 2016; A. O'Neill. *A History of Heavy Metal*, 2017 (Chapter 5 on The First Wave of Black Metal).
-##### [11] D. Peterson. *Black Metal: Evolution of the Cult*, p. 152, 2013.
-##### [12] B. Hutcherson and R. Haenfler. Musical Genre as a Gendered Process: Authenticity in Extreme Metal. In N.K. Denzin, ed. *Studies in Symbolic Interaction*, p. 116, 2015.
-##### [13] L. Stinson, Wired: The Beauty and Total Illegibility of Extreme Metal Logos. https://www.wired.com/2015/10/the-beauty-and-total-illegibility-of-extreme-metal-logos, 2015; and M. Rampton, Kerrang: Inside The World Of Extreme Metal Logos. https://www.kerrang.com/features/inside-the-world-of-extreme-metal-logos, 2018.
-##### [14] S. (unknown). The Progressive Subway. Interview: Psalmtanic. http://theprogressivesubway.com/2020/04/13/interview-psalmtanic, 2020.
-##### [15] T. Neilson. Where Myth and Metal Collide: Finnish Folk Metal. In S.A. Wilson, ed. *Music at the Extremes: Essays on Sounds Outside the Mainstream*, p. 136, 2015. 
-##### [16] D. Patterson. Marduk: Sweden Part I. Black Metal: Evolution of the Cult, p. 331-341, 2013.
-##### [17] Holdeneye. Oxygen Destroyer - Sinister Monstrosities Spawned by the Unfathomable Ignorance of Humankind Review. https://www.angrymetalguy.com/oxygen-destroyer-sinister-monstrosities-spawned-by-the-unfathomable-ignorance-of-humankind-review, 2021.
-##### [18] W. Irwin, *Black Sabbath and Philosophy: Mastering Reality*, p. 79, 2012.
-
-
 
 
 
