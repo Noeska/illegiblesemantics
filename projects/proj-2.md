@@ -2498,7 +2498,24 @@ Spasm
 </details>
 <br>
 
-(11) **Heretic Witch Metal**
+
+(11) **Goth Crust**
+<details> A friend made it up.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+</details>
+<br>
+
+(12) **Greek Presbyterian Metal**
+<details> Another friend made it up.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+</details>
+<br>
+
+
+
+(13) **Heretic Witch Metal**
 <details> Though now dissolved, there was a band playing this genre.
 <br>
 <summary> (<i>Click to expand</i>)</summary>
@@ -2511,7 +2528,7 @@ Inger Indolia
 <br>
 
 
-(12) **Hypnotic Dodecatonic Black Metal**
+(14) **Hypnotic Dodecatonic Black Metal**
 <details> It's real -- as real as real can be.
 <br>
 <summary> (<i>Click to expand</i>)</summary>
@@ -2523,28 +2540,38 @@ Void Paradigm
 </details>
 <br>
 
-(13) **Imperial Shinto Folk Metal**
+(15) **Imperial Shinto Folk Metal**
 <details> It's fiction.
 <br>
 <summary> (<i>Click to expand</i>)</summary>
 </details>
 <br>
 
-(14) **Industrial Reggae**
+(16) **Industrial Reggae**
 <details> One of my friends came up with this.
 <br>
 <summary> (<i>Click to expand</i>)</summary>
 </details>
 <br>
 
-(15) **Happy Mental Metal**
+(17) **Happy Mental Metal**
 <details> It's a total fabrication.
 <br>
 <summary> (<i>Click to expand</i>)</summary>
 </details>
 <br>
 
-(16) **New Wave of Brutal Hime Metal** 
+(18) **Machiavellian Prog Metal**
+<details> I wish it was but it's not.
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+</details>
+<br>
+
+
+
+
+(19) **New Wave of Brutal Hime Metal** 
 <details> While getting up on genres, I stumbled upon a Japanese band playing this genre. 
 <br>
 <summary> (<i>Click to expand</i>)</summary>
@@ -2557,7 +2584,7 @@ Lujaneeza
 <br>
 
 
-(17) **New Wave of Yiddish Heavy Metal**
+(20) **New Wave of Yiddish Heavy Metal**
 <details> It could be but it's not.
 <br>
 <summary> (<i>Click to expand</i>)</summary>
@@ -2565,7 +2592,7 @@ Lujaneeza
 <br>
 
 
-(18) **Nordic Night Metal**
+(21) **Nordic Night Metal**
 <details> Currently, the number of bands playing in this genre is almost zero, but it does exist. 
 <br>
 <summary> (<i>Click to expand</i>)</summary>
@@ -2577,7 +2604,7 @@ Blazing Eternity
 </details>
 <br>
 
-(19) **Norwegian Coast Metal**
+(22) **Norwegian Coast Metal**
 <details> I have a friend who once played this genre.
 <br>
 <summary> (<i>Click to expand</i>)</summary>
@@ -2589,7 +2616,7 @@ Fjordfader
 </details>
 <br>
 
-(20) **Roman Catholic Black Metal**
+(23) **Roman Catholic Black Metal**
 <details> Oh, it's a thing! 
 <br>
 <summary> (<i>Click to expand</i>)</summary>
@@ -2601,7 +2628,7 @@ Reverorum ib Malacht
 </details>
 <br>
 
-(21) **Parthenopean Epic Black Metal**
+(24) **Parthenopean Epic Black Metal**
 <details> Only in southern Italy. But it exists.
 <br>
 <summary> (<i>Click to expand</i>)</summary>
@@ -2613,7 +2640,7 @@ Scuorn
 </details>
 <br>
 
-(22) **Philosophical Virtuoso Death Metal**
+(25) **Philosophical Virtuoso Death Metal**
 <details> Yes, "Philosophical Virtuoso Death Metal" has been coined as a genre label.
 <br>
 <summary> (<i>Click to expand</i>)</summary>
@@ -2625,32 +2652,36 @@ Order of Ennead
 </details>
 <br>
 
-(23) **Snakepiss Metal**
-<details> It's fake.
-<br>
-<summary> (<i>Click to expand</i>)</summary>
-</details>
-<br>
-
-(24) **Southern Gothic Werewolf Metal**
-<details> Not a chance.
-<br>
-<summary> (<i>Click to expand</i>)</summary>
-</details>
-<br>
-
-(25) **Unicorn Grindcore**
-<details> Two of my unicorn-loving friends came up with this.
+(26) **Recursive Induction Metal**
+<details> It's fake. 
 <br>
 <summary> (<i>Click to expand</i>)</summary>
 </details>
 <br>
 
 
-Goth Crust
-Machiavellian Prog
-Greek Presbyterian Metal
-Recursive Induction Metal
+
+(27) **Snakepiss Metal**
+<details> This one is fake, too. 
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+</details>
+<br>
+
+(28) **Southern Gothic Werewolf Metal**
+<details> Why do you keep hoping? These are all fake!
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+</details>
+<br>
+
+(29) **Unicorn Grindcore**
+<details> Just stop!
+<br>
+<summary> (<i>Click to expand</i>)</summary>
+</details>
+<br>
+
 
 Take me back to the [top](#top)
 
@@ -2661,6 +2692,12 @@ Take me back to the [top](#top)
 
 
 <!--
+
+
+Goth Crust
+
+Greek Presbyterian Metal
+Recursive Induction Metal
 
 sikhism
 neopaganism
