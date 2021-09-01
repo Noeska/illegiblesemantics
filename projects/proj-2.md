@@ -1951,7 +1951,7 @@ Take me back to the [top](#top)
 ---
 
 <a name="post"></a> 
-## Post-Metal
+# Post-Metal
 Judging by its name you'd think bands in this genre have taken things to the Next Level Beyond Metal. In a way, they have. Seeing what these guys and gals are doing -- it's all very ambitious, it's the next level for the Metalhead who wants to be intellectually challenged. While the plebs are still gushing over **Immolation**'s latest simultaneous(!) callous-shredding guitar leads and legato melodic lines and reveling in **Cannibal Corpse**'s lyrics about necrogenic resurrections, Post-Metallers rather choose to set the tastes of the "thinking man," exploring textures and timbre.
 
 If you're not sure what you're listening to is Post-Metal -- wait until the lyrics kick in. What few there are, are typically interspersed with lecture recordings of Jacques Derrida or more often Michel Foucault. 
