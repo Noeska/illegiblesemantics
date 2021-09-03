@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Progressive Metal'
-permalink: /projects/PROGRESSIVEMETAL/
+permalink: /illegiblesemantics/PROGRESSIVEMETAL/
 ---
 
 ![Progressive Metal]({{site.url}}{{site.baseurl}}/assets/img/projects/proj-8/progressive.jpg)
