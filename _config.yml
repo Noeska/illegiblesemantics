@@ -10,3 +10,4 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 title:		   "Illegible Semantics"
 description: "Companion page to alt.vis submission"
 author:      "Gerrit Rijken, Rene Cutura, Frank Heyen, Michael Sedlmeier, Michael Correll, Jason Dykes, Noeska Smit"
+
