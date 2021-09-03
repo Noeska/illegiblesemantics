@@ -4,7 +4,9 @@ title: 'AVANT-GARDE METAL'
 permalink: /illegiblesemantics/AVANTGARDE/
 ---
 
+<!--
 ![Avant-Garde Metal](..\assets\img\projects\proj-8\avant.jpg)
+-->
 
 The term "avant-garde" is often used synonymously with "sophisticated." And, certainly, this label holds true for (most) bands playing in this nebulous genre that comprises a range of different (sub)genres. In fact, it comprises of so many heterogeneous (sub)genres that "Avant-Garde" as a genre label has very little meaning aside from, "These guys and gals *really* know how to play their instruments!"
 
