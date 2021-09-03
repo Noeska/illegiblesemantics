@@ -8,9 +8,13 @@ title: 'Genre Guide'
 
 *Update (Saturday, July 31, 2021): Fixed some typos and placed the hyperlinks in alphabetic order for easier reference.*
 
-<!--
-[<img src="..\assets\img\projects\proj-9\avantgarde.jpg" alt="Avant-Garde Metal" width=140 >](/illegiblesemantics/AVANTGARDE/)
--->
+
+[<img src="..\assets\img\projects\proj-9\avantgarde.jpg" alt="Avant-Garde Metal" width=140 >](/illegiblesemantics/AVANTGARDE/) 
+
+[<img src="..\assets\img\projects\proj-9\progressive.jpg" alt="Progressive Metal" width=140 >](/illegiblesemantics/PROGRESSIVEMETAL/)
+
+[<img src="..\assets\img\projects\proj-9\nintendo.jpg" alt="Nintendocore" width=140 >](/illegiblesemantics/NINTENDOCORE/)
+
 
 ## Introduction
 
