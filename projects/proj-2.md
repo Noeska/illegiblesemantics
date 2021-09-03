@@ -11,7 +11,7 @@ title: 'Genre Guide'
 <!--
 [<img src="..\assets\img\projects\proj-9\avantgarde.jpg" alt="Avant-Garde Metal" width=140 >](/illegiblesemantics/AVANTGARDE/) 
 
-[<img src="..\assets\img\projects\proj-9\progressive.jpg" alt="Progressive Metal" width=140 >](/illegiblesemantics/PROGRESSIVEMETAL/)
+[<img src="..\assets\img\projects\proj-9\progressive.jpg" alt="Progressive Metal" width=140 >](/illegiblesemantics/projects/PROGRESSIVEMETAL/)
 
 [<img src="..\assets\img\projects\proj-9\nintendo.jpg" alt="Nintendocore" width=140 >](/illegiblesemantics/NINTENDOCORE/)
 -->
