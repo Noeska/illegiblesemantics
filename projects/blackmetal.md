@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Black Metal'
-permalink: /illegiblesemantics/BLACKMETAL/
+permalink: illegiblesemantics/BLACKMETAL/
 ---
 Black Metal as we know it now is one of the more extreme subgenres of Heavy Metal music, not just in terms of music but equally in terms of commitment and attitude. It gets its name from the 1982 album *Black Metal* by the NWOBHM band **Venom**. But as a genre it owes its inception and its collective debt to two distinct successive waves of bands in the mid-1980s and the early-1990s. The first wave consisted of mostly European but also Canadian and Japanese bands (**Bulldozer**, **Blasphemy**, **Sabbat**) who mostly played fast thrashy stuff, while "singing about Satan and demons and all the dark forces" and donning leather, spikes, and bullet belts for stage shows "to create a dark, ominous, evil atmosphere."<sup>10</sup> For them, Black Metal, insofar as they used the term at all, and its Satanic subject matter were just that: a subversive, tongue-in-cheek theme to shock -- not a genre, nor a style. Then came the second wave, which consisted of bands from especially Norway (**Burzum**, **Darkthrone**, **Mayhem**). They took things to a whole new level. For many of them, Black Metal was a distinct genre, one which demanded commitment to a certain sound, but even more so it was also a way of life (to some at least) -- a life of devil worship.<sup>11</sup>
 
