@@ -1,15 +1,13 @@
 ---
 layout: post
-title: 'Avant-Garde'
-permalink: /illegiblesemantics/AVANTGARDE/
+title: 'AVANT-GARDE METAL'
+permalink: /AVANTGARDE/
 ---
-
-![Avant-Garde Metal]({{site.url}}{{site.baseurl}}/assets/img/projects/proj-8/avant.jpg)
-
-
 The term "avant-garde" is often used synonymously with "sophisticated." And, certainly, this label holds true for (most) bands playing in this nebulous genre that comprises a range of different (sub)genres. In fact, it comprises of so many heterogeneous (sub)genres that "Avant-Garde" as a genre label has very little meaning aside from, "These guys and gals *really* know how to play their instruments!"
 
 Funnily enough however, whilst Avant-Garde bands most likely, definitely, absolutely display technical virtuosity, they tend to have the least inspired, let alone sophisticated, logos. More than often they have **plain wordmarks**. Even more damning is that they seemingly always have an inexplicable preference for the **Abaddon type** (or something very close to it). But maybe it just came with their Angelfire website and they decided to stick with it ever since.
+
+![Avant-Garde Metal](..\assets\img\projects\proj-8\avant.jpg)
 
 ##### Some Avant-Garde Metal bands to check out:
 
@@ -37,6 +35,6 @@ Funnily enough however, whilst Avant-Garde bands most likely, definitely, absolu
 </ul>
 
 ##### Related (sub)genre(s):
-[<img src="http://noeska.github.io/illegiblesemantics/assets/img/projects/proj-8/progressive.jpg" alt="Progressive Metal" width=140 >](/illegiblesemantics/PROGRESSIVEMETAL/)
+[<img src="..\assets\img\projects\proj-9\progressive.jpg" alt="Progressive Metal" width=200 >](/PROGRESSIVEMETAL/)
 
 Take me back to the [sample overview](../projects/proj-8).
