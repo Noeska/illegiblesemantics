@@ -34,6 +34,7 @@ As you can imagine, it can get complicated fairly quickly when you're trying to 
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\florida.jpg" alt="Funeral Doom" width=140 >](https://tundratoucan.github.io/FLORIDADEATH)
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\funeral.jpg" alt="Doom Metal" width=140 >](https://tundratoucan.github.io/DOOMMETAL)
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\folk1.jpg" alt="Folk Metal" width=140 >](https://tundratoucan.github.io/FOLKMETAL)
+[<img src="\illegiblesemantics\assets\img\projects\proj-9\funk.jpg" alt="Funk Metal" width=140 >](https://tundratoucan.github.io/FUNKMETAL)
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\gothic.jpg" alt="Gothic Metal" width=140 >](https://tundratoucan.github.io/GOTHICMETAL)
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\grindcore.jpg" alt="Grindcore" width=140 >](https://tundratoucan.github.io/GRINDCORE)
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\groove.jpg" alt="Groove Metal" width=140 >](https://tundratoucan.github.io/GROOVEMETAL)
