@@ -86,6 +86,8 @@ I owe a special thanks to three in particular who shared their time and expertis
 I also did my own research, obviously, and read a fair number of interesting -- and odd -- articles and chapters about artists, musicians, and others. These are listed.
 
 #### References
+##### Rosenberg, A. Metalsucks: Sunn O))) are Peeved That Someone is Aping Their Aped Logo. https://www.metalsucks.net/2015/03/16/sunn-o-peeved, 2015
+##### Archer-Capuzzo, S. and G. Capuzzo. *Metaldata: A Bibliography of Heavy Metal Resources*, 2021.
 ##### Buchy, A. Camion blanc: Bathory: The Root of Darkness and Evil, 2011.
 ##### Davies, J.K. BandLogoJukeBox: Iron Maiden. https://www.bandlogojukebox.com/blog/2020/11/29/i2-iron-maiden, 2020.
 ##### Dickstein, M. The Aesthetics of Fright. In B.K. Grant, ed. *Plans of Reason: Essays on the Horror Film*, 1984.
@@ -103,6 +105,7 @@ I also did my own research, obviously, and read a fair number of interesting -- 
 ##### Konow, D. *Bang Your Head: The Rise and Fall of Heavy Metal*, 2002.
 ##### Konow, D. LA Weekly: Drummer Gene Hohlan Was Just 18 When He Recorded an '80s Thrash Classic. https://www.laweekly.com/drummer-gene-hoglan-was-just-18-when-he-recorded-an-80s-thrash-classic/, 2017.
 ##### Lombardo, D. Loudwire: Dave Lombardo - Wikipedia: Fact or Fiction? https://www.youtube.com/watch?v=LKppPspVNDs, 2015. 
+##### Lusty, H. Heavy Metal Microgenres. In A.H. Stevens, M.C. O'Donnell, ed. The Microgenre: A Quick Look at Small Culture, 167, 2020.
 ##### Manea, I.-M. Primal Roots: Ancestry and Race in Extreme Music Discourse. In *Proceedings of IAC-SSaH 2015: International Academic Conference on Social Sciences and Humanities in Prague 2015*, 2015.
 ##### Mengerink, M.A. Hitler, the Holocaust, and Heavy Metal Music: Holocaust Memory and Representation in the Heavy Metal Subculture, 1980-Present. In S.T. Horsfall, J.-M. Meij, and M. Probstfield, ed. *Music Sociology: Examining the Role of Music in Social Life*, 2013.
 ##### Miranovic, M. Metal Sound Magazine: Falkenbach: Heathen Pride https://metal-sound.net/falkenbach-heathen-pride, 2005.
