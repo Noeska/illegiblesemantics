@@ -54,7 +54,7 @@ As you can imagine, it can get complicated fairly quickly when you're trying to 
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\postblack.jpg" alt="Post-Black Metal" width=140 >](https://tundratoucan.github.io/POSTBLACK)
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\power.jpg" alt="Power Metal" width=140 >](https://tundratoucan.github.io/POWERMETAL)
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\progressive.jpg" alt="Progressive Metal" width=140 >](https://tundratoucan.github.io/PROGRESSIVEMETAL)
-[<img src="\illegiblesemantics\assets\img\projects\proj-9\rasterized.jpg" alt="Rasterized Death Metal" width=140 >](https://tundratoucan.github.io/projects/RASTERIZEDDEATH)
+[<img src="\illegiblesemantics\assets\img\projects\proj-9\rasterized.jpg" alt="Rasterized Death Metal" width=140 >](https://tundratoucan.github.io/RASTERIZEDDEATH)
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\sludge.jpg" alt="Sludge Metal" width=140 >](https://tundratoucan.github.io/SLUDGEMETAL)
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\psychedelic.jpg" alt="Stoner Metal" width=140 >](https://tundratoucan.github.io/STONERMETAL)
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\speed.jpg" alt="Speed Metal" width=140 >](https://tundratoucan.github.io/SPEEDMETAL)
