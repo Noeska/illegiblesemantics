@@ -14,7 +14,7 @@ In our paper we explore the "design space" of Metal logos; and when we say "Meta
 
 #### Logo Samples
 
-As you can imagine, it can get complicated fairly quickly when you're trying to get a handle on what's what and how things play out visually, concretely, and pratically -- especially if you're not in the know. In order to facilitate understanding, I initially created 30-something logos, and then added a dozen more in the days leading up to the submission deadline, covering a broad range of genres and subgenres of Heavy and Extreme Metal music. Additionally, I've added some tongue-in-cheek commentary to give you some insight into the design process of each of these logos. 
+As you can imagine, it can get complicated fairly quickly when you're trying to get a handle on what's what and how things play out visually, concretely, and pratically -- especially if you're not in the know. In order to facilitate understanding, I (Gerrit) initially created 30-something logos, and then added about 20 more in the days leading up to the submission deadline, covering a broad range of genres and subgenres of Heavy and Extreme Metal music. Additionally, I've added some tongue-in-cheek commentary to give you some insight into the design process of each of these logos. 
 
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\avantgarde.jpg" alt="Avant-Garde Metal" width=140 >](https://tundratoucan.github.io/projects/AVANTGARDE)
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\baythrash.jpg" alt="Bay Area Thrash" width=140 >](https://tundratoucan.github.io/projects/THRASHMETAL3)
@@ -122,7 +122,3 @@ I also did my own research, obviously, and read a fair number of interesting -- 
 ##### Weinstein, D. Ch. 5: Pagan Metal. In D. Weston and A. Bennett, ed. *Pop Pagans: Paganism and Popular Music*, 2013.
 ##### Yandell, S. The Future *Is* What It Used to Be: Medieval Prophecy and Popular Culture. In D.W. Marshall, ed. *Mass Market Medieval: Essays on the Middle Ages in Popular Culture*, 2007.
 ##### (unknown), S. The Progressive Subway: Interview: Psalmtanic. http://theprogressivesubway.com/2020/04/13/interview-psalmtanic, 2020.
-
-
-
--- Gerrit <a href="https://www.tundratoucan.com" target="_blank" rel="noopener"><span>"Tundra Toucan"</span></a> Rijken
