@@ -5,7 +5,7 @@ title: 'MetalVis Tool'
 
 If you're already familiar with the what and how of the MetalVis Tool, go wild and interactively explore thousands of actual band logos <a href="https://renecutura.eu/metalvis" target="_blank" rel="noopener"><span>**here**</span></a>! 
 
-If you're not, Gerrit will try to explain and walk you through.
+If you're not, Rijken will try to explain and walk you through in the following.
 
 ##### Let's skip the whole "What Is It?" part and take me straight to ...
 - [How Can I Use It?](#what)

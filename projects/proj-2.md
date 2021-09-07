@@ -1,21 +1,9 @@
 ---
 layout: post
-title: 'Genre Guide'
+title: 'Logo Samples'
 ---
-<!-- Here you can see samples of logo designs covering a broad range of metal genres and extreme subgenres with some tongue-in-cheek commentary by Gerrit Rijken. -->
 
-> ##### Update (Tuesday, September 7, 2021): Added five (micro)genres: Blackened Crust, Crossover Thrash, Deathcore, Drone Metal, and Funk Metal, and added some additional writing.
-> ##### Update (Monday, September 6, 2021): Added some new content as well as additional footnes and references, made some UX improvements.
-> ##### Update (Wednesday, September 1, 2021): Fixed some more typos, added a couple more (micro)genres, added some additional writing.
-> ##### Update (Saturday, July 31, 2021): Fixed some typos and placed the hyperlinks in alphabetic order for easier reference.
-
-## Introduction
-In our paper "Illegible Semantics" we explore the "design space" of Metal logos; and when we say "Metal," we refer to Heavy Metal and its Extreme Metal subgenres -- and the subgenres within those. Each of these has its own visual aesthetics and codes that govern how genre logos can or should look like, generally. Here things can get weirdly specific. For example, bands in a genre often have the same kind of logos, but depending on subgenre, bands may have a different kind of logo, and a logo style can even depend on a given band's locality. 
-
-**Update (Tuesday, September 7, 2021)**: The paper is now available to all readers; you download a PDF version <a href="https://arxiv.org/pdf/2109.01688" target="_blank" rel="noopener"><span>here</span></a>.
-
-#### Logo Samples
-As you can imagine, it can get complicated fairly quickly when you're trying to get a handle on what's what and how things play out visually, concretely, and pratically -- especially if you're not in the know. In order to facilitate understanding, I (Gerrit) initially created 30-something logos, and then added about 20 more in the days leading up to the submission deadline, covering a broad range of genres and subgenres of Heavy and Extreme Metal music. Additionally, I've added some tongue-in-cheek commentary to give you some insight into the design process of each of these logos. 
+Here you can find samples of logo designs covering a broad range of Heavy and Extreme Metal (sub)genres designed by <a href="http://www.tundratoucan.com/" target="_blank" rel="noopener">Gerrit Rijken</a>. Interested readers can find further information about specific genres by clicking on the sample logos. This takes you to an extensive genre guide with tongue-in-cheek commentary by the designer. Says Rijken: "As you can imagine, it can get complicated fairly quickly when you're trying to get a handle on what's what and how things play out visually, concretely, and pratically -- especially if you're not in the know. In order to facilitate understanding, I initially created 30-something logos, and then added about 20 more in the days leading up to the submission deadline, covering a broad range of genres and subgenres of Heavy and Extreme Metal music.". 
 
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\avantgarde.jpg" alt="Avant-Garde Metal" width=140 >](https://tundratoucan.github.io/AVANTGARDE)
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\baythrash.jpg" alt="Bay Area Thrash" width=140 >](https://tundratoucan.github.io/THRASHMETAL3)
@@ -35,7 +23,6 @@ As you can imagine, it can get complicated fairly quickly when you're trying to 
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\deathgrind2.jpg" alt="Deathgrind" width=140 >](https://tundratoucan.github.io/DEATHGRIND)
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\djent.jpg" alt="Djent" width=140 >](https://tundratoucan.github.io/DJENT)
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\drone.jpg" alt="Drone Metal" width=140 >](https://tundratoucan.github.io/DRONEMETAL)
-[<img src="\illegiblesemantics\assets\img\projects\proj-9\ecumenical.jpg" alt="Ecumenical Metal" width=140 >](https://tundratoucan.github.io/ECUMENICAL)
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\florida.jpg" alt="Florida Death Metal" width=140 >](https://tundratoucan.github.io/FLORIDADEATH)
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\funeral.jpg" alt="Doom Metal" width=140 >](https://tundratoucan.github.io/DOOMMETAL)
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\folk1.jpg" alt="Folk Metal" width=140 >](https://tundratoucan.github.io/FOLKMETAL)
@@ -72,19 +59,15 @@ As you can imagine, it can get complicated fairly quickly when you're trying to 
 
 
 #### Full Disclosure
-With these genre samples I tried to represent as faithfully as possible a broad range of genres, based on my own years of experience in designing Metal logos and studying up on genres that I'm not too familiar with. I then had them checked by several musicians and artists in the Metal scene to confirm style accuracy and coverage. (The list of names can be found in the paper.) In the days leading up to the submission deadline, I decided to add a few more, in part based on the feedback that I got from them, and in part based on what genres I personally felt were missing. These are: Bay Area Thrash, Cute Metal, Djent, Ecumenical Metal, Glam Metal, Groove Metal, Nintendocore, Pirate Metal, Porngrind, Post-Metal, Rasterized Death, Sludge Metal, Symphonic Metal, Unblack Metal, and War Metal. As of yet, some of these have not been checked and validated by the "field experts." But, ultimately, these remain interpretations, anyway.* 
-
-It may well be that you have other ideas on what these logos are supposed to look like. Maybe you don't think my comments are clever or helpful or funny. In that case, drop me a line on Twitter, and tell me what needs improving.
+With these genre samples Rijken tried to represent a broad range of genres as faithfully as possible, based on his own years of experience in designing Metal logos and studying up on genres that he was not too familiar with. The samples were checked by several musicians and artists in the Metal scene to confirm style accuracy and coverage (see our paper for more details). It may well be that you have other ideas on what these logos are supposed to look like. Maybe you do not think Rijken's comments are clever or helpful or funny. In that case, please reach out [through his email](mailto:gerrit.rijken@gmail.com) or by [tweeting in his general direction](https://twitter.com/intent/tweet?text=%40tundratoucan).
 
 <a href="https://open.spotify.com/track/5OcnYiersaDvYTRzRjlQ8g?si=a3b8510576354209" target="_blank" rel="noopener"><span>(End of Disclosure)</span></a>
 
-
-#### Acknowledgements and References
-I'd like to give a shoutout to everyone who helped me write this guide! Your insights and thoughts were much appreciated!
-
-I owe a special thanks to three in particular who shared their time and expertise with me throughout this project and provided me with useful feedback on my guide: Erik <a href="https://www.instagram.com/negakinu/" target="_blank" rel="noopener"><span>Negakinu</span></a>, Marco W., and Melle Gerritsen. 
-
-I also did my own research, obviously, and read a fair number of interesting -- and odd -- articles and chapters about artists, musicians, and others. These are listed.
+#### Changelog
+- **Tuesday, September 7, 2021**: Added five (micro)genres: Blackened Crust, Crossover Thrash, Deathcore, Drone Metal, and Funk Metal, and added some additional writing.
+- **Monday, September 6, 2021**: Added some new content as well as additional footnes and references, made some UX improvements.
+- **Wednesday, September 1, 2021**: Fixed some more typos, added a couple more (micro)genres, added some additional writing.
+- **Saturday, July 31, 2021**: Fixed some typos and placed the hyperlinks in alphabetic order for easier reference.
 
 #### References
 ##### Rosenberg, A. Metalsucks: Sunn O))) are Peeved That Someone is Aping Their Aped Logo. https://www.metalsucks.net/2015/03/16/sunn-o-peeved, 2015

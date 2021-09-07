@@ -22,11 +22,11 @@ projects:
 #-------------------------------
 # Contact Section
 social:
- # - {icon: 'instagram', link: 'https://instagram.com/tundratoucan'}
- # - {icon: 'behance', link: 'https://behance.net/tundratoucan'}
+  - {icon: 'instagram', link: 'https://instagram.com/tundratoucan'}
+  - {icon: 'behance', link: 'https://behance.net/tundratoucan'}
  # - {icon: 'facebook', link: 'https://facebook.com/gerrit.rijken'}
- # - {icon: 'twitter',   link: 'https://twitter.com/tundratoucan'}
- # - {icon: 'envelope',  link: 'mailto:gerrit.rijken@gmail.com'}
+  - {icon: 'twitter',   link: 'https://twitter.com/tundratoucan'}
+  - {icon: 'envelope',  link: 'mailto:gerrit.rijken@gmail.com'}
  
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
