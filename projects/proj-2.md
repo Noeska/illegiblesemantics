@@ -10,11 +10,11 @@ title: 'Genre Guide'
 > ##### Update (Saturday, July 31, 2021): Fixed some typos and placed the hyperlinks in alphabetic order for easier reference.
 
 ## Introduction
+In our paper "Illegible Semantics" we explore the "design space" of Metal logos; and when we say "Metal," we refer to Heavy Metal and its Extreme Metal subgenres -- and the subgenres within those. Each of these has its own visual aesthetics and codes that govern how genre logos can or should look like, generally. Here things can get weirdly specific. For example, bands in a genre often have the same kind of logos, but depending on subgenre, bands may have a different kind of logo, and a logo style can even depend on a given band's locality. 
 
-In our paper we explore the "design space" of Metal logos; and when we say "Metal," we refer to Heavy Metal and its Extreme Metal subgenres -- and the subgenres within those. Each of these has its own visual aesthetics and codes that govern how genre logos can or should look like, generally. Here things can get weirdly specific. For example, bands in a genre often have the same kind of logos, but depending on subgenre, bands may have a different kind of logo, and a logo style can even depend on a given band's locality. 
+**Update (Tuesday, September 7, 2021)**: The paper is now available to all readers; you download a PDF version <a href="https://arxiv.org/pdf/2109.01688" target="_blank" rel="noopener"><span>here</span></a>.
 
 #### Logo Samples
-
 As you can imagine, it can get complicated fairly quickly when you're trying to get a handle on what's what and how things play out visually, concretely, and pratically -- especially if you're not in the know. In order to facilitate understanding, I (Gerrit) initially created 30-something logos, and then added about 20 more in the days leading up to the submission deadline, covering a broad range of genres and subgenres of Heavy and Extreme Metal music. Additionally, I've added some tongue-in-cheek commentary to give you some insight into the design process of each of these logos. 
 
 [<img src="\illegiblesemantics\assets\img\projects\proj-9\avantgarde.jpg" alt="Avant-Garde Metal" width=140 >](https://tundratoucan.github.io/AVANTGARDE)

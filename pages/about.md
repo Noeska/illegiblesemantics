@@ -8,7 +8,9 @@ permalink: /home
 
 # Illegible Semantics
 
-*Welcome to the additional materials companion webpage for the Alt.Vis paper submission "Illegible Semantics: Exploring the Design Space of Metal Logos".* On this page, you will find various materials to accompany our paper. We provide a thorough description of the Dimensions of Doom with illustrative examples, a detailed guide to metal genres with sample logos designed by Gerrit Rijken (a.k.a. <a href="http://www.tundratoucan.com/" target="_blank" rel="noopener"><span>Tundra Toucan</span></a>), and initial survey results.
+*Welcome to the additional materials companion web site for the alt.VIS paper submission "Illegible Semantics: Exploring the Design Space of Metal Logos".* (A PDF version of the paper is available to all readers and can be downloaded <a href="https://arxiv.org/pdf/2109.01688" target="_blank" rel="noopener"><span>here</span></a>.) 
+
+On this page, you will find various materials to accompany our paper. We provide a thorough description of the Dimensions of Doom with illustrative examples, a detailed guide to metal genres with sample logos designed by Gerrit Rijken (a.k.a. <a href="http://www.tundratoucan.com/" target="_blank" rel="noopener"><span>Tundra Toucan</span></a>), and initial survey results.
 
 <!--
 #### Authors
