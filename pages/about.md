@@ -7,14 +7,12 @@ permalink: /home
 <img width=400 src="\illegiblesemantics\assets\img\members\illegiblesemantics.jpg"/>
 
 # Illegible Semantics
-
+*Welcome to the additional materials companion website for the alt.VIS paper submission "Illegible Semantics: Exploring the Design Space of Metal Logos".*
 In our paper "Illegible Semantics" we explore the "design space" of Metal logos; and when we say "Metal," we refer to Heavy Metal and its Extreme Metal subgenres -- and the subgenres within those. Each of these has its own visual aesthetics and codes that govern how genre logos can or should look like, generally. Here things can get weirdly specific. For example, bands in a genre often have the same kind of logos, but depending on subgenre, bands may have a different kind of logo, and a logo style can even depend on a given band's locality. 
 
 The paper is available open access; you can download a PDF version via <a href="https://arxiv.org/pdf/2109.01688" target="_blank" rel="noopener"><span>arXiv</span></a>.
 
-*Welcome to the additional materials companion website for the alt.VIS paper submission "Illegible Semantics: Exploring the Design Space of Metal Logos".* (A PDF version of the paper is available to all readers and can be downloaded <a href="https://arxiv.org/pdf/2109.01688" target="_blank" rel="noopener"><span>here</span></a>.) 
-
-On this page, you will find various materials to accompany our paper. We provide a thorough description of the Dimensions of Doom with illustrative examples, a detailed guide to metal genres with sample logos designed by Gerrit Rijken (a.k.a. <a href="http://www.tundratoucan.com/" target="_blank" rel="noopener"><span>Tundra Toucan</span></a>), and initial survey results.
+On this page, you will find various materials to accompany our paper. We provide a thorough description of the Dimensions of Doom with illustrative examples, a detailed guide to Metal genres with sample logos designed by Gerrit Rijken (a.k.a. <a href="http://www.tundratoucan.com/" target="_blank" rel="noopener"><span>Tundra Toucan</span></a>), and initial survey results.
 
 <!--
 #### Authors
