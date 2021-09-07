@@ -4,10 +4,10 @@ title: 'Genre Guide'
 ---
 <!-- Here you can see samples of logo designs covering a broad range of metal genres and extreme subgenres with some tongue-in-cheek commentary by Gerrit Rijken. -->
 
-##### Update (Tuesday, September 7, 2021): Added five (micro)genres: Blackened Crust, Crossover Thrash, Deathcore, Drone Metal, and Funk Metal, and added some additional writing.
-##### Update (Monday, September 6, 2021): Added some new content as well as additional footnes and references, made some UX improvements.
-##### Update (Wednesday, September 1, 2021): Fixed some more typos, added a couple more (micro)genres, added some additional writing.
-##### Update (Saturday, July 31, 2021): Fixed some typos and placed the hyperlinks in alphabetic order for easier reference.
+> ##### Update (Tuesday, September 7, 2021): Added five (micro)genres: Blackened Crust, Crossover Thrash, Deathcore, Drone Metal, and Funk Metal, and added some additional writing.
+> ##### Update (Monday, September 6, 2021): Added some new content as well as additional footnes and references, made some UX improvements.
+> ##### Update (Wednesday, September 1, 2021): Fixed some more typos, added a couple more (micro)genres, added some additional writing.
+> ##### Update (Saturday, July 31, 2021): Fixed some typos and placed the hyperlinks in alphabetic order for easier reference.
 
 ## Introduction
 
