@@ -12,6 +12,8 @@ In our paper "Illegible Semantics" we explore the "design space" of Metal logos;
 
 The paper is available open access; you can download a PDF version via <a href="https://arxiv.org/pdf/2109.01688" target="_blank" rel="noopener"><span>arXiv</span></a>.
 
+A downloadable press release can be found ![here]("\assets\press\Illegible_Semantics_Press_Release.pdf"). 
+
 On this page, you will find various materials to accompany our paper. We provide a thorough description of the Dimensions of Doom with illustrative examples, a detailed guide to Metal genres with sample logos designed by Gerrit Rijken (a.k.a. <a href="http://www.tundratoucan.com/" target="_blank" rel="noopener"><span>Tundra Toucan</span></a>), and initial survey results.
 
 <!--
