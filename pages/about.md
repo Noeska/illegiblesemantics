@@ -14,6 +14,7 @@ The paper is available open access; you can download a PDF version via <a href="
 
 
 A downloadable press release can be found <a href="\assets\press\Illegible_Semantics_Press_Release.pdf" download>here</a>. 
+
 <!--
 <a id="raw-url" href="raw.githubusercontent.com/noeska/illegiblesemantics/assets/press/Illegible_Semantics_Press_Release.pdf">here</a>.
 -->
