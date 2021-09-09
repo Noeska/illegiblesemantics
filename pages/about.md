@@ -12,8 +12,7 @@ In our paper "Illegible Semantics" we explore the "design space" of Metal logos;
 
 The paper is available open access; you can download a PDF version via <a href="https://arxiv.org/pdf/2109.01688" target="_blank" rel="noopener"><span>arXiv</span></a>.
 
-A downloadable press release can be found <a href="/assets/press/Illegible_Semantics_Press_Release.pdf" target="_blank" rel="noopener"><span>here</span></a>.
-
+A downloadable press release can be found <a href="\illegiblesemantics\assets\press\Illegible_Semantics_Press_Release.pdf" target="_blank" rel="noopener"><span>here</span></a>.
 <!--
 [Download our press release!](/assets/press/Illegible_Semantics_Press_Release.pdf)
 
