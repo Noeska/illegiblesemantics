@@ -10,9 +10,7 @@ permalink: /home
 *Welcome to the additional materials companion website for the alt.VIS paper submission "Illegible Semantics: Exploring the Design Space of Metal Logos".*
 In our paper "Illegible Semantics" we explore the "design space" of Metal logos; and when we say "Metal," we refer to Heavy Metal and its Extreme Metal subgenres -- and the subgenres within those. Each of these has its own visual aesthetics and codes that govern how genre logos can or should look like, generally. Here things can get weirdly specific. For example, bands in a genre often have the same kind of logos, but depending on subgenre, bands may have a different kind of logo, and a logo style can even depend on a given band's locality. 
 
-The paper is available open access; you can download a PDF version via <a href="https://arxiv.org/pdf/2109.01688" target="_blank" rel="noopener"><span>arXiv</span></a>.
-
-A downloadable press release can be found <a href="\illegiblesemantics\assets\press\Illegible_Semantics_Press_Release.pdf" target="_blank" rel="noopener"><span>here</span></a>.
+The paper is available open access; you can download a PDF version via <a href="https://arxiv.org/pdf/2109.01688" target="_blank" rel="noopener"><span>arXiv</span></a>. A downloadable press release  with a summary of our method, results, and links to relevant resources can be found <a href="\illegiblesemantics\assets\press\Illegible_Semantics_Press_Release.pdf" target="_blank" rel="noopener"><span>here</span></a>.
 
 <!--
 [Download our press release!](/assets/press/Illegible_Semantics_Press_Release.pdf)
